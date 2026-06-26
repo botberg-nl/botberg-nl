@@ -19,16 +19,18 @@ const OUT = 'tvgids.json';
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 const CHANNELS = [
-  { site_id: 'npo1', name: 'NPO 1' },
-  { site_id: 'npo2', name: 'NPO 2' },
-  { site_id: 'npo3', name: 'NPO 3' },
-  { site_id: 'rtl4', name: 'RTL 4' },
-  { site_id: 'rtl5', name: 'RTL 5' },
-  { site_id: 'rtl7', name: 'RTL 7' },
-  { site_id: 'rtl8', name: 'RTL 8' },
-  { site_id: 'sbs6', name: 'SBS 6' },
-  { site_id: 'net5', name: 'NET 5' },
+  { site_id: 'npo1',     name: 'NPO 1' },
+  { site_id: 'npo2',     name: 'NPO 2' },
+  { site_id: 'npo3',     name: 'NPO 3' },
+  { site_id: 'rtl4',     name: 'RTL 4' },
+  { site_id: 'rtl5',     name: 'RTL 5' },
+  { site_id: 'rtl7',     name: 'RTL 7' },
+  { site_id: 'rtl8',     name: 'RTL 8' },
+  { site_id: 'sbs6',     name: 'SBS 6' },
+  { site_id: 'net5',     name: 'NET 5' },
   { site_id: 'veronica', name: 'Veronica' },
+  { site_id: 'bbcnews',  name: 'BBC News' },
+  { site_id: 'cnn',      name: 'CNN' },
 ];
 
 async function getHTML(url) {
@@ -47,8 +49,6 @@ async function getHTML(url) {
 }
 
 // Koppel "HH:mm" aan de dag (gisteren/vandaag/morgen) die het dichtst bij nu ligt.
-// Robuust voor een gids die over middernacht loopt; voor het venster van 2 uur
-// rond nu levert dit altijd de juiste absolute datum op.
 function anchor(timeStr, now) {
   const [h, m] = timeStr.split(':').map(Number);
   let best = null;
@@ -64,7 +64,6 @@ function anchor(timeStr, now) {
   return best;
 }
 
-// Haalt alle (titel, starttijd) uit een gidspagina.
 function parseTimes(html) {
   const $ = cheerio.load(html);
   const out = [];
@@ -79,7 +78,6 @@ function parseTimes(html) {
 
 async function fetchChannel(ch, now, tomorrowPath) {
   const raw = [];
-  // Vandaag (zonder datum-pad) en morgen (met datum-pad) voor dekking rond middernacht.
   const urls = [
     `https://www.tvgids.nl/gids/${ch.site_id}`,
     `https://www.tvgids.nl/gids/${tomorrowPath}/${ch.site_id}`,
@@ -93,7 +91,6 @@ async function fetchChannel(ch, now, tomorrowPath) {
     }
   }
 
-  // Anker elke tijd op de dichtstbijzijnde dag, ontdubbel en sorteer.
   const seen = new Set();
   const progs = [];
   for (const { title, time } of raw) {
@@ -107,7 +104,8 @@ async function fetchChannel(ch, now, tomorrowPath) {
   for (let i = 0; i < progs.length; i++) {
     progs[i].stop = progs[i + 1] ? progs[i + 1].start : progs[i].start.add(30, 'minute');
   }
-  return progs;
+  // Verwijder programma's met een duur van 0 minuten.
+  return progs.filter(p => p.stop.valueOf() > p.start.valueOf());
 }
 
 async function main() {
@@ -125,7 +123,6 @@ async function main() {
     } catch (e) {
       console.warn(`${ch.name}: ${e.message}`);
     }
-    // Houd programma's die nog lopen of binnen 2 uur beginnen.
     const kept = progs.filter(p => p.stop.isAfter(now) && p.start.isBefore(windowEnd));
     channels[ch.name] = kept.map(p => ({
       title: p.title,
