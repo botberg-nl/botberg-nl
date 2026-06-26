@@ -68,30 +68,24 @@ function parseDay(html, dateBase) {
   return progs;
 }
 
-// Tijdelijke diagnose: laat zien wat tvgids.nl teruggeeft.
 async function diagnose() {
   const url = 'https://www.tvgids.nl/gids/npo1';
   try {
     const html = await getHTML(url);
     const $ = cheerio.load(html);
     console.log('--- DIAGNOSE ---');
-    console.log('URL:', url);
-    console.log('HTML lengte:', html.length);
-    console.log('title-tag:', $('title').text().trim().slice(0, 120));
     console.log('.guide__guide .program count:', $('.guide__guide .program').length);
-    console.log('.program count:', $('.program').length);
-    console.log('bevat "program__title":', html.includes('program__title'));
-    console.log('bevat "consent"/"cookie":', /consent|cookie|toestemming/i.test(html));
-    console.log('bevat "__NEXT_DATA__":', html.includes('__NEXT_DATA__'));
-    // Welke class-namen lijken op programma's?
-    const classes = new Set();
-    $('[class]').each((i, el) => {
-      String($(el).attr('class')).split(/\s+/).forEach(c => {
-        if (/program|gids|guide|broadcast|listing/i.test(c)) classes.add(c);
-      });
+    const items = $('.guide__guide .program').toArray().slice(0, 6);
+    items.forEach((el, i) => {
+      const $el = $(el);
+      const title = $el.find('.program__title').text().trim();
+      const startFull = $el.find('.program__starttime').text().trim();
+      const startClean = $el.find('.program__starttime').clone().children().remove().end().text().trim();
+      const cls = $el.attr('class');
+      console.log(`#${i} class="${cls}" | titel="${title}" | start.full="${startFull}" | start.clean="${startClean}"`);
     });
-    console.log('relevante classes:', [...classes].slice(0, 40).join(', '));
-    console.log('snippet:', html.slice(0, 600).replace(/\s+/g, ' '));
+    const now = dayjs().tz(TZ);
+    console.log('now:', now.format(), '| windowEnd:', now.add(2, 'hour').format());
     console.log('--- EINDE DIAGNOSE ---');
   } catch (e) {
     console.log('DIAGNOSE faalde:', e.message);
