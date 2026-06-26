@@ -60,7 +60,7 @@
     .chart-wrap { position: relative; height: 240px; }
 
     .loading { color: #aaa; font-size: .95rem; padding: 40px 0; text-align: center; }
-    .error { color: #e00; font-size: .9rem; padding: 24px 0; text-align: center; }
+    .error { color: #c0392b; font-size: .9rem; padding: 24px 0; text-align: center; }
     .hidden { display: none; }
 
     .map-card { overflow: hidden; margin-bottom: 28px; }
@@ -69,6 +69,18 @@
     .photo-card { overflow: hidden; }
     .photo-card img { width: 100%; display: block; max-height: 500px; object-fit: cover; }
     .photo-caption { padding: 12px 20px; font-size: .85rem; color: #555; font-style: italic; border-top: 1px solid #eee; }
+
+    /* TV-gids */
+    .tv-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 18px; }
+    .tv-channel { padding: 18px 20px; }
+    .tv-channel h3 { font-size: 1.05rem; font-weight: 900; color: #00aeef; margin-bottom: 12px; }
+    .tv-prog { display: flex; gap: 12px; padding: 8px 0; border-top: 1px solid #f1f3f5; font-size: .88rem; }
+    .tv-prog:first-of-type { border-top: none; }
+    .tv-time { color: #888; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .tv-title { color: #222; }
+    .tv-now { background: #eef9fe; margin: 0 -20px; padding-left: 20px; padding-right: 20px; border-radius: 4px; }
+    .tv-now .tv-time { color: #00aeef; font-weight: 700; }
+    .tv-empty { color: #aaa; font-size: .85rem; }
 
     footer { margin-top: 48px; border-top: 1px solid #ddd; padding: 20px 40px; font-size: .8rem; color: #999; text-align: center; }
     footer a { color: #00aeef; text-decoration: none; }
@@ -183,10 +195,16 @@
       <img src="WhatsApp%20Image%202026-06-26%20at%2014.16.41.jpeg" alt="Bas in waterbak bij 40 graden" />
       <div class="photo-caption">Bas in waterbak bij 40 graden</div>
     </div>
+
+    <!-- TV-gids -->
+    <div class="section-head" style="margin-top:44px;"><div class="section-title">TV — komende 2 uur</div></div>
+    <div id="tv-loading" class="loading">TV-gids laden...</div>
+    <div id="tv-error" class="error hidden"></div>
+    <div id="tv-grid" class="tv-grid"></div>
   </main>
 
   <footer>
-    &copy; <a href="https://botberg.eu">BotBerg</a> · Weerdata via <a href="https://open-meteo.com">Open-Meteo</a> · Kaart via <a href="https://openstreetmap.org">OpenStreetMap</a>
+    &copy; <a href="https://botberg.eu">BotBerg</a> · Weerdata via <a href="https://open-meteo.com">Open-Meteo</a> · Kaart via <a href="https://openstreetmap.org">OpenStreetMap</a> · TV-gids via <a href="https://www.tvgids.nl">tvgids.nl</a>
   </footer>
 
   <script>
@@ -269,8 +287,51 @@
       document.getElementById('updated').textContent = `Bijgewerkt om ${new Date().toLocaleTimeString('nl-NL',{hour:'2-digit',minute:'2-digit'})}`;
     }
 
+    // --- TV-gids (leest tvgids.json, automatisch bijgewerkt door GitHub Action) ---
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    async function loadTV() {
+      const loading=document.getElementById('tv-loading'), grid=document.getElementById('tv-grid'), err=document.getElementById('tv-error');
+      loading.classList.remove('hidden'); err.classList.add('hidden'); grid.innerHTML='';
+      try {
+        const r = await fetch('tvgids.json?t=' + Date.now());
+        if (!r.ok) throw new Error('Nog geen TV-data beschikbaar — de gids wordt elk half uur automatisch bijgewerkt.');
+        const data = await r.json();
+        const channels = data.channels || {};
+        const names = Object.keys(channels);
+        if (names.length === 0) throw new Error('Geen programma’s gevonden voor de komende 2 uur.');
+        const now = new Date();
+        const fmt = t => new Date(t).toLocaleTimeString('nl-NL', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Amsterdam' });
+        names.forEach(name => {
+          const progs = channels[name] || [];
+          const card = document.createElement('div');
+          card.className = 'card card-accent tv-channel';
+          let html = `<h3>${escapeHtml(name)}</h3>`;
+          if (progs.length === 0) {
+            html += `<div class="tv-empty">Geen gegevens</div>`;
+          } else {
+            progs.forEach(p => {
+              const live = new Date(p.start) <= now && (!p.end || new Date(p.end) > now);
+              html += `<div class="tv-prog${live ? ' tv-now' : ''}"><span class="tv-time">${fmt(p.start)}</span><span class="tv-title">${escapeHtml(p.title)}</span></div>`;
+            });
+          }
+          card.innerHTML = html;
+          grid.appendChild(card);
+        });
+        loading.classList.add('hidden');
+      } catch (e) {
+        loading.classList.add('hidden');
+        err.textContent = e.message;
+        err.classList.remove('hidden');
+      }
+    }
+
     fetchAll();
+    loadTV();
     setInterval(fetchAll, 600000);
+    setInterval(loadTV, 600000);
   </script>
 </body>
 </html>
