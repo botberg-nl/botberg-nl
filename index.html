@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Weer Dashboard - Den Bosch</title>
+  <title>Weer Dashboard</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -11,10 +11,12 @@
       min-height: 100vh;
       background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
       color: #fff;
       padding: 24px;
+      gap: 24px;
     }
     .dashboard {
       background: rgba(255,255,255,0.08);
@@ -47,76 +49,131 @@
     .loading { color:rgba(255,255,255,.5); font-size:1.1rem; padding:40px 0; text-align:center; }
     .error { color:#ff6b6b; font-size:.95rem; padding:20px 0; text-align:center; }
     .hidden { display:none; }
+    .top-bar { display:flex; justify-content:flex-end; width:100%; max-width:900px; }
   </style>
 </head>
 <body>
+  <div class="top-bar">
+    <div id="updated" style="font-size:.8rem;color:rgba(255,255,255,.4);margin-right:12px;align-self:center;"></div>
+    <button class="refresh-btn" onclick="fetchAll()">Vernieuwen</button>
+  </div>
+
+  <!-- Den Bosch -->
   <div class="dashboard">
     <div class="header">
       <div class="header-left">
         <div class="location">Huidig weer</div>
         <div class="city">'s-Hertogenbosch</div>
       </div>
-      <div class="header-right">
-        <div class="updated" id="updated"></div>
-        <button class="refresh-btn" onclick="fetchWeather()">Vernieuwen</button>
-      </div>
     </div>
-    <div id="loading" class="loading">Gegevens ophalen...</div>
-    <div id="error" class="error hidden"></div>
-    <div id="content" class="hidden">
+    <div id="loading-1" class="loading">Gegevens ophalen...</div>
+    <div id="error-1" class="error hidden"></div>
+    <div id="content-1" class="hidden">
       <div class="main">
         <div class="main-left">
-          <div class="weather-icon" id="icon"></div>
-          <div class="temperature"><span id="temp">--</span><sup>°C</sup></div>
-          <div class="condition" id="condition"></div>
+          <div class="weather-icon" id="icon-1"></div>
+          <div class="temperature"><span id="temp-1">--</span><sup>°C</sup></div>
+          <div class="condition" id="condition-1"></div>
         </div>
         <div class="details">
           <div class="detail-card">
             <div class="detail-label">Gevoelstemperatuur</div>
-            <div class="detail-value"><span id="feels-like">--</span><span class="detail-unit"> °C</span></div>
+            <div class="detail-value"><span id="feels-like-1">--</span><span class="detail-unit"> °C</span></div>
           </div>
           <div class="detail-card">
             <div class="detail-label">Luchtvochtigheid</div>
-            <div class="detail-value"><span id="humidity">--</span><span class="detail-unit"> %</span></div>
+            <div class="detail-value"><span id="humidity-1">--</span><span class="detail-unit"> %</span></div>
           </div>
           <div class="detail-card">
             <div class="detail-label">Windsnelheid</div>
-            <div class="detail-value"><span id="wind">--</span><span class="detail-unit"> km/u</span></div>
+            <div class="detail-value"><span id="wind-1">--</span><span class="detail-unit"> km/u</span></div>
           </div>
           <div class="detail-card">
             <div class="detail-label">Neerslag</div>
-            <div class="detail-value"><span id="rain">--</span><span class="detail-unit"> mm</span></div>
+            <div class="detail-value"><span id="rain-1">--</span><span class="detail-unit"> mm</span></div>
           </div>
         </div>
       </div>
     </div>
   </div>
+
+  <!-- Berg en Dal -->
+  <div class="dashboard">
+    <div class="header">
+      <div class="header-left">
+        <div class="location">Huidig weer</div>
+        <div class="city">Berg en Dal</div>
+      </div>
+    </div>
+    <div id="loading-2" class="loading">Gegevens ophalen...</div>
+    <div id="error-2" class="error hidden"></div>
+    <div id="content-2" class="hidden">
+      <div class="main">
+        <div class="main-left">
+          <div class="weather-icon" id="icon-2"></div>
+          <div class="temperature"><span id="temp-2">--</span><sup>°C</sup></div>
+          <div class="condition" id="condition-2"></div>
+        </div>
+        <div class="details">
+          <div class="detail-card">
+            <div class="detail-label">Gevoelstemperatuur</div>
+            <div class="detail-value"><span id="feels-like-2">--</span><span class="detail-unit"> °C</span></div>
+          </div>
+          <div class="detail-card">
+            <div class="detail-label">Luchtvochtigheid</div>
+            <div class="detail-value"><span id="humidity-2">--</span><span class="detail-unit"> %</span></div>
+          </div>
+          <div class="detail-card">
+            <div class="detail-label">Windsnelheid</div>
+            <div class="detail-value"><span id="wind-2">--</span><span class="detail-unit"> km/u</span></div>
+          </div>
+          <div class="detail-card">
+            <div class="detail-label">Neerslag</div>
+            <div class="detail-value"><span id="rain-2">--</span><span class="detail-unit"> mm</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script>
-    const LAT = 51.6978, LON = 5.3037;
+    const LOCATIONS = [
+      { id: 1, lat: 51.6978, lon: 5.3037 },
+      { id: 2, lat: 51.8167, lon: 5.9167 },
+    ];
+
     const WMO = {0:{l:'Helder',i:'☀️'},1:{l:'Overwegend helder',i:'🌤️'},2:{l:'Gedeeltelijk bewolkt',i:'⛅'},3:{l:'Bewolkt',i:'☁️'},45:{l:'Mist',i:'🌫️'},48:{l:'IJsmist',i:'🌫️'},51:{l:'Lichte motregen',i:'🌦️'},53:{l:'Motregen',i:'🌦️'},55:{l:'Zware motregen',i:'🌧️'},61:{l:'Lichte regen',i:'🌧️'},63:{l:'Regen',i:'🌧️'},65:{l:'Zware regen',i:'🌧️'},71:{l:'Lichte sneeuw',i:'🌨️'},73:{l:'Sneeuw',i:'❄️'},75:{l:'Zware sneeuw',i:'❄️'},80:{l:'Lichte buien',i:'🌦️'},81:{l:'Buien',i:'🌧️'},82:{l:'Zware buien',i:'⛈️'},95:{l:'Onweer',i:'⛈️'},96:{l:'Onweer met hagel',i:'⛈️'},99:{l:'Zwaar onweer met hagel',i:'⛈️'}};
-    async function fetchWeather() {
-      const loading=document.getElementById('loading'),content=document.getElementById('content'),err=document.getElementById('error');
+
+    async function fetchLocation({id, lat, lon}) {
+      const loading = document.getElementById(`loading-${id}`);
+      const content = document.getElementById(`content-${id}`);
+      const err = document.getElementById(`error-${id}`);
       loading.classList.remove('hidden'); content.classList.add('hidden'); err.classList.add('hidden');
       try {
-        const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&current=temperature_2m,apparent_temperature,relative_humidity_2m,precipitation,wind_speed_10m,weather_code&wind_speed_unit=kmh&timezone=Europe%2FAmsterdam`);
+        const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,relative_humidity_2m,precipitation,wind_speed_10m,weather_code&wind_speed_unit=kmh&timezone=Europe%2FAmsterdam`);
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         const {current:c} = await r.json();
         const w = WMO[c.weather_code] ?? {l:'Onbekend',i:'🌡️'};
-        document.getElementById('icon').textContent = w.i;
-        document.getElementById('temp').textContent = Math.round(c.temperature_2m);
-        document.getElementById('condition').textContent = w.l;
-        document.getElementById('feels-like').textContent = Math.round(c.apparent_temperature);
-        document.getElementById('humidity').textContent = c.relative_humidity_2m;
-        document.getElementById('wind').textContent = Math.round(c.wind_speed_10m);
-        document.getElementById('rain').textContent = c.precipitation.toFixed(1);
-        document.getElementById('updated').textContent = `Bijgewerkt om ${new Date().toLocaleTimeString('nl-NL',{hour:'2-digit',minute:'2-digit'})}`;
+        document.getElementById(`icon-${id}`).textContent = w.i;
+        document.getElementById(`temp-${id}`).textContent = Math.round(c.temperature_2m);
+        document.getElementById(`condition-${id}`).textContent = w.l;
+        document.getElementById(`feels-like-${id}`).textContent = Math.round(c.apparent_temperature);
+        document.getElementById(`humidity-${id}`).textContent = c.relative_humidity_2m;
+        document.getElementById(`wind-${id}`).textContent = Math.round(c.wind_speed_10m);
+        document.getElementById(`rain-${id}`).textContent = c.precipitation.toFixed(1);
         loading.classList.add('hidden'); content.classList.remove('hidden');
       } catch(e) {
         loading.classList.add('hidden'); err.textContent=`Fout: ${e.message}`; err.classList.remove('hidden');
       }
     }
-    fetchWeather();
-    setInterval(fetchWeather, 600000);
+
+    function fetchAll() {
+      LOCATIONS.forEach(fetchLocation);
+      document.getElementById('updated').textContent = `Bijgewerkt om ${new Date().toLocaleTimeString('nl-NL',{hour:'2-digit',minute:'2-digit'})}`;
+    }
+
+    fetchAll();
+    setInterval(fetchAll, 600000);
   </script>
 </body>
 </html>
