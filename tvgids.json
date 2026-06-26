@@ -1,33 +1,8 @@
 {
-  "generated": "2026-06-26T18:57:32.219Z",
+  "generated": "2026-06-26T20:49:02.652Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "WK voetbal: Noorwegen - Frankrijk",
-        "start": "2026-06-26T18:50:00.000Z",
-        "end": "2026-06-26T19:15:00.000Z"
-      },
-      {
-        "title": "WK voetbal: Noorwegen - Frankrijk",
-        "start": "2026-06-26T19:15:00.000Z",
-        "end": "2026-06-26T19:47:00.000Z"
-      },
-      {
-        "title": "WK voetbal: Noorwegen - Frankrijk",
-        "start": "2026-06-26T19:47:00.000Z",
-        "end": "2026-06-26T20:00:00.000Z"
-      },
-      {
-        "title": "WK voetbal: Noorwegen - Frankrijk",
-        "start": "2026-06-26T20:00:00.000Z",
-        "end": "2026-06-26T20:15:00.000Z"
-      },
-      {
-        "title": "WK avond",
-        "start": "2026-06-26T20:15:00.000Z",
-        "end": "2026-06-26T20:25:00.000Z"
-      },
       {
         "title": "WK voetbal: Noorwegen - Frankrijk",
         "start": "2026-06-26T20:25:00.000Z",
@@ -37,66 +12,91 @@
         "title": "WK voetbal: Kroatië - Ghana",
         "start": "2026-06-26T20:50:00.000Z",
         "end": "2026-06-26T21:10:00.000Z"
+      },
+      {
+        "title": "WK avond",
+        "start": "2026-06-26T21:10:00.000Z",
+        "end": "2026-06-26T21:15:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Kroatië - Ghana",
+        "start": "2026-06-26T21:15:00.000Z",
+        "end": "2026-06-26T21:30:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Curaçao - Ivoorkust",
+        "start": "2026-06-26T21:30:00.000Z",
+        "end": "2026-06-26T21:40:00.000Z"
+      },
+      {
+        "title": "Floortje naar het einde van de wereld",
+        "start": "2026-06-26T21:40:00.000Z",
+        "end": "2026-06-26T21:50:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Kroatië - Ghana",
+        "start": "2026-06-26T21:50:00.000Z",
+        "end": "2026-06-26T22:00:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Kroatië - Ghana",
+        "start": "2026-06-26T22:00:00.000Z",
+        "end": "2026-06-26T22:15:00.000Z"
+      },
+      {
+        "title": "WK avond",
+        "start": "2026-06-26T22:15:00.000Z",
+        "end": "2026-06-26T22:30:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Kroatië - Ghana",
+        "start": "2026-06-26T22:30:00.000Z",
+        "end": "2026-06-26T22:40:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-06-26T22:40:00.000Z",
+        "end": "2026-06-26T22:50:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Over leven",
-        "start": "2026-06-26T18:30:00.000Z",
-        "end": "2026-06-26T19:10:00.000Z"
-      },
-      {
-        "title": "Café Kockelmann",
-        "start": "2026-06-26T19:10:00.000Z",
-        "end": "2026-06-26T19:20:00.000Z"
-      },
-      {
-        "title": "Kloostergasten",
-        "start": "2026-06-26T19:20:00.000Z",
-        "end": "2026-06-26T20:00:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-06-26T20:00:00.000Z",
-        "end": "2026-06-26T20:35:00.000Z"
-      },
-      {
-        "title": "Stand van Nederland",
-        "start": "2026-06-26T20:35:00.000Z",
-        "end": "2026-06-26T20:40:00.000Z"
-      },
-      {
         "title": "Etty",
         "start": "2026-06-26T20:40:00.000Z",
         "end": "2026-06-26T21:05:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-06-26T21:05:00.000Z",
+        "end": "2026-06-26T21:20:00.000Z"
+      },
+      {
+        "title": "McDonald & Dodds",
+        "start": "2026-06-26T21:20:00.000Z",
+        "end": "2026-06-26T21:35:00.000Z"
+      },
+      {
+        "title": "De Joodse wereld",
+        "start": "2026-06-26T21:35:00.000Z",
+        "end": "2026-06-26T21:50:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-06-26T21:50:00.000Z",
+        "end": "2026-06-26T22:05:00.000Z"
+      },
+      {
+        "title": "After the flood",
+        "start": "2026-06-26T22:05:00.000Z",
+        "end": "2026-06-26T22:35:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-06-26T22:35:00.000Z",
+        "end": "2026-06-26T22:50:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "WK voetbal: Senegal - Irak\n                                                                            Senegal - Irak 1e helft (1/2)",
-        "start": "2026-06-26T18:50:00.000Z",
-        "end": "2026-06-26T19:15:00.000Z"
-      },
-      {
-        "title": "Beck",
-        "start": "2026-06-26T19:15:00.000Z",
-        "end": "2026-06-26T19:20:00.000Z"
-      },
-      {
-        "title": "WK voetbal: Senegal - Irak\n                                                                            Senegal - Irak 1e helft (2/2)",
-        "start": "2026-06-26T19:20:00.000Z",
-        "end": "2026-06-26T19:55:00.000Z"
-      },
-      {
-        "title": "WK voetbal: Senegal - Irak\n                                                                            Wedstrijdanalyse: Senegal - Irak",
-        "start": "2026-06-26T19:55:00.000Z",
-        "end": "2026-06-26T20:05:00.000Z"
-      },
-      {
-        "title": "WK voetbal: Senegal - Irak\n                                                                            Senegal - Irak 2e helft (1/2)",
-        "start": "2026-06-26T20:05:00.000Z",
-        "end": "2026-06-26T20:30:00.000Z"
-      },
       {
         "title": "WK voetbal: Senegal - Irak\n                                                                            Senegal - Irak 2e helft (2/2)",
         "start": "2026-06-26T20:30:00.000Z",
@@ -106,19 +106,44 @@
         "title": "WK voetbal: Panama - Engeland\n                                                                            Panama - Engeland 1e helft (1/2)",
         "start": "2026-06-26T20:50:00.000Z",
         "end": "2026-06-26T21:05:00.000Z"
+      },
+      {
+        "title": "De slimste mens België",
+        "start": "2026-06-26T21:05:00.000Z",
+        "end": "2026-06-26T21:20:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Panama - Engeland\n                                                                            Panama - Engeland 1e helft (2/2)",
+        "start": "2026-06-26T21:20:00.000Z",
+        "end": "2026-06-26T21:30:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Ecuador - Duitsland\n                                                                            2e helft (2/2)",
+        "start": "2026-06-26T21:30:00.000Z",
+        "end": "2026-06-26T21:56:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Panama - Engeland\n                                                                            Wedstrijdanalyse: Panama - Engeland",
+        "start": "2026-06-26T21:56:00.000Z",
+        "end": "2026-06-26T22:05:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Panama - Engeland\n                                                                            Panama - Engeland 2e helft (1/2)",
+        "start": "2026-06-26T22:05:00.000Z",
+        "end": "2026-06-26T22:20:00.000Z"
+      },
+      {
+        "title": "Reizen Waes: De bucketlist",
+        "start": "2026-06-26T22:20:00.000Z",
+        "end": "2026-06-26T22:30:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Panama - Engeland\n                                                                            Panama - Engeland 2e helft (2/2)",
+        "start": "2026-06-26T22:30:00.000Z",
+        "end": "2026-06-26T22:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Stars on stage",
-        "start": "2026-06-26T18:09:00.000Z",
-        "end": "2026-06-26T19:43:00.000Z"
-      },
-      {
-        "title": "Beste kijkers",
-        "start": "2026-06-26T19:43:00.000Z",
-        "end": "2026-06-26T19:50:00.000Z"
-      },
       {
         "title": "Secret duets",
         "start": "2026-06-26T19:50:00.000Z",
@@ -128,63 +153,118 @@
         "title": "Huizenruilers",
         "start": "2026-06-26T20:57:00.000Z",
         "end": "2026-06-26T21:21:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-06-26T21:21:00.000Z",
+        "end": "2026-06-26T21:31:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-06-26T21:31:00.000Z",
+        "end": "2026-06-26T21:35:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-06-26T21:35:00.000Z",
+        "end": "2026-06-26T21:39:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-06-26T21:39:00.000Z",
+        "end": "2026-06-26T21:47:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-06-26T21:47:00.000Z",
+        "end": "2026-06-26T21:49:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-06-26T21:49:00.000Z",
+        "end": "2026-06-26T21:53:00.000Z"
+      },
+      {
+        "title": "Huizenruilers",
+        "start": "2026-06-26T21:53:00.000Z",
+        "end": "2026-06-26T22:20:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-06-26T22:20:00.000Z",
+        "end": "2026-06-26T22:32:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-06-26T22:32:00.000Z",
+        "end": "2026-06-26T22:41:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-06-26T22:41:00.000Z",
+        "end": "2026-06-26T22:43:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-06-26T22:43:00.000Z",
+        "end": "2026-06-26T22:55:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Over de A4",
-        "start": "2026-06-26T18:28:00.000Z",
-        "end": "2026-06-26T19:55:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-06-26T19:55:00.000Z",
-        "end": "2026-06-26T20:18:00.000Z"
-      },
-      {
-        "title": "112 weer",
-        "start": "2026-06-26T20:18:00.000Z",
-        "end": "2026-06-26T20:30:00.000Z"
-      },
-      {
-        "title": "24 uur in de ER",
-        "start": "2026-06-26T20:30:00.000Z",
-        "end": "2026-06-26T20:34:00.000Z"
-      },
-      {
         "title": "Helden van hier: In de lucht",
         "start": "2026-06-26T20:34:00.000Z",
         "end": "2026-06-26T21:35:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-06-26T21:35:00.000Z",
+        "end": "2026-06-26T21:36:00.000Z"
+      },
+      {
+        "title": "Helden van hier: In de lucht",
+        "start": "2026-06-26T21:36:00.000Z",
+        "end": "2026-06-26T21:58:00.000Z"
+      },
+      {
+        "title": "112 weer",
+        "start": "2026-06-26T21:58:00.000Z",
+        "end": "2026-06-26T21:59:00.000Z"
+      },
+      {
+        "title": "112 weer",
+        "start": "2026-06-26T21:59:00.000Z",
+        "end": "2026-06-26T22:04:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-06-26T22:04:00.000Z",
+        "end": "2026-06-26T22:35:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-06-26T22:35:00.000Z",
+        "end": "2026-06-26T23:10:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Starship Troopers\n                        Sciencefiction",
-        "start": "2026-06-26T18:27:00.000Z",
-        "end": "2026-06-26T20:36:00.000Z"
-      },
-      {
-        "title": "Setup\n                        Actie",
-        "start": "2026-06-26T20:36:00.000Z",
-        "end": "2026-06-26T20:45:00.000Z"
-      },
-      {
         "title": "The Quick and the Dead\n                        Western",
         "start": "2026-06-26T20:45:00.000Z",
         "end": "2026-06-26T21:02:00.000Z"
+      },
+      {
+        "title": "RoboCop\n                        Actie",
+        "start": "2026-06-26T21:02:00.000Z",
+        "end": "2026-06-26T22:15:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-06-26T22:15:00.000Z",
+        "end": "2026-06-26T22:51:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Endeavour Morse",
-        "start": "2026-06-26T18:27:00.000Z",
-        "end": "2026-06-26T19:57:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-06-26T19:57:00.000Z",
-        "end": "2026-06-26T20:26:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-06-26T20:26:00.000Z",
@@ -194,46 +274,76 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-06-26T20:52:00.000Z",
         "end": "2026-06-26T21:22:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-06-26T21:22:00.000Z",
+        "end": "2026-06-26T21:27:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-06-26T21:27:00.000Z",
+        "end": "2026-06-26T21:46:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-06-26T21:46:00.000Z",
+        "end": "2026-06-26T22:11:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-06-26T22:11:00.000Z",
+        "end": "2026-06-26T22:17:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-06-26T22:17:00.000Z",
+        "end": "2026-06-26T22:48:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-06-26T22:48:00.000Z",
+        "end": "2026-06-26T23:12:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "De Oranjezomer",
-        "start": "2026-06-26T18:00:00.000Z",
-        "end": "2026-06-26T19:03:00.000Z"
-      },
-      {
-        "title": "De bondgenoten",
-        "start": "2026-06-26T19:03:00.000Z",
-        "end": "2026-06-26T20:25:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-06-26T20:25:00.000Z",
-        "end": "2026-06-26T20:46:00.000Z"
-      },
-      {
         "title": "Shownieuws",
         "start": "2026-06-26T20:46:00.000Z",
         "end": "2026-06-26T20:58:00.000Z"
+      },
+      {
+        "title": "De Oranjezomer",
+        "start": "2026-06-26T20:58:00.000Z",
+        "end": "2026-06-26T21:25:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-06-26T21:25:00.000Z",
+        "end": "2026-06-26T21:58:00.000Z"
+      },
+      {
+        "title": "Vandaag inside Oranje",
+        "start": "2026-06-26T21:58:00.000Z",
+        "end": "2026-06-26T22:02:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-06-26T22:02:00.000Z",
+        "end": "2026-06-26T22:31:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-06-26T22:31:00.000Z",
+        "end": "2026-06-26T22:34:00.000Z"
+      },
+      {
+        "title": "De Oranjezomer",
+        "start": "2026-06-26T22:34:00.000Z",
+        "end": "2026-06-26T23:07:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "NCIS",
-        "start": "2026-06-26T18:56:00.000Z",
-        "end": "2026-06-26T19:29:00.000Z"
-      },
-      {
-        "title": "Fire country",
-        "start": "2026-06-26T19:29:00.000Z",
-        "end": "2026-06-26T19:53:00.000Z"
-      },
-      {
-        "title": "Soko Wismar",
-        "start": "2026-06-26T19:53:00.000Z",
-        "end": "2026-06-26T20:27:00.000Z"
-      },
       {
         "title": "Chicago fire",
         "start": "2026-06-26T20:27:00.000Z",
@@ -243,19 +353,49 @@
         "title": "Soko Wismar",
         "start": "2026-06-26T20:52:00.000Z",
         "end": "2026-06-26T21:21:00.000Z"
+      },
+      {
+        "title": "Magnum P.I.",
+        "start": "2026-06-26T21:21:00.000Z",
+        "end": "2026-06-26T21:24:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-06-26T21:24:00.000Z",
+        "end": "2026-06-26T21:52:00.000Z"
+      },
+      {
+        "title": "The resident",
+        "start": "2026-06-26T21:52:00.000Z",
+        "end": "2026-06-26T22:10:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin: Pairi Daiza",
+        "start": "2026-06-26T22:10:00.000Z",
+        "end": "2026-06-26T22:12:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin: Pairi Daiza",
+        "start": "2026-06-26T22:12:00.000Z",
+        "end": "2026-06-26T22:38:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin: Pairi Daiza",
+        "start": "2026-06-26T22:38:00.000Z",
+        "end": "2026-06-26T22:48:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin: Pairi Daiza",
+        "start": "2026-06-26T22:48:00.000Z",
+        "end": "2026-06-26T22:49:00.000Z"
+      },
+      {
+        "title": "The resident",
+        "start": "2026-06-26T22:49:00.000Z",
+        "end": "2026-06-26T23:05:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "King Arthur\n                        Actie",
-        "start": "2026-06-26T18:25:00.000Z",
-        "end": "2026-06-26T19:00:00.000Z"
-      },
-      {
-        "title": "Baywatch remastered",
-        "start": "2026-06-26T19:00:00.000Z",
-        "end": "2026-06-26T20:00:00.000Z"
-      },
       {
         "title": "Rescue: HI-surf",
         "start": "2026-06-26T20:00:00.000Z",
@@ -265,29 +405,29 @@
         "title": "Rescue: HI-surf",
         "start": "2026-06-26T20:57:00.000Z",
         "end": "2026-06-26T20:59:00.000Z"
+      },
+      {
+        "title": "Seventh Son\n                        Actie",
+        "start": "2026-06-26T20:59:00.000Z",
+        "end": "2026-06-26T21:09:00.000Z"
+      },
+      {
+        "title": "Michiel de Ruyter\n                        Historisch",
+        "start": "2026-06-26T21:09:00.000Z",
+        "end": "2026-06-26T21:55:00.000Z"
+      },
+      {
+        "title": "911 crisis center",
+        "start": "2026-06-26T21:55:00.000Z",
+        "end": "2026-06-26T22:19:00.000Z"
+      },
+      {
+        "title": "A1: Highway patrol",
+        "start": "2026-06-26T22:19:00.000Z",
+        "end": "2026-06-26T23:01:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The travel show",
-        "start": "2026-06-26T18:55:00.000Z",
-        "end": "2026-06-26T19:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-06-26T19:00:00.000Z",
-        "end": "2026-06-26T19:30:00.000Z"
-      },
-      {
-        "title": "The travel show",
-        "start": "2026-06-26T19:30:00.000Z",
-        "end": "2026-06-26T20:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-06-26T20:00:00.000Z",
-        "end": "2026-06-26T20:30:00.000Z"
-      },
       {
         "title": "The Context with Christian Fraser",
         "start": "2026-06-26T20:30:00.000Z",
@@ -297,23 +437,48 @@
         "title": "The travel show",
         "start": "2026-06-26T20:55:00.000Z",
         "end": "2026-06-26T21:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-26T21:00:00.000Z",
+        "end": "2026-06-26T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-06-26T21:30:00.000Z",
+        "end": "2026-06-26T22:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-26T22:00:00.000Z",
+        "end": "2026-06-26T22:30:00.000Z"
+      },
+      {
+        "title": "Talking Business",
+        "start": "2026-06-26T22:30:00.000Z",
+        "end": "2026-06-26T23:00:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "CNN Newsroom",
-        "start": "2026-06-26T18:00:00.000Z",
-        "end": "2026-06-26T19:00:00.000Z"
-      },
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-06-26T19:00:00.000Z",
-        "end": "2026-06-26T20:00:00.000Z"
-      },
-      {
         "title": "The Arena: Saturday",
         "start": "2026-06-26T20:00:00.000Z",
         "end": "2026-06-26T21:00:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-06-26T21:00:00.000Z",
+        "end": "2026-06-26T21:30:00.000Z"
+      },
+      {
+        "title": "CNN Creators",
+        "start": "2026-06-26T21:30:00.000Z",
+        "end": "2026-06-26T22:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-06-26T22:00:00.000Z",
+        "end": "2026-06-26T23:00:00.000Z"
       }
     ]
   }
