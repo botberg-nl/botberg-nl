@@ -1,13 +1,8 @@
 {
-  "generated": "2026-06-26T14:49:06.782Z",
+  "generated": "2026-06-26T14:57:28.449Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Het mooiste meisje van de klas",
-        "start": "2026-06-26T14:00:00.000Z",
-        "end": "2026-06-26T14:55:00.000Z"
-      },
       {
         "title": "Ode aan onze veteranen",
         "start": "2026-06-26T14:55:00.000Z",
@@ -52,6 +47,11 @@
         "title": "Gesprek met de minister-president",
         "start": "2026-06-26T16:45:00.000Z",
         "end": "2026-06-26T16:55:00.000Z"
+      },
+      {
+        "title": "Floortje naar het einde van de wereld",
+        "start": "2026-06-26T16:55:00.000Z",
+        "end": "2026-06-26T17:05:00.000Z"
       }
     ],
     "NPO 2": [
@@ -63,11 +63,6 @@
       {
         "title": "NOS Journaal",
         "start": "2026-06-26T15:00:00.000Z",
-        "end": "2026-06-26T15:10:00.000Z"
-      },
-      {
-        "title": "MAX geheugentrainer",
-        "start": "2026-06-26T15:10:00.000Z",
         "end": "2026-06-26T15:10:00.000Z"
       },
       {
@@ -96,11 +91,6 @@
         "end": "2026-06-26T16:15:00.000Z"
       },
       {
-        "title": "NOS Journaal met regio",
-        "start": "2026-06-26T16:15:00.000Z",
-        "end": "2026-06-26T16:15:00.000Z"
-      },
-      {
         "title": "Nederland zingt",
         "start": "2026-06-26T16:15:00.000Z",
         "end": "2026-06-26T16:30:00.000Z"
@@ -114,14 +104,14 @@
         "title": "Ik mis je",
         "start": "2026-06-26T16:40:00.000Z",
         "end": "2026-06-26T16:55:00.000Z"
+      },
+      {
+        "title": "Rail away",
+        "start": "2026-06-26T16:55:00.000Z",
+        "end": "2026-06-26T17:10:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Dino Daan & Lucy",
-        "start": "2026-06-26T14:45:00.000Z",
-        "end": "2026-06-26T14:55:00.000Z"
-      },
       {
         "title": "Troublemakers",
         "start": "2026-06-26T14:55:00.000Z",
@@ -143,18 +133,8 @@
         "end": "2026-06-26T15:25:00.000Z"
       },
       {
-        "title": "De dodelijkste 60",
-        "start": "2026-06-26T15:25:00.000Z",
-        "end": "2026-06-26T15:25:00.000Z"
-      },
-      {
         "title": "Checkpoint",
         "start": "2026-06-26T15:25:00.000Z",
-        "end": "2026-06-26T15:55:00.000Z"
-      },
-      {
-        "title": "Checkpoint",
-        "start": "2026-06-26T15:55:00.000Z",
         "end": "2026-06-26T15:55:00.000Z"
       },
       {
@@ -165,11 +145,6 @@
       {
         "title": "De eindmusical",
         "start": "2026-06-26T16:05:00.000Z",
-        "end": "2026-06-26T16:20:00.000Z"
-      },
-      {
-        "title": "Waku waku",
-        "start": "2026-06-26T16:20:00.000Z",
         "end": "2026-06-26T16:20:00.000Z"
       },
       {
@@ -227,11 +202,6 @@
     ],
     "RTL 5": [
       {
-        "title": "Teleshop 5: Telvero",
-        "start": "2026-06-26T13:00:00.000Z",
-        "end": "2026-06-26T14:51:00.000Z"
-      },
-      {
         "title": "Stop! Politie UK",
         "start": "2026-06-26T14:51:00.000Z",
         "end": "2026-06-26T15:16:00.000Z"
@@ -253,11 +223,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Rally special",
-        "start": "2026-06-26T14:29:00.000Z",
-        "end": "2026-06-26T14:57:00.000Z"
-      },
       {
         "title": "Pawn stars",
         "start": "2026-06-26T14:57:00.000Z",
@@ -338,11 +303,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Droomhuis op het platteland",
-        "start": "2026-06-26T13:58:00.000Z",
-        "end": "2026-06-26T14:57:00.000Z"
-      },
-      {
         "title": "Het Oranje café",
         "start": "2026-06-26T14:57:00.000Z",
         "end": "2026-06-26T15:00:00.000Z"
@@ -375,11 +335,6 @@
     ],
     "NET 5": [
       {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-06-26T14:15:00.000Z",
-        "end": "2026-06-26T14:51:00.000Z"
-      },
-      {
         "title": "Een dag in de dierentuin: Pairi Daiza",
         "start": "2026-06-26T14:51:00.000Z",
         "end": "2026-06-26T15:10:00.000Z"
@@ -407,11 +362,6 @@
     ],
     "Veronica": [
       {
-        "title": "The big bang theory",
-        "start": "2026-06-26T16:00:00.000Z",
-        "end": "2026-06-26T16:00:00.000Z"
-      },
-      {
         "title": "Married with children",
         "start": "2026-06-26T16:00:00.000Z",
         "end": "2026-06-26T16:17:00.000Z"
@@ -430,6 +380,60 @@
         "title": "Two and a half men",
         "start": "2026-06-26T16:42:00.000Z",
         "end": "2026-06-26T16:59:00.000Z"
+      }
+    ],
+    "BBC News": [
+      {
+        "title": "The Media Show",
+        "start": "2026-06-26T14:30:00.000Z",
+        "end": "2026-06-26T15:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-26T15:00:00.000Z",
+        "end": "2026-06-26T15:30:00.000Z"
+      },
+      {
+        "title": "Racing on the Edge",
+        "start": "2026-06-26T15:30:00.000Z",
+        "end": "2026-06-26T15:55:00.000Z"
+      },
+      {
+        "title": "The travel show",
+        "start": "2026-06-26T15:55:00.000Z",
+        "end": "2026-06-26T16:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-26T16:00:00.000Z",
+        "end": "2026-06-26T16:30:00.000Z"
+      },
+      {
+        "title": "BBC Focus on Africa",
+        "start": "2026-06-26T16:30:00.000Z",
+        "end": "2026-06-26T17:00:00.000Z"
+      }
+    ],
+    "CNN": [
+      {
+        "title": "Inside Africa",
+        "start": "2026-06-26T14:30:00.000Z",
+        "end": "2026-06-26T15:00:00.000Z"
+      },
+      {
+        "title": "The Amanpour Hour",
+        "start": "2026-06-26T15:00:00.000Z",
+        "end": "2026-06-26T16:00:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-06-26T16:00:00.000Z",
+        "end": "2026-06-26T16:30:00.000Z"
+      },
+      {
+        "title": "Quest's World of Wonder",
+        "start": "2026-06-26T16:30:00.000Z",
+        "end": "2026-06-26T17:00:00.000Z"
       }
     ]
   }
