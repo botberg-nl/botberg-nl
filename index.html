@@ -16,120 +16,129 @@
       justify-content: center;
       color: #fff;
       padding: 24px;
+      gap: 16px;
+    }
+    .top-bar {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      width: 100%;
+      max-width: 1400px;
+      gap: 12px;
+    }
+    .updated { font-size:.8rem; color:rgba(255,255,255,.4); }
+    .refresh-btn { background:rgba(255,255,255,.12); border:1px solid rgba(255,255,255,.2); color:#fff; padding:8px 22px; border-radius:50px; font-size:.85rem; cursor:pointer; transition:background .2s; }
+    .refresh-btn:hover { background:rgba(255,255,255,.22); }
+
+    .cards {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
       gap: 24px;
+      width: 100%;
+      max-width: 1400px;
     }
     .dashboard {
       background: rgba(255,255,255,0.08);
       backdrop-filter: blur(20px);
       border: 1px solid rgba(255,255,255,0.15);
       border-radius: 24px;
-      padding: 40px 48px;
-      width: 100%;
-      max-width: 900px;
+      padding: 32px 36px;
       box-shadow: 0 8px 32px rgba(0,0,0,0.4);
     }
-    .header { display:flex; align-items:center; justify-content:space-between; margin-bottom:40px; }
-    .header-left .location { font-size:1rem; letter-spacing:.15em; text-transform:uppercase; color:rgba(255,255,255,.6); margin-bottom:4px; }
-    .header-left .city { font-size:2rem; font-weight:700; }
-    .header-right { text-align:right; }
-    .updated { font-size:.8rem; color:rgba(255,255,255,.4); margin-bottom:8px; }
-    .refresh-btn { background:rgba(255,255,255,.12); border:1px solid rgba(255,255,255,.2); color:#fff; padding:8px 22px; border-radius:50px; font-size:.85rem; cursor:pointer; transition:background .2s; }
-    .refresh-btn:hover { background:rgba(255,255,255,.22); }
-    .main { display:grid; grid-template-columns:auto 1fr; gap:48px; align-items:center; }
-    .main-left { display:flex; flex-direction:column; align-items:center; gap:8px; }
-    .weather-icon { font-size:6rem; line-height:1; }
-    .temperature { font-size:6rem; font-weight:300; line-height:1; }
-    .temperature sup { font-size:2.2rem; font-weight:400; vertical-align:super; }
-    .condition { font-size:1.1rem; color:rgba(255,255,255,.75); }
-    .details { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
-    .detail-card { background:rgba(255,255,255,.06); border-radius:14px; padding:20px; }
-    .detail-label { font-size:.75rem; letter-spacing:.1em; text-transform:uppercase; color:rgba(255,255,255,.5); margin-bottom:8px; }
-    .detail-value { font-size:1.6rem; font-weight:600; }
-    .detail-unit { font-size:.9rem; font-weight:400; color:rgba(255,255,255,.6); }
-    .loading { color:rgba(255,255,255,.5); font-size:1.1rem; padding:40px 0; text-align:center; }
-    .error { color:#ff6b6b; font-size:.95rem; padding:20px 0; text-align:center; }
+    .city-name { font-size:1.6rem; font-weight:700; margin-bottom:4px; }
+    .location-label { font-size:.8rem; letter-spacing:.15em; text-transform:uppercase; color:rgba(255,255,255,.5); margin-bottom:28px; }
+    .main { display:grid; grid-template-columns:auto 1fr; gap:32px; align-items:center; }
+    .main-left { display:flex; flex-direction:column; align-items:center; gap:6px; }
+    .weather-icon { font-size:4.5rem; line-height:1; }
+    .temperature { font-size:4.5rem; font-weight:300; line-height:1; }
+    .temperature sup { font-size:1.8rem; font-weight:400; vertical-align:super; }
+    .condition { font-size:1rem; color:rgba(255,255,255,.75); text-align:center; }
+    .details { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+    .detail-card { background:rgba(255,255,255,.06); border-radius:12px; padding:14px; }
+    .detail-label { font-size:.7rem; letter-spacing:.1em; text-transform:uppercase; color:rgba(255,255,255,.5); margin-bottom:6px; }
+    .detail-value { font-size:1.4rem; font-weight:600; }
+    .detail-unit { font-size:.8rem; font-weight:400; color:rgba(255,255,255,.6); }
+    .loading { color:rgba(255,255,255,.5); font-size:1rem; padding:30px 0; text-align:center; }
+    .error { color:#ff6b6b; font-size:.9rem; padding:20px 0; text-align:center; }
     .hidden { display:none; }
-    .top-bar { display:flex; justify-content:flex-end; width:100%; max-width:900px; }
+
+    @media (max-width: 768px) {
+      .cards { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 <body>
   <div class="top-bar">
-    <div id="updated" style="font-size:.8rem;color:rgba(255,255,255,.4);margin-right:12px;align-self:center;"></div>
+    <div id="updated" class="updated"></div>
     <button class="refresh-btn" onclick="fetchAll()">Vernieuwen</button>
   </div>
 
-  <!-- Den Bosch -->
-  <div class="dashboard">
-    <div class="header">
-      <div class="header-left">
-        <div class="location">Huidig weer</div>
-        <div class="city">'s-Hertogenbosch</div>
-      </div>
-    </div>
-    <div id="loading-1" class="loading">Gegevens ophalen...</div>
-    <div id="error-1" class="error hidden"></div>
-    <div id="content-1" class="hidden">
-      <div class="main">
-        <div class="main-left">
-          <div class="weather-icon" id="icon-1"></div>
-          <div class="temperature"><span id="temp-1">--</span><sup>°C</sup></div>
-          <div class="condition" id="condition-1"></div>
-        </div>
-        <div class="details">
-          <div class="detail-card">
-            <div class="detail-label">Gevoelstemperatuur</div>
-            <div class="detail-value"><span id="feels-like-1">--</span><span class="detail-unit"> °C</span></div>
+  <div class="cards">
+    <!-- Den Bosch -->
+    <div class="dashboard">
+      <div class="city-name">'s-Hertogenbosch</div>
+      <div class="location-label">Huidig weer</div>
+      <div id="loading-1" class="loading">Gegevens ophalen...</div>
+      <div id="error-1" class="error hidden"></div>
+      <div id="content-1" class="hidden">
+        <div class="main">
+          <div class="main-left">
+            <div class="weather-icon" id="icon-1"></div>
+            <div class="temperature"><span id="temp-1">--</span><sup>°C</sup></div>
+            <div class="condition" id="condition-1"></div>
           </div>
-          <div class="detail-card">
-            <div class="detail-label">Luchtvochtigheid</div>
-            <div class="detail-value"><span id="humidity-1">--</span><span class="detail-unit"> %</span></div>
-          </div>
-          <div class="detail-card">
-            <div class="detail-label">Windsnelheid</div>
-            <div class="detail-value"><span id="wind-1">--</span><span class="detail-unit"> km/u</span></div>
-          </div>
-          <div class="detail-card">
-            <div class="detail-label">Neerslag</div>
-            <div class="detail-value"><span id="rain-1">--</span><span class="detail-unit"> mm</span></div>
+          <div class="details">
+            <div class="detail-card">
+              <div class="detail-label">Gevoelstemperatuur</div>
+              <div class="detail-value"><span id="feels-like-1">--</span><span class="detail-unit"> °C</span></div>
+            </div>
+            <div class="detail-card">
+              <div class="detail-label">Luchtvochtigheid</div>
+              <div class="detail-value"><span id="humidity-1">--</span><span class="detail-unit"> %</span></div>
+            </div>
+            <div class="detail-card">
+              <div class="detail-label">Windsnelheid</div>
+              <div class="detail-value"><span id="wind-1">--</span><span class="detail-unit"> km/u</span></div>
+            </div>
+            <div class="detail-card">
+              <div class="detail-label">Neerslag</div>
+              <div class="detail-value"><span id="rain-1">--</span><span class="detail-unit"> mm</span></div>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <!-- Berg en Dal -->
-  <div class="dashboard">
-    <div class="header">
-      <div class="header-left">
-        <div class="location">Huidig weer</div>
-        <div class="city">Berg en Dal</div>
-      </div>
-    </div>
-    <div id="loading-2" class="loading">Gegevens ophalen...</div>
-    <div id="error-2" class="error hidden"></div>
-    <div id="content-2" class="hidden">
-      <div class="main">
-        <div class="main-left">
-          <div class="weather-icon" id="icon-2"></div>
-          <div class="temperature"><span id="temp-2">--</span><sup>°C</sup></div>
-          <div class="condition" id="condition-2"></div>
-        </div>
-        <div class="details">
-          <div class="detail-card">
-            <div class="detail-label">Gevoelstemperatuur</div>
-            <div class="detail-value"><span id="feels-like-2">--</span><span class="detail-unit"> °C</span></div>
+    <!-- Berg en Dal -->
+    <div class="dashboard">
+      <div class="city-name">Berg en Dal</div>
+      <div class="location-label">Huidig weer</div>
+      <div id="loading-2" class="loading">Gegevens ophalen...</div>
+      <div id="error-2" class="error hidden"></div>
+      <div id="content-2" class="hidden">
+        <div class="main">
+          <div class="main-left">
+            <div class="weather-icon" id="icon-2"></div>
+            <div class="temperature"><span id="temp-2">--</span><sup>°C</sup></div>
+            <div class="condition" id="condition-2"></div>
           </div>
-          <div class="detail-card">
-            <div class="detail-label">Luchtvochtigheid</div>
-            <div class="detail-value"><span id="humidity-2">--</span><span class="detail-unit"> %</span></div>
-          </div>
-          <div class="detail-card">
-            <div class="detail-label">Windsnelheid</div>
-            <div class="detail-value"><span id="wind-2">--</span><span class="detail-unit"> km/u</span></div>
-          </div>
-          <div class="detail-card">
-            <div class="detail-label">Neerslag</div>
-            <div class="detail-value"><span id="rain-2">--</span><span class="detail-unit"> mm</span></div>
+          <div class="details">
+            <div class="detail-card">
+              <div class="detail-label">Gevoelstemperatuur</div>
+              <div class="detail-value"><span id="feels-like-2">--</span><span class="detail-unit"> °C</span></div>
+            </div>
+            <div class="detail-card">
+              <div class="detail-label">Luchtvochtigheid</div>
+              <div class="detail-value"><span id="humidity-2">--</span><span class="detail-unit"> %</span></div>
+            </div>
+            <div class="detail-card">
+              <div class="detail-label">Windsnelheid</div>
+              <div class="detail-value"><span id="wind-2">--</span><span class="detail-unit"> km/u</span></div>
+            </div>
+            <div class="detail-card">
+              <div class="detail-label">Neerslag</div>
+              <div class="detail-value"><span id="rain-2">--</span><span class="detail-unit"> mm</span></div>
+            </div>
           </div>
         </div>
       </div>
@@ -141,13 +150,10 @@
       { id: 1, lat: 51.6978, lon: 5.3037 },
       { id: 2, lat: 51.8167, lon: 5.9167 },
     ];
-
     const WMO = {0:{l:'Helder',i:'☀️'},1:{l:'Overwegend helder',i:'🌤️'},2:{l:'Gedeeltelijk bewolkt',i:'⛅'},3:{l:'Bewolkt',i:'☁️'},45:{l:'Mist',i:'🌫️'},48:{l:'IJsmist',i:'🌫️'},51:{l:'Lichte motregen',i:'🌦️'},53:{l:'Motregen',i:'🌦️'},55:{l:'Zware motregen',i:'🌧️'},61:{l:'Lichte regen',i:'🌧️'},63:{l:'Regen',i:'🌧️'},65:{l:'Zware regen',i:'🌧️'},71:{l:'Lichte sneeuw',i:'🌨️'},73:{l:'Sneeuw',i:'❄️'},75:{l:'Zware sneeuw',i:'❄️'},80:{l:'Lichte buien',i:'🌦️'},81:{l:'Buien',i:'🌧️'},82:{l:'Zware buien',i:'⛈️'},95:{l:'Onweer',i:'⛈️'},96:{l:'Onweer met hagel',i:'⛈️'},99:{l:'Zwaar onweer met hagel',i:'⛈️'}};
 
     async function fetchLocation({id, lat, lon}) {
-      const loading = document.getElementById(`loading-${id}`);
-      const content = document.getElementById(`content-${id}`);
-      const err = document.getElementById(`error-${id}`);
+      const loading=document.getElementById(`loading-${id}`), content=document.getElementById(`content-${id}`), err=document.getElementById(`error-${id}`);
       loading.classList.remove('hidden'); content.classList.add('hidden'); err.classList.add('hidden');
       try {
         const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,relative_humidity_2m,precipitation,wind_speed_10m,weather_code&wind_speed_unit=kmh&timezone=Europe%2FAmsterdam`);
