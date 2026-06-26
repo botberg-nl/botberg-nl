@@ -1,16 +1,18 @@
 // Haalt de Nederlandse TV-gids op door tvgids.nl/gids/{zender} te scrapen
 // (zelfde aanpak als de iptv-org/epg grabber) en schrijft tvgids.json met de
 // programma's voor de komende 2 uur op een set hoofdzenders.
+//
+// Draait server-side in een GitHub Action, dus geen CORS-beperkingen.
+// Bij een fout blijft een bestaand tvgids.json staan (script eindigt met code 1
+// zonder te schrijven), zodat de site nooit zonder data komt te zitten.
 
 const fs = require('fs');
 const cheerio = require('cheerio');
 const dayjs = require('dayjs');
 const utc = require('dayjs/plugin/utc');
 const timezone = require('dayjs/plugin/timezone');
-const customParseFormat = require('dayjs/plugin/customParseFormat');
 dayjs.extend(utc);
 dayjs.extend(timezone);
-dayjs.extend(customParseFormat);
 
 const TZ = 'Europe/Amsterdam';
 const OUT = 'tvgids.json';
@@ -44,80 +46,74 @@ async function getHTML(url) {
   }
 }
 
-function parseDay(html, dateBase) {
-  const $ = cheerio.load(html);
-  const items = $('.guide__guide .program').toArray();
-  const progs = [];
-  let date = dateBase;
-  let prevStart = null;
+// Koppel "HH:mm" aan de dag (gisteren/vandaag/morgen) die het dichtst bij nu ligt.
+// Robuust voor een gids die over middernacht loopt; voor het venster van 2 uur
+// rond nu levert dit altijd de juiste absolute datum op.
+function anchor(timeStr, now) {
+  const [h, m] = timeStr.split(':').map(Number);
+  let best = null;
+  let bestDiff = Infinity;
+  for (const off of [-1, 0, 1]) {
+    const cand = now.startOf('day').add(off, 'day').hour(h).minute(m).second(0).millisecond(0);
+    const diff = Math.abs(cand.diff(now));
+    if (diff < bestDiff) {
+      bestDiff = diff;
+      best = cand;
+    }
+  }
+  return best;
+}
 
-  for (const el of items) {
+// Haalt alle (titel, starttijd) uit een gidspagina.
+function parseTimes(html) {
+  const $ = cheerio.load(html);
+  const out = [];
+  $('.guide__guide .program').each((i, el) => {
     const $el = $(el);
     const title = $el.find('.program__title').text().trim();
     const time = $el.find('.program__starttime').clone().children().remove().end().text().trim();
-    if (!title || !/^\d{1,2}:\d{2}$/.test(time)) continue;
-
-    let start = dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm', TZ);
-    if (prevStart && start.isBefore(prevStart)) {
-      date = date.add(1, 'day');
-      start = start.add(1, 'day');
-    }
-    prevStart = start;
-    progs.push({ title, start });
-  }
-  return progs;
+    if (title && /^\d{1,2}:\d{2}$/.test(time)) out.push({ title, time });
+  });
+  return out;
 }
 
-async function diagnose() {
-  const url = 'https://www.tvgids.nl/gids/npo1';
-  try {
-    const html = await getHTML(url);
-    const $ = cheerio.load(html);
-    console.log('--- DIAGNOSE ---');
-    console.log('.guide__guide .program count:', $('.guide__guide .program').length);
-    const items = $('.guide__guide .program').toArray().slice(0, 6);
-    items.forEach((el, i) => {
-      const $el = $(el);
-      const title = $el.find('.program__title').text().trim();
-      const startFull = $el.find('.program__starttime').text().trim();
-      const startClean = $el.find('.program__starttime').clone().children().remove().end().text().trim();
-      const cls = $el.attr('class');
-      console.log(`#${i} class="${cls}" | titel="${title}" | start.full="${startFull}" | start.clean="${startClean}"`);
-    });
-    const now = dayjs().tz(TZ);
-    console.log('now:', now.format(), '| windowEnd:', now.add(2, 'hour').format());
-    console.log('--- EINDE DIAGNOSE ---');
-  } catch (e) {
-    console.log('DIAGNOSE faalde:', e.message);
-  }
-}
-
-async function fetchChannel(ch, today, tomorrow) {
-  const all = [];
+async function fetchChannel(ch, now, tomorrowPath) {
+  const raw = [];
+  // Vandaag (zonder datum-pad) en morgen (met datum-pad) voor dekking rond middernacht.
   const urls = [
-    { url: `https://www.tvgids.nl/gids/${ch.site_id}`, date: today },
-    { url: `https://www.tvgids.nl/gids/${tomorrow.format('DD-MM-YYYY')}/${ch.site_id}`, date: tomorrow },
+    `https://www.tvgids.nl/gids/${ch.site_id}`,
+    `https://www.tvgids.nl/gids/${tomorrowPath}/${ch.site_id}`,
   ];
-  for (const { url, date } of urls) {
+  for (const url of urls) {
     try {
       const html = await getHTML(url);
-      all.push(...parseDay(html, date));
+      raw.push(...parseTimes(html));
     } catch (e) {
       console.warn(`${ch.name}: ${url} faalde: ${e.message}`);
     }
   }
-  all.sort((a, b) => a.start.valueOf() - b.start.valueOf());
-  for (let i = 0; i < all.length; i++) {
-    all[i].stop = all[i + 1] ? all[i + 1].start : all[i].start.add(30, 'minute');
+
+  // Anker elke tijd op de dichtstbijzijnde dag, ontdubbel en sorteer.
+  const seen = new Set();
+  const progs = [];
+  for (const { title, time } of raw) {
+    const start = anchor(time, now);
+    const key = start.valueOf() + '|' + title;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    progs.push({ title, start });
   }
-  return all;
+  progs.sort((a, b) => a.start.valueOf() - b.start.valueOf());
+  for (let i = 0; i < progs.length; i++) {
+    progs[i].stop = progs[i + 1] ? progs[i + 1].start : progs[i].start.add(30, 'minute');
+  }
+  return progs;
 }
 
 async function main() {
   const now = dayjs().tz(TZ);
   const windowEnd = now.add(2, 'hour');
-  const today = now.startOf('day');
-  const tomorrow = today.add(1, 'day');
+  const tomorrowPath = now.add(1, 'day').format('DD-MM-YYYY');
 
   const channels = {};
   let totalKept = 0;
@@ -125,10 +121,11 @@ async function main() {
   for (const ch of CHANNELS) {
     let progs = [];
     try {
-      progs = await fetchChannel(ch, today, tomorrow);
+      progs = await fetchChannel(ch, now, tomorrowPath);
     } catch (e) {
       console.warn(`${ch.name}: ${e.message}`);
     }
+    // Houd programma's die nog lopen of binnen 2 uur beginnen.
     const kept = progs.filter(p => p.stop.isAfter(now) && p.start.isBefore(windowEnd));
     channels[ch.name] = kept.map(p => ({
       title: p.title,
@@ -139,7 +136,6 @@ async function main() {
   }
 
   if (totalKept === 0) {
-    await diagnose();
     console.error('Geen programma-data gevonden. tvgids.json blijft ongewijzigd.');
     process.exit(1);
   }
