@@ -4,27 +4,23 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Weer Dashboard</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: 'Segoe UI', system-ui, sans-serif;
       min-height: 100vh;
       background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
       color: #fff;
       padding: 24px;
-      gap: 16px;
     }
     .top-bar {
       display: flex;
       justify-content: flex-end;
       align-items: center;
-      width: 100%;
-      max-width: 1400px;
       gap: 12px;
+      margin-bottom: 16px;
     }
     .updated { font-size:.8rem; color:rgba(255,255,255,.4); }
     .refresh-btn { background:rgba(255,255,255,.12); border:1px solid rgba(255,255,255,.2); color:#fff; padding:8px 22px; border-radius:50px; font-size:.85rem; cursor:pointer; transition:background .2s; }
@@ -34,8 +30,7 @@
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 24px;
-      width: 100%;
-      max-width: 1400px;
+      margin-bottom: 24px;
     }
     .dashboard {
       background: rgba(255,255,255,0.08);
@@ -62,9 +57,15 @@
     .error { color:#ff6b6b; font-size:.9rem; padding:20px 0; text-align:center; }
     .hidden { display:none; }
 
-    @media (max-width: 768px) {
-      .cards { grid-template-columns: 1fr; }
+    .map-card {
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(20px);
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 24px;
+      overflow: hidden;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
     }
+    #map { height: 380px; width: 100%; }
   </style>
 </head>
 <body>
@@ -145,14 +146,33 @@
     </div>
   </div>
 
+  <!-- Kaart -->
+  <div class="map-card">
+    <div id="map"></div>
+  </div>
+
   <script>
     const LOCATIONS = [
-      { id: 1, lat: 51.6978, lon: 5.3037 },
-      { id: 2, lat: 51.8167, lon: 5.9167 },
+      { id: 1, name: "'s-Hertogenbosch", lat: 51.6978, lon: 5.3037 },
+      { id: 2, name: "Berg en Dal",       lat: 51.8167, lon: 5.9167 },
     ];
+
     const WMO = {0:{l:'Helder',i:'☀️'},1:{l:'Overwegend helder',i:'🌤️'},2:{l:'Gedeeltelijk bewolkt',i:'⛅'},3:{l:'Bewolkt',i:'☁️'},45:{l:'Mist',i:'🌫️'},48:{l:'IJsmist',i:'🌫️'},51:{l:'Lichte motregen',i:'🌦️'},53:{l:'Motregen',i:'🌦️'},55:{l:'Zware motregen',i:'🌧️'},61:{l:'Lichte regen',i:'🌧️'},63:{l:'Regen',i:'🌧️'},65:{l:'Zware regen',i:'🌧️'},71:{l:'Lichte sneeuw',i:'🌨️'},73:{l:'Sneeuw',i:'❄️'},75:{l:'Zware sneeuw',i:'❄️'},80:{l:'Lichte buien',i:'🌦️'},81:{l:'Buien',i:'🌧️'},82:{l:'Zware buien',i:'⛈️'},95:{l:'Onweer',i:'⛈️'},96:{l:'Onweer met hagel',i:'⛈️'},99:{l:'Zwaar onweer met hagel',i:'⛈️'}};
 
-    async function fetchLocation({id, lat, lon}) {
+    // Kaart
+    const map = L.map('map').setView([51.76, 5.61], 9);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    const markers = {};
+    LOCATIONS.forEach(loc => {
+      const marker = L.marker([loc.lat, loc.lon]).addTo(map);
+      marker.bindPopup(`<b>${loc.name}</b><br>Laden...`);
+      markers[loc.id] = marker;
+    });
+
+    async function fetchLocation({id, name, lat, lon}) {
       const loading=document.getElementById(`loading-${id}`), content=document.getElementById(`content-${id}`), err=document.getElementById(`error-${id}`);
       loading.classList.remove('hidden'); content.classList.add('hidden'); err.classList.add('hidden');
       try {
@@ -168,6 +188,7 @@
         document.getElementById(`wind-${id}`).textContent = Math.round(c.wind_speed_10m);
         document.getElementById(`rain-${id}`).textContent = c.precipitation.toFixed(1);
         loading.classList.add('hidden'); content.classList.remove('hidden');
+        markers[id].setPopupContent(`<b>${name}</b><br>${w.i} ${Math.round(c.temperature_2m)}°C — ${w.l}`);
       } catch(e) {
         loading.classList.add('hidden'); err.textContent=`Fout: ${e.message}`; err.classList.remove('hidden');
       }
