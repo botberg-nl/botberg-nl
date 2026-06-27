@@ -1,23 +1,8 @@
 {
-  "generated": "2026-06-27T17:07:17.173Z",
+  "generated": "2026-06-27T18:44:11.159Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Beste zangers",
-        "start": "2026-06-27T17:00:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-06-27T18:00:00.000Z",
-        "end": "2026-06-27T18:05:00.000Z"
-      },
-      {
-        "title": "WK avond",
-        "start": "2026-06-27T18:05:00.000Z",
-        "end": "2026-06-27T18:30:00.000Z"
-      },
       {
         "title": "André Rieu op het Vrijthof 2025",
         "start": "2026-06-27T18:30:00.000Z",
@@ -27,93 +12,88 @@
         "title": "WK voetbal: Zuid-Afrika - Canada",
         "start": "2026-06-27T18:50:00.000Z",
         "end": "2026-06-27T19:15:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Zuid-Afrika - Canada",
+        "start": "2026-06-27T19:15:00.000Z",
+        "end": "2026-06-27T19:47:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Zuid-Afrika - Canada",
+        "start": "2026-06-27T19:47:00.000Z",
+        "end": "2026-06-27T20:00:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Zuid-Afrika - Canada",
+        "start": "2026-06-27T20:00:00.000Z",
+        "end": "2026-06-27T20:15:00.000Z"
+      },
+      {
+        "title": "WK avond",
+        "start": "2026-06-27T20:15:00.000Z",
+        "end": "2026-06-27T20:25:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Zuid-Afrika - Canada",
+        "start": "2026-06-27T20:25:00.000Z",
+        "end": "2026-06-27T20:50:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "18 miljoen mensen",
-        "start": "2026-06-27T16:55:00.000Z",
-        "end": "2026-06-27T17:15:00.000Z"
-      },
-      {
-        "title": "De kunstdetective",
-        "start": "2026-06-27T17:15:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-06-27T18:00:00.000Z",
-        "end": "2026-06-27T18:25:00.000Z"
-      },
-      {
-        "title": "Attenborough: Kingdom",
-        "start": "2026-06-27T18:25:00.000Z",
-        "end": "2026-06-27T18:30:00.000Z"
-      },
-      {
         "title": "Over leven",
         "start": "2026-06-27T18:30:00.000Z",
         "end": "2026-06-27T19:15:00.000Z"
+      },
+      {
+        "title": "Nu te zien!",
+        "start": "2026-06-27T19:15:00.000Z",
+        "end": "2026-06-27T19:20:00.000Z"
+      },
+      {
+        "title": "Kloostergasten",
+        "start": "2026-06-27T19:20:00.000Z",
+        "end": "2026-06-27T19:30:00.000Z"
+      },
+      {
+        "title": "Argos",
+        "start": "2026-06-27T19:30:00.000Z",
+        "end": "2026-06-27T20:00:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-06-27T20:00:00.000Z",
+        "end": "2026-06-27T20:40:00.000Z"
+      },
+      {
+        "title": "NPO Doc: Mohammed & Paul - Er was eens in Tanger",
+        "start": "2026-06-27T20:40:00.000Z",
+        "end": "2026-06-27T21:20:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Jeugdjournaal",
-        "start": "2026-06-27T17:00:00.000Z",
-        "end": "2026-06-27T17:20:00.000Z"
-      },
-      {
-        "title": "Meneer Johannes",
-        "start": "2026-06-27T17:20:00.000Z",
-        "end": "2026-06-27T17:45:00.000Z"
-      },
-      {
-        "title": "Ik vertrek voor de liefde",
-        "start": "2026-06-27T17:45:00.000Z",
-        "end": "2026-06-27T18:05:00.000Z"
-      },
-      {
-        "title": "De slimste mens België",
-        "start": "2026-06-27T18:05:00.000Z",
-        "end": "2026-06-27T18:27:00.000Z"
-      },
-      {
-        "title": "Socutera",
-        "start": "2026-06-27T18:27:00.000Z",
-        "end": "2026-06-27T18:40:00.000Z"
-      },
-      {
         "title": "De verloskundigen",
         "start": "2026-06-27T18:40:00.000Z",
         "end": "2026-06-27T19:15:00.000Z"
+      },
+      {
+        "title": "Beck",
+        "start": "2026-06-27T19:15:00.000Z",
+        "end": "2026-06-27T19:35:00.000Z"
+      },
+      {
+        "title": "Danny en de medicijnmaffia",
+        "start": "2026-06-27T19:35:00.000Z",
+        "end": "2026-06-27T20:25:00.000Z"
+      },
+      {
+        "title": "Tropenjaren",
+        "start": "2026-06-27T20:25:00.000Z",
+        "end": "2026-06-27T20:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-06-27T16:35:00.000Z",
-        "end": "2026-06-27T17:21:00.000Z"
-      },
-      {
-        "title": "VriendenLoterij: De winnaars",
-        "start": "2026-06-27T17:21:00.000Z",
-        "end": "2026-06-27T17:30:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-06-27T17:30:00.000Z",
-        "end": "2026-06-27T17:57:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-06-27T17:57:00.000Z",
-        "end": "2026-06-27T18:07:00.000Z"
-      },
-      {
-        "title": "Oh, wat een jaar!",
-        "start": "2026-06-27T18:07:00.000Z",
-        "end": "2026-06-27T18:08:00.000Z"
-      },
       {
         "title": "Postcode Loterij Eén tegen 100",
         "start": "2026-06-27T18:08:00.000Z",
@@ -123,31 +103,36 @@
         "title": "De erfgenaam",
         "start": "2026-06-27T19:05:00.000Z",
         "end": "2026-06-27T19:43:00.000Z"
+      },
+      {
+        "title": "Beste kijkers",
+        "start": "2026-06-27T19:43:00.000Z",
+        "end": "2026-06-27T19:59:00.000Z"
+      },
+      {
+        "title": "Casa di Beau",
+        "start": "2026-06-27T19:59:00.000Z",
+        "end": "2026-06-27T20:57:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Schiphol Airport",
-        "start": "2026-06-27T16:32:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
-      {
         "title": "Ewout: Gevaarlijke gevangenissen",
         "start": "2026-06-27T18:00:00.000Z",
         "end": "2026-06-27T19:27:00.000Z"
+      },
+      {
+        "title": "Ontvoerd",
+        "start": "2026-06-27T19:27:00.000Z",
+        "end": "2026-06-27T20:34:00.000Z"
+      },
+      {
+        "title": "Helden van hier: In de lucht",
+        "start": "2026-06-27T20:34:00.000Z",
+        "end": "2026-06-27T20:55:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Hardcore pawn",
-        "start": "2026-06-27T17:05:00.000Z",
-        "end": "2026-06-27T17:32:00.000Z"
-      },
-      {
-        "title": "Hardcore pawn",
-        "start": "2026-06-27T17:32:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
       {
         "title": "The Good, the Bad and the Ugly\n                        Western",
         "start": "2026-06-27T18:00:00.000Z",
@@ -156,32 +141,22 @@
     ],
     "RTL 8": [
       {
-        "title": "Cruisen over de Middellandse Zee",
-        "start": "2026-06-27T17:01:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
-      {
         "title": "Britain's got talent",
         "start": "2026-06-27T18:00:00.000Z",
         "end": "2026-06-27T19:57:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-06-27T19:57:00.000Z",
+        "end": "2026-06-27T19:59:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-06-27T19:59:00.000Z",
+        "end": "2026-06-27T20:52:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Overtreders",
-        "start": "2026-06-27T17:05:00.000Z",
-        "end": "2026-06-27T17:15:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-06-27T17:15:00.000Z",
-        "end": "2026-06-27T17:21:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-06-27T17:21:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
       {
         "title": "De Oranjezomer",
         "start": "2026-06-27T18:00:00.000Z",
@@ -196,14 +171,19 @@
         "title": "De bondgenoten",
         "start": "2026-06-27T19:03:00.000Z",
         "end": "2026-06-27T20:25:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-06-27T20:25:00.000Z",
+        "end": "2026-06-27T20:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-06-27T20:30:00.000Z",
+        "end": "2026-06-27T20:46:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-06-27T17:00:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
       {
         "title": "A Few Good Men\n                        Drama",
         "start": "2026-06-27T18:00:00.000Z",
@@ -213,24 +193,14 @@
         "title": "NCIS",
         "start": "2026-06-27T18:56:00.000Z",
         "end": "2026-06-27T19:53:00.000Z"
+      },
+      {
+        "title": "Soko Wismar",
+        "start": "2026-06-27T19:53:00.000Z",
+        "end": "2026-06-27T20:51:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Border Security: Australië",
-        "start": "2026-06-27T16:59:00.000Z",
-        "end": "2026-06-27T17:29:00.000Z"
-      },
-      {
-        "title": "Border Security: Australië",
-        "start": "2026-06-27T17:29:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
-      {
-        "title": "Baywatch remastered",
-        "start": "2026-06-27T18:00:00.000Z",
-        "end": "2026-06-27T18:02:00.000Z"
-      },
       {
         "title": "FBI: International",
         "start": "2026-06-27T18:02:00.000Z",
@@ -245,24 +215,19 @@
         "title": "Baywatch remastered",
         "start": "2026-06-27T19:00:00.000Z",
         "end": "2026-06-27T19:54:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-06-27T19:54:00.000Z",
+        "end": "2026-06-27T20:00:00.000Z"
+      },
+      {
+        "title": "Rescue: HI-surf",
+        "start": "2026-06-27T20:00:00.000Z",
+        "end": "2026-06-27T20:56:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-06-27T17:00:00.000Z",
-        "end": "2026-06-27T17:30:00.000Z"
-      },
-      {
-        "title": "Talking Business",
-        "start": "2026-06-27T17:30:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-06-27T18:00:00.000Z",
-        "end": "2026-06-27T18:30:00.000Z"
-      },
       {
         "title": "AI Decoded",
         "start": "2026-06-27T18:30:00.000Z",
@@ -272,24 +237,19 @@
         "title": "BBC news",
         "start": "2026-06-27T19:00:00.000Z",
         "end": "2026-06-27T19:30:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-27T19:30:00.000Z",
+        "end": "2026-06-27T20:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-27T20:00:00.000Z",
+        "end": "2026-06-27T21:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "African Voices",
-        "start": "2026-06-27T17:00:00.000Z",
-        "end": "2026-06-27T17:30:00.000Z"
-      },
-      {
-        "title": "Marketplace Africa",
-        "start": "2026-06-27T17:30:00.000Z",
-        "end": "2026-06-27T17:45:00.000Z"
-      },
-      {
-        "title": "CNN Marketplace Europe",
-        "start": "2026-06-27T17:45:00.000Z",
-        "end": "2026-06-27T18:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-06-27T18:00:00.000Z",
@@ -299,6 +259,11 @@
         "title": "CNN Newsroom",
         "start": "2026-06-27T19:00:00.000Z",
         "end": "2026-06-27T20:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-06-27T20:00:00.000Z",
+        "end": "2026-06-27T21:00:00.000Z"
       }
     ]
   }
