@@ -1,250 +1,215 @@
 {
-  "generated": "2026-06-27T09:13:09.551Z",
+  "generated": "2026-06-27T11:10:39.954Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Studio sport live - MotoGP: TT Assen",
-        "start": "2026-06-27T08:55:00.000Z",
-        "end": "2026-06-27T09:35:00.000Z"
-      },
-      {
-        "title": "Bak mee met MAX",
-        "start": "2026-06-27T09:35:00.000Z",
-        "end": "2026-06-27T09:55:00.000Z"
-      },
-      {
-        "title": "Musical Awards Gala 2026",
-        "start": "2026-06-27T09:55:00.000Z",
-        "end": "2026-06-27T10:35:00.000Z"
-      },
-      {
         "title": "Studio sport live: NK wielrennen",
         "start": "2026-06-27T10:35:00.000Z",
         "end": "2026-06-27T11:35:00.000Z"
+      },
+      {
+        "title": "Studio sport live: NK wielrennen",
+        "start": "2026-06-27T11:35:00.000Z",
+        "end": "2026-06-27T11:50:00.000Z"
+      },
+      {
+        "title": "Keuringsdienst van waarde",
+        "start": "2026-06-27T11:50:00.000Z",
+        "end": "2026-06-27T12:20:00.000Z"
+      },
+      {
+        "title": "Cruijff",
+        "start": "2026-06-27T12:20:00.000Z",
+        "end": "2026-06-27T13:15:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Nederland zingt op zondag",
-        "start": "2026-06-27T09:05:00.000Z",
-        "end": "2026-06-27T09:30:00.000Z"
-      },
-      {
-        "title": "Beam kerkdienst",
-        "start": "2026-06-27T09:30:00.000Z",
-        "end": "2026-06-27T09:45:00.000Z"
-      },
-      {
-        "title": "Iedereen verlicht",
-        "start": "2026-06-27T09:45:00.000Z",
-        "end": "2026-06-27T10:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-06-27T10:00:00.000Z",
-        "end": "2026-06-27T10:10:00.000Z"
-      },
-      {
-        "title": "Adieu! Volgende kaart",
-        "start": "2026-06-27T10:10:00.000Z",
-        "end": "2026-06-27T10:15:00.000Z"
-      },
-      {
-        "title": "Wat houdt ons tegen?",
-        "start": "2026-06-27T10:15:00.000Z",
-        "end": "2026-06-27T10:35:00.000Z"
-      },
-      {
-        "title": "Wilde Ganzen",
-        "start": "2026-06-27T10:35:00.000Z",
-        "end": "2026-06-27T10:40:00.000Z"
-      },
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-06-27T10:40:00.000Z",
-        "end": "2026-06-27T10:45:00.000Z"
-      },
-      {
-        "title": "Volle zalen",
-        "start": "2026-06-27T10:45:00.000Z",
-        "end": "2026-06-27T11:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-06-27T11:00:00.000Z",
-        "end": "2026-06-27T11:10:00.000Z"
-      },
-      {
         "title": "Nederland op film",
         "start": "2026-06-27T11:10:00.000Z",
         "end": "2026-06-27T11:25:00.000Z"
+      },
+      {
+        "title": "Fryslân dok",
+        "start": "2026-06-27T11:25:00.000Z",
+        "end": "2026-06-27T11:50:00.000Z"
+      },
+      {
+        "title": "Meldpunt actueel",
+        "start": "2026-06-27T11:50:00.000Z",
+        "end": "2026-06-27T12:00:00.000Z"
+      },
+      {
+        "title": "Over leven",
+        "start": "2026-06-27T12:00:00.000Z",
+        "end": "2026-06-27T12:20:00.000Z"
+      },
+      {
+        "title": "MAX Maakt Mogelijk helpt",
+        "start": "2026-06-27T12:20:00.000Z",
+        "end": "2026-06-27T12:35:00.000Z"
+      },
+      {
+        "title": "Attenborough: Kingdom",
+        "start": "2026-06-27T12:35:00.000Z",
+        "end": "2026-06-27T12:40:00.000Z"
+      },
+      {
+        "title": "Kloostergasten",
+        "start": "2026-06-27T12:40:00.000Z",
+        "end": "2026-06-27T13:15:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Interstellar Ella",
-        "start": "2026-06-27T09:05:00.000Z",
-        "end": "2026-06-27T09:15:00.000Z"
-      },
-      {
-        "title": "Zo is Joey!",
-        "start": "2026-06-27T09:15:00.000Z",
-        "end": "2026-06-27T09:25:00.000Z"
-      },
-      {
-        "title": "Grizzy en de lemmingen",
-        "start": "2026-06-27T09:25:00.000Z",
-        "end": "2026-06-27T09:35:00.000Z"
-      },
-      {
-        "title": "Coop Troep",
-        "start": "2026-06-27T09:35:00.000Z",
-        "end": "2026-06-27T09:40:00.000Z"
-      },
-      {
-        "title": "Molmans",
-        "start": "2026-06-27T09:40:00.000Z",
-        "end": "2026-06-27T09:45:00.000Z"
-      },
-      {
-        "title": "Molmans",
-        "start": "2026-06-27T09:45:00.000Z",
-        "end": "2026-06-27T09:50:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-06-27T09:50:00.000Z",
-        "end": "2026-06-27T09:55:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-06-27T09:55:00.000Z",
-        "end": "2026-06-27T10:05:00.000Z"
-      },
-      {
-        "title": "Mojo fliptop",
-        "start": "2026-06-27T10:05:00.000Z",
-        "end": "2026-06-27T10:15:00.000Z"
-      },
-      {
-        "title": "Lassie",
-        "start": "2026-06-27T10:15:00.000Z",
-        "end": "2026-06-27T10:30:00.000Z"
-      },
-      {
-        "title": "BarnKidz",
-        "start": "2026-06-27T10:30:00.000Z",
-        "end": "2026-06-27T10:35:00.000Z"
-      },
-      {
-        "title": "BarnKidz",
-        "start": "2026-06-27T10:35:00.000Z",
-        "end": "2026-06-27T10:40:00.000Z"
-      },
-      {
-        "title": "Moomin",
-        "start": "2026-06-27T10:40:00.000Z",
-        "end": "2026-06-27T10:50:00.000Z"
-      },
-      {
-        "title": "Moomin vallei",
-        "start": "2026-06-27T10:50:00.000Z",
-        "end": "2026-06-27T11:05:00.000Z"
-      },
-      {
-        "title": "Mega Mindy",
-        "start": "2026-06-27T11:05:00.000Z",
-        "end": "2026-06-27T11:10:00.000Z"
-      },
-      {
         "title": "Mega Mindy",
         "start": "2026-06-27T11:10:00.000Z",
         "end": "2026-06-27T11:30:00.000Z"
+      },
+      {
+        "title": "Kosmoo",
+        "start": "2026-06-27T11:30:00.000Z",
+        "end": "2026-06-27T11:35:00.000Z"
+      },
+      {
+        "title": "De selectie",
+        "start": "2026-06-27T11:35:00.000Z",
+        "end": "2026-06-27T11:55:00.000Z"
+      },
+      {
+        "title": "Studio snugger",
+        "start": "2026-06-27T11:55:00.000Z",
+        "end": "2026-06-27T12:00:00.000Z"
+      },
+      {
+        "title": "Theodosia",
+        "start": "2026-06-27T12:00:00.000Z",
+        "end": "2026-06-27T12:10:00.000Z"
+      },
+      {
+        "title": "De dodelijkste 60",
+        "start": "2026-06-27T12:10:00.000Z",
+        "end": "2026-06-27T12:20:00.000Z"
+      },
+      {
+        "title": "Home sweet Rome",
+        "start": "2026-06-27T12:20:00.000Z",
+        "end": "2026-06-27T12:40:00.000Z"
+      },
+      {
+        "title": "Koen kampioen",
+        "start": "2026-06-27T12:40:00.000Z",
+        "end": "2026-06-27T12:45:00.000Z"
+      },
+      {
+        "title": "De eindmusical",
+        "start": "2026-06-27T12:45:00.000Z",
+        "end": "2026-06-27T13:05:00.000Z"
+      },
+      {
+        "title": "Junior songfestival",
+        "start": "2026-06-27T13:05:00.000Z",
+        "end": "2026-06-27T13:25:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "Van woonvilla naar droomvilla",
-        "start": "2026-06-27T08:59:00.000Z",
-        "end": "2026-06-27T09:28:00.000Z"
-      },
-      {
-        "title": "De mooiste wegen",
-        "start": "2026-06-27T09:28:00.000Z",
-        "end": "2026-06-27T10:00:00.000Z"
-      },
-      {
-        "title": "Varend corso weekjournaal",
-        "start": "2026-06-27T10:00:00.000Z",
-        "end": "2026-06-27T10:28:00.000Z"
-      },
-      {
-        "title": "Way of living",
-        "start": "2026-06-27T10:28:00.000Z",
-        "end": "2026-06-27T10:29:00.000Z"
-      },
-      {
-        "title": "Ambassadeur voor 1 dag",
-        "start": "2026-06-27T10:29:00.000Z",
-        "end": "2026-06-27T10:58:00.000Z"
-      },
-      {
         "title": "RTL Vakantiemagazine",
         "start": "2026-06-27T10:58:00.000Z",
         "end": "2026-06-27T11:30:00.000Z"
+      },
+      {
+        "title": "Chickslovefood on tour",
+        "start": "2026-06-27T11:30:00.000Z",
+        "end": "2026-06-27T11:31:00.000Z"
+      },
+      {
+        "title": "Van woonvilla naar droomvilla",
+        "start": "2026-06-27T11:31:00.000Z",
+        "end": "2026-06-27T12:00:00.000Z"
+      },
+      {
+        "title": "Het goede buitenleven: Buitengewoon wonen",
+        "start": "2026-06-27T12:00:00.000Z",
+        "end": "2026-06-27T12:29:00.000Z"
+      },
+      {
+        "title": "Smoorverliefd op Doe Maar! De musical",
+        "start": "2026-06-27T12:29:00.000Z",
+        "end": "2026-06-27T12:58:00.000Z"
+      },
+      {
+        "title": "Varend corso weekjournaal",
+        "start": "2026-06-27T12:58:00.000Z",
+        "end": "2026-06-27T13:01:00.000Z"
+      },
+      {
+        "title": "Let's visit",
+        "start": "2026-06-27T13:01:00.000Z",
+        "end": "2026-06-27T13:30:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-06-27T08:06:00.000Z",
-        "end": "2026-06-27T11:00:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Telvero",
         "start": "2026-06-27T11:00:00.000Z",
         "end": "2026-06-27T12:01:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Telvero",
+        "start": "2026-06-27T12:01:00.000Z",
+        "end": "2026-06-27T12:30:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-06-27T12:30:00.000Z",
+        "end": "2026-06-27T13:26:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Business class",
-        "start": "2026-06-27T08:30:00.000Z",
-        "end": "2026-06-27T10:06:00.000Z"
-      },
-      {
-        "title": "Business atlas",
-        "start": "2026-06-27T10:06:00.000Z",
-        "end": "2026-06-27T10:28:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-06-27T10:28:00.000Z",
-        "end": "2026-06-27T10:58:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-06-27T10:58:00.000Z",
-        "end": "2026-06-27T11:00:00.000Z"
-      },
-      {
         "title": "Innoverend Nederland",
         "start": "2026-06-27T11:00:00.000Z",
         "end": "2026-06-27T11:28:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-06-27T11:28:00.000Z",
+        "end": "2026-06-27T11:30:00.000Z"
+      },
+      {
+        "title": "Business atlas",
+        "start": "2026-06-27T11:30:00.000Z",
+        "end": "2026-06-27T11:58:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-06-27T11:58:00.000Z",
+        "end": "2026-06-27T11:59:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-06-27T11:59:00.000Z",
+        "end": "2026-06-27T12:28:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-06-27T12:28:00.000Z",
+        "end": "2026-06-27T12:29:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-06-27T12:29:00.000Z",
+        "end": "2026-06-27T12:59:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-06-27T12:59:00.000Z",
+        "end": "2026-06-27T13:29:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop",
-        "start": "2026-06-27T04:16:00.000Z",
-        "end": "2026-06-27T11:00:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-06-27T11:00:00.000Z",
-        "end": "2026-06-27T11:01:00.000Z"
-      },
       {
         "title": "Teleshop 8: Telvero",
         "start": "2026-06-27T11:01:00.000Z",
@@ -253,86 +218,66 @@
     ],
     "SBS 6": [
       {
-        "title": "Secret life of the zoo",
-        "start": "2026-06-27T08:59:00.000Z",
-        "end": "2026-06-27T09:15:00.000Z"
-      },
-      {
-        "title": "Man bijt hond",
-        "start": "2026-06-27T09:15:00.000Z",
-        "end": "2026-06-27T09:30:00.000Z"
-      },
-      {
-        "title": "SpecialTV muziekshow",
-        "start": "2026-06-27T09:30:00.000Z",
-        "end": "2026-06-27T09:59:00.000Z"
-      },
-      {
-        "title": "Levende Steen ministries",
-        "start": "2026-06-27T09:59:00.000Z",
-        "end": "2026-06-27T10:00:00.000Z"
-      },
-      {
-        "title": "Bouwen aan de toekomst",
-        "start": "2026-06-27T10:00:00.000Z",
-        "end": "2026-06-27T10:25:00.000Z"
-      },
-      {
-        "title": "Man bijt hond",
-        "start": "2026-06-27T10:25:00.000Z",
-        "end": "2026-06-27T10:30:00.000Z"
-      },
-      {
-        "title": "Doe maar duurzaam!",
-        "start": "2026-06-27T10:30:00.000Z",
-        "end": "2026-06-27T10:43:00.000Z"
-      },
-      {
-        "title": "Wie woont het mooist Wales",
-        "start": "2026-06-27T10:43:00.000Z",
-        "end": "2026-06-27T11:05:00.000Z"
-      },
-      {
-        "title": "De grote verhuizing",
-        "start": "2026-06-27T11:05:00.000Z",
-        "end": "2026-06-27T11:10:00.000Z"
-      },
-      {
         "title": "Onmogelijke duetten",
         "start": "2026-06-27T11:10:00.000Z",
         "end": "2026-06-27T12:04:00.000Z"
+      },
+      {
+        "title": "SpecialTV muziekshow",
+        "start": "2026-06-27T12:04:00.000Z",
+        "end": "2026-06-27T12:05:00.000Z"
+      },
+      {
+        "title": "Secret life of the zoo",
+        "start": "2026-06-27T12:05:00.000Z",
+        "end": "2026-06-27T12:30:00.000Z"
+      },
+      {
+        "title": "Nederland in beeld",
+        "start": "2026-06-27T12:30:00.000Z",
+        "end": "2026-06-27T12:34:00.000Z"
+      },
+      {
+        "title": "Doe maar duurzaam!",
+        "start": "2026-06-27T12:34:00.000Z",
+        "end": "2026-06-27T13:00:00.000Z"
+      },
+      {
+        "title": "De grote verhuizing",
+        "start": "2026-06-27T13:00:00.000Z",
+        "end": "2026-06-27T13:04:00.000Z"
+      },
+      {
+        "title": "Bouwen aan de toekomst",
+        "start": "2026-06-27T13:04:00.000Z",
+        "end": "2026-06-27T13:35:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Home and away",
-        "start": "2026-06-27T09:00:00.000Z",
-        "end": "2026-06-27T09:28:00.000Z"
-      },
-      {
-        "title": "Home and away",
-        "start": "2026-06-27T09:28:00.000Z",
-        "end": "2026-06-27T09:42:00.000Z"
-      },
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-06-27T09:42:00.000Z",
-        "end": "2026-06-27T09:57:00.000Z"
-      },
-      {
-        "title": "Home and away",
-        "start": "2026-06-27T09:57:00.000Z",
-        "end": "2026-06-27T10:25:00.000Z"
-      },
-      {
-        "title": "Gilmore girls",
-        "start": "2026-06-27T10:25:00.000Z",
-        "end": "2026-06-27T10:42:00.000Z"
-      },
-      {
         "title": "vtwonen weer verliefd op je huis",
         "start": "2026-06-27T10:42:00.000Z",
         "end": "2026-06-27T11:17:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-06-27T11:17:00.000Z",
+        "end": "2026-06-27T11:40:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-06-27T11:40:00.000Z",
+        "end": "2026-06-27T12:15:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-06-27T12:15:00.000Z",
+        "end": "2026-06-27T12:41:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-06-27T12:41:00.000Z",
+        "end": "2026-06-27T13:13:00.000Z"
       }
     ],
     "Veronica": [
@@ -345,50 +290,45 @@
     "BBC News": [
       {
         "title": "BBC news",
-        "start": "2026-06-27T09:00:00.000Z",
-        "end": "2026-06-27T09:30:00.000Z"
-      },
-      {
-        "title": "AI Decoded",
-        "start": "2026-06-27T09:30:00.000Z",
-        "end": "2026-06-27T10:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-06-27T10:00:00.000Z",
-        "end": "2026-06-27T10:30:00.000Z"
-      },
-      {
-        "title": "Path to the Presidency",
-        "start": "2026-06-27T10:30:00.000Z",
-        "end": "2026-06-27T11:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
         "start": "2026-06-27T11:00:00.000Z",
         "end": "2026-06-27T11:30:00.000Z"
+      },
+      {
+        "title": "The Media Show",
+        "start": "2026-06-27T11:30:00.000Z",
+        "end": "2026-06-27T12:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-27T12:00:00.000Z",
+        "end": "2026-06-27T12:30:00.000Z"
+      },
+      {
+        "title": "The travel show",
+        "start": "2026-06-27T12:30:00.000Z",
+        "end": "2026-06-27T13:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-06-27T13:00:00.000Z",
+        "end": "2026-06-27T13:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "CNN Newsroom",
-        "start": "2026-06-27T09:00:00.000Z",
-        "end": "2026-06-27T10:00:00.000Z"
-      },
-      {
-        "title": "Showtime",
-        "start": "2026-06-27T10:00:00.000Z",
-        "end": "2026-06-27T10:30:00.000Z"
-      },
-      {
-        "title": "Inside Africa",
-        "start": "2026-06-27T10:30:00.000Z",
-        "end": "2026-06-27T11:00:00.000Z"
-      },
-      {
         "title": "CNN This Morning Weekend",
         "start": "2026-06-27T11:00:00.000Z",
         "end": "2026-06-27T12:00:00.000Z"
+      },
+      {
+        "title": "Inside Politics",
+        "start": "2026-06-27T12:00:00.000Z",
+        "end": "2026-06-27T13:00:00.000Z"
+      },
+      {
+        "title": "U.S. State of the Union Address",
+        "start": "2026-06-27T13:00:00.000Z",
+        "end": "2026-06-27T14:00:00.000Z"
       }
     ]
   }
