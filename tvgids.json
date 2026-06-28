@@ -1,38 +1,8 @@
 {
-  "generated": "2026-06-27T23:00:08.804Z",
+  "generated": "2026-06-28T00:11:19.527Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "WK avond",
-        "start": "2026-06-27T22:30:00.000Z",
-        "end": "2026-06-27T23:05:00.000Z"
-      },
-      {
-        "title": "Studio sport WK",
-        "start": "2026-06-27T23:05:00.000Z",
-        "end": "2026-06-27T23:10:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-06-27T23:10:00.000Z",
-        "end": "2026-06-27T23:25:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-06-27T23:25:00.000Z",
-        "end": "2026-06-27T23:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-06-27T23:30:00.000Z",
-        "end": "2026-06-27T23:55:00.000Z"
-      },
-      {
-        "title": "WK avond",
-        "start": "2026-06-27T23:55:00.000Z",
-        "end": "2026-06-28T00:10:00.000Z"
-      },
       {
         "title": "WK voetbal:  Colombia - Portugal",
         "start": "2026-06-28T00:10:00.000Z",
@@ -52,29 +22,34 @@
         "title": "WK voetbal\n                                                                            Nederland - Marokko 1e helft (1/2)",
         "start": "2026-06-28T00:50:00.000Z",
         "end": "2026-06-28T01:10:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Colombia - Portugal",
+        "start": "2026-06-28T01:10:00.000Z",
+        "end": "2026-06-28T01:25:00.000Z"
+      },
+      {
+        "title": "WK voetbal\n                                                                            Nederland - Marokko 1e helft (2/2)",
+        "start": "2026-06-28T01:25:00.000Z",
+        "end": "2026-06-28T01:47:00.000Z"
+      },
+      {
+        "title": "WK voetbal",
+        "start": "2026-06-28T01:47:00.000Z",
+        "end": "2026-06-28T01:50:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Jordanië - Argentinië",
+        "start": "2026-06-28T01:50:00.000Z",
+        "end": "2026-06-28T01:55:00.000Z"
+      },
+      {
+        "title": "WK voetbal\n                                                                            Nederland - Marokko 2e helft (1/2)",
+        "start": "2026-06-28T01:55:00.000Z",
+        "end": "2026-06-28T02:25:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-06-27T23:00:00.000Z",
-        "end": "2026-06-27T23:10:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-06-27T23:10:00.000Z",
-        "end": "2026-06-27T23:30:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-06-27T23:30:00.000Z",
-        "end": "2026-06-27T23:45:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-06-27T23:45:00.000Z",
-        "end": "2026-06-28T00:05:00.000Z"
-      },
       {
         "title": "NOS Journaal met gebarentaal",
         "start": "2026-06-28T00:05:00.000Z",
@@ -92,21 +67,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Who's that girl?",
-        "start": "2026-06-27T22:55:00.000Z",
-        "end": "2026-06-27T23:20:00.000Z"
-      },
-      {
-        "title": "WK voetbal: Congo-Kinshasa - Oezbekistan\n                                                                            Congo-Kinshasa - Oezbekistan 1e helft (1/2)",
-        "start": "2026-06-27T23:20:00.000Z",
-        "end": "2026-06-27T23:40:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-06-27T23:40:00.000Z",
-        "end": "2026-06-27T23:50:00.000Z"
-      },
       {
         "title": "WK voetbal: Congo-Kinshasa - Oezbekistan\n                                                                            Congo-Kinshasa - Oezbekistan 1e helft (2/2)",
         "start": "2026-06-27T23:50:00.000Z",
@@ -141,49 +101,29 @@
         "title": "WK voetbal: Congo-Kinshasa - Oezbekistan\n                                                                            Congo-Kinshasa - Oezbekistan 2e helft (2/2)",
         "start": "2026-06-28T01:00:00.000Z",
         "end": "2026-06-28T01:05:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-06-28T01:05:00.000Z",
+        "end": "2026-06-28T01:15:00.000Z"
+      },
+      {
+        "title": "Studio sport",
+        "start": "2026-06-28T01:15:00.000Z",
+        "end": "2026-06-28T01:50:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Algerije - Oostenrijk\n                                                                            Algerije - Oostenrijk 1e helft (1/2)",
+        "start": "2026-06-28T01:50:00.000Z",
+        "end": "2026-06-28T01:55:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-06-28T01:55:00.000Z",
+        "end": "2026-06-28T02:20:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "EditieNL",
-        "start": "2026-06-27T22:53:00.000Z",
-        "end": "2026-06-27T23:08:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-06-27T23:08:00.000Z",
-        "end": "2026-06-27T23:17:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-06-27T23:17:00.000Z",
-        "end": "2026-06-27T23:31:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-06-27T23:31:00.000Z",
-        "end": "2026-06-27T23:33:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-06-27T23:33:00.000Z",
-        "end": "2026-06-27T23:40:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-06-27T23:40:00.000Z",
-        "end": "2026-06-28T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-06-28T00:01:00.000Z",
-        "end": "2026-06-28T00:03:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-06-28T00:03:00.000Z",
-        "end": "2026-06-28T00:04:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-06-28T00:04:00.000Z",
@@ -192,52 +132,12 @@
     ],
     "RTL 5": [
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-06-27T22:35:00.000Z",
-        "end": "2026-06-27T23:12:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-06-27T23:12:00.000Z",
-        "end": "2026-06-27T23:26:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-06-27T23:26:00.000Z",
-        "end": "2026-06-27T23:35:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-06-27T23:35:00.000Z",
-        "end": "2026-06-28T00:10:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-06-28T00:10:00.000Z",
         "end": "2026-06-28T03:30:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-06-27T22:51:00.000Z",
-        "end": "2026-06-27T23:30:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-06-27T23:30:00.000Z",
-        "end": "2026-06-27T23:47:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-06-27T23:47:00.000Z",
-        "end": "2026-06-28T00:06:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-06-28T00:06:00.000Z",
-        "end": "2026-06-28T00:10:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-06-28T00:10:00.000Z",
@@ -247,46 +147,11 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-06-27T22:49:00.000Z",
-        "end": "2026-06-27T23:12:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-06-27T23:12:00.000Z",
-        "end": "2026-06-28T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-06-28T00:01:00.000Z",
-        "end": "2026-06-28T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-06-28T00:02:00.000Z",
-        "end": "2026-06-28T00:05:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-06-28T00:05:00.000Z",
         "end": "2026-06-28T04:16:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Vandaag inside Oranje",
-        "start": "2026-06-27T22:50:00.000Z",
-        "end": "2026-06-27T23:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-06-27T23:30:00.000Z",
-        "end": "2026-06-27T23:36:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-06-27T23:36:00.000Z",
-        "end": "2026-06-27T23:50:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-06-27T23:50:00.000Z",
@@ -294,26 +159,6 @@
       }
     ],
     "NET 5": [
-      {
-        "title": "The resident",
-        "start": "2026-06-27T22:49:00.000Z",
-        "end": "2026-06-27T23:07:00.000Z"
-      },
-      {
-        "title": "So help me Todd",
-        "start": "2026-06-27T23:07:00.000Z",
-        "end": "2026-06-27T23:22:00.000Z"
-      },
-      {
-        "title": "Pitch Perfect 3\n                        Komedie",
-        "start": "2026-06-27T23:22:00.000Z",
-        "end": "2026-06-27T23:46:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-06-27T23:46:00.000Z",
-        "end": "2026-06-28T00:00:00.000Z"
-      },
       {
         "title": "So help me Todd",
         "start": "2026-06-28T00:00:00.000Z",
@@ -328,34 +173,19 @@
         "title": "Een dag in de dierentuin: Pairi Daiza",
         "start": "2026-06-28T00:54:00.000Z",
         "end": "2026-06-28T01:21:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin: Pairi Daiza",
+        "start": "2026-06-28T01:21:00.000Z",
+        "end": "2026-06-28T01:48:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-06-28T01:48:00.000Z",
+        "end": "2026-06-28T03:52:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Bent\n                        Thriller",
-        "start": "2026-06-27T22:39:00.000Z",
-        "end": "2026-06-27T23:04:00.000Z"
-      },
-      {
-        "title": "Border Security: Australië",
-        "start": "2026-06-27T23:04:00.000Z",
-        "end": "2026-06-27T23:09:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-06-27T23:09:00.000Z",
-        "end": "2026-06-27T23:29:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-06-27T23:29:00.000Z",
-        "end": "2026-06-27T23:47:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-06-27T23:47:00.000Z",
-        "end": "2026-06-28T00:05:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-06-28T00:05:00.000Z",
@@ -370,16 +200,6 @@
     "BBC News": [
       {
         "title": "BBC news",
-        "start": "2026-06-27T23:00:00.000Z",
-        "end": "2026-06-27T23:30:00.000Z"
-      },
-      {
-        "title": "Newscast",
-        "start": "2026-06-27T23:30:00.000Z",
-        "end": "2026-06-28T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
         "start": "2026-06-28T00:00:00.000Z",
         "end": "2026-06-28T00:30:00.000Z"
       },
@@ -392,14 +212,24 @@
         "title": "Newsday",
         "start": "2026-06-28T01:00:00.000Z",
         "end": "2026-06-28T01:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-06-28T01:30:00.000Z",
+        "end": "2026-06-28T01:45:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-06-28T01:45:00.000Z",
+        "end": "2026-06-28T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-06-28T02:00:00.000Z",
+        "end": "2026-06-28T02:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Erin Burnett OutFront",
-        "start": "2026-06-27T23:00:00.000Z",
-        "end": "2026-06-28T00:00:00.000Z"
-      },
       {
         "title": "Anderson Cooper 360",
         "start": "2026-06-28T00:00:00.000Z",
@@ -409,6 +239,16 @@
         "title": "The Source with Kaitlan Collins",
         "start": "2026-06-28T01:00:00.000Z",
         "end": "2026-06-28T01:30:00.000Z"
+      },
+      {
+        "title": "Showtime",
+        "start": "2026-06-28T01:30:00.000Z",
+        "end": "2026-06-28T02:00:00.000Z"
+      },
+      {
+        "title": "CNN NewsNight",
+        "start": "2026-06-28T02:00:00.000Z",
+        "end": "2026-06-28T02:30:00.000Z"
       }
     ]
   }
