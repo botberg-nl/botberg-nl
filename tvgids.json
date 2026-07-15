@@ -1,28 +1,8 @@
 {
-  "generated": "2026-07-15T17:46:13.257Z",
+  "generated": "2026-07-15T19:06:38.672Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "De avondetappe",
-        "start": "2026-07-15T17:05:00.000Z",
-        "end": "2026-07-15T18:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-15T18:00:00.000Z",
-        "end": "2026-07-15T18:10:00.000Z"
-      },
-      {
-        "title": "WK avond",
-        "start": "2026-07-15T18:10:00.000Z",
-        "end": "2026-07-15T18:35:00.000Z"
-      },
-      {
-        "title": "De vuurlinie\n                        Drama",
-        "start": "2026-07-15T18:35:00.000Z",
-        "end": "2026-07-15T18:50:00.000Z"
-      },
       {
         "title": "WK voetbal: Engeland - Argentinië",
         "start": "2026-07-15T18:50:00.000Z",
@@ -32,29 +12,29 @@
         "title": "WK voetbal: Engeland - Argentinië",
         "start": "2026-07-15T19:25:00.000Z",
         "end": "2026-07-15T19:55:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Engeland - Argentinië",
+        "start": "2026-07-15T19:55:00.000Z",
+        "end": "2026-07-15T20:00:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Engeland - Argentinië",
+        "start": "2026-07-15T20:00:00.000Z",
+        "end": "2026-07-15T20:30:00.000Z"
+      },
+      {
+        "title": "WK voetbal: Engeland - Argentinië",
+        "start": "2026-07-15T20:30:00.000Z",
+        "end": "2026-07-15T20:35:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-07-15T20:35:00.000Z",
+        "end": "2026-07-15T21:10:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nu te zien!",
-        "start": "2026-07-15T17:45:00.000Z",
-        "end": "2026-07-15T17:50:00.000Z"
-      },
-      {
-        "title": "Wildernis onder water",
-        "start": "2026-07-15T17:50:00.000Z",
-        "end": "2026-07-15T18:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-15T18:00:00.000Z",
-        "end": "2026-07-15T18:25:00.000Z"
-      },
-      {
-        "title": "Mocronado's",
-        "start": "2026-07-15T18:25:00.000Z",
-        "end": "2026-07-15T18:35:00.000Z"
-      },
       {
         "title": "Shetland",
         "start": "2026-07-15T18:35:00.000Z",
@@ -69,19 +49,19 @@
         "title": "Hello goodbye",
         "start": "2026-07-15T19:30:00.000Z",
         "end": "2026-07-15T20:00:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-07-15T20:00:00.000Z",
+        "end": "2026-07-15T20:40:00.000Z"
+      },
+      {
+        "title": "Adieu! Volgende kaart",
+        "start": "2026-07-15T20:40:00.000Z",
+        "end": "2026-07-15T21:15:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Gezond of gelul?",
-        "start": "2026-07-15T17:25:00.000Z",
-        "end": "2026-07-15T18:00:00.000Z"
-      },
-      {
-        "title": "Dertigers",
-        "start": "2026-07-15T18:00:00.000Z",
-        "end": "2026-07-15T18:30:00.000Z"
-      },
       {
         "title": "De slimste mens België",
         "start": "2026-07-15T18:30:00.000Z",
@@ -91,119 +71,124 @@
         "title": "Au pairs",
         "start": "2026-07-15T19:40:00.000Z",
         "end": "2026-07-15T20:30:00.000Z"
+      },
+      {
+        "title": "Dertigers",
+        "start": "2026-07-15T20:30:00.000Z",
+        "end": "2026-07-15T20:35:00.000Z"
+      },
+      {
+        "title": "Dertigers",
+        "start": "2026-07-15T20:35:00.000Z",
+        "end": "2026-07-15T21:05:00.000Z"
+      },
+      {
+        "title": "De slimste mens België",
+        "start": "2026-07-15T21:05:00.000Z",
+        "end": "2026-07-15T21:10:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "RTL Nieuws",
-        "start": "2026-07-15T17:30:00.000Z",
-        "end": "2026-07-15T17:57:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-07-15T17:57:00.000Z",
-        "end": "2026-07-15T17:58:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-07-15T17:58:00.000Z",
-        "end": "2026-07-15T18:01:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-07-15T18:01:00.000Z",
-        "end": "2026-07-15T18:02:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-07-15T18:02:00.000Z",
-        "end": "2026-07-15T18:34:00.000Z"
-      },
-      {
-        "title": "B&B vol liefde: Hoe is het nu met?",
-        "start": "2026-07-15T18:34:00.000Z",
-        "end": "2026-07-15T18:35:00.000Z"
-      },
-      {
         "title": "Het perfecte plaatje op reis",
         "start": "2026-07-15T18:35:00.000Z",
         "end": "2026-07-15T20:04:00.000Z"
+      },
+      {
+        "title": "Kopen of slopen",
+        "start": "2026-07-15T20:04:00.000Z",
+        "end": "2026-07-15T20:09:00.000Z"
+      },
+      {
+        "title": "Kopen of slopen",
+        "start": "2026-07-15T20:09:00.000Z",
+        "end": "2026-07-15T21:26:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "De Pfaff's",
-        "start": "2026-07-15T17:45:00.000Z",
-        "end": "2026-07-15T17:47:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-07-15T17:47:00.000Z",
-        "end": "2026-07-15T18:28:00.000Z"
-      },
-      {
-        "title": "De augurkenkoning",
-        "start": "2026-07-15T18:28:00.000Z",
-        "end": "2026-07-15T18:30:00.000Z"
-      },
-      {
         "title": "Ewout: Gevaarlijke gevangenissen",
         "start": "2026-07-15T18:30:00.000Z",
         "end": "2026-07-15T19:55:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-07-15T19:55:00.000Z",
+        "end": "2026-07-15T20:18:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-15T20:18:00.000Z",
+        "end": "2026-07-15T20:29:00.000Z"
+      },
+      {
+        "title": "24 uur in de ER",
+        "start": "2026-07-15T20:29:00.000Z",
+        "end": "2026-07-15T21:37:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Pawn stars",
-        "start": "2026-07-15T17:32:00.000Z",
-        "end": "2026-07-15T18:27:00.000Z"
-      },
-      {
         "title": "Unhinged\n                        Thriller",
         "start": "2026-07-15T18:27:00.000Z",
         "end": "2026-07-15T20:08:00.000Z"
+      },
+      {
+        "title": "Poker Face\n                        Thriller",
+        "start": "2026-07-15T20:08:00.000Z",
+        "end": "2026-07-15T20:09:00.000Z"
+      },
+      {
+        "title": "Follow Me\n                        Horror",
+        "start": "2026-07-15T20:09:00.000Z",
+        "end": "2026-07-15T20:26:00.000Z"
+      },
+      {
+        "title": "Escape Room\n                        Horror",
+        "start": "2026-07-15T20:26:00.000Z",
+        "end": "2026-07-15T21:56:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Bed & breakfast België",
-        "start": "2026-07-15T17:31:00.000Z",
-        "end": "2026-07-15T18:25:00.000Z"
-      },
-      {
         "title": "Vera",
         "start": "2026-07-15T18:25:00.000Z",
         "end": "2026-07-15T20:19:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-07-15T20:19:00.000Z",
+        "end": "2026-07-15T20:23:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-07-15T20:23:00.000Z",
+        "end": "2026-07-15T21:13:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "Shownieuws",
-        "start": "2026-07-15T17:19:00.000Z",
-        "end": "2026-07-15T18:00:00.000Z"
-      },
-      {
-        "title": "Vandaag inside Oranje",
-        "start": "2026-07-15T18:00:00.000Z",
-        "end": "2026-07-15T19:03:00.000Z"
-      },
-      {
-        "title": "De bondgenoten",
-        "start": "2026-07-15T19:03:00.000Z",
-        "end": "2026-07-15T19:04:00.000Z"
-      },
-      {
         "title": "De bondgenoten",
         "start": "2026-07-15T19:04:00.000Z",
         "end": "2026-07-15T20:25:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-07-15T20:25:00.000Z",
+        "end": "2026-07-15T20:49:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-07-15T20:49:00.000Z",
+        "end": "2026-07-15T21:00:00.000Z"
+      },
+      {
+        "title": "Vandaag inside Oranje",
+        "start": "2026-07-15T21:00:00.000Z",
+        "end": "2026-07-15T21:31:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Het blok Australië",
-        "start": "2026-07-15T17:29:00.000Z",
-        "end": "2026-07-15T18:30:00.000Z"
-      },
       {
         "title": "The rookie",
         "start": "2026-07-15T18:30:00.000Z",
@@ -218,51 +203,36 @@
         "title": "Sullivan's Crossing",
         "start": "2026-07-15T19:27:00.000Z",
         "end": "2026-07-15T20:23:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-07-15T20:23:00.000Z",
+        "end": "2026-07-15T20:26:00.000Z"
+      },
+      {
+        "title": "So help me Todd",
+        "start": "2026-07-15T20:26:00.000Z",
+        "end": "2026-07-15T21:20:00.000Z"
       }
     ],
     "Veronica": [
       {
-        "title": "The big bang theory",
-        "start": "2026-07-15T17:33:00.000Z",
-        "end": "2026-07-15T17:59:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-07-15T17:59:00.000Z",
-        "end": "2026-07-15T18:25:00.000Z"
-      },
-      {
-        "title": "300\n                        Actie",
-        "start": "2026-07-15T18:25:00.000Z",
-        "end": "2026-07-15T18:26:00.000Z"
-      },
-      {
         "title": "Troy\n                        Avontuur",
         "start": "2026-07-15T18:26:00.000Z",
         "end": "2026-07-15T20:28:00.000Z"
+      },
+      {
+        "title": "Wrath of the Titans\n                        Fantasy",
+        "start": "2026-07-15T20:28:00.000Z",
+        "end": "2026-07-15T20:40:00.000Z"
+      },
+      {
+        "title": "300: Rise of an Empire\n                        Actie",
+        "start": "2026-07-15T20:40:00.000Z",
+        "end": "2026-07-15T22:19:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-07-15T17:30:00.000Z",
-        "end": "2026-07-15T18:00:00.000Z"
-      },
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-07-15T18:00:00.000Z",
-        "end": "2026-07-15T18:30:00.000Z"
-      },
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-07-15T18:30:00.000Z",
-        "end": "2026-07-15T18:55:00.000Z"
-      },
-      {
-        "title": "Talking Movies",
-        "start": "2026-07-15T18:55:00.000Z",
-        "end": "2026-07-15T19:00:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-07-15T19:00:00.000Z",
@@ -272,23 +242,48 @@
         "title": "The Context USA",
         "start": "2026-07-15T19:30:00.000Z",
         "end": "2026-07-15T20:00:00.000Z"
+      },
+      {
+        "title": "The Context with Christian Fraser",
+        "start": "2026-07-15T20:00:00.000Z",
+        "end": "2026-07-15T20:30:00.000Z"
+      },
+      {
+        "title": "The Context with Christian Fraser",
+        "start": "2026-07-15T20:30:00.000Z",
+        "end": "2026-07-15T20:55:00.000Z"
+      },
+      {
+        "title": "Talking Movies",
+        "start": "2026-07-15T20:55:00.000Z",
+        "end": "2026-07-15T21:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-07-15T21:00:00.000Z",
+        "end": "2026-07-15T21:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Amanpour",
-        "start": "2026-07-15T17:00:00.000Z",
-        "end": "2026-07-15T18:00:00.000Z"
-      },
-      {
-        "title": "Isa Soares Tonight",
-        "start": "2026-07-15T18:00:00.000Z",
-        "end": "2026-07-15T19:00:00.000Z"
-      },
-      {
         "title": "What We Know with Max Foster",
         "start": "2026-07-15T19:00:00.000Z",
         "end": "2026-07-15T20:00:00.000Z"
+      },
+      {
+        "title": "Quest Means Business",
+        "start": "2026-07-15T20:00:00.000Z",
+        "end": "2026-07-15T20:45:00.000Z"
+      },
+      {
+        "title": "Marketplace Asia",
+        "start": "2026-07-15T20:45:00.000Z",
+        "end": "2026-07-15T21:00:00.000Z"
+      },
+      {
+        "title": "The Lead with Jake Tapper",
+        "start": "2026-07-15T21:00:00.000Z",
+        "end": "2026-07-15T21:30:00.000Z"
       }
     ]
   }
