@@ -1,18 +1,8 @@
 {
-  "generated": "2026-07-22T18:39:56.310Z",
+  "generated": "2026-07-22T20:10:08.757Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Het gevoel van de Vierdaagse",
-        "start": "2026-07-22T18:35:00.000Z",
-        "end": "2026-07-22T19:05:00.000Z"
-      },
-      {
-        "title": "Keuringsdienst van waarde",
-        "start": "2026-07-22T19:05:00.000Z",
-        "end": "2026-07-22T19:40:00.000Z"
-      },
       {
         "title": "De avondetappe",
         "start": "2026-07-22T19:40:00.000Z",
@@ -22,41 +12,61 @@
         "title": "Goedenavond Nederland",
         "start": "2026-07-22T20:35:00.000Z",
         "end": "2026-07-22T21:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-07-22T21:30:00.000Z",
+        "end": "2026-07-22T21:55:00.000Z"
+      },
+      {
+        "title": "De avondetappe",
+        "start": "2026-07-22T21:55:00.000Z",
+        "end": "2026-07-22T22:00:00.000Z"
+      },
+      {
+        "title": "De avondetappe",
+        "start": "2026-07-22T22:00:00.000Z",
+        "end": "2026-07-22T22:50:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Mocronado's",
-        "start": "2026-07-22T18:25:00.000Z",
-        "end": "2026-07-22T19:15:00.000Z"
-      },
-      {
-        "title": "Zembla",
-        "start": "2026-07-22T19:15:00.000Z",
-        "end": "2026-07-22T19:35:00.000Z"
-      },
-      {
-        "title": "Hello goodbye",
-        "start": "2026-07-22T19:35:00.000Z",
-        "end": "2026-07-22T20:00:00.000Z"
-      },
-      {
         "title": "Nieuwsuur",
         "start": "2026-07-22T20:00:00.000Z",
         "end": "2026-07-22T20:40:00.000Z"
+      },
+      {
+        "title": "Adieu! Volgende kaart",
+        "start": "2026-07-22T20:40:00.000Z",
+        "end": "2026-07-22T21:15:00.000Z"
+      },
+      {
+        "title": "Van boerenkool tot kurkuma",
+        "start": "2026-07-22T21:15:00.000Z",
+        "end": "2026-07-22T21:25:00.000Z"
+      },
+      {
+        "title": "The capture",
+        "start": "2026-07-22T21:25:00.000Z",
+        "end": "2026-07-22T21:40:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-07-22T21:40:00.000Z",
+        "end": "2026-07-22T21:50:00.000Z"
+      },
+      {
+        "title": "Zentijd",
+        "start": "2026-07-22T21:50:00.000Z",
+        "end": "2026-07-22T22:00:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-07-22T22:00:00.000Z",
+        "end": "2026-07-22T22:15:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "De slimste mens België",
-        "start": "2026-07-22T18:25:00.000Z",
-        "end": "2026-07-22T19:24:00.000Z"
-      },
-      {
-        "title": "Wildlife",
-        "start": "2026-07-22T19:24:00.000Z",
-        "end": "2026-07-22T19:30:00.000Z"
-      },
       {
         "title": "Wildlife",
         "start": "2026-07-22T19:30:00.000Z",
@@ -71,14 +81,24 @@
         "title": "Nog één keer fit",
         "start": "2026-07-22T20:30:00.000Z",
         "end": "2026-07-22T21:10:00.000Z"
+      },
+      {
+        "title": "De slimste mens België",
+        "start": "2026-07-22T21:10:00.000Z",
+        "end": "2026-07-22T21:15:00.000Z"
+      },
+      {
+        "title": "De slimste mens België",
+        "start": "2026-07-22T21:15:00.000Z",
+        "end": "2026-07-22T21:20:00.000Z"
+      },
+      {
+        "title": "De slimste mens België",
+        "start": "2026-07-22T21:20:00.000Z",
+        "end": "2026-07-22T22:15:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-07-22T18:01:00.000Z",
-        "end": "2026-07-22T18:54:00.000Z"
-      },
       {
         "title": "B&B vol liefde",
         "start": "2026-07-22T18:54:00.000Z",
@@ -93,14 +113,39 @@
         "title": "Nederland met vakantie",
         "start": "2026-07-22T20:21:00.000Z",
         "end": "2026-07-22T21:11:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-07-22T21:11:00.000Z",
+        "end": "2026-07-22T21:12:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-07-22T21:12:00.000Z",
+        "end": "2026-07-22T21:26:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-22T21:26:00.000Z",
+        "end": "2026-07-22T21:29:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-22T21:29:00.000Z",
+        "end": "2026-07-22T21:30:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-07-22T21:30:00.000Z",
+        "end": "2026-07-22T21:33:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-07-22T21:33:00.000Z",
+        "end": "2026-07-22T22:14:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Ewout: Gevaarlijke gevangenissen",
-        "start": "2026-07-22T18:30:00.000Z",
-        "end": "2026-07-22T19:55:00.000Z"
-      },
       {
         "title": "112 vandaag",
         "start": "2026-07-22T19:55:00.000Z",
@@ -120,6 +165,46 @@
         "title": "24 uur in de ER",
         "start": "2026-07-22T20:29:00.000Z",
         "end": "2026-07-22T21:35:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-07-22T21:35:00.000Z",
+        "end": "2026-07-22T21:37:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-07-22T21:37:00.000Z",
+        "end": "2026-07-22T21:58:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-22T21:58:00.000Z",
+        "end": "2026-07-22T21:59:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-22T21:59:00.000Z",
+        "end": "2026-07-22T22:00:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-22T22:00:00.000Z",
+        "end": "2026-07-22T22:02:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-07-22T22:02:00.000Z",
+        "end": "2026-07-22T22:03:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-07-22T22:03:00.000Z",
+        "end": "2026-07-22T22:04:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-07-22T22:04:00.000Z",
+        "end": "2026-07-22T23:09:00.000Z"
       }
     ],
     "RTL 7": [
@@ -137,6 +222,16 @@
         "title": "Apex Predator\n                        Actie",
         "start": "2026-07-22T20:24:00.000Z",
         "end": "2026-07-22T20:55:00.000Z"
+      },
+      {
+        "title": "Escape from Pretoria\n                        Actie",
+        "start": "2026-07-22T20:55:00.000Z",
+        "end": "2026-07-22T22:06:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-07-22T22:06:00.000Z",
+        "end": "2026-07-22T22:20:00.000Z"
       }
     ],
     "RTL 8": [
@@ -154,14 +249,34 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-07-22T20:23:00.000Z",
         "end": "2026-07-22T21:05:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-07-22T21:05:00.000Z",
+        "end": "2026-07-22T21:16:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-07-22T21:16:00.000Z",
+        "end": "2026-07-22T21:42:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-07-22T21:42:00.000Z",
+        "end": "2026-07-22T21:59:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-07-22T21:59:00.000Z",
+        "end": "2026-07-22T22:02:00.000Z"
+      },
+      {
+        "title": "Endeavour Morse",
+        "start": "2026-07-22T22:02:00.000Z",
+        "end": "2026-07-22T22:43:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De bondgenoten",
-        "start": "2026-07-22T18:02:00.000Z",
-        "end": "2026-07-22T19:18:00.000Z"
-      },
       {
         "title": "De Oranjezomer",
         "start": "2026-07-22T19:18:00.000Z",
@@ -171,19 +286,24 @@
         "title": "Hart van Nederland",
         "start": "2026-07-22T20:30:00.000Z",
         "end": "2026-07-22T20:48:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-07-22T20:48:00.000Z",
+        "end": "2026-07-22T21:45:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-07-22T21:45:00.000Z",
+        "end": "2026-07-22T21:46:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-07-22T21:46:00.000Z",
+        "end": "2026-07-22T22:50:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "The rookie",
-        "start": "2026-07-22T18:25:00.000Z",
-        "end": "2026-07-22T19:21:00.000Z"
-      },
-      {
-        "title": "The rookie",
-        "start": "2026-07-22T19:21:00.000Z",
-        "end": "2026-07-22T19:23:00.000Z"
-      },
       {
         "title": "Sullivan's Crossing",
         "start": "2026-07-22T19:23:00.000Z",
@@ -198,6 +318,31 @@
         "title": "So help me Todd",
         "start": "2026-07-22T20:21:00.000Z",
         "end": "2026-07-22T21:17:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-07-22T21:17:00.000Z",
+        "end": "2026-07-22T21:19:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-07-22T21:19:00.000Z",
+        "end": "2026-07-22T21:23:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-07-22T21:23:00.000Z",
+        "end": "2026-07-22T22:04:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin: Pairi Daiza",
+        "start": "2026-07-22T22:04:00.000Z",
+        "end": "2026-07-22T22:07:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin: Pairi Daiza",
+        "start": "2026-07-22T22:07:00.000Z",
+        "end": "2026-07-22T22:11:00.000Z"
       }
     ],
     "Veronica": [
@@ -224,26 +369,6 @@
     ],
     "BBC News": [
       {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-07-22T18:30:00.000Z",
-        "end": "2026-07-22T18:55:00.000Z"
-      },
-      {
-        "title": "Talking Movies",
-        "start": "2026-07-22T18:55:00.000Z",
-        "end": "2026-07-22T19:00:00.000Z"
-      },
-      {
-        "title": "The Context USA",
-        "start": "2026-07-22T19:00:00.000Z",
-        "end": "2026-07-22T19:30:00.000Z"
-      },
-      {
-        "title": "The Context USA",
-        "start": "2026-07-22T19:30:00.000Z",
-        "end": "2026-07-22T20:00:00.000Z"
-      },
-      {
         "title": "The Context with Christian Fraser",
         "start": "2026-07-22T20:00:00.000Z",
         "end": "2026-07-22T20:30:00.000Z"
@@ -252,23 +377,53 @@
         "title": "The Context with Christian Fraser",
         "start": "2026-07-22T20:30:00.000Z",
         "end": "2026-07-22T20:55:00.000Z"
+      },
+      {
+        "title": "Talking Movies",
+        "start": "2026-07-22T20:55:00.000Z",
+        "end": "2026-07-22T21:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-07-22T21:00:00.000Z",
+        "end": "2026-07-22T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-07-22T21:30:00.000Z",
+        "end": "2026-07-22T22:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-07-22T22:00:00.000Z",
+        "end": "2026-07-22T23:00:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Isa Soares Tonight",
-        "start": "2026-07-22T18:00:00.000Z",
-        "end": "2026-07-22T19:00:00.000Z"
-      },
-      {
-        "title": "What We Know with Max Foster",
-        "start": "2026-07-22T19:00:00.000Z",
-        "end": "2026-07-22T20:00:00.000Z"
-      },
-      {
         "title": "Quest Means Business",
         "start": "2026-07-22T20:00:00.000Z",
         "end": "2026-07-22T20:45:00.000Z"
+      },
+      {
+        "title": "CNN Marketplace Europe",
+        "start": "2026-07-22T20:45:00.000Z",
+        "end": "2026-07-22T21:00:00.000Z"
+      },
+      {
+        "title": "The Lead with Jake Tapper",
+        "start": "2026-07-22T21:00:00.000Z",
+        "end": "2026-07-22T21:30:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-07-22T21:30:00.000Z",
+        "end": "2026-07-22T22:00:00.000Z"
+      },
+      {
+        "title": "The Brief with Jim Sciutto",
+        "start": "2026-07-22T22:00:00.000Z",
+        "end": "2026-07-22T23:00:00.000Z"
       }
     ]
   }
