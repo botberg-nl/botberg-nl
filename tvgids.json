@@ -1,18 +1,8 @@
 {
-  "generated": "2026-07-25T09:43:32.734Z",
+  "generated": "2026-07-25T11:07:06.924Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Tour de France\n                                                                            20e etappe van Bourg d'Oissans - Aple D'Huez over 171 km",
-        "start": "2026-07-25T09:15:00.000Z",
-        "end": "2026-07-25T10:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-25T10:00:00.000Z",
-        "end": "2026-07-25T10:10:00.000Z"
-      },
       {
         "title": "Het filosofisch kwintet",
         "start": "2026-07-25T10:10:00.000Z",
@@ -27,44 +17,19 @@
         "title": "Zomercarnaval Rotterdam",
         "start": "2026-07-25T11:40:00.000Z",
         "end": "2026-07-25T12:00:00.000Z"
+      },
+      {
+        "title": "Zomercarnaval Rotterdam",
+        "start": "2026-07-25T12:00:00.000Z",
+        "end": "2026-07-25T12:55:00.000Z"
+      },
+      {
+        "title": "Golden Earring - One last night",
+        "start": "2026-07-25T12:55:00.000Z",
+        "end": "2026-07-25T13:55:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-07-25T09:30:00.000Z",
-        "end": "2026-07-25T09:45:00.000Z"
-      },
-      {
-        "title": "De verandering",
-        "start": "2026-07-25T09:45:00.000Z",
-        "end": "2026-07-25T09:58:00.000Z"
-      },
-      {
-        "title": "Wilde Ganzen",
-        "start": "2026-07-25T09:58:00.000Z",
-        "end": "2026-07-25T10:00:00.000Z"
-      },
-      {
-        "title": "Adieu! Volgende kaart",
-        "start": "2026-07-25T10:00:00.000Z",
-        "end": "2026-07-25T10:15:00.000Z"
-      },
-      {
-        "title": "Wat houdt ons tegen?",
-        "start": "2026-07-25T10:15:00.000Z",
-        "end": "2026-07-25T10:35:00.000Z"
-      },
-      {
-        "title": "10 jaar volle zalen",
-        "start": "2026-07-25T10:35:00.000Z",
-        "end": "2026-07-25T10:40:00.000Z"
-      },
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-07-25T10:40:00.000Z",
-        "end": "2026-07-25T11:00:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-07-25T11:00:00.000Z",
@@ -79,29 +44,34 @@
         "title": "Fryslân dok",
         "start": "2026-07-25T11:20:00.000Z",
         "end": "2026-07-25T11:55:00.000Z"
+      },
+      {
+        "title": "Meldpunt actueel",
+        "start": "2026-07-25T11:55:00.000Z",
+        "end": "2026-07-25T12:00:00.000Z"
+      },
+      {
+        "title": "Ruben en de verborgen strijd van Myanmar",
+        "start": "2026-07-25T12:00:00.000Z",
+        "end": "2026-07-25T12:20:00.000Z"
+      },
+      {
+        "title": "MAX Maakt Mogelijk helpt",
+        "start": "2026-07-25T12:20:00.000Z",
+        "end": "2026-07-25T12:40:00.000Z"
+      },
+      {
+        "title": "Sporen van slavernij",
+        "start": "2026-07-25T12:40:00.000Z",
+        "end": "2026-07-25T12:50:00.000Z"
+      },
+      {
+        "title": "Kloostergasten",
+        "start": "2026-07-25T12:50:00.000Z",
+        "end": "2026-07-25T13:25:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Grizzy en de lemmingen",
-        "start": "2026-07-25T09:40:00.000Z",
-        "end": "2026-07-25T09:45:00.000Z"
-      },
-      {
-        "title": "Molmans",
-        "start": "2026-07-25T09:45:00.000Z",
-        "end": "2026-07-25T09:55:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-07-25T09:55:00.000Z",
-        "end": "2026-07-25T10:00:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-07-25T10:00:00.000Z",
-        "end": "2026-07-25T10:05:00.000Z"
-      },
       {
         "title": "Zappbios: Kruimeltje\n                        Familie",
         "start": "2026-07-25T10:05:00.000Z",
@@ -116,24 +86,49 @@
         "title": "Studio snugger",
         "start": "2026-07-25T11:35:00.000Z",
         "end": "2026-07-25T11:45:00.000Z"
+      },
+      {
+        "title": "Summer break",
+        "start": "2026-07-25T11:45:00.000Z",
+        "end": "2026-07-25T11:50:00.000Z"
+      },
+      {
+        "title": "De dodelijkste 60",
+        "start": "2026-07-25T11:50:00.000Z",
+        "end": "2026-07-25T12:00:00.000Z"
+      },
+      {
+        "title": "Summer break",
+        "start": "2026-07-25T12:00:00.000Z",
+        "end": "2026-07-25T12:15:00.000Z"
+      },
+      {
+        "title": "Summer break",
+        "start": "2026-07-25T12:15:00.000Z",
+        "end": "2026-07-25T12:20:00.000Z"
+      },
+      {
+        "title": "De achterblijvers",
+        "start": "2026-07-25T12:20:00.000Z",
+        "end": "2026-07-25T12:30:00.000Z"
+      },
+      {
+        "title": "Summer break",
+        "start": "2026-07-25T12:30:00.000Z",
+        "end": "2026-07-25T12:40:00.000Z"
+      },
+      {
+        "title": "Bon dia brugklas! weekoverzicht",
+        "start": "2026-07-25T12:40:00.000Z",
+        "end": "2026-07-25T12:55:00.000Z"
+      },
+      {
+        "title": "Junior songfestival",
+        "start": "2026-07-25T12:55:00.000Z",
+        "end": "2026-07-25T13:25:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "De mooiste wegen",
-        "start": "2026-07-25T09:28:00.000Z",
-        "end": "2026-07-25T10:00:00.000Z"
-      },
-      {
-        "title": "Varend corso weekjournaal",
-        "start": "2026-07-25T10:00:00.000Z",
-        "end": "2026-07-25T10:29:00.000Z"
-      },
-      {
-        "title": "Van buiten dromen!",
-        "start": "2026-07-25T10:29:00.000Z",
-        "end": "2026-07-25T10:58:00.000Z"
-      },
       {
         "title": "Way of living",
         "start": "2026-07-25T10:58:00.000Z",
@@ -148,41 +143,56 @@
         "title": "Van woonvilla naar droomvilla",
         "start": "2026-07-25T11:30:00.000Z",
         "end": "2026-07-25T11:57:00.000Z"
+      },
+      {
+        "title": "Knappe koppen",
+        "start": "2026-07-25T11:57:00.000Z",
+        "end": "2026-07-25T11:58:00.000Z"
+      },
+      {
+        "title": "Thuis voor jou",
+        "start": "2026-07-25T11:58:00.000Z",
+        "end": "2026-07-25T12:28:00.000Z"
+      },
+      {
+        "title": "Franky en Coen: Patatje hoop",
+        "start": "2026-07-25T12:28:00.000Z",
+        "end": "2026-07-25T12:30:00.000Z"
+      },
+      {
+        "title": "De cruise familie",
+        "start": "2026-07-25T12:30:00.000Z",
+        "end": "2026-07-25T12:59:00.000Z"
+      },
+      {
+        "title": "Let's visit",
+        "start": "2026-07-25T12:59:00.000Z",
+        "end": "2026-07-25T13:00:00.000Z"
+      },
+      {
+        "title": "Cruise life",
+        "start": "2026-07-25T13:00:00.000Z",
+        "end": "2026-07-25T13:29:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-07-25T08:06:00.000Z",
-        "end": "2026-07-25T11:00:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Telvero",
         "start": "2026-07-25T11:00:00.000Z",
         "end": "2026-07-25T12:01:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Telvero",
+        "start": "2026-07-25T12:01:00.000Z",
+        "end": "2026-07-25T12:30:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-07-25T12:30:00.000Z",
+        "end": "2026-07-25T13:26:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-07-25T09:23:00.000Z",
-        "end": "2026-07-25T09:53:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-07-25T09:53:00.000Z",
-        "end": "2026-07-25T10:23:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-07-25T10:23:00.000Z",
-        "end": "2026-07-25T10:54:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-07-25T10:54:00.000Z",
-        "end": "2026-07-25T11:00:00.000Z"
-      },
       {
         "title": "Innoverend Nederland",
         "start": "2026-07-25T11:00:00.000Z",
@@ -197,19 +207,39 @@
         "title": "Idioten op de weg",
         "start": "2026-07-25T11:30:00.000Z",
         "end": "2026-07-25T11:56:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-07-25T11:56:00.000Z",
+        "end": "2026-07-25T12:01:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-07-25T12:01:00.000Z",
+        "end": "2026-07-25T12:27:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-07-25T12:27:00.000Z",
+        "end": "2026-07-25T12:32:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-07-25T12:32:00.000Z",
+        "end": "2026-07-25T12:57:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-07-25T12:57:00.000Z",
+        "end": "2026-07-25T13:03:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-07-25T13:03:00.000Z",
+        "end": "2026-07-25T13:28:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop",
-        "start": "2026-07-25T04:16:00.000Z",
-        "end": "2026-07-25T11:00:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-07-25T11:00:00.000Z",
-        "end": "2026-07-25T11:01:00.000Z"
-      },
       {
         "title": "Teleshop 8: Telvero",
         "start": "2026-07-25T11:01:00.000Z",
@@ -217,31 +247,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-07-25T09:35:00.000Z",
-        "end": "2026-07-25T10:00:00.000Z"
-      },
-      {
-        "title": "Levende Steen ministries",
-        "start": "2026-07-25T10:00:00.000Z",
-        "end": "2026-07-25T10:05:00.000Z"
-      },
-      {
-        "title": "Verkopen of verbouwen",
-        "start": "2026-07-25T10:05:00.000Z",
-        "end": "2026-07-25T10:26:00.000Z"
-      },
-      {
-        "title": "Man bijt hond",
-        "start": "2026-07-25T10:26:00.000Z",
-        "end": "2026-07-25T10:38:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-07-25T10:38:00.000Z",
-        "end": "2026-07-25T11:05:00.000Z"
-      },
       {
         "title": "De grote verbouwing Nieuw-Zeeland",
         "start": "2026-07-25T11:05:00.000Z",
@@ -251,29 +256,19 @@
         "title": "Verkopen of verbouwen",
         "start": "2026-07-25T11:10:00.000Z",
         "end": "2026-07-25T12:00:00.000Z"
+      },
+      {
+        "title": "Moordfeest",
+        "start": "2026-07-25T12:00:00.000Z",
+        "end": "2026-07-25T12:10:00.000Z"
+      },
+      {
+        "title": "De grote verbouwing",
+        "start": "2026-07-25T12:10:00.000Z",
+        "end": "2026-07-25T13:08:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Home and away",
-        "start": "2026-07-25T09:17:00.000Z",
-        "end": "2026-07-25T09:46:00.000Z"
-      },
-      {
-        "title": "Home and away",
-        "start": "2026-07-25T09:46:00.000Z",
-        "end": "2026-07-25T09:49:00.000Z"
-      },
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-07-25T09:49:00.000Z",
-        "end": "2026-07-25T10:15:00.000Z"
-      },
-      {
-        "title": "Gilmore girls",
-        "start": "2026-07-25T10:15:00.000Z",
-        "end": "2026-07-25T10:50:00.000Z"
-      },
       {
         "title": "vtwonen weer verliefd op je huis",
         "start": "2026-07-25T10:50:00.000Z",
@@ -283,6 +278,21 @@
         "title": "Gilmore girls",
         "start": "2026-07-25T11:11:00.000Z",
         "end": "2026-07-25T11:47:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-07-25T11:47:00.000Z",
+        "end": "2026-07-25T12:10:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-07-25T12:10:00.000Z",
+        "end": "2026-07-25T12:49:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-07-25T12:49:00.000Z",
+        "end": "2026-07-25T13:09:00.000Z"
       }
     ],
     "Veronica": [
@@ -294,26 +304,6 @@
     ],
     "BBC News": [
       {
-        "title": "The Climate Question",
-        "start": "2026-07-25T09:30:00.000Z",
-        "end": "2026-07-25T10:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-07-25T10:00:00.000Z",
-        "end": "2026-07-25T10:30:00.000Z"
-      },
-      {
-        "title": "Path to the Presidency",
-        "start": "2026-07-25T10:30:00.000Z",
-        "end": "2026-07-25T10:45:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-07-25T10:45:00.000Z",
-        "end": "2026-07-25T11:00:00.000Z"
-      },
-      {
         "title": "BBC news",
         "start": "2026-07-25T11:00:00.000Z",
         "end": "2026-07-25T11:30:00.000Z"
@@ -322,28 +312,38 @@
         "title": "The Media Show",
         "start": "2026-07-25T11:30:00.000Z",
         "end": "2026-07-25T12:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-07-25T12:00:00.000Z",
+        "end": "2026-07-25T12:30:00.000Z"
+      },
+      {
+        "title": "The travel show",
+        "start": "2026-07-25T12:30:00.000Z",
+        "end": "2026-07-25T13:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-07-25T13:00:00.000Z",
+        "end": "2026-07-25T13:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "CNN Newsroom",
-        "start": "2026-07-25T09:00:00.000Z",
-        "end": "2026-07-25T10:00:00.000Z"
-      },
-      {
-        "title": "Dr. Sanjay Gupta Reports: Weed 8: Women & Weed",
-        "start": "2026-07-25T10:00:00.000Z",
-        "end": "2026-07-25T10:30:00.000Z"
-      },
-      {
-        "title": "Inside Africa",
-        "start": "2026-07-25T10:30:00.000Z",
-        "end": "2026-07-25T11:00:00.000Z"
-      },
-      {
         "title": "CNN This Morning Weekend",
         "start": "2026-07-25T11:00:00.000Z",
         "end": "2026-07-25T12:00:00.000Z"
+      },
+      {
+        "title": "Inside Politics",
+        "start": "2026-07-25T12:00:00.000Z",
+        "end": "2026-07-25T13:00:00.000Z"
+      },
+      {
+        "title": "U.S. State of the Union Address",
+        "start": "2026-07-25T13:00:00.000Z",
+        "end": "2026-07-25T14:00:00.000Z"
       }
     ]
   }
