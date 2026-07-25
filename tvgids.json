@@ -1,23 +1,8 @@
 {
-  "generated": "2026-07-25T18:29:59.569Z",
+  "generated": "2026-07-25T19:46:41.426Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "De avondetappe",
-        "start": "2026-07-25T18:25:00.000Z",
-        "end": "2026-07-25T18:30:00.000Z"
-      },
-      {
-        "title": "Zomercarnaval Rotterdam 2026",
-        "start": "2026-07-25T18:30:00.000Z",
-        "end": "2026-07-25T19:20:00.000Z"
-      },
-      {
-        "title": "Tussen kunst en kitsch",
-        "start": "2026-07-25T19:20:00.000Z",
-        "end": "2026-07-25T19:25:00.000Z"
-      },
       {
         "title": "De avondetappe",
         "start": "2026-07-25T19:25:00.000Z",
@@ -32,19 +17,34 @@
         "title": "Golden Earring - One last night",
         "start": "2026-07-25T20:20:00.000Z",
         "end": "2026-07-25T20:45:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-07-25T20:45:00.000Z",
+        "end": "2026-07-25T21:00:00.000Z"
+      },
+      {
+        "title": "MAX Vakantieman",
+        "start": "2026-07-25T21:00:00.000Z",
+        "end": "2026-07-25T21:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-07-25T21:30:00.000Z",
+        "end": "2026-07-25T21:35:00.000Z"
+      },
+      {
+        "title": "De avondetappe",
+        "start": "2026-07-25T21:35:00.000Z",
+        "end": "2026-07-25T21:40:00.000Z"
+      },
+      {
+        "title": "De avondetappe",
+        "start": "2026-07-25T21:40:00.000Z",
+        "end": "2026-07-25T21:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Zomergasten",
-        "start": "2026-07-25T18:20:00.000Z",
-        "end": "2026-07-25T18:35:00.000Z"
-      },
-      {
-        "title": "Ruben en de verborgen strijd van Myanmar",
-        "start": "2026-07-25T18:35:00.000Z",
-        "end": "2026-07-25T19:25:00.000Z"
-      },
       {
         "title": "Kloostergasten",
         "start": "2026-07-25T19:25:00.000Z",
@@ -54,19 +54,19 @@
         "title": "Nieuwsuur",
         "start": "2026-07-25T20:00:00.000Z",
         "end": "2026-07-25T20:40:00.000Z"
+      },
+      {
+        "title": "Leven tot het laatst",
+        "start": "2026-07-25T20:40:00.000Z",
+        "end": "2026-07-25T21:25:00.000Z"
+      },
+      {
+        "title": "NPO Doc: Jacinda Ardern, prime minister",
+        "start": "2026-07-25T21:25:00.000Z",
+        "end": "2026-07-25T22:10:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Karen Pirie",
-        "start": "2026-07-25T18:25:00.000Z",
-        "end": "2026-07-25T18:35:00.000Z"
-      },
-      {
-        "title": "De verloskundigen",
-        "start": "2026-07-25T18:35:00.000Z",
-        "end": "2026-07-25T19:35:00.000Z"
-      },
       {
         "title": "Ik val niet, ik dans",
         "start": "2026-07-25T19:35:00.000Z",
@@ -81,19 +81,24 @@
         "title": "Tropenjaren",
         "start": "2026-07-25T20:25:00.000Z",
         "end": "2026-07-25T21:00:00.000Z"
+      },
+      {
+        "title": "Holy sh!t",
+        "start": "2026-07-25T21:00:00.000Z",
+        "end": "2026-07-25T21:15:00.000Z"
+      },
+      {
+        "title": "De slimste mens België",
+        "start": "2026-07-25T21:15:00.000Z",
+        "end": "2026-07-25T21:35:00.000Z"
+      },
+      {
+        "title": "Shadowland",
+        "start": "2026-07-25T21:35:00.000Z",
+        "end": "2026-07-25T22:25:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Oh, wat een jaar!",
-        "start": "2026-07-25T18:07:00.000Z",
-        "end": "2026-07-25T19:13:00.000Z"
-      },
-      {
-        "title": "Vals spel",
-        "start": "2026-07-25T19:13:00.000Z",
-        "end": "2026-07-25T19:43:00.000Z"
-      },
       {
         "title": "Ons kent ons",
         "start": "2026-07-25T19:43:00.000Z",
@@ -103,19 +108,44 @@
         "title": "Los het op!",
         "start": "2026-07-25T20:19:00.000Z",
         "end": "2026-07-25T20:38:00.000Z"
+      },
+      {
+        "title": "Beste kijkers",
+        "start": "2026-07-25T20:38:00.000Z",
+        "end": "2026-07-25T21:16:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-07-25T21:16:00.000Z",
+        "end": "2026-07-25T21:25:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-07-25T21:25:00.000Z",
+        "end": "2026-07-25T21:30:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-25T21:30:00.000Z",
+        "end": "2026-07-25T21:34:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-07-25T21:34:00.000Z",
+        "end": "2026-07-25T21:39:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-25T21:39:00.000Z",
+        "end": "2026-07-25T21:43:00.000Z"
+      },
+      {
+        "title": "Beste kijkers",
+        "start": "2026-07-25T21:43:00.000Z",
+        "end": "2026-07-25T22:10:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Ewout: Gevaarlijke gevangenissen",
-        "start": "2026-07-25T18:00:00.000Z",
-        "end": "2026-07-25T18:55:00.000Z"
-      },
-      {
-        "title": "Het interventie team",
-        "start": "2026-07-25T18:55:00.000Z",
-        "end": "2026-07-25T19:24:00.000Z"
-      },
       {
         "title": "Kees van der Spek ontmaskert",
         "start": "2026-07-25T19:24:00.000Z",
@@ -125,6 +155,21 @@
         "title": "Helden van hier: Op interventie",
         "start": "2026-07-25T19:51:00.000Z",
         "end": "2026-07-25T20:53:00.000Z"
+      },
+      {
+        "title": "St. Willebrord: Het mirakel van Brabant",
+        "start": "2026-07-25T20:53:00.000Z",
+        "end": "2026-07-25T20:59:00.000Z"
+      },
+      {
+        "title": "Helden van hier: Op interventie",
+        "start": "2026-07-25T20:59:00.000Z",
+        "end": "2026-07-25T21:37:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-07-25T21:37:00.000Z",
+        "end": "2026-07-25T21:57:00.000Z"
       }
     ],
     "RTL 7": [
@@ -142,6 +187,11 @@
         "title": "De duivel kent geen genade\n                        Western",
         "start": "2026-07-25T20:29:00.000Z",
         "end": "2026-07-25T20:33:00.000Z"
+      },
+      {
+        "title": "De vier vuisten de lucht in\n                        Actiekomedie",
+        "start": "2026-07-25T20:33:00.000Z",
+        "end": "2026-07-25T22:25:00.000Z"
       }
     ],
     "RTL 8": [
@@ -159,31 +209,66 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-07-25T19:56:00.000Z",
         "end": "2026-07-25T20:45:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-07-25T20:45:00.000Z",
+        "end": "2026-07-25T20:50:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-07-25T20:50:00.000Z",
+        "end": "2026-07-25T21:19:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-07-25T21:19:00.000Z",
+        "end": "2026-07-25T21:39:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-07-25T21:39:00.000Z",
+        "end": "2026-07-25T21:43:00.000Z"
+      },
+      {
+        "title": "Endeavour Morse",
+        "start": "2026-07-25T21:43:00.000Z",
+        "end": "2026-07-25T22:04:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "Het jachtseizoen",
-        "start": "2026-07-25T18:29:00.000Z",
-        "end": "2026-07-25T19:24:00.000Z"
-      },
-      {
-        "title": "Postcode Loterij In de ring",
-        "start": "2026-07-25T19:24:00.000Z",
-        "end": "2026-07-25T19:25:00.000Z"
-      },
-      {
         "title": "Mi dushi: Wat is dan liefde?",
         "start": "2026-07-25T19:25:00.000Z",
         "end": "2026-07-25T20:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-07-25T20:30:00.000Z",
+        "end": "2026-07-25T20:34:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-07-25T20:34:00.000Z",
+        "end": "2026-07-25T20:50:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-07-25T20:50:00.000Z",
+        "end": "2026-07-25T20:51:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-07-25T20:51:00.000Z",
+        "end": "2026-07-25T21:46:00.000Z"
+      },
+      {
+        "title": "I've got the music in me",
+        "start": "2026-07-25T21:46:00.000Z",
+        "end": "2026-07-25T21:50:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Pearl Harbor\n                        Oorlog",
-        "start": "2026-07-25T18:00:00.000Z",
-        "end": "2026-07-25T18:56:00.000Z"
-      },
       {
         "title": "NCIS",
         "start": "2026-07-25T18:56:00.000Z",
@@ -193,19 +278,24 @@
         "title": "Soko Köln",
         "start": "2026-07-25T19:53:00.000Z",
         "end": "2026-07-25T20:53:00.000Z"
+      },
+      {
+        "title": "Soko Köln",
+        "start": "2026-07-25T20:53:00.000Z",
+        "end": "2026-07-25T21:17:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-07-25T21:17:00.000Z",
+        "end": "2026-07-25T21:44:00.000Z"
+      },
+      {
+        "title": "Ordinary Joe",
+        "start": "2026-07-25T21:44:00.000Z",
+        "end": "2026-07-25T21:53:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "FBI: International",
-        "start": "2026-07-25T18:00:00.000Z",
-        "end": "2026-07-25T18:56:00.000Z"
-      },
-      {
-        "title": "Baywatch remastered",
-        "start": "2026-07-25T18:56:00.000Z",
-        "end": "2026-07-25T18:57:00.000Z"
-      },
       {
         "title": "FBI: International",
         "start": "2026-07-25T18:57:00.000Z",
@@ -220,24 +310,24 @@
         "title": "Criminal minds",
         "start": "2026-07-25T19:54:00.000Z",
         "end": "2026-07-25T20:39:00.000Z"
+      },
+      {
+        "title": "Ted 2\n                        Komedie",
+        "start": "2026-07-25T20:39:00.000Z",
+        "end": "2026-07-25T20:49:00.000Z"
+      },
+      {
+        "title": "Rescue: HI-surf",
+        "start": "2026-07-25T20:49:00.000Z",
+        "end": "2026-07-25T21:03:00.000Z"
+      },
+      {
+        "title": "The hunting party",
+        "start": "2026-07-25T21:03:00.000Z",
+        "end": "2026-07-25T21:51:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-07-25T18:00:00.000Z",
-        "end": "2026-07-25T18:30:00.000Z"
-      },
-      {
-        "title": "The Climate Question",
-        "start": "2026-07-25T18:30:00.000Z",
-        "end": "2026-07-25T19:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-07-25T19:00:00.000Z",
-        "end": "2026-07-25T19:30:00.000Z"
-      },
       {
         "title": "China's Greatest Treasures",
         "start": "2026-07-25T19:30:00.000Z",
@@ -247,14 +337,19 @@
         "title": "BBC news",
         "start": "2026-07-25T20:00:00.000Z",
         "end": "2026-07-25T21:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-07-25T21:00:00.000Z",
+        "end": "2026-07-25T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-07-25T21:30:00.000Z",
+        "end": "2026-07-25T22:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-07-25T18:00:00.000Z",
-        "end": "2026-07-25T19:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-07-25T19:00:00.000Z",
@@ -264,6 +359,16 @@
         "title": "CNN Newsroom",
         "start": "2026-07-25T20:00:00.000Z",
         "end": "2026-07-25T21:00:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-07-25T21:00:00.000Z",
+        "end": "2026-07-25T21:30:00.000Z"
+      },
+      {
+        "title": "Quest's World of Wonder",
+        "start": "2026-07-25T21:30:00.000Z",
+        "end": "2026-07-25T22:00:00.000Z"
       }
     ]
   }
