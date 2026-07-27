@@ -1,53 +1,8 @@
 {
-  "generated": "2026-07-26T23:01:44.013Z",
+  "generated": "2026-07-27T01:06:54.974Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-07-26T23:00:00.000Z",
-        "end": "2026-07-26T23:10:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-07-26T23:10:00.000Z",
-        "end": "2026-07-26T23:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-26T23:15:00.000Z",
-        "end": "2026-07-26T23:20:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-26T23:20:00.000Z",
-        "end": "2026-07-26T23:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-07-26T23:30:00.000Z",
-        "end": "2026-07-26T23:35:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-07-26T23:35:00.000Z",
-        "end": "2026-07-26T23:55:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-26T23:55:00.000Z",
-        "end": "2026-07-27T00:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-27T00:00:00.000Z",
-        "end": "2026-07-27T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-27T00:15:00.000Z",
-        "end": "2026-07-27T00:20:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-07-27T00:20:00.000Z",
@@ -57,103 +12,28 @@
     "NPO 2": [
       {
         "title": "Nieuwsuur",
-        "start": "2026-07-26T23:00:00.000Z",
-        "end": "2026-07-26T23:10:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-07-26T23:10:00.000Z",
-        "end": "2026-07-26T23:15:00.000Z"
-      },
-      {
-        "title": "Het filosofisch kwintet",
-        "start": "2026-07-26T23:15:00.000Z",
-        "end": "2026-07-26T23:45:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
         "start": "2026-07-26T23:45:00.000Z",
         "end": "2026-07-27T05:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Woeste grond",
-        "start": "2026-07-26T22:35:00.000Z",
-        "end": "2026-07-26T23:10:00.000Z"
-      },
-      {
-        "title": "Wildlife",
-        "start": "2026-07-26T23:10:00.000Z",
-        "end": "2026-07-26T23:15:00.000Z"
-      },
-      {
-        "title": "Wildlife",
-        "start": "2026-07-26T23:15:00.000Z",
-        "end": "2026-07-26T23:30:00.000Z"
-      },
-      {
-        "title": "Ik vertrek voor de liefde",
-        "start": "2026-07-26T23:30:00.000Z",
-        "end": "2026-07-27T00:05:00.000Z"
-      },
-      {
-        "title": "Nog één keer fit",
-        "start": "2026-07-27T00:05:00.000Z",
-        "end": "2026-07-27T00:10:00.000Z"
-      },
-      {
-        "title": "Nog één keer fit",
-        "start": "2026-07-27T00:10:00.000Z",
-        "end": "2026-07-27T00:20:00.000Z"
-      },
-      {
-        "title": "De avondetappe",
-        "start": "2026-07-27T00:20:00.000Z",
-        "end": "2026-07-27T00:55:00.000Z"
-      },
-      {
         "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-07-27T00:55:00.000Z",
         "end": "2026-07-27T01:20:00.000Z"
+      },
+      {
+        "title": "De avondetappe",
+        "start": "2026-07-27T01:20:00.000Z",
+        "end": "2026-07-27T02:05:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-07-27T02:05:00.000Z",
+        "end": "2026-07-27T04:01:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "EditieNL",
-        "start": "2026-07-26T23:00:00.000Z",
-        "end": "2026-07-26T23:06:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-07-26T23:06:00.000Z",
-        "end": "2026-07-26T23:15:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-07-26T23:15:00.000Z",
-        "end": "2026-07-26T23:21:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-07-26T23:21:00.000Z",
-        "end": "2026-07-26T23:30:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-07-26T23:30:00.000Z",
-        "end": "2026-07-26T23:35:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-07-26T23:35:00.000Z",
-        "end": "2026-07-27T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-07-27T00:01:00.000Z",
-        "end": "2026-07-27T00:05:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-07-27T00:05:00.000Z",
@@ -162,47 +42,12 @@
     ],
     "RTL 5": [
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-07-26T22:18:00.000Z",
-        "end": "2026-07-26T23:10:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-07-26T23:10:00.000Z",
-        "end": "2026-07-26T23:24:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-07-26T23:24:00.000Z",
-        "end": "2026-07-27T00:10:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-07-27T00:10:00.000Z",
         "end": "2026-07-27T03:30:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-07-26T22:56:00.000Z",
-        "end": "2026-07-26T23:23:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-07-26T23:23:00.000Z",
-        "end": "2026-07-26T23:26:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-07-26T23:26:00.000Z",
-        "end": "2026-07-26T23:35:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-07-26T23:35:00.000Z",
-        "end": "2026-07-27T00:10:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-07-27T00:10:00.000Z",
@@ -212,41 +57,11 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-07-26T22:50:00.000Z",
-        "end": "2026-07-26T23:23:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-07-26T23:23:00.000Z",
-        "end": "2026-07-27T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-07-27T00:01:00.000Z",
-        "end": "2026-07-27T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-07-27T00:02:00.000Z",
         "end": "2026-07-27T04:30:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-07-26T22:52:00.000Z",
-        "end": "2026-07-26T23:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-26T23:30:00.000Z",
-        "end": "2026-07-26T23:35:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-26T23:35:00.000Z",
-        "end": "2026-07-26T23:38:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-07-26T23:38:00.000Z",
@@ -255,100 +70,74 @@
     ],
     "NET 5": [
       {
-        "title": "House rules Australië",
-        "start": "2026-07-26T22:57:00.000Z",
-        "end": "2026-07-26T23:10:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-07-26T23:10:00.000Z",
-        "end": "2026-07-26T23:40:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-07-26T23:40:00.000Z",
-        "end": "2026-07-26T23:59:00.000Z"
-      },
-      {
         "title": "Loop: Hart van Nederland",
         "start": "2026-07-26T23:59:00.000Z",
         "end": "2026-07-27T04:00:00.000Z"
       }
     ],
-    "Veronica": [
-      {
-        "title": "Chopper cops",
-        "start": "2026-07-26T22:54:00.000Z",
-        "end": "2026-07-26T23:19:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-26T23:19:00.000Z",
-        "end": "2026-07-26T23:40:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-26T23:40:00.000Z",
-        "end": "2026-07-26T23:41:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-26T23:41:00.000Z",
-        "end": "2026-07-26T23:59:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-07-26T23:59:00.000Z",
-        "end": "2026-07-27T00:00:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-07-27T00:00:00.000Z",
-        "end": "2026-07-27T00:30:00.000Z"
-      }
-    ],
+    "Veronica": [],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-07-26T23:00:00.000Z",
-        "end": "2026-07-26T23:30:00.000Z"
-      },
-      {
-        "title": "Newscast",
-        "start": "2026-07-26T23:30:00.000Z",
-        "end": "2026-07-27T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-07-27T00:00:00.000Z",
-        "end": "2026-07-27T00:30:00.000Z"
-      },
-      {
-        "title": "Tech Now",
-        "start": "2026-07-27T00:30:00.000Z",
-        "end": "2026-07-27T01:00:00.000Z"
-      },
       {
         "title": "Newsday",
         "start": "2026-07-27T01:00:00.000Z",
         "end": "2026-07-27T01:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-07-27T01:30:00.000Z",
+        "end": "2026-07-27T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-07-27T01:45:00.000Z",
+        "end": "2026-07-27T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-07-27T02:00:00.000Z",
+        "end": "2026-07-27T02:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-07-27T02:30:00.000Z",
+        "end": "2026-07-27T02:45:00.000Z"
+      },
+      {
+        "title": "Asia Specific",
+        "start": "2026-07-27T02:45:00.000Z",
+        "end": "2026-07-27T03:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-07-27T03:00:00.000Z",
+        "end": "2026-07-27T03:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Erin Burnett OutFront",
-        "start": "2026-07-26T23:00:00.000Z",
-        "end": "2026-07-27T00:00:00.000Z"
-      },
-      {
-        "title": "Anderson Cooper 360",
-        "start": "2026-07-27T00:00:00.000Z",
-        "end": "2026-07-27T01:00:00.000Z"
-      },
-      {
         "title": "The Source with Kaitlan Collins",
         "start": "2026-07-27T01:00:00.000Z",
         "end": "2026-07-27T02:00:00.000Z"
+      },
+      {
+        "title": "CNN NewsNight",
+        "start": "2026-07-27T02:00:00.000Z",
+        "end": "2026-07-27T02:30:00.000Z"
+      },
+      {
+        "title": "Marketplace Africa",
+        "start": "2026-07-27T02:30:00.000Z",
+        "end": "2026-07-27T02:45:00.000Z"
+      },
+      {
+        "title": "CNN Marketplace Europe",
+        "start": "2026-07-27T02:45:00.000Z",
+        "end": "2026-07-27T03:00:00.000Z"
+      },
+      {
+        "title": "Laura Coates Live",
+        "start": "2026-07-27T03:00:00.000Z",
+        "end": "2026-07-27T03:30:00.000Z"
       }
     ]
   }
