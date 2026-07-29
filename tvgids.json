@@ -1,18 +1,8 @@
 {
-  "generated": "2026-07-29T19:51:45.699Z",
+  "generated": "2026-07-29T20:52:52.426Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Bij Van Duin op de achterbank",
-        "start": "2026-07-29T19:30:00.000Z",
-        "end": "2026-07-29T20:10:00.000Z"
-      },
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-07-29T20:10:00.000Z",
-        "end": "2026-07-29T20:20:00.000Z"
-      },
       {
         "title": "Goedenavond Nederland",
         "start": "2026-07-29T20:20:00.000Z",
@@ -42,19 +32,24 @@
         "title": "Goedenavond Nederland",
         "start": "2026-07-29T21:45:00.000Z",
         "end": "2026-07-29T22:25:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-07-29T22:25:00.000Z",
+        "end": "2026-07-29T22:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-07-29T22:35:00.000Z",
+        "end": "2026-07-29T22:45:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-07-29T22:45:00.000Z",
+        "end": "2026-07-29T23:05:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Hello goodbye",
-        "start": "2026-07-29T19:30:00.000Z",
-        "end": "2026-07-29T20:00:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-07-29T20:00:00.000Z",
-        "end": "2026-07-29T20:40:00.000Z"
-      },
       {
         "title": "Adieu! Volgende kaart",
         "start": "2026-07-29T20:40:00.000Z",
@@ -79,19 +74,29 @@
         "title": "Zentijd",
         "start": "2026-07-29T21:50:00.000Z",
         "end": "2026-07-29T21:55:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-07-29T21:55:00.000Z",
+        "end": "2026-07-29T22:10:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-07-29T22:10:00.000Z",
+        "end": "2026-07-29T22:20:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-07-29T22:20:00.000Z",
+        "end": "2026-07-29T22:35:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-07-29T22:35:00.000Z",
+        "end": "2026-07-29T22:55:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Wildlife",
-        "start": "2026-07-29T19:35:00.000Z",
-        "end": "2026-07-29T20:25:00.000Z"
-      },
-      {
-        "title": "NPO Doc: Tammie zoekt een vriendje",
-        "start": "2026-07-29T20:25:00.000Z",
-        "end": "2026-07-29T20:50:00.000Z"
-      },
       {
         "title": "Oh, Otto!",
         "start": "2026-07-29T20:50:00.000Z",
@@ -106,19 +111,14 @@
         "title": "De slimste mens België",
         "start": "2026-07-29T21:50:00.000Z",
         "end": "2026-07-29T22:35:00.000Z"
+      },
+      {
+        "title": "Woeste grond",
+        "start": "2026-07-29T22:35:00.000Z",
+        "end": "2026-07-29T22:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-07-29T18:54:00.000Z",
-        "end": "2026-07-29T20:17:00.000Z"
-      },
-      {
-        "title": "Nederland met vakantie",
-        "start": "2026-07-29T20:17:00.000Z",
-        "end": "2026-07-29T20:21:00.000Z"
-      },
       {
         "title": "Nederland met vakantie",
         "start": "2026-07-29T20:21:00.000Z",
@@ -153,24 +153,14 @@
         "title": "Nederland met vakantie",
         "start": "2026-07-29T21:27:00.000Z",
         "end": "2026-07-29T22:09:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-07-29T22:09:00.000Z",
+        "end": "2026-07-29T22:59:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "St. Willebrord: Het mirakel van Brabant",
-        "start": "2026-07-29T18:29:00.000Z",
-        "end": "2026-07-29T19:55:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-07-29T19:55:00.000Z",
-        "end": "2026-07-29T20:18:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-07-29T20:18:00.000Z",
-        "end": "2026-07-29T20:29:00.000Z"
-      },
       {
         "title": "24 uur in de ER",
         "start": "2026-07-29T20:29:00.000Z",
@@ -185,41 +175,46 @@
         "title": "112 vandaag",
         "start": "2026-07-29T21:36:00.000Z",
         "end": "2026-07-29T21:54:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-29T21:54:00.000Z",
+        "end": "2026-07-29T21:58:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-07-29T21:58:00.000Z",
+        "end": "2026-07-29T21:59:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-07-29T21:59:00.000Z",
+        "end": "2026-07-29T22:02:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-07-29T22:02:00.000Z",
+        "end": "2026-07-29T23:04:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "De vier vuisten in het kwadraat\n                        Actiekomedie",
-        "start": "2026-07-29T18:27:00.000Z",
-        "end": "2026-07-29T20:32:00.000Z"
-      },
-      {
-        "title": "Thieves and Robbers\n                        Actiekomedie",
-        "start": "2026-07-29T20:32:00.000Z",
-        "end": "2026-07-29T20:37:00.000Z"
-      },
-      {
-        "title": "Today We Kill, Tomorrow We Die!\n                        Western",
-        "start": "2026-07-29T20:37:00.000Z",
-        "end": "2026-07-29T20:50:00.000Z"
-      },
-      {
         "title": "Blauwe bonen voor twee binken\n                        Actiekomedie",
         "start": "2026-07-29T20:50:00.000Z",
         "end": "2026-07-29T22:35:00.000Z"
+      },
+      {
+        "title": "Riders tv",
+        "start": "2026-07-29T22:35:00.000Z",
+        "end": "2026-07-29T22:37:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-07-29T22:37:00.000Z",
+        "end": "2026-07-29T23:13:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Vera",
-        "start": "2026-07-29T18:25:00.000Z",
-        "end": "2026-07-29T20:10:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-07-29T20:10:00.000Z",
-        "end": "2026-07-29T20:21:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-07-29T20:21:00.000Z",
@@ -239,24 +234,24 @@
         "title": "Crime scene investigation",
         "start": "2026-07-29T21:38:00.000Z",
         "end": "2026-07-29T21:54:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-07-29T21:54:00.000Z",
+        "end": "2026-07-29T21:59:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-07-29T21:59:00.000Z",
+        "end": "2026-07-29T22:40:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-07-29T22:40:00.000Z",
+        "end": "2026-07-29T22:54:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De Oranjezomer",
-        "start": "2026-07-29T19:18:00.000Z",
-        "end": "2026-07-29T20:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-29T20:30:00.000Z",
-        "end": "2026-07-29T20:48:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-07-29T20:48:00.000Z",
-        "end": "2026-07-29T20:49:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-07-29T20:49:00.000Z",
@@ -271,19 +266,19 @@
         "title": "De bondgenoten",
         "start": "2026-07-29T21:46:00.000Z",
         "end": "2026-07-29T22:51:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-07-29T22:51:00.000Z",
+        "end": "2026-07-29T22:52:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-07-29T22:52:00.000Z",
+        "end": "2026-07-29T23:37:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Sullivan's Crossing",
-        "start": "2026-07-29T19:26:00.000Z",
-        "end": "2026-07-29T20:20:00.000Z"
-      },
-      {
-        "title": "Station 19",
-        "start": "2026-07-29T20:20:00.000Z",
-        "end": "2026-07-29T20:24:00.000Z"
-      },
       {
         "title": "So help me Todd",
         "start": "2026-07-29T20:24:00.000Z",
@@ -303,14 +298,24 @@
         "title": "Chicago fire",
         "start": "2026-07-29T21:27:00.000Z",
         "end": "2026-07-29T22:05:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-07-29T22:05:00.000Z",
+        "end": "2026-07-29T22:11:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-07-29T22:11:00.000Z",
+        "end": "2026-07-29T22:14:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-07-29T22:14:00.000Z",
+        "end": "2026-07-29T23:06:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "The Whole Nine Yards\n                        Misdaadkomedie",
-        "start": "2026-07-29T18:30:00.000Z",
-        "end": "2026-07-29T20:20:00.000Z"
-      },
       {
         "title": "One Night at McCool's\n                        Misdaadkomedie",
         "start": "2026-07-29T20:20:00.000Z",
@@ -325,19 +330,19 @@
         "title": "Hulk\n                        Actie",
         "start": "2026-07-29T21:29:00.000Z",
         "end": "2026-07-29T22:10:00.000Z"
+      },
+      {
+        "title": "Welcome to Wrexham",
+        "start": "2026-07-29T22:10:00.000Z",
+        "end": "2026-07-29T22:45:00.000Z"
+      },
+      {
+        "title": "Fugitives caught on tape",
+        "start": "2026-07-29T22:45:00.000Z",
+        "end": "2026-07-29T23:05:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context USA",
-        "start": "2026-07-29T19:30:00.000Z",
-        "end": "2026-07-29T20:00:00.000Z"
-      },
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-07-29T20:00:00.000Z",
-        "end": "2026-07-29T20:30:00.000Z"
-      },
       {
         "title": "The Context with Christian Fraser",
         "start": "2026-07-29T20:30:00.000Z",
@@ -357,14 +362,14 @@
         "title": "Newsnight",
         "start": "2026-07-29T21:30:00.000Z",
         "end": "2026-07-29T22:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-07-29T22:00:00.000Z",
+        "end": "2026-07-29T23:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "What We Know with Max Foster",
-        "start": "2026-07-29T19:00:00.000Z",
-        "end": "2026-07-29T20:00:00.000Z"
-      },
       {
         "title": "Quest Means Business",
         "start": "2026-07-29T20:00:00.000Z",
@@ -379,6 +384,11 @@
         "title": "World Sport",
         "start": "2026-07-29T21:30:00.000Z",
         "end": "2026-07-29T22:00:00.000Z"
+      },
+      {
+        "title": "The Brief with Jim Sciutto",
+        "start": "2026-07-29T22:00:00.000Z",
+        "end": "2026-07-29T23:00:00.000Z"
       }
     ]
   }
