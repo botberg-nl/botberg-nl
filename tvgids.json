@@ -1,43 +1,8 @@
 {
-  "generated": "2026-07-28T23:29:00.176Z",
+  "generated": "2026-07-29T01:00:29.757Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-07-28T23:25:00.000Z",
-        "end": "2026-07-28T23:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-07-28T23:30:00.000Z",
-        "end": "2026-07-28T23:35:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-07-28T23:35:00.000Z",
-        "end": "2026-07-28T23:50:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-28T23:50:00.000Z",
-        "end": "2026-07-28T23:55:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-28T23:55:00.000Z",
-        "end": "2026-07-29T00:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-29T00:00:00.000Z",
-        "end": "2026-07-29T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-07-29T00:15:00.000Z",
-        "end": "2026-07-29T00:25:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-07-29T00:25:00.000Z",
@@ -47,46 +12,11 @@
     "NPO 2": [
       {
         "title": "Nieuwsuur",
-        "start": "2026-07-28T23:10:00.000Z",
-        "end": "2026-07-28T23:45:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
         "start": "2026-07-28T23:45:00.000Z",
         "end": "2026-07-29T05:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Wildlife",
-        "start": "2026-07-28T23:15:00.000Z",
-        "end": "2026-07-28T23:40:00.000Z"
-      },
-      {
-        "title": "Wildlife",
-        "start": "2026-07-28T23:40:00.000Z",
-        "end": "2026-07-29T00:05:00.000Z"
-      },
-      {
-        "title": "Nog één keer fit",
-        "start": "2026-07-29T00:05:00.000Z",
-        "end": "2026-07-29T00:10:00.000Z"
-      },
-      {
-        "title": "Nog één keer fit",
-        "start": "2026-07-29T00:10:00.000Z",
-        "end": "2026-07-29T00:30:00.000Z"
-      },
-      {
-        "title": "NPO Doc: Tammie zoekt een vriendje",
-        "start": "2026-07-29T00:30:00.000Z",
-        "end": "2026-07-29T00:50:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-07-29T00:50:00.000Z",
-        "end": "2026-07-29T00:55:00.000Z"
-      },
       {
         "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-07-29T00:55:00.000Z",
@@ -96,24 +26,14 @@
         "title": "Nog één keer fit",
         "start": "2026-07-29T01:25:00.000Z",
         "end": "2026-07-29T02:05:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-07-29T02:05:00.000Z",
+        "end": "2026-07-29T04:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-07-28T23:24:00.000Z",
-        "end": "2026-07-28T23:35:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-07-28T23:35:00.000Z",
-        "end": "2026-07-29T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-07-29T00:01:00.000Z",
-        "end": "2026-07-29T00:02:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-07-29T00:02:00.000Z",
@@ -123,26 +43,11 @@
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-07-28T23:10:00.000Z",
-        "end": "2026-07-29T00:10:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-07-29T00:10:00.000Z",
         "end": "2026-07-29T03:30:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Teleshop",
-        "start": "2026-07-28T23:25:00.000Z",
-        "end": "2026-07-28T23:32:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-07-28T23:32:00.000Z",
-        "end": "2026-07-29T00:10:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-07-29T00:10:00.000Z",
@@ -152,26 +57,11 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-07-28T23:10:00.000Z",
-        "end": "2026-07-29T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-07-29T00:01:00.000Z",
         "end": "2026-07-29T04:30:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-07-28T22:51:00.000Z",
-        "end": "2026-07-28T23:35:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-28T23:35:00.000Z",
-        "end": "2026-07-28T23:37:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-07-28T23:37:00.000Z",
@@ -185,75 +75,59 @@
         "end": "2026-07-29T04:00:00.000Z"
       }
     ],
-    "Veronica": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-28T23:25:00.000Z",
-        "end": "2026-07-28T23:40:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-28T23:40:00.000Z",
-        "end": "2026-07-28T23:42:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-07-28T23:42:00.000Z",
-        "end": "2026-07-29T00:00:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-07-29T00:00:00.000Z",
-        "end": "2026-07-29T00:19:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-07-29T00:19:00.000Z",
-        "end": "2026-07-29T00:49:00.000Z"
-      }
-    ],
+    "Veronica": [],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-07-28T23:00:00.000Z",
-        "end": "2026-07-28T23:30:00.000Z"
-      },
-      {
-        "title": "Newscast",
-        "start": "2026-07-28T23:30:00.000Z",
-        "end": "2026-07-29T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-07-29T00:00:00.000Z",
-        "end": "2026-07-29T00:30:00.000Z"
-      },
-      {
-        "title": "The Media Show",
-        "start": "2026-07-29T00:30:00.000Z",
-        "end": "2026-07-29T01:00:00.000Z"
-      },
       {
         "title": "Newsday",
         "start": "2026-07-29T01:00:00.000Z",
         "end": "2026-07-29T01:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-07-29T01:30:00.000Z",
+        "end": "2026-07-29T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-07-29T01:45:00.000Z",
+        "end": "2026-07-29T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-07-29T02:00:00.000Z",
+        "end": "2026-07-29T02:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-07-29T02:30:00.000Z",
+        "end": "2026-07-29T02:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-07-29T02:45:00.000Z",
+        "end": "2026-07-29T03:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-07-29T03:00:00.000Z",
+        "end": "2026-07-29T03:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Erin Burnett OutFront",
-        "start": "2026-07-28T23:00:00.000Z",
-        "end": "2026-07-29T00:00:00.000Z"
-      },
-      {
-        "title": "Anderson Cooper 360",
-        "start": "2026-07-29T00:00:00.000Z",
-        "end": "2026-07-29T01:00:00.000Z"
-      },
-      {
         "title": "The Source with Kaitlan Collins",
         "start": "2026-07-29T01:00:00.000Z",
         "end": "2026-07-29T02:00:00.000Z"
+      },
+      {
+        "title": "CNN NewsNight",
+        "start": "2026-07-29T02:00:00.000Z",
+        "end": "2026-07-29T03:00:00.000Z"
+      },
+      {
+        "title": "Laura Coates Live",
+        "start": "2026-07-29T03:00:00.000Z",
+        "end": "2026-07-29T04:00:00.000Z"
       }
     ]
   }
