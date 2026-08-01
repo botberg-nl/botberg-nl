@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-01T16:56:27.288Z",
+  "generated": "2026-08-01T18:01:59.205Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-01T16:30:00.000Z",
-        "end": "2026-08-01T17:00:00.000Z"
-      },
-      {
-        "title": "Bed & breakfast",
-        "start": "2026-08-01T17:00:00.000Z",
-        "end": "2026-08-01T17:05:00.000Z"
-      },
-      {
-        "title": "Bed & breakfast",
-        "start": "2026-08-01T17:05:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-01T18:00:00.000Z",
@@ -32,24 +17,19 @@
         "title": "Bij Van Duin op de achterbank",
         "start": "2026-08-01T18:30:00.000Z",
         "end": "2026-08-01T19:15:00.000Z"
+      },
+      {
+        "title": "De avondetappe: Tour de France Femmes",
+        "start": "2026-08-01T19:15:00.000Z",
+        "end": "2026-08-01T19:20:00.000Z"
+      },
+      {
+        "title": "De avondetappe: Tour de France Femmes",
+        "start": "2026-08-01T19:20:00.000Z",
+        "end": "2026-08-01T20:10:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nu te zien!",
-        "start": "2026-08-01T16:50:00.000Z",
-        "end": "2026-08-01T17:00:00.000Z"
-      },
-      {
-        "title": "De kunstdetective",
-        "start": "2026-08-01T17:00:00.000Z",
-        "end": "2026-08-01T17:45:00.000Z"
-      },
-      {
-        "title": "NPO Doc: Ja, ik wil!",
-        "start": "2026-08-01T17:45:00.000Z",
-        "end": "2026-08-01T17:55:00.000Z"
-      },
       {
         "title": "Goed verhaal",
         "start": "2026-08-01T17:55:00.000Z",
@@ -64,24 +44,19 @@
         "title": "Ruben en de verborgen strijd van Myanmar",
         "start": "2026-08-01T18:35:00.000Z",
         "end": "2026-08-01T19:30:00.000Z"
+      },
+      {
+        "title": "Zinzoekers",
+        "start": "2026-08-01T19:30:00.000Z",
+        "end": "2026-08-01T20:00:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-01T20:00:00.000Z",
+        "end": "2026-08-01T20:40:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Steken en prikken in Suriname",
-        "start": "2026-08-01T16:45:00.000Z",
-        "end": "2026-08-01T17:00:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal",
-        "start": "2026-08-01T17:00:00.000Z",
-        "end": "2026-08-01T17:20:00.000Z"
-      },
-      {
-        "title": "Zappdoc campus: Dubbel vakantie",
-        "start": "2026-08-01T17:20:00.000Z",
-        "end": "2026-08-01T17:45:00.000Z"
-      },
       {
         "title": "Reizen Waes",
         "start": "2026-08-01T17:45:00.000Z",
@@ -101,29 +76,19 @@
         "title": "De verloskundigen",
         "start": "2026-08-01T18:35:00.000Z",
         "end": "2026-08-01T19:35:00.000Z"
+      },
+      {
+        "title": "Ik val niet, ik dans",
+        "start": "2026-08-01T19:35:00.000Z",
+        "end": "2026-08-01T20:00:00.000Z"
+      },
+      {
+        "title": "Pride Amsterdam - Canal Parade 2026 compilatie",
+        "start": "2026-08-01T20:00:00.000Z",
+        "end": "2026-08-01T20:30:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-01T16:35:00.000Z",
-        "end": "2026-08-01T17:21:00.000Z"
-      },
-      {
-        "title": "VriendenLoterij: De winnaars",
-        "start": "2026-08-01T17:21:00.000Z",
-        "end": "2026-08-01T17:30:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-01T17:30:00.000Z",
-        "end": "2026-08-01T17:56:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-01T17:56:00.000Z",
-        "end": "2026-08-01T17:57:00.000Z"
-      },
       {
         "title": "RTL Weer",
         "start": "2026-08-01T17:57:00.000Z",
@@ -133,14 +98,24 @@
         "title": "Postcode Loterij Eén tegen 100",
         "start": "2026-08-01T18:07:00.000Z",
         "end": "2026-08-01T19:05:00.000Z"
+      },
+      {
+        "title": "Los het op!",
+        "start": "2026-08-01T19:05:00.000Z",
+        "end": "2026-08-01T19:45:00.000Z"
+      },
+      {
+        "title": "Ons kent ons",
+        "start": "2026-08-01T19:45:00.000Z",
+        "end": "2026-08-01T19:55:00.000Z"
+      },
+      {
+        "title": "Ons kent ons",
+        "start": "2026-08-01T19:55:00.000Z",
+        "end": "2026-08-01T20:36:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Helden van hier: Op interventie",
-        "start": "2026-08-01T16:54:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
       {
         "title": "Ewout: Op jacht naar tornado's",
         "start": "2026-08-01T18:00:00.000Z",
@@ -150,29 +125,19 @@
         "title": "Het interventie team",
         "start": "2026-08-01T18:55:00.000Z",
         "end": "2026-08-01T19:28:00.000Z"
+      },
+      {
+        "title": "Kees van der Spek ontmaskert",
+        "start": "2026-08-01T19:28:00.000Z",
+        "end": "2026-08-01T19:47:00.000Z"
+      },
+      {
+        "title": "Helden van hier: Op interventie",
+        "start": "2026-08-01T19:47:00.000Z",
+        "end": "2026-08-01T20:54:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-01T16:32:00.000Z",
-        "end": "2026-08-01T17:00:00.000Z"
-      },
-      {
-        "title": "Border Patrol USA",
-        "start": "2026-08-01T17:00:00.000Z",
-        "end": "2026-08-01T17:01:00.000Z"
-      },
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-01T17:01:00.000Z",
-        "end": "2026-08-01T17:30:00.000Z"
-      },
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-01T17:30:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
       {
         "title": "Pixels\n                        Komedie",
         "start": "2026-08-01T18:00:00.000Z",
@@ -181,37 +146,22 @@
     ],
     "RTL 8": [
       {
-        "title": "Lego masters Australië",
-        "start": "2026-08-01T16:51:00.000Z",
-        "end": "2026-08-01T17:02:00.000Z"
-      },
-      {
-        "title": "Cruisen over de Middellandse Zee",
-        "start": "2026-08-01T17:02:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
-      {
         "title": "America's got talent",
         "start": "2026-08-01T18:00:00.000Z",
         "end": "2026-08-01T19:50:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-01T19:50:00.000Z",
+        "end": "2026-08-01T19:51:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-01T19:51:00.000Z",
+        "end": "2026-08-01T20:46:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Lachen om home video's",
-        "start": "2026-08-01T16:34:00.000Z",
-        "end": "2026-08-01T17:03:00.000Z"
-      },
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-01T17:03:00.000Z",
-        "end": "2026-08-01T17:32:00.000Z"
-      },
-      {
-        "title": "De Hanslers: Van de piste naar de playa",
-        "start": "2026-08-01T17:32:00.000Z",
-        "end": "2026-08-01T18:01:00.000Z"
-      },
       {
         "title": "I've got the music in me",
         "start": "2026-08-01T18:01:00.000Z",
@@ -221,24 +171,19 @@
         "title": "Het jachtseizoen",
         "start": "2026-08-01T18:29:00.000Z",
         "end": "2026-08-01T19:25:00.000Z"
+      },
+      {
+        "title": "Postcode Loterij In de ring",
+        "start": "2026-08-01T19:25:00.000Z",
+        "end": "2026-08-01T19:28:00.000Z"
+      },
+      {
+        "title": "Mi dushi: Wat is dan liefde?",
+        "start": "2026-08-01T19:28:00.000Z",
+        "end": "2026-08-01T20:36:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-08-01T16:01:00.000Z",
-        "end": "2026-08-01T16:59:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-08-01T16:59:00.000Z",
-        "end": "2026-08-01T17:01:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-08-01T17:01:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
       {
         "title": "Uncharted\n                        Actie",
         "start": "2026-08-01T18:00:00.000Z",
@@ -248,34 +193,14 @@
         "title": "NCIS",
         "start": "2026-08-01T18:56:00.000Z",
         "end": "2026-08-01T19:53:00.000Z"
+      },
+      {
+        "title": "Soko Köln",
+        "start": "2026-08-01T19:53:00.000Z",
+        "end": "2026-08-01T20:15:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Married with children",
-        "start": "2026-08-01T16:29:00.000Z",
-        "end": "2026-08-01T16:59:00.000Z"
-      },
-      {
-        "title": "Married with children",
-        "start": "2026-08-01T16:59:00.000Z",
-        "end": "2026-08-01T17:00:00.000Z"
-      },
-      {
-        "title": "Border security: America's front line",
-        "start": "2026-08-01T17:00:00.000Z",
-        "end": "2026-08-01T17:29:00.000Z"
-      },
-      {
-        "title": "Married with children",
-        "start": "2026-08-01T17:29:00.000Z",
-        "end": "2026-08-01T17:30:00.000Z"
-      },
-      {
-        "title": "Border security: Nieuw-Zeeland",
-        "start": "2026-08-01T17:30:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
       {
         "title": "FBI: International",
         "start": "2026-08-01T18:00:00.000Z",
@@ -285,24 +210,24 @@
         "title": "FBI: International",
         "start": "2026-08-01T18:55:00.000Z",
         "end": "2026-08-01T18:58:00.000Z"
+      },
+      {
+        "title": "Baywatch remastered",
+        "start": "2026-08-01T18:58:00.000Z",
+        "end": "2026-08-01T19:50:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-08-01T19:50:00.000Z",
+        "end": "2026-08-01T19:53:00.000Z"
+      },
+      {
+        "title": "Baywatch remastered",
+        "start": "2026-08-01T19:53:00.000Z",
+        "end": "2026-08-01T20:40:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-01T16:00:00.000Z",
-        "end": "2026-08-01T17:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-01T17:00:00.000Z",
-        "end": "2026-08-01T17:30:00.000Z"
-      },
-      {
-        "title": "Talking Business",
-        "start": "2026-08-01T17:30:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-01T18:00:00.000Z",
@@ -312,28 +237,38 @@
         "title": "Focus on Africa: The Conversation",
         "start": "2026-08-01T18:30:00.000Z",
         "end": "2026-08-01T19:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-01T19:00:00.000Z",
+        "end": "2026-08-01T19:30:00.000Z"
+      },
+      {
+        "title": "China's Greatest Treasures",
+        "start": "2026-08-01T19:30:00.000Z",
+        "end": "2026-08-01T20:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-01T20:00:00.000Z",
+        "end": "2026-08-01T21:00:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Marketplace Africa",
-        "start": "2026-08-01T16:45:00.000Z",
-        "end": "2026-08-01T17:00:00.000Z"
-      },
-      {
-        "title": "African Voices",
-        "start": "2026-08-01T17:00:00.000Z",
-        "end": "2026-08-01T17:30:00.000Z"
-      },
-      {
-        "title": "Quest's World of Wonder",
-        "start": "2026-08-01T17:30:00.000Z",
-        "end": "2026-08-01T18:00:00.000Z"
-      },
-      {
         "title": "CNN Newsroom",
         "start": "2026-08-01T18:00:00.000Z",
         "end": "2026-08-01T19:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-01T19:00:00.000Z",
+        "end": "2026-08-01T20:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-01T20:00:00.000Z",
+        "end": "2026-08-01T21:00:00.000Z"
       }
     ]
   }
