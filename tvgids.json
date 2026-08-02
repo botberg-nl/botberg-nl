@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-02T17:06:03.919Z",
+  "generated": "2026-08-02T18:28:30.244Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Bed & breakfast",
-        "start": "2026-08-02T17:05:00.000Z",
-        "end": "2026-08-02T17:20:00.000Z"
-      },
-      {
-        "title": "Woeste grond",
-        "start": "2026-08-02T17:20:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-02T18:00:00.000Z",
-        "end": "2026-08-02T18:25:00.000Z"
-      },
       {
         "title": "Tussen kunst en kitsch",
         "start": "2026-08-02T18:25:00.000Z",
@@ -27,29 +12,29 @@
         "title": "MAX Vakantieman",
         "start": "2026-08-02T18:35:00.000Z",
         "end": "2026-08-02T19:15:00.000Z"
+      },
+      {
+        "title": "De avondetappe: Tour de France Femmes",
+        "start": "2026-08-02T19:15:00.000Z",
+        "end": "2026-08-02T19:25:00.000Z"
+      },
+      {
+        "title": "De avondetappe: Tour de France Femmes",
+        "start": "2026-08-02T19:25:00.000Z",
+        "end": "2026-08-02T20:10:00.000Z"
+      },
+      {
+        "title": "Tatort: Over grenzen",
+        "start": "2026-08-02T20:10:00.000Z",
+        "end": "2026-08-02T20:20:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-02T20:20:00.000Z",
+        "end": "2026-08-02T21:05:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De kunstdetective",
-        "start": "2026-08-02T17:00:00.000Z",
-        "end": "2026-08-02T17:10:00.000Z"
-      },
-      {
-        "title": "BinnensteBuiten",
-        "start": "2026-08-02T17:10:00.000Z",
-        "end": "2026-08-02T17:45:00.000Z"
-      },
-      {
-        "title": "NPO Doc: Ja, ik wil!",
-        "start": "2026-08-02T17:45:00.000Z",
-        "end": "2026-08-02T17:50:00.000Z"
-      },
-      {
-        "title": "Met het mes op tafel",
-        "start": "2026-08-02T17:50:00.000Z",
-        "end": "2026-08-02T18:15:00.000Z"
-      },
       {
         "title": "Zomergasten",
         "start": "2026-08-02T18:15:00.000Z",
@@ -59,29 +44,19 @@
         "title": "After the flood",
         "start": "2026-08-02T18:30:00.000Z",
         "end": "2026-08-02T19:20:00.000Z"
+      },
+      {
+        "title": "Keurmeesters",
+        "start": "2026-08-02T19:20:00.000Z",
+        "end": "2026-08-02T20:00:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-02T20:00:00.000Z",
+        "end": "2026-08-02T20:40:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Jeugdjournaal",
-        "start": "2026-08-02T17:00:00.000Z",
-        "end": "2026-08-02T17:20:00.000Z"
-      },
-      {
-        "title": "Zappdoc campus: Dubbel vakantie",
-        "start": "2026-08-02T17:20:00.000Z",
-        "end": "2026-08-02T17:25:00.000Z"
-      },
-      {
-        "title": "De Goudvis",
-        "start": "2026-08-02T17:25:00.000Z",
-        "end": "2026-08-02T17:45:00.000Z"
-      },
-      {
-        "title": "Reizen Waes",
-        "start": "2026-08-02T17:45:00.000Z",
-        "end": "2026-08-02T18:25:00.000Z"
-      },
       {
         "title": "De slimste mens België",
         "start": "2026-08-02T18:25:00.000Z",
@@ -91,39 +66,14 @@
         "title": "De verloskundigen",
         "start": "2026-08-02T18:35:00.000Z",
         "end": "2026-08-02T19:35:00.000Z"
+      },
+      {
+        "title": "Live Aid at 40",
+        "start": "2026-08-02T19:35:00.000Z",
+        "end": "2026-08-02T20:30:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-02T16:35:00.000Z",
-        "end": "2026-08-02T17:21:00.000Z"
-      },
-      {
-        "title": "VriendenLoterij: De winnaars",
-        "start": "2026-08-02T17:21:00.000Z",
-        "end": "2026-08-02T17:30:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-02T17:30:00.000Z",
-        "end": "2026-08-02T17:56:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-02T17:56:00.000Z",
-        "end": "2026-08-02T17:57:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-02T17:57:00.000Z",
-        "end": "2026-08-02T18:01:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-02T18:01:00.000Z",
-        "end": "2026-08-02T18:07:00.000Z"
-      },
       {
         "title": "Postcode Loterij Eén tegen 100",
         "start": "2026-08-02T18:07:00.000Z",
@@ -138,139 +88,109 @@
         "title": "Los het op!",
         "start": "2026-08-02T19:05:00.000Z",
         "end": "2026-08-02T19:55:00.000Z"
+      },
+      {
+        "title": "Ons kent ons",
+        "start": "2026-08-02T19:55:00.000Z",
+        "end": "2026-08-02T20:22:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-02T20:22:00.000Z",
+        "end": "2026-08-02T20:58:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "De Pfaff's",
-        "start": "2026-08-02T17:05:00.000Z",
-        "end": "2026-08-02T17:45:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-02T17:45:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
-      {
-        "title": "Ewout: Op jacht naar tornado's",
-        "start": "2026-08-02T18:00:00.000Z",
-        "end": "2026-08-02T18:27:00.000Z"
-      },
-      {
         "title": "Kees van der Spek ontmaskert",
         "start": "2026-08-02T18:27:00.000Z",
         "end": "2026-08-02T19:28:00.000Z"
+      },
+      {
+        "title": "Kees van der Spek ontmaskert",
+        "start": "2026-08-02T19:28:00.000Z",
+        "end": "2026-08-02T19:55:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-02T19:55:00.000Z",
+        "end": "2026-08-02T20:18:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-02T20:18:00.000Z",
+        "end": "2026-08-02T20:29:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Border Patrol USA",
-        "start": "2026-08-02T17:00:00.000Z",
-        "end": "2026-08-02T17:35:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-02T17:35:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
-      {
-        "title": "Pixels\n                        Komedie",
-        "start": "2026-08-02T18:00:00.000Z",
-        "end": "2026-08-02T18:27:00.000Z"
-      },
-      {
         "title": "Hunter Killer\n                        Actie",
         "start": "2026-08-02T18:27:00.000Z",
         "end": "2026-08-02T20:04:00.000Z"
+      },
+      {
+        "title": "Super Snooper\n                        Actie",
+        "start": "2026-08-02T20:04:00.000Z",
+        "end": "2026-08-02T20:13:00.000Z"
+      },
+      {
+        "title": "Miami Supercops\n                        Actiekomedie",
+        "start": "2026-08-02T20:13:00.000Z",
+        "end": "2026-08-02T20:54:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-02T17:03:00.000Z",
-        "end": "2026-08-02T17:31:00.000Z"
-      },
-      {
-        "title": "Bed & breakfast België",
-        "start": "2026-08-02T17:31:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
-      {
-        "title": "America's got talent",
-        "start": "2026-08-02T18:00:00.000Z",
-        "end": "2026-08-02T18:25:00.000Z"
-      },
-      {
         "title": "Flikken Gent",
         "start": "2026-08-02T18:25:00.000Z",
         "end": "2026-08-02T19:25:00.000Z"
+      },
+      {
+        "title": "Flikken Gent",
+        "start": "2026-08-02T19:25:00.000Z",
+        "end": "2026-08-02T19:51:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-02T19:51:00.000Z",
+        "end": "2026-08-02T20:34:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-02T17:03:00.000Z",
-        "end": "2026-08-02T18:01:00.000Z"
-      },
-      {
         "title": "De bondgenoten",
         "start": "2026-08-02T18:01:00.000Z",
         "end": "2026-08-02T19:17:00.000Z"
+      },
+      {
+        "title": "De Oranjezomer",
+        "start": "2026-08-02T19:17:00.000Z",
+        "end": "2026-08-02T19:28:00.000Z"
+      },
+      {
+        "title": "Mi dushi: Wat is dan liefde?",
+        "start": "2026-08-02T19:28:00.000Z",
+        "end": "2026-08-02T20:28:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-02T20:28:00.000Z",
+        "end": "2026-08-02T20:36:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-08-02T16:59:00.000Z",
-        "end": "2026-08-02T17:23:00.000Z"
-      },
-      {
-        "title": "Het blok Australië",
-        "start": "2026-08-02T17:23:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
-      {
-        "title": "Uncharted\n                        Actie",
-        "start": "2026-08-02T18:00:00.000Z",
-        "end": "2026-08-02T18:25:00.000Z"
-      },
-      {
         "title": "Pretty Woman\n                        Romantische komedie",
         "start": "2026-08-02T18:25:00.000Z",
         "end": "2026-08-02T20:15:00.000Z"
+      },
+      {
+        "title": "The Legend of Tarzan\n                        Avontuur",
+        "start": "2026-08-02T20:15:00.000Z",
+        "end": "2026-08-02T20:57:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Border security: America's front line",
-        "start": "2026-08-02T17:00:00.000Z",
-        "end": "2026-08-02T17:09:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-02T17:09:00.000Z",
-        "end": "2026-08-02T17:30:00.000Z"
-      },
-      {
-        "title": "Border security: Nieuw-Zeeland",
-        "start": "2026-08-02T17:30:00.000Z",
-        "end": "2026-08-02T17:35:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-02T17:35:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
-      {
-        "title": "FBI: International",
-        "start": "2026-08-02T18:00:00.000Z",
-        "end": "2026-08-02T18:01:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-02T18:01:00.000Z",
-        "end": "2026-08-02T18:26:00.000Z"
-      },
       {
         "title": "Lethal Weapon 3\n                        Actiekomedie",
         "start": "2026-08-02T18:26:00.000Z",
@@ -280,19 +200,14 @@
         "title": "FBI: International",
         "start": "2026-08-02T18:55:00.000Z",
         "end": "2026-08-02T19:50:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-08-02T19:50:00.000Z",
+        "end": "2026-08-02T20:50:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-02T17:00:00.000Z",
-        "end": "2026-08-02T17:30:00.000Z"
-      },
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-02T17:30:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
       {
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-02T18:00:00.000Z",
@@ -312,19 +227,19 @@
         "title": "The Context USA",
         "start": "2026-08-02T19:00:00.000Z",
         "end": "2026-08-02T19:30:00.000Z"
+      },
+      {
+        "title": "The Context USA",
+        "start": "2026-08-02T19:30:00.000Z",
+        "end": "2026-08-02T20:00:00.000Z"
+      },
+      {
+        "title": "The Context with Christian Fraser",
+        "start": "2026-08-02T20:00:00.000Z",
+        "end": "2026-08-02T20:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Amanpour",
-        "start": "2026-08-02T17:00:00.000Z",
-        "end": "2026-08-02T17:30:00.000Z"
-      },
-      {
-        "title": "Quest's World of Wonder",
-        "start": "2026-08-02T17:30:00.000Z",
-        "end": "2026-08-02T18:00:00.000Z"
-      },
       {
         "title": "Isa Soares Tonight",
         "start": "2026-08-02T18:00:00.000Z",
@@ -334,6 +249,11 @@
         "title": "What We Know with Max Foster",
         "start": "2026-08-02T19:00:00.000Z",
         "end": "2026-08-02T20:00:00.000Z"
+      },
+      {
+        "title": "Quest Means Business",
+        "start": "2026-08-02T20:00:00.000Z",
+        "end": "2026-08-02T20:45:00.000Z"
       }
     ]
   }
