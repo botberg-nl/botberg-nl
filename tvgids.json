@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-08T19:54:23.334Z",
+  "generated": "2026-08-08T20:25:54.497Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Tussen kunst en kitsch",
-        "start": "2026-08-08T19:20:00.000Z",
-        "end": "2026-08-08T20:10:00.000Z"
-      },
-      {
-        "title": "Tatort: Over grenzen",
-        "start": "2026-08-08T20:10:00.000Z",
-        "end": "2026-08-08T20:20:00.000Z"
-      },
       {
         "title": "Studio sport voetbal",
         "start": "2026-08-08T20:20:00.000Z",
@@ -37,14 +27,24 @@
         "title": "De avondetappe: Tour de France Femmes",
         "start": "2026-08-08T21:35:00.000Z",
         "end": "2026-08-08T22:00:00.000Z"
+      },
+      {
+        "title": "De avondetappe: Tour de France Femmes",
+        "start": "2026-08-08T22:00:00.000Z",
+        "end": "2026-08-08T22:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-08T22:15:00.000Z",
+        "end": "2026-08-08T22:25:00.000Z"
+      },
+      {
+        "title": "De avondetappe",
+        "start": "2026-08-08T22:25:00.000Z",
+        "end": "2026-08-08T22:35:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Zinzoekers",
-        "start": "2026-08-08T19:25:00.000Z",
-        "end": "2026-08-08T20:00:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-08T20:00:00.000Z",
@@ -69,19 +69,14 @@
         "title": "Grantchester",
         "start": "2026-08-08T21:50:00.000Z",
         "end": "2026-08-08T22:20:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-08-08T22:20:00.000Z",
+        "end": "2026-08-08T22:35:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Ik val niet, ik dans",
-        "start": "2026-08-08T19:35:00.000Z",
-        "end": "2026-08-08T20:00:00.000Z"
-      },
-      {
-        "title": "Sing Sing\n                        Drama",
-        "start": "2026-08-08T20:00:00.000Z",
-        "end": "2026-08-08T20:25:00.000Z"
-      },
       {
         "title": "Tropenjaren",
         "start": "2026-08-08T20:25:00.000Z",
@@ -148,6 +143,21 @@
         "title": "Beste kijkers",
         "start": "2026-08-08T21:36:00.000Z",
         "end": "2026-08-08T22:05:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-08T22:05:00.000Z",
+        "end": "2026-08-08T22:07:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-08T22:07:00.000Z",
+        "end": "2026-08-08T22:20:00.000Z"
+      },
+      {
+        "title": "Vals spel",
+        "start": "2026-08-08T22:20:00.000Z",
+        "end": "2026-08-08T22:53:00.000Z"
       }
     ],
     "RTL 5": [
@@ -170,19 +180,19 @@
         "title": "Stop! Politie UK",
         "start": "2026-08-08T21:45:00.000Z",
         "end": "2026-08-08T21:58:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-08T21:58:00.000Z",
+        "end": "2026-08-08T22:03:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-08T22:03:00.000Z",
+        "end": "2026-08-08T22:48:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Casualties of War\n                        Oorlog",
-        "start": "2026-08-08T18:00:00.000Z",
-        "end": "2026-08-08T20:10:00.000Z"
-      },
-      {
-        "title": "Sniper: Reloaded\n                        Actie",
-        "start": "2026-08-08T20:10:00.000Z",
-        "end": "2026-08-08T20:22:00.000Z"
-      },
       {
         "title": "Red Dawn\n                        Actie",
         "start": "2026-08-08T20:22:00.000Z",
@@ -197,14 +207,14 @@
         "title": "Pawn stars",
         "start": "2026-08-08T21:53:00.000Z",
         "end": "2026-08-08T22:09:00.000Z"
+      },
+      {
+        "title": "Riders tv",
+        "start": "2026-08-08T22:09:00.000Z",
+        "end": "2026-08-08T22:39:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-08T19:45:00.000Z",
-        "end": "2026-08-08T20:21:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-08T20:21:00.000Z",
@@ -229,6 +239,21 @@
         "title": "Crime scene investigation",
         "start": "2026-08-08T21:28:00.000Z",
         "end": "2026-08-08T22:05:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-08T22:05:00.000Z",
+        "end": "2026-08-08T22:06:00.000Z"
+      },
+      {
+        "title": "De bouwbroers",
+        "start": "2026-08-08T22:06:00.000Z",
+        "end": "2026-08-08T22:25:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-08T22:25:00.000Z",
+        "end": "2026-08-08T22:59:00.000Z"
       }
     ],
     "SBS 6": [
@@ -275,11 +300,6 @@
     ],
     "NET 5": [
       {
-        "title": "Soko Köln",
-        "start": "2026-08-08T19:52:00.000Z",
-        "end": "2026-08-08T20:05:00.000Z"
-      },
-      {
         "title": "King Kong\n                        Avontuur",
         "start": "2026-08-08T20:05:00.000Z",
         "end": "2026-08-08T20:51:00.000Z"
@@ -298,6 +318,11 @@
         "title": "The resident",
         "start": "2026-08-08T21:51:00.000Z",
         "end": "2026-08-08T22:08:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-08T22:08:00.000Z",
+        "end": "2026-08-08T22:48:00.000Z"
       }
     ],
     "Veronica": [
@@ -325,14 +350,14 @@
         "title": "Overtreders USA",
         "start": "2026-08-08T21:52:00.000Z",
         "end": "2026-08-08T21:58:00.000Z"
+      },
+      {
+        "title": "FBI: Most wanted",
+        "start": "2026-08-08T21:58:00.000Z",
+        "end": "2026-08-08T22:27:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Rachel Khoo - Cosmopolitan Cook",
-        "start": "2026-08-08T19:30:00.000Z",
-        "end": "2026-08-08T20:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-08T20:00:00.000Z",
@@ -347,14 +372,14 @@
         "title": "Newsnight",
         "start": "2026-08-08T21:30:00.000Z",
         "end": "2026-08-08T22:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-08T22:00:00.000Z",
+        "end": "2026-08-08T22:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-08T19:00:00.000Z",
-        "end": "2026-08-08T20:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-08T20:00:00.000Z",
@@ -369,6 +394,11 @@
         "title": "Elite Escapes",
         "start": "2026-08-08T21:30:00.000Z",
         "end": "2026-08-08T22:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-08T22:00:00.000Z",
+        "end": "2026-08-08T23:00:00.000Z"
       }
     ]
   }
