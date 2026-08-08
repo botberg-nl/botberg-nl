@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-08T07:46:17.514Z",
+  "generated": "2026-08-08T08:37:01.120Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Het mooiste meisje van de klas",
-        "start": "2026-08-08T07:45:00.000Z",
-        "end": "2026-08-08T08:10:00.000Z"
-      },
       {
         "title": "Bed & breakfast",
         "start": "2026-08-08T08:10:00.000Z",
@@ -27,14 +22,24 @@
         "title": "Het familiediner",
         "start": "2026-08-08T09:30:00.000Z",
         "end": "2026-08-08T10:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-08T10:00:00.000Z",
+        "end": "2026-08-08T10:10:00.000Z"
+      },
+      {
+        "title": "Een buitengewoon gesprek",
+        "start": "2026-08-08T10:10:00.000Z",
+        "end": "2026-08-08T10:20:00.000Z"
+      },
+      {
+        "title": "Sterren NL top 25",
+        "start": "2026-08-08T10:20:00.000Z",
+        "end": "2026-08-08T11:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Geloofsgesprek",
-        "start": "2026-08-08T07:45:00.000Z",
-        "end": "2026-08-08T08:00:00.000Z"
-      },
       {
         "title": "Eucharistieviering",
         "start": "2026-08-08T08:00:00.000Z",
@@ -64,49 +69,29 @@
         "title": "De verandering",
         "start": "2026-08-08T09:40:00.000Z",
         "end": "2026-08-08T09:58:00.000Z"
+      },
+      {
+        "title": "Wilde Ganzen",
+        "start": "2026-08-08T09:58:00.000Z",
+        "end": "2026-08-08T10:00:00.000Z"
+      },
+      {
+        "title": "Adieu! Volgende kaart",
+        "start": "2026-08-08T10:00:00.000Z",
+        "end": "2026-08-08T10:15:00.000Z"
+      },
+      {
+        "title": "Dit is de kwestie",
+        "start": "2026-08-08T10:15:00.000Z",
+        "end": "2026-08-08T10:30:00.000Z"
+      },
+      {
+        "title": "10 jaar volle zalen",
+        "start": "2026-08-08T10:30:00.000Z",
+        "end": "2026-08-08T10:40:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Het betoverde dorp van Pinokkio",
-        "start": "2026-08-08T07:40:00.000Z",
-        "end": "2026-08-08T07:50:00.000Z"
-      },
-      {
-        "title": "De smurfen",
-        "start": "2026-08-08T07:50:00.000Z",
-        "end": "2026-08-08T07:55:00.000Z"
-      },
-      {
-        "title": "Zo is Joey!",
-        "start": "2026-08-08T07:55:00.000Z",
-        "end": "2026-08-08T08:05:00.000Z"
-      },
-      {
-        "title": "De smurfen",
-        "start": "2026-08-08T08:05:00.000Z",
-        "end": "2026-08-08T08:15:00.000Z"
-      },
-      {
-        "title": "SamSam",
-        "start": "2026-08-08T08:15:00.000Z",
-        "end": "2026-08-08T08:20:00.000Z"
-      },
-      {
-        "title": "Masha en de beer",
-        "start": "2026-08-08T08:20:00.000Z",
-        "end": "2026-08-08T08:28:00.000Z"
-      },
-      {
-        "title": "Kiwi & Strit",
-        "start": "2026-08-08T08:28:00.000Z",
-        "end": "2026-08-08T08:30:00.000Z"
-      },
-      {
-        "title": "Shaun het schaap",
-        "start": "2026-08-08T08:30:00.000Z",
-        "end": "2026-08-08T08:35:00.000Z"
-      },
       {
         "title": "Lucas de spin",
         "start": "2026-08-08T08:35:00.000Z",
@@ -161,24 +146,34 @@
         "title": "Grizzy en de lemmingen",
         "start": "2026-08-08T09:45:00.000Z",
         "end": "2026-08-08T09:50:00.000Z"
+      },
+      {
+        "title": "Molmans",
+        "start": "2026-08-08T09:50:00.000Z",
+        "end": "2026-08-08T10:00:00.000Z"
+      },
+      {
+        "title": "Zappbios: Lucy de gangster\n                        Familie",
+        "start": "2026-08-08T10:00:00.000Z",
+        "end": "2026-08-08T10:10:00.000Z"
+      },
+      {
+        "title": "Molmans",
+        "start": "2026-08-08T10:10:00.000Z",
+        "end": "2026-08-08T10:20:00.000Z"
+      },
+      {
+        "title": "Machtige Mike",
+        "start": "2026-08-08T10:20:00.000Z",
+        "end": "2026-08-08T10:25:00.000Z"
+      },
+      {
+        "title": "Zappbios: Boeien!\n                        Familie",
+        "start": "2026-08-08T10:25:00.000Z",
+        "end": "2026-08-08T11:25:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Van woonvilla naar droomvilla",
-        "start": "2026-08-08T07:33:00.000Z",
-        "end": "2026-08-08T07:59:00.000Z"
-      },
-      {
-        "title": "Nederland ontdekt",
-        "start": "2026-08-08T07:59:00.000Z",
-        "end": "2026-08-08T08:00:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-08T08:00:00.000Z",
-        "end": "2026-08-08T08:26:00.000Z"
-      },
       {
         "title": "Let's visit",
         "start": "2026-08-08T08:26:00.000Z",
@@ -193,14 +188,29 @@
         "title": "De mooiste wegen",
         "start": "2026-08-08T09:30:00.000Z",
         "end": "2026-08-08T09:59:00.000Z"
+      },
+      {
+        "title": "Het goede camperleven",
+        "start": "2026-08-08T09:59:00.000Z",
+        "end": "2026-08-08T10:00:00.000Z"
+      },
+      {
+        "title": "Later als ik groot ben",
+        "start": "2026-08-08T10:00:00.000Z",
+        "end": "2026-08-08T10:25:00.000Z"
+      },
+      {
+        "title": "Van buiten dromen!",
+        "start": "2026-08-08T10:25:00.000Z",
+        "end": "2026-08-08T10:27:00.000Z"
+      },
+      {
+        "title": "Wishing on a star",
+        "start": "2026-08-08T10:27:00.000Z",
+        "end": "2026-08-08T10:53:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Hour of power",
-        "start": "2026-08-08T06:59:00.000Z",
-        "end": "2026-08-08T08:03:00.000Z"
-      },
       {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-08T08:03:00.000Z",
@@ -208,16 +218,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Vis tv",
-        "start": "2026-08-08T07:30:00.000Z",
-        "end": "2026-08-08T07:55:00.000Z"
-      },
-      {
-        "title": "Vis tv",
-        "start": "2026-08-08T07:55:00.000Z",
-        "end": "2026-08-08T08:20:00.000Z"
-      },
       {
         "title": "Stop! Politie",
         "start": "2026-08-08T08:20:00.000Z",
@@ -232,6 +232,16 @@
         "title": "Idioten op de weg",
         "start": "2026-08-08T09:33:00.000Z",
         "end": "2026-08-08T10:01:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-08T10:01:00.000Z",
+        "end": "2026-08-08T10:28:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-08T10:28:00.000Z",
+        "end": "2026-08-08T10:57:00.000Z"
       }
     ],
     "RTL 8": [
@@ -242,16 +252,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-08T07:45:00.000Z",
-        "end": "2026-08-08T08:00:00.000Z"
-      },
-      {
-        "title": "De grote tuinverbouwing",
-        "start": "2026-08-08T08:00:00.000Z",
-        "end": "2026-08-08T08:04:00.000Z"
-      },
       {
         "title": "De grote verbouwing",
         "start": "2026-08-08T08:04:00.000Z",
@@ -271,24 +271,24 @@
         "title": "Een dag in de dierentuin",
         "start": "2026-08-08T09:43:00.000Z",
         "end": "2026-08-08T09:59:00.000Z"
+      },
+      {
+        "title": "Levende Steen ministries",
+        "start": "2026-08-08T09:59:00.000Z",
+        "end": "2026-08-08T10:13:00.000Z"
+      },
+      {
+        "title": "Verkopen of verbouwen",
+        "start": "2026-08-08T10:13:00.000Z",
+        "end": "2026-08-08T10:26:00.000Z"
+      },
+      {
+        "title": "Man bijt hond",
+        "start": "2026-08-08T10:26:00.000Z",
+        "end": "2026-08-08T10:45:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-08T07:00:00.000Z",
-        "end": "2026-08-08T07:53:00.000Z"
-      },
-      {
-        "title": "Home and away",
-        "start": "2026-08-08T07:53:00.000Z",
-        "end": "2026-08-08T07:59:00.000Z"
-      },
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-08T07:59:00.000Z",
-        "end": "2026-08-08T08:21:00.000Z"
-      },
       {
         "title": "Home and away",
         "start": "2026-08-08T08:21:00.000Z",
@@ -313,6 +313,16 @@
         "title": "Home and away",
         "start": "2026-08-08T09:46:00.000Z",
         "end": "2026-08-08T09:59:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-08T09:59:00.000Z",
+        "end": "2026-08-08T10:14:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-08-08T10:14:00.000Z",
+        "end": "2026-08-08T10:58:00.000Z"
       }
     ],
     "Veronica": [
@@ -323,11 +333,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "Rachel Khoo - Cosmopolitan Cook",
-        "start": "2026-08-08T07:30:00.000Z",
-        "end": "2026-08-08T08:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-08T08:00:00.000Z",
@@ -342,19 +347,19 @@
         "title": "AI Decoded",
         "start": "2026-08-08T09:30:00.000Z",
         "end": "2026-08-08T10:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-08T10:00:00.000Z",
+        "end": "2026-08-08T10:30:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-08T10:30:00.000Z",
+        "end": "2026-08-08T10:45:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Elite Escapes",
-        "start": "2026-08-08T07:30:00.000Z",
-        "end": "2026-08-08T08:00:00.000Z"
-      },
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-08T08:00:00.000Z",
-        "end": "2026-08-08T08:30:00.000Z"
-      },
       {
         "title": "CNN Creators",
         "start": "2026-08-08T08:30:00.000Z",
@@ -364,6 +369,21 @@
         "title": "CNN Newsroom",
         "start": "2026-08-08T09:00:00.000Z",
         "end": "2026-08-08T10:00:00.000Z"
+      },
+      {
+        "title": "Marketplace Asia",
+        "start": "2026-08-08T10:00:00.000Z",
+        "end": "2026-08-08T10:15:00.000Z"
+      },
+      {
+        "title": "Marketplace Middle East",
+        "start": "2026-08-08T10:15:00.000Z",
+        "end": "2026-08-08T10:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-08T10:30:00.000Z",
+        "end": "2026-08-08T11:00:00.000Z"
       }
     ]
   }
