@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-08T04:34:45.209Z",
+  "generated": "2026-08-08T05:40:07.183Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-08T00:35:00.000Z",
-        "end": "2026-08-08T05:25:00.000Z"
-      },
-      {
-        "title": "Nederland in beweging",
-        "start": "2026-08-08T05:25:00.000Z",
-        "end": "2026-08-08T05:35:00.000Z"
-      },
       {
         "title": "Nederland in beweging",
         "start": "2026-08-08T05:35:00.000Z",
@@ -32,6 +22,16 @@
         "title": "WorldPride Amsterdam 2026",
         "start": "2026-08-08T06:20:00.000Z",
         "end": "2026-08-08T06:50:00.000Z"
+      },
+      {
+        "title": "Muziekfeest op het plein",
+        "start": "2026-08-08T06:50:00.000Z",
+        "end": "2026-08-08T07:15:00.000Z"
+      },
+      {
+        "title": "Van onschatbare waarde",
+        "start": "2026-08-08T07:15:00.000Z",
+        "end": "2026-08-08T07:45:00.000Z"
       }
     ],
     "NPO 2": [
@@ -54,94 +54,24 @@
         "title": "De verwondering",
         "start": "2026-08-08T06:30:00.000Z",
         "end": "2026-08-08T07:00:00.000Z"
+      },
+      {
+        "title": "Ik mis je",
+        "start": "2026-08-08T07:00:00.000Z",
+        "end": "2026-08-08T07:10:00.000Z"
+      },
+      {
+        "title": "Mocronado's",
+        "start": "2026-08-08T07:10:00.000Z",
+        "end": "2026-08-08T07:20:00.000Z"
+      },
+      {
+        "title": "Nederland zingt",
+        "start": "2026-08-08T07:20:00.000Z",
+        "end": "2026-08-08T07:45:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Nelli en Nora",
-        "start": "2026-08-08T04:30:00.000Z",
-        "end": "2026-08-08T04:35:00.000Z"
-      },
-      {
-        "title": "Kiri & Lou",
-        "start": "2026-08-08T04:35:00.000Z",
-        "end": "2026-08-08T04:39:00.000Z"
-      },
-      {
-        "title": "Kiri & Lou",
-        "start": "2026-08-08T04:39:00.000Z",
-        "end": "2026-08-08T04:40:00.000Z"
-      },
-      {
-        "title": "Charlie & Lola",
-        "start": "2026-08-08T04:40:00.000Z",
-        "end": "2026-08-08T04:45:00.000Z"
-      },
-      {
-        "title": "Charlie & Lola",
-        "start": "2026-08-08T04:45:00.000Z",
-        "end": "2026-08-08T04:50:00.000Z"
-      },
-      {
-        "title": "Angelina Ballerina",
-        "start": "2026-08-08T04:50:00.000Z",
-        "end": "2026-08-08T04:55:00.000Z"
-      },
-      {
-        "title": "Angelina Ballerina",
-        "start": "2026-08-08T04:55:00.000Z",
-        "end": "2026-08-08T05:05:00.000Z"
-      },
-      {
-        "title": "Calimero",
-        "start": "2026-08-08T05:05:00.000Z",
-        "end": "2026-08-08T05:10:00.000Z"
-      },
-      {
-        "title": "Calimero",
-        "start": "2026-08-08T05:10:00.000Z",
-        "end": "2026-08-08T05:15:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-08T05:15:00.000Z",
-        "end": "2026-08-08T05:18:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-08T05:18:00.000Z",
-        "end": "2026-08-08T05:20:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-08T05:20:00.000Z",
-        "end": "2026-08-08T05:23:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-08T05:23:00.000Z",
-        "end": "2026-08-08T05:25:00.000Z"
-      },
-      {
-        "title": "Noddy, de detective",
-        "start": "2026-08-08T05:25:00.000Z",
-        "end": "2026-08-08T05:32:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-08T05:32:00.000Z",
-        "end": "2026-08-08T05:35:00.000Z"
-      },
-      {
-        "title": "Olivia",
-        "start": "2026-08-08T05:35:00.000Z",
-        "end": "2026-08-08T05:37:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-08T05:37:00.000Z",
-        "end": "2026-08-08T05:40:00.000Z"
-      },
       {
         "title": "Olivia",
         "start": "2026-08-08T05:40:00.000Z",
@@ -206,79 +136,54 @@
         "title": "Casper en Emma",
         "start": "2026-08-08T06:30:00.000Z",
         "end": "2026-08-08T06:40:00.000Z"
+      },
+      {
+        "title": "Casper en Emma",
+        "start": "2026-08-08T06:40:00.000Z",
+        "end": "2026-08-08T06:45:00.000Z"
+      },
+      {
+        "title": "De magische auto",
+        "start": "2026-08-08T06:45:00.000Z",
+        "end": "2026-08-08T06:50:00.000Z"
+      },
+      {
+        "title": "Raad eens wat ik doe",
+        "start": "2026-08-08T06:50:00.000Z",
+        "end": "2026-08-08T06:55:00.000Z"
+      },
+      {
+        "title": "Kindertijd",
+        "start": "2026-08-08T06:55:00.000Z",
+        "end": "2026-08-08T07:05:00.000Z"
+      },
+      {
+        "title": "Kindertijd",
+        "start": "2026-08-08T07:05:00.000Z",
+        "end": "2026-08-08T07:15:00.000Z"
+      },
+      {
+        "title": "Beestenbrigade missie",
+        "start": "2026-08-08T07:15:00.000Z",
+        "end": "2026-08-08T07:20:00.000Z"
+      },
+      {
+        "title": "BabyBeestenBoel",
+        "start": "2026-08-08T07:20:00.000Z",
+        "end": "2026-08-08T07:30:00.000Z"
+      },
+      {
+        "title": "BabyBeestenBoel",
+        "start": "2026-08-08T07:30:00.000Z",
+        "end": "2026-08-08T07:40:00.000Z"
+      },
+      {
+        "title": "Het betoverde dorp van Pinokkio",
+        "start": "2026-08-08T07:40:00.000Z",
+        "end": "2026-08-08T07:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-08T04:33:00.000Z",
-        "end": "2026-08-08T04:41:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-08T04:41:00.000Z",
-        "end": "2026-08-08T04:43:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-08T04:43:00.000Z",
-        "end": "2026-08-08T04:52:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-08T04:52:00.000Z",
-        "end": "2026-08-08T04:54:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-08T04:54:00.000Z",
-        "end": "2026-08-08T05:01:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-08T05:01:00.000Z",
-        "end": "2026-08-08T05:02:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-08T05:02:00.000Z",
-        "end": "2026-08-08T05:12:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-08T05:12:00.000Z",
-        "end": "2026-08-08T05:13:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-08T05:13:00.000Z",
-        "end": "2026-08-08T05:23:00.000Z"
-      },
-      {
-        "title": "Sprookjes van Klaas Vaak",
-        "start": "2026-08-08T05:23:00.000Z",
-        "end": "2026-08-08T05:24:00.000Z"
-      },
-      {
-        "title": "Sprookjes van Klaas Vaak",
-        "start": "2026-08-08T05:24:00.000Z",
-        "end": "2026-08-08T05:33:00.000Z"
-      },
-      {
-        "title": "Jokie",
-        "start": "2026-08-08T05:33:00.000Z",
-        "end": "2026-08-08T05:34:00.000Z"
-      },
-      {
-        "title": "Jokie",
-        "start": "2026-08-08T05:34:00.000Z",
-        "end": "2026-08-08T05:38:00.000Z"
-      },
-      {
-        "title": "Jokie",
-        "start": "2026-08-08T05:38:00.000Z",
-        "end": "2026-08-08T05:40:00.000Z"
-      },
       {
         "title": "Jokie en Jet op avontuur in de Efteling",
         "start": "2026-08-08T05:40:00.000Z",
@@ -373,24 +278,44 @@
         "title": "Ernst, Bobbie en de rest",
         "start": "2026-08-08T06:33:00.000Z",
         "end": "2026-08-08T06:39:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-08T06:39:00.000Z",
+        "end": "2026-08-08T06:44:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-08T06:44:00.000Z",
+        "end": "2026-08-08T06:49:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-08T06:49:00.000Z",
+        "end": "2026-08-08T06:54:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-08T06:54:00.000Z",
+        "end": "2026-08-08T07:00:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Telvero",
+        "start": "2026-08-08T07:00:00.000Z",
+        "end": "2026-08-08T07:05:00.000Z"
+      },
+      {
+        "title": "Ronreizen",
+        "start": "2026-08-08T07:05:00.000Z",
+        "end": "2026-08-08T07:33:00.000Z"
+      },
+      {
+        "title": "Van woonvilla naar droomvilla",
+        "start": "2026-08-08T07:33:00.000Z",
+        "end": "2026-08-08T07:59:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-08T00:10:00.000Z",
-        "end": "2026-08-08T05:04:00.000Z"
-      },
-      {
-        "title": "Pastor Joseph Prince - New creation TV",
-        "start": "2026-08-08T05:04:00.000Z",
-        "end": "2026-08-08T05:30:00.000Z"
-      },
-      {
-        "title": "Pastor Joseph Prince - New creation TV",
-        "start": "2026-08-08T05:30:00.000Z",
-        "end": "2026-08-08T05:32:00.000Z"
-      },
       {
         "title": "Antwoorden met Bayless Conley",
         "start": "2026-08-08T05:32:00.000Z",
@@ -405,6 +330,11 @@
         "title": "Hour of power",
         "start": "2026-08-08T06:00:00.000Z",
         "end": "2026-08-08T06:59:00.000Z"
+      },
+      {
+        "title": "Hour of power",
+        "start": "2026-08-08T06:59:00.000Z",
+        "end": "2026-08-08T08:03:00.000Z"
       }
     ],
     "RTL 7": [
@@ -412,6 +342,11 @@
         "title": "Teleshop 7: Telvero",
         "start": "2026-08-08T04:00:00.000Z",
         "end": "2026-08-08T07:30:00.000Z"
+      },
+      {
+        "title": "Vis tv",
+        "start": "2026-08-08T07:30:00.000Z",
+        "end": "2026-08-08T07:55:00.000Z"
       }
     ],
     "RTL 8": [
@@ -422,21 +357,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-08T04:00:00.000Z",
-        "end": "2026-08-08T05:00:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-08T05:00:00.000Z",
-        "end": "2026-08-08T05:15:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-08T05:15:00.000Z",
-        "end": "2026-08-08T05:30:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-08T05:30:00.000Z",
@@ -461,19 +381,29 @@
         "title": "Hart van Nederland",
         "start": "2026-08-08T06:30:00.000Z",
         "end": "2026-08-08T06:45:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-08T06:45:00.000Z",
+        "end": "2026-08-08T07:00:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-08T07:00:00.000Z",
+        "end": "2026-08-08T07:15:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-08T07:15:00.000Z",
+        "end": "2026-08-08T07:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-08T07:30:00.000Z",
+        "end": "2026-08-08T07:45:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-08T04:03:00.000Z",
-        "end": "2026-08-08T05:07:00.000Z"
-      },
-      {
-        "title": "Say yes to the dress: Atlanta",
-        "start": "2026-08-08T05:07:00.000Z",
-        "end": "2026-08-08T05:34:00.000Z"
-      },
       {
         "title": "Say yes to the dress: Atlanta",
         "start": "2026-08-08T05:34:00.000Z",
@@ -488,6 +418,11 @@
         "title": "Signed, sealed, delivered",
         "start": "2026-08-08T06:03:00.000Z",
         "end": "2026-08-08T07:00:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-08T07:00:00.000Z",
+        "end": "2026-08-08T07:53:00.000Z"
       }
     ],
     "Veronica": [
@@ -498,16 +433,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "Clive Myrie's Caribbean adventure",
-        "start": "2026-08-08T04:30:00.000Z",
-        "end": "2026-08-08T05:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-08T05:00:00.000Z",
-        "end": "2026-08-08T05:30:00.000Z"
-      },
       {
         "title": "Talking Business",
         "start": "2026-08-08T05:30:00.000Z",
@@ -522,19 +447,19 @@
         "title": "The travel show",
         "start": "2026-08-08T06:30:00.000Z",
         "end": "2026-08-08T07:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-08T07:00:00.000Z",
+        "end": "2026-08-08T07:30:00.000Z"
+      },
+      {
+        "title": "Rachel Khoo - Cosmopolitan Cook",
+        "start": "2026-08-08T07:30:00.000Z",
+        "end": "2026-08-08T08:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "World Sport",
-        "start": "2026-08-08T04:30:00.000Z",
-        "end": "2026-08-08T05:00:00.000Z"
-      },
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-08T05:00:00.000Z",
-        "end": "2026-08-08T05:30:00.000Z"
-      },
       {
         "title": "Inside Africa",
         "start": "2026-08-08T05:30:00.000Z",
@@ -549,6 +474,21 @@
         "title": "Marketplace Asia",
         "start": "2026-08-08T06:30:00.000Z",
         "end": "2026-08-08T06:45:00.000Z"
+      },
+      {
+        "title": "Marketplace Middle East",
+        "start": "2026-08-08T06:45:00.000Z",
+        "end": "2026-08-08T07:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-08T07:00:00.000Z",
+        "end": "2026-08-08T07:30:00.000Z"
+      },
+      {
+        "title": "Elite Escapes",
+        "start": "2026-08-08T07:30:00.000Z",
+        "end": "2026-08-08T08:00:00.000Z"
       }
     ]
   }
