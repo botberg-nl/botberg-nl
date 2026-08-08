@@ -1,28 +1,8 @@
 {
-  "generated": "2026-08-07T23:57:42.266Z",
+  "generated": "2026-08-08T01:53:45.974Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-07T23:50:00.000Z",
-        "end": "2026-08-08T00:05:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-08T00:05:00.000Z",
-        "end": "2026-08-08T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-08T00:15:00.000Z",
-        "end": "2026-08-08T00:25:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-08T00:25:00.000Z",
-        "end": "2026-08-08T00:35:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-08T00:35:00.000Z",
@@ -38,62 +18,27 @@
     ],
     "NPO 3": [
       {
-        "title": "Reizen Waes: De bucketlist",
-        "start": "2026-08-07T23:50:00.000Z",
-        "end": "2026-08-08T00:10:00.000Z"
-      },
-      {
-        "title": "Live Aid at 40",
-        "start": "2026-08-08T00:10:00.000Z",
-        "end": "2026-08-08T00:25:00.000Z"
-      },
-      {
-        "title": "Studio sport voetbal",
-        "start": "2026-08-08T00:25:00.000Z",
-        "end": "2026-08-08T00:40:00.000Z"
-      },
-      {
-        "title": "Sluipschutters",
-        "start": "2026-08-08T00:40:00.000Z",
-        "end": "2026-08-08T01:00:00.000Z"
-      },
-      {
-        "title": "Live Aid at 40",
-        "start": "2026-08-08T01:00:00.000Z",
-        "end": "2026-08-08T01:10:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-08-08T01:10:00.000Z",
-        "end": "2026-08-08T01:20:00.000Z"
-      },
-      {
-        "title": "De avondetappe",
-        "start": "2026-08-08T01:20:00.000Z",
-        "end": "2026-08-08T01:50:00.000Z"
-      },
-      {
         "title": "Live Aid at 40",
         "start": "2026-08-08T01:50:00.000Z",
         "end": "2026-08-08T02:15:00.000Z"
+      },
+      {
+        "title": "Studio sport voetbal",
+        "start": "2026-08-08T02:15:00.000Z",
+        "end": "2026-08-08T02:30:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-08T02:30:00.000Z",
+        "end": "2026-08-08T03:05:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-08T03:05:00.000Z",
+        "end": "2026-08-08T04:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-07T23:54:00.000Z",
-        "end": "2026-08-08T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-08T00:01:00.000Z",
-        "end": "2026-08-08T00:05:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-08T00:05:00.000Z",
-        "end": "2026-08-08T00:06:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-08T00:06:00.000Z",
@@ -103,11 +48,6 @@
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-07T23:04:00.000Z",
-        "end": "2026-08-08T00:10:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-08T00:10:00.000Z",
         "end": "2026-08-08T05:04:00.000Z"
       }
@@ -115,26 +55,11 @@
     "RTL 7": [
       {
         "title": "Teleshop",
-        "start": "2026-08-07T23:11:00.000Z",
-        "end": "2026-08-08T00:10:00.000Z"
-      },
-      {
-        "title": "Teleshop",
         "start": "2026-08-08T00:10:00.000Z",
         "end": "2026-08-08T04:00:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-07T23:04:00.000Z",
-        "end": "2026-08-08T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-08T00:01:00.000Z",
-        "end": "2026-08-08T00:02:00.000Z"
-      },
       {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-08T00:02:00.000Z",
@@ -150,85 +75,84 @@
     ],
     "NET 5": [
       {
-        "title": "Ordinary Joe",
-        "start": "2026-08-07T23:52:00.000Z",
-        "end": "2026-08-08T00:33:00.000Z"
-      },
-      {
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-08T00:33:00.000Z",
         "end": "2026-08-08T03:49:00.000Z"
-      }
-    ],
-    "Veronica": [
-      {
-        "title": "A1: Highway patrol",
-        "start": "2026-08-07T23:36:00.000Z",
-        "end": "2026-08-08T00:20:00.000Z"
       },
       {
-        "title": "Hart van Nederland",
-        "start": "2026-08-08T00:20:00.000Z",
-        "end": "2026-08-08T00:37:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-08-08T00:37:00.000Z",
-        "end": "2026-08-08T01:07:00.000Z"
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-08T03:49:00.000Z",
+        "end": "2026-08-08T04:03:00.000Z"
       }
     ],
+    "Veronica": [],
     "BBC News": [
-      {
-        "title": "Global eye",
-        "start": "2026-08-07T23:30:00.000Z",
-        "end": "2026-08-08T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-08T00:00:00.000Z",
-        "end": "2026-08-08T00:30:00.000Z"
-      },
-      {
-        "title": "Rachel Khoo - Cosmopolitan Cook",
-        "start": "2026-08-08T00:30:00.000Z",
-        "end": "2026-08-08T01:00:00.000Z"
-      },
-      {
-        "title": "Newsday",
-        "start": "2026-08-08T01:00:00.000Z",
-        "end": "2026-08-08T01:30:00.000Z"
-      },
-      {
-        "title": "Business Today",
-        "start": "2026-08-08T01:30:00.000Z",
-        "end": "2026-08-08T01:45:00.000Z"
-      },
       {
         "title": "BBC Sport",
         "start": "2026-08-08T01:45:00.000Z",
         "end": "2026-08-08T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-08T02:00:00.000Z",
+        "end": "2026-08-08T02:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-08T02:30:00.000Z",
+        "end": "2026-08-08T02:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-08T02:45:00.000Z",
+        "end": "2026-08-08T03:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-08T03:00:00.000Z",
+        "end": "2026-08-08T03:30:00.000Z"
+      },
+      {
+        "title": "Global eye",
+        "start": "2026-08-08T03:30:00.000Z",
+        "end": "2026-08-08T04:00:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "CNN Newsroom",
-        "start": "2026-08-07T23:00:00.000Z",
-        "end": "2026-08-08T00:00:00.000Z"
-      },
-      {
-        "title": "Eclipsing Power: Musk, Bezos and the New Space Race",
-        "start": "2026-08-08T00:00:00.000Z",
-        "end": "2026-08-08T01:00:00.000Z"
-      },
-      {
-        "title": "Fareed Zakaria GPS",
-        "start": "2026-08-08T01:00:00.000Z",
-        "end": "2026-08-08T01:30:00.000Z"
-      },
-      {
         "title": "Connecting Africa",
         "start": "2026-08-08T01:30:00.000Z",
         "end": "2026-08-08T02:00:00.000Z"
+      },
+      {
+        "title": "African Voices Playmakers",
+        "start": "2026-08-08T02:00:00.000Z",
+        "end": "2026-08-08T02:30:00.000Z"
+      },
+      {
+        "title": "Marketplace Asia",
+        "start": "2026-08-08T02:30:00.000Z",
+        "end": "2026-08-08T02:45:00.000Z"
+      },
+      {
+        "title": "Marketplace Middle East",
+        "start": "2026-08-08T02:45:00.000Z",
+        "end": "2026-08-08T03:00:00.000Z"
+      },
+      {
+        "title": "Elite Escapes",
+        "start": "2026-08-08T03:00:00.000Z",
+        "end": "2026-08-08T03:30:00.000Z"
+      },
+      {
+        "title": "Marketplace Asia",
+        "start": "2026-08-08T03:30:00.000Z",
+        "end": "2026-08-08T03:45:00.000Z"
+      },
+      {
+        "title": "Marketplace Middle East",
+        "start": "2026-08-08T03:45:00.000Z",
+        "end": "2026-08-08T04:00:00.000Z"
       }
     ]
   }
