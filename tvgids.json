@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-08T11:02:18.139Z",
+  "generated": "2026-08-08T11:53:32.191Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Tussen kunst en kitsch",
-        "start": "2026-08-08T11:00:00.000Z",
-        "end": "2026-08-08T11:10:00.000Z"
-      },
-      {
-        "title": "Waar doen ze het van?",
-        "start": "2026-08-08T11:10:00.000Z",
-        "end": "2026-08-08T11:50:00.000Z"
-      },
       {
         "title": "We zijn er bijna!",
         "start": "2026-08-08T11:50:00.000Z",
@@ -37,19 +27,14 @@
         "title": "De avondetappe: Tour de France Femmes",
         "start": "2026-08-08T12:50:00.000Z",
         "end": "2026-08-08T13:45:00.000Z"
+      },
+      {
+        "title": "Tour de France Femmes\n                                                                            9e en laatste etappe van Nice naar Nice over 99 km",
+        "start": "2026-08-08T13:45:00.000Z",
+        "end": "2026-08-08T16:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-08T11:00:00.000Z",
-        "end": "2026-08-08T11:15:00.000Z"
-      },
-      {
-        "title": "Fryslân dok",
-        "start": "2026-08-08T11:15:00.000Z",
-        "end": "2026-08-08T11:50:00.000Z"
-      },
       {
         "title": "Ruben en de verborgen strijd van Myanmar",
         "start": "2026-08-08T11:50:00.000Z",
@@ -74,24 +59,24 @@
         "title": "Zinzoekers",
         "start": "2026-08-08T12:45:00.000Z",
         "end": "2026-08-08T13:17:00.000Z"
+      },
+      {
+        "title": "EO Metterdaad",
+        "start": "2026-08-08T13:17:00.000Z",
+        "end": "2026-08-08T13:20:00.000Z"
+      },
+      {
+        "title": "De Joodse wereld",
+        "start": "2026-08-08T13:20:00.000Z",
+        "end": "2026-08-08T13:30:00.000Z"
+      },
+      {
+        "title": "Fryslân dok",
+        "start": "2026-08-08T13:30:00.000Z",
+        "end": "2026-08-08T14:05:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zappbios: Boeien!\n                        Familie",
-        "start": "2026-08-08T10:25:00.000Z",
-        "end": "2026-08-08T11:25:00.000Z"
-      },
-      {
-        "title": "Zeven kleine criminelen",
-        "start": "2026-08-08T11:25:00.000Z",
-        "end": "2026-08-08T11:30:00.000Z"
-      },
-      {
-        "title": "Studio snugger",
-        "start": "2026-08-08T11:30:00.000Z",
-        "end": "2026-08-08T11:45:00.000Z"
-      },
       {
         "title": "De dodelijkste 60",
         "start": "2026-08-08T11:45:00.000Z",
@@ -126,19 +111,14 @@
         "title": "The Lady Grace mysteries",
         "start": "2026-08-08T13:00:00.000Z",
         "end": "2026-08-08T13:25:00.000Z"
+      },
+      {
+        "title": "Zappbios: SpaceBoy\n                        Jeugd",
+        "start": "2026-08-08T13:25:00.000Z",
+        "end": "2026-08-08T14:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Way of living",
-        "start": "2026-08-08T11:00:00.000Z",
-        "end": "2026-08-08T11:29:00.000Z"
-      },
-      {
-        "title": "Van woonvilla naar droomvilla",
-        "start": "2026-08-08T11:29:00.000Z",
-        "end": "2026-08-08T11:33:00.000Z"
-      },
       {
         "title": "Buitengewoon wonen",
         "start": "2026-08-08T11:33:00.000Z",
@@ -173,14 +153,19 @@
         "title": "Cruise life",
         "start": "2026-08-08T13:00:00.000Z",
         "end": "2026-08-08T13:28:00.000Z"
+      },
+      {
+        "title": "Sky high Sint-Maarten",
+        "start": "2026-08-08T13:28:00.000Z",
+        "end": "2026-08-08T13:33:00.000Z"
+      },
+      {
+        "title": "RTL Vakantiemagazine",
+        "start": "2026-08-08T13:33:00.000Z",
+        "end": "2026-08-08T13:57:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-08T08:03:00.000Z",
-        "end": "2026-08-08T11:05:00.000Z"
-      },
       {
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-08T11:05:00.000Z",
@@ -195,24 +180,14 @@
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-08T12:35:00.000Z",
         "end": "2026-08-08T13:20:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-08T13:20:00.000Z",
+        "end": "2026-08-08T14:55:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Vis tv",
-        "start": "2026-08-08T11:00:00.000Z",
-        "end": "2026-08-08T11:25:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-08T11:25:00.000Z",
-        "end": "2026-08-08T11:51:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-08T11:51:00.000Z",
-        "end": "2026-08-08T11:53:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-08T11:53:00.000Z",
@@ -237,6 +212,26 @@
         "title": "Idioten op de weg",
         "start": "2026-08-08T12:48:00.000Z",
         "end": "2026-08-08T13:15:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-08T13:15:00.000Z",
+        "end": "2026-08-08T13:16:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-08T13:16:00.000Z",
+        "end": "2026-08-08T13:42:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-08T13:42:00.000Z",
+        "end": "2026-08-08T13:44:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-08T13:44:00.000Z",
+        "end": "2026-08-08T14:11:00.000Z"
       }
     ],
     "RTL 8": [
@@ -248,11 +243,6 @@
     ],
     "SBS 6": [
       {
-        "title": "I've got the music in me",
-        "start": "2026-08-08T10:45:00.000Z",
-        "end": "2026-08-08T11:14:00.000Z"
-      },
-      {
         "title": "De grote verbouwing Nieuw-Zeeland",
         "start": "2026-08-08T11:14:00.000Z",
         "end": "2026-08-08T12:10:00.000Z"
@@ -261,14 +251,19 @@
         "title": "De Hanslers: Van de piste naar de playa",
         "start": "2026-08-08T12:10:00.000Z",
         "end": "2026-08-08T13:06:00.000Z"
+      },
+      {
+        "title": "Het jachtseizoen",
+        "start": "2026-08-08T13:06:00.000Z",
+        "end": "2026-08-08T13:09:00.000Z"
+      },
+      {
+        "title": "De grote verbouwing",
+        "start": "2026-08-08T13:09:00.000Z",
+        "end": "2026-08-08T14:03:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-08T10:58:00.000Z",
-        "end": "2026-08-08T11:11:00.000Z"
-      },
       {
         "title": "Gilmore girls",
         "start": "2026-08-08T11:11:00.000Z",
@@ -288,6 +283,11 @@
         "title": "Een dag in de dierentuin",
         "start": "2026-08-08T12:55:00.000Z",
         "end": "2026-08-08T13:05:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-08-08T13:05:00.000Z",
+        "end": "2026-08-08T13:56:00.000Z"
       }
     ],
     "Veronica": [
@@ -298,11 +298,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-08T11:00:00.000Z",
-        "end": "2026-08-08T11:30:00.000Z"
-      },
       {
         "title": "The Climate Question",
         "start": "2026-08-08T11:30:00.000Z",
@@ -322,6 +317,11 @@
         "title": "BBC news",
         "start": "2026-08-08T13:00:00.000Z",
         "end": "2026-08-08T13:30:00.000Z"
+      },
+      {
+        "title": "Tech Now",
+        "start": "2026-08-08T13:30:00.000Z",
+        "end": "2026-08-08T14:00:00.000Z"
       }
     ],
     "CNN": [
