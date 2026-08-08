@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T19:27:09.896Z",
+  "generated": "2026-08-08T19:54:23.334Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -32,6 +32,11 @@
         "title": "NOS Journaal",
         "start": "2026-08-08T21:25:00.000Z",
         "end": "2026-08-08T21:35:00.000Z"
+      },
+      {
+        "title": "De avondetappe: Tour de France Femmes",
+        "start": "2026-08-08T21:35:00.000Z",
+        "end": "2026-08-08T22:00:00.000Z"
       }
     ],
     "NPO 2": [
@@ -54,14 +59,19 @@
         "title": "Silent witness",
         "start": "2026-08-08T21:25:00.000Z",
         "end": "2026-08-08T21:30:00.000Z"
+      },
+      {
+        "title": "NPO Doc: Dahomey",
+        "start": "2026-08-08T21:30:00.000Z",
+        "end": "2026-08-08T21:50:00.000Z"
+      },
+      {
+        "title": "Grantchester",
+        "start": "2026-08-08T21:50:00.000Z",
+        "end": "2026-08-08T22:20:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "De verloskundigen",
-        "start": "2026-08-08T18:35:00.000Z",
-        "end": "2026-08-08T19:35:00.000Z"
-      },
       {
         "title": "Ik val niet, ik dans",
         "start": "2026-08-08T19:35:00.000Z",
@@ -81,19 +91,19 @@
         "title": "Holy sh!t",
         "start": "2026-08-08T20:55:00.000Z",
         "end": "2026-08-08T21:40:00.000Z"
+      },
+      {
+        "title": "Shadowland",
+        "start": "2026-08-08T21:40:00.000Z",
+        "end": "2026-08-08T21:50:00.000Z"
+      },
+      {
+        "title": "NPO Doc: Strike a pose",
+        "start": "2026-08-08T21:50:00.000Z",
+        "end": "2026-08-08T22:35:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Los het op!",
-        "start": "2026-08-08T19:01:00.000Z",
-        "end": "2026-08-08T19:44:00.000Z"
-      },
-      {
-        "title": "Ons kent ons",
-        "start": "2026-08-08T19:44:00.000Z",
-        "end": "2026-08-08T19:52:00.000Z"
-      },
       {
         "title": "Ons kent ons",
         "start": "2026-08-08T19:52:00.000Z",
@@ -128,14 +138,19 @@
         "title": "Nederland met vakantie",
         "start": "2026-08-08T21:26:00.000Z",
         "end": "2026-08-08T21:31:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-08T21:31:00.000Z",
+        "end": "2026-08-08T21:36:00.000Z"
+      },
+      {
+        "title": "Beste kijkers",
+        "start": "2026-08-08T21:36:00.000Z",
+        "end": "2026-08-08T22:05:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Kees van der Spek ontmaskert",
-        "start": "2026-08-08T19:24:00.000Z",
-        "end": "2026-08-08T19:42:00.000Z"
-      },
       {
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-08T19:42:00.000Z",
@@ -150,6 +165,11 @@
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-08T20:48:00.000Z",
         "end": "2026-08-08T21:45:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-08T21:45:00.000Z",
+        "end": "2026-08-08T21:58:00.000Z"
       }
     ],
     "RTL 7": [
@@ -172,19 +192,14 @@
         "title": "Sniper\n                        Actie",
         "start": "2026-08-08T20:44:00.000Z",
         "end": "2026-08-08T21:53:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-08T21:53:00.000Z",
+        "end": "2026-08-08T22:09:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "America's got talent",
-        "start": "2026-08-08T18:00:00.000Z",
-        "end": "2026-08-08T19:31:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-08T19:31:00.000Z",
-        "end": "2026-08-08T19:45:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-08T19:45:00.000Z",
@@ -209,6 +224,11 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-08T21:19:00.000Z",
         "end": "2026-08-08T21:28:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-08T21:28:00.000Z",
+        "end": "2026-08-08T22:05:00.000Z"
       }
     ],
     "SBS 6": [
@@ -236,14 +256,24 @@
         "title": "Shownieuws",
         "start": "2026-08-08T20:55:00.000Z",
         "end": "2026-08-08T21:42:00.000Z"
+      },
+      {
+        "title": "De Hanslers: Van de piste naar de playa",
+        "start": "2026-08-08T21:42:00.000Z",
+        "end": "2026-08-08T21:45:00.000Z"
+      },
+      {
+        "title": "Mi dushi: Wat is dan liefde?",
+        "start": "2026-08-08T21:45:00.000Z",
+        "end": "2026-08-08T21:49:00.000Z"
+      },
+      {
+        "title": "I've got the music in me",
+        "start": "2026-08-08T21:49:00.000Z",
+        "end": "2026-08-08T22:38:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "NCIS",
-        "start": "2026-08-08T18:56:00.000Z",
-        "end": "2026-08-08T19:52:00.000Z"
-      },
       {
         "title": "Soko Köln",
         "start": "2026-08-08T19:52:00.000Z",
@@ -263,19 +293,14 @@
         "title": "Chicago fire",
         "start": "2026-08-08T21:20:00.000Z",
         "end": "2026-08-08T21:51:00.000Z"
+      },
+      {
+        "title": "The resident",
+        "start": "2026-08-08T21:51:00.000Z",
+        "end": "2026-08-08T22:08:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "FBI: International",
-        "start": "2026-08-08T18:56:00.000Z",
-        "end": "2026-08-08T19:39:00.000Z"
-      },
-      {
-        "title": "Baywatch remastered",
-        "start": "2026-08-08T19:39:00.000Z",
-        "end": "2026-08-08T19:53:00.000Z"
-      },
       {
         "title": "Criminal minds",
         "start": "2026-08-08T19:53:00.000Z",
@@ -290,14 +315,19 @@
         "title": "The hunting party",
         "start": "2026-08-08T21:02:00.000Z",
         "end": "2026-08-08T21:31:00.000Z"
+      },
+      {
+        "title": "Rescue: HI-surf",
+        "start": "2026-08-08T21:31:00.000Z",
+        "end": "2026-08-08T21:52:00.000Z"
+      },
+      {
+        "title": "Overtreders USA",
+        "start": "2026-08-08T21:52:00.000Z",
+        "end": "2026-08-08T21:58:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-08T19:00:00.000Z",
-        "end": "2026-08-08T19:30:00.000Z"
-      },
       {
         "title": "Rachel Khoo - Cosmopolitan Cook",
         "start": "2026-08-08T19:30:00.000Z",
@@ -312,6 +342,11 @@
         "title": "BBC news",
         "start": "2026-08-08T21:00:00.000Z",
         "end": "2026-08-08T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-08T21:30:00.000Z",
+        "end": "2026-08-08T22:00:00.000Z"
       }
     ],
     "CNN": [
@@ -329,6 +364,11 @@
         "title": "World Sport",
         "start": "2026-08-08T21:00:00.000Z",
         "end": "2026-08-08T21:30:00.000Z"
+      },
+      {
+        "title": "Elite Escapes",
+        "start": "2026-08-08T21:30:00.000Z",
+        "end": "2026-08-08T22:00:00.000Z"
       }
     ]
   }
