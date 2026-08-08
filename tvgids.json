@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-08T12:41:08.843Z",
+  "generated": "2026-08-08T13:42:54.679Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Je weet niet dat je date",
-        "start": "2026-08-08T12:00:00.000Z",
-        "end": "2026-08-08T12:43:00.000Z"
-      },
-      {
-        "title": "Socutera",
-        "start": "2026-08-08T12:43:00.000Z",
-        "end": "2026-08-08T12:45:00.000Z"
-      },
-      {
-        "title": "De avondetappe: Tour de France Femmes",
-        "start": "2026-08-08T12:45:00.000Z",
-        "end": "2026-08-08T12:50:00.000Z"
-      },
       {
         "title": "De avondetappe: Tour de France Femmes",
         "start": "2026-08-08T12:50:00.000Z",
@@ -30,26 +15,6 @@
       }
     ],
     "NPO 2": [
-      {
-        "title": "Sporen van slavernij",
-        "start": "2026-08-08T12:40:00.000Z",
-        "end": "2026-08-08T12:45:00.000Z"
-      },
-      {
-        "title": "Zinzoekers",
-        "start": "2026-08-08T12:45:00.000Z",
-        "end": "2026-08-08T13:17:00.000Z"
-      },
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-08-08T13:17:00.000Z",
-        "end": "2026-08-08T13:20:00.000Z"
-      },
-      {
-        "title": "De Joodse wereld",
-        "start": "2026-08-08T13:20:00.000Z",
-        "end": "2026-08-08T13:30:00.000Z"
-      },
       {
         "title": "Fryslân dok",
         "start": "2026-08-08T13:30:00.000Z",
@@ -69,46 +34,76 @@
         "title": "De verwondering",
         "start": "2026-08-08T14:30:00.000Z",
         "end": "2026-08-08T14:51:00.000Z"
+      },
+      {
+        "title": "Socutera",
+        "start": "2026-08-08T14:51:00.000Z",
+        "end": "2026-08-08T15:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-08T15:00:00.000Z",
+        "end": "2026-08-08T15:05:00.000Z"
+      },
+      {
+        "title": "Pauscast",
+        "start": "2026-08-08T15:05:00.000Z",
+        "end": "2026-08-08T15:10:00.000Z"
+      },
+      {
+        "title": "Petrus in het land",
+        "start": "2026-08-08T15:10:00.000Z",
+        "end": "2026-08-08T15:30:00.000Z"
+      },
+      {
+        "title": "Verloren in het Lake District",
+        "start": "2026-08-08T15:30:00.000Z",
+        "end": "2026-08-08T15:35:00.000Z"
+      },
+      {
+        "title": "De verandering",
+        "start": "2026-08-08T15:35:00.000Z",
+        "end": "2026-08-08T15:55:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Summer break",
-        "start": "2026-08-08T12:35:00.000Z",
-        "end": "2026-08-08T13:00:00.000Z"
-      },
-      {
-        "title": "The Lady Grace mysteries",
-        "start": "2026-08-08T13:00:00.000Z",
-        "end": "2026-08-08T13:25:00.000Z"
-      },
-      {
         "title": "Zappbios: SpaceBoy\n                        Jeugd",
         "start": "2026-08-08T13:25:00.000Z",
         "end": "2026-08-08T14:55:00.000Z"
+      },
+      {
+        "title": "Checkpoint",
+        "start": "2026-08-08T14:55:00.000Z",
+        "end": "2026-08-08T15:00:00.000Z"
+      },
+      {
+        "title": "Bollox",
+        "start": "2026-08-08T15:00:00.000Z",
+        "end": "2026-08-08T15:10:00.000Z"
+      },
+      {
+        "title": "Zenith II",
+        "start": "2026-08-08T15:10:00.000Z",
+        "end": "2026-08-08T15:20:00.000Z"
+      },
+      {
+        "title": "Welkom thuis op vakantie",
+        "start": "2026-08-08T15:20:00.000Z",
+        "end": "2026-08-08T15:35:00.000Z"
+      },
+      {
+        "title": "Taakstraf",
+        "start": "2026-08-08T15:35:00.000Z",
+        "end": "2026-08-08T15:40:00.000Z"
+      },
+      {
+        "title": "Dierendokter in het wild",
+        "start": "2026-08-08T15:40:00.000Z",
+        "end": "2026-08-08T15:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Franky en Coen: Patatje hoop",
-        "start": "2026-08-08T12:30:00.000Z",
-        "end": "2026-08-08T12:54:00.000Z"
-      },
-      {
-        "title": "Huis gezocht",
-        "start": "2026-08-08T12:54:00.000Z",
-        "end": "2026-08-08T13:00:00.000Z"
-      },
-      {
-        "title": "Cruise life",
-        "start": "2026-08-08T13:00:00.000Z",
-        "end": "2026-08-08T13:28:00.000Z"
-      },
-      {
-        "title": "Sky high Sint-Maarten",
-        "start": "2026-08-08T13:28:00.000Z",
-        "end": "2026-08-08T13:33:00.000Z"
-      },
       {
         "title": "RTL Vakantiemagazine",
         "start": "2026-08-08T13:33:00.000Z",
@@ -133,46 +128,46 @@
         "title": "Knappe koppen",
         "start": "2026-08-08T14:34:00.000Z",
         "end": "2026-08-08T15:00:00.000Z"
+      },
+      {
+        "title": "Campingtijd",
+        "start": "2026-08-08T15:00:00.000Z",
+        "end": "2026-08-08T15:02:00.000Z"
+      },
+      {
+        "title": "Chickslovefood on tour",
+        "start": "2026-08-08T15:02:00.000Z",
+        "end": "2026-08-08T15:29:00.000Z"
+      },
+      {
+        "title": "Het goede camperleven",
+        "start": "2026-08-08T15:29:00.000Z",
+        "end": "2026-08-08T15:30:00.000Z"
+      },
+      {
+        "title": "Franky en Coen: Patatje hoop",
+        "start": "2026-08-08T15:30:00.000Z",
+        "end": "2026-08-08T16:00:00.000Z"
       }
     ],
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-08T12:35:00.000Z",
-        "end": "2026-08-08T13:20:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-08T13:20:00.000Z",
         "end": "2026-08-08T14:55:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-08T14:55:00.000Z",
+        "end": "2026-08-08T15:05:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-08T15:05:00.000Z",
+        "end": "2026-08-08T15:49:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-08T12:21:00.000Z",
-        "end": "2026-08-08T12:47:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-08T12:47:00.000Z",
-        "end": "2026-08-08T12:48:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-08T12:48:00.000Z",
-        "end": "2026-08-08T13:15:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-08T13:15:00.000Z",
-        "end": "2026-08-08T13:16:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-08T13:16:00.000Z",
-        "end": "2026-08-08T13:42:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-08T13:42:00.000Z",
@@ -197,6 +192,16 @@
         "title": "Border Patrol USA",
         "start": "2026-08-08T14:41:00.000Z",
         "end": "2026-08-08T15:23:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-08-08T15:23:00.000Z",
+        "end": "2026-08-08T15:24:00.000Z"
+      },
+      {
+        "title": "Border Patrol USA",
+        "start": "2026-08-08T15:24:00.000Z",
+        "end": "2026-08-08T15:49:00.000Z"
       }
     ],
     "RTL 8": [
@@ -204,19 +209,24 @@
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-08T11:01:00.000Z",
         "end": "2026-08-08T14:56:00.000Z"
+      },
+      {
+        "title": "Bed & breakfast België",
+        "start": "2026-08-08T14:56:00.000Z",
+        "end": "2026-08-08T15:11:00.000Z"
+      },
+      {
+        "title": "Cruisen over de Middellandse Zee",
+        "start": "2026-08-08T15:11:00.000Z",
+        "end": "2026-08-08T15:38:00.000Z"
+      },
+      {
+        "title": "Lego masters Australië",
+        "start": "2026-08-08T15:38:00.000Z",
+        "end": "2026-08-08T16:07:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De Hanslers: Van de piste naar de playa",
-        "start": "2026-08-08T12:10:00.000Z",
-        "end": "2026-08-08T13:06:00.000Z"
-      },
-      {
-        "title": "Het jachtseizoen",
-        "start": "2026-08-08T13:06:00.000Z",
-        "end": "2026-08-08T13:09:00.000Z"
-      },
       {
         "title": "De grote verbouwing",
         "start": "2026-08-08T13:09:00.000Z",
@@ -231,19 +241,19 @@
         "title": "Verkopen of verbouwen",
         "start": "2026-08-08T14:07:00.000Z",
         "end": "2026-08-08T15:05:00.000Z"
+      },
+      {
+        "title": "De grote verhuizing",
+        "start": "2026-08-08T15:05:00.000Z",
+        "end": "2026-08-08T15:07:00.000Z"
+      },
+      {
+        "title": "De grote tuinverbouwing",
+        "start": "2026-08-08T15:07:00.000Z",
+        "end": "2026-08-08T16:04:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Gilmore girls",
-        "start": "2026-08-08T12:07:00.000Z",
-        "end": "2026-08-08T12:55:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-08-08T12:55:00.000Z",
-        "end": "2026-08-08T13:05:00.000Z"
-      },
       {
         "title": "Gilmore girls",
         "start": "2026-08-08T13:05:00.000Z",
@@ -258,20 +268,20 @@
         "title": "Een dag in de dierenkliniek",
         "start": "2026-08-08T14:02:00.000Z",
         "end": "2026-08-08T14:58:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-08-08T14:58:00.000Z",
+        "end": "2026-08-08T15:02:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierenkliniek",
+        "start": "2026-08-08T15:02:00.000Z",
+        "end": "2026-08-08T16:01:00.000Z"
       }
     ],
     "Veronica": [],
     "BBC News": [
-      {
-        "title": "The travel show",
-        "start": "2026-08-08T12:30:00.000Z",
-        "end": "2026-08-08T13:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-08T13:00:00.000Z",
-        "end": "2026-08-08T13:30:00.000Z"
-      },
       {
         "title": "Tech Now",
         "start": "2026-08-08T13:30:00.000Z",
@@ -286,14 +296,19 @@
         "title": "Clive Myrie's Caribbean adventure",
         "start": "2026-08-08T14:30:00.000Z",
         "end": "2026-08-08T15:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-08T15:00:00.000Z",
+        "end": "2026-08-08T15:30:00.000Z"
+      },
+      {
+        "title": "Global eye",
+        "start": "2026-08-08T15:30:00.000Z",
+        "end": "2026-08-08T16:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Inside Politics",
-        "start": "2026-08-08T12:00:00.000Z",
-        "end": "2026-08-08T13:00:00.000Z"
-      },
       {
         "title": "U.S. State of the Union Address",
         "start": "2026-08-08T13:00:00.000Z",
@@ -308,6 +323,11 @@
         "title": "Inside Africa",
         "start": "2026-08-08T14:30:00.000Z",
         "end": "2026-08-08T15:00:00.000Z"
+      },
+      {
+        "title": "Inside Politics",
+        "start": "2026-08-08T15:00:00.000Z",
+        "end": "2026-08-08T16:00:00.000Z"
       }
     ]
   }
