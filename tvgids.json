@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-08T16:29:35.665Z",
+  "generated": "2026-08-08T17:04:15.645Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Sportjournaal",
-        "start": "2026-08-08T16:15:00.000Z",
-        "end": "2026-08-08T16:30:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-08T16:30:00.000Z",
-        "end": "2026-08-08T16:55:00.000Z"
-      },
       {
         "title": "Studio sport voetbal",
         "start": "2026-08-08T16:55:00.000Z",
@@ -32,24 +22,14 @@
         "title": "De avondetappe",
         "start": "2026-08-08T18:25:00.000Z",
         "end": "2026-08-08T18:30:00.000Z"
+      },
+      {
+        "title": "Ik vertrek",
+        "start": "2026-08-08T18:30:00.000Z",
+        "end": "2026-08-08T19:20:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nederland zingt",
-        "start": "2026-08-08T16:10:00.000Z",
-        "end": "2026-08-08T16:35:00.000Z"
-      },
-      {
-        "title": "Ik mis je",
-        "start": "2026-08-08T16:35:00.000Z",
-        "end": "2026-08-08T16:50:00.000Z"
-      },
-      {
-        "title": "Tour de France Femmes\n                                                                            Etappe 9 Vrouwen: Nice ? Nice, 99,2km Mountain",
-        "start": "2026-08-08T16:50:00.000Z",
-        "end": "2026-08-08T17:00:00.000Z"
-      },
       {
         "title": "Into the Congo with Ben Fogle",
         "start": "2026-08-08T17:00:00.000Z",
@@ -74,24 +54,14 @@
         "title": "Zomergasten",
         "start": "2026-08-08T18:20:00.000Z",
         "end": "2026-08-08T18:30:00.000Z"
+      },
+      {
+        "title": "Ruben en de verborgen strijd van Myanmar",
+        "start": "2026-08-08T18:30:00.000Z",
+        "end": "2026-08-08T19:25:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Enkeltje Verweggistan",
-        "start": "2026-08-08T16:20:00.000Z",
-        "end": "2026-08-08T16:35:00.000Z"
-      },
-      {
-        "title": "Welkom in de Middeleeuwen",
-        "start": "2026-08-08T16:35:00.000Z",
-        "end": "2026-08-08T16:45:00.000Z"
-      },
-      {
-        "title": "Steken en prikken: Op vakantie",
-        "start": "2026-08-08T16:45:00.000Z",
-        "end": "2026-08-08T17:00:00.000Z"
-      },
       {
         "title": "Jeugdjournaal",
         "start": "2026-08-08T17:00:00.000Z",
@@ -116,29 +86,14 @@
         "title": "Karen Pirie",
         "start": "2026-08-08T18:25:00.000Z",
         "end": "2026-08-08T18:35:00.000Z"
+      },
+      {
+        "title": "De verloskundigen",
+        "start": "2026-08-08T18:35:00.000Z",
+        "end": "2026-08-08T19:35:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "EditieNL",
-        "start": "2026-08-08T16:18:00.000Z",
-        "end": "2026-08-08T16:33:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-08T16:33:00.000Z",
-        "end": "2026-08-08T16:34:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-08T16:34:00.000Z",
-        "end": "2026-08-08T16:35:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-08T16:35:00.000Z",
-        "end": "2026-08-08T16:36:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-08T16:36:00.000Z",
@@ -173,19 +128,14 @@
         "title": "Oh, wat een jaar!",
         "start": "2026-08-08T18:05:00.000Z",
         "end": "2026-08-08T19:01:00.000Z"
+      },
+      {
+        "title": "Los het op!",
+        "start": "2026-08-08T19:01:00.000Z",
+        "end": "2026-08-08T19:44:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Helden van hier: Op interventie",
-        "start": "2026-08-08T16:00:00.000Z",
-        "end": "2026-08-08T16:42:00.000Z"
-      },
-      {
-        "title": "Meldkamer Utrecht Centraal",
-        "start": "2026-08-08T16:42:00.000Z",
-        "end": "2026-08-08T17:03:00.000Z"
-      },
       {
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-08T17:03:00.000Z",
@@ -200,14 +150,14 @@
         "title": "Scam alert: Trap er niet in!",
         "start": "2026-08-08T18:00:00.000Z",
         "end": "2026-08-08T18:50:00.000Z"
+      },
+      {
+        "title": "Het interventie team",
+        "start": "2026-08-08T18:50:00.000Z",
+        "end": "2026-08-08T19:24:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border Patrol USA",
-        "start": "2026-08-08T16:17:00.000Z",
-        "end": "2026-08-08T16:39:00.000Z"
-      },
       {
         "title": "Border security Canada",
         "start": "2026-08-08T16:39:00.000Z",
@@ -237,16 +187,6 @@
     "RTL 8": [
       {
         "title": "Cruisen over de Middellandse Zee",
-        "start": "2026-08-08T16:07:00.000Z",
-        "end": "2026-08-08T16:41:00.000Z"
-      },
-      {
-        "title": "Lego masters Australië",
-        "start": "2026-08-08T16:41:00.000Z",
-        "end": "2026-08-08T17:03:00.000Z"
-      },
-      {
-        "title": "Cruisen over de Middellandse Zee",
         "start": "2026-08-08T17:03:00.000Z",
         "end": "2026-08-08T18:00:00.000Z"
       },
@@ -257,16 +197,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "De grote verbouwing Australië",
-        "start": "2026-08-08T16:04:00.000Z",
-        "end": "2026-08-08T16:35:00.000Z"
-      },
-      {
-        "title": "Lachen om home video's",
-        "start": "2026-08-08T16:35:00.000Z",
-        "end": "2026-08-08T17:03:00.000Z"
-      },
       {
         "title": "vtwonen weer verliefd op je huis",
         "start": "2026-08-08T17:03:00.000Z",
@@ -281,14 +211,14 @@
         "title": "I've got the music in me",
         "start": "2026-08-08T18:01:00.000Z",
         "end": "2026-08-08T18:30:00.000Z"
+      },
+      {
+        "title": "Het jachtseizoen",
+        "start": "2026-08-08T18:30:00.000Z",
+        "end": "2026-08-08T19:23:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-08-08T16:01:00.000Z",
-        "end": "2026-08-08T17:00:00.000Z"
-      },
       {
         "title": "Een dag in de dierentuin",
         "start": "2026-08-08T17:00:00.000Z",
@@ -298,24 +228,14 @@
         "title": "The Adventures of Tintin\n                        Animatie",
         "start": "2026-08-08T18:00:00.000Z",
         "end": "2026-08-08T18:56:00.000Z"
+      },
+      {
+        "title": "NCIS",
+        "start": "2026-08-08T18:56:00.000Z",
+        "end": "2026-08-08T19:52:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Married with children",
-        "start": "2026-08-08T16:29:00.000Z",
-        "end": "2026-08-08T16:30:00.000Z"
-      },
-      {
-        "title": "Border security: Nieuw-Zeeland",
-        "start": "2026-08-08T16:30:00.000Z",
-        "end": "2026-08-08T16:59:00.000Z"
-      },
-      {
-        "title": "Married with children",
-        "start": "2026-08-08T16:59:00.000Z",
-        "end": "2026-08-08T17:00:00.000Z"
-      },
       {
         "title": "Airport Security: Amerika",
         "start": "2026-08-08T17:00:00.000Z",
@@ -330,14 +250,14 @@
         "title": "FBI: International",
         "start": "2026-08-08T18:00:00.000Z",
         "end": "2026-08-08T18:56:00.000Z"
+      },
+      {
+        "title": "FBI: International",
+        "start": "2026-08-08T18:56:00.000Z",
+        "end": "2026-08-08T19:39:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-08T16:00:00.000Z",
-        "end": "2026-08-08T17:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-08T17:00:00.000Z",
@@ -352,19 +272,19 @@
         "title": "BBC news",
         "start": "2026-08-08T18:00:00.000Z",
         "end": "2026-08-08T18:30:00.000Z"
+      },
+      {
+        "title": "Focus on Africa: The Conversation",
+        "start": "2026-08-08T18:30:00.000Z",
+        "end": "2026-08-08T19:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-08T19:00:00.000Z",
+        "end": "2026-08-08T19:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "World Sport",
-        "start": "2026-08-08T16:00:00.000Z",
-        "end": "2026-08-08T16:30:00.000Z"
-      },
-      {
-        "title": "Inside Africa",
-        "start": "2026-08-08T16:30:00.000Z",
-        "end": "2026-08-08T17:00:00.000Z"
-      },
       {
         "title": "African Voices Playmakers",
         "start": "2026-08-08T17:00:00.000Z",
@@ -379,6 +299,11 @@
         "title": "CNN Newsroom",
         "start": "2026-08-08T18:00:00.000Z",
         "end": "2026-08-08T19:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-08T19:00:00.000Z",
+        "end": "2026-08-08T20:00:00.000Z"
       }
     ]
   }
