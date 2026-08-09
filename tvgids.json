@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-09T15:28:00.383Z",
+  "generated": "2026-08-09T15:58:53.781Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Op safari",
-        "start": "2026-08-09T15:25:00.000Z",
-        "end": "2026-08-09T15:55:00.000Z"
-      },
-      {
-        "title": "Politieke partijen",
-        "start": "2026-08-09T15:55:00.000Z",
-        "end": "2026-08-09T15:57:00.000Z"
-      },
       {
         "title": "Politieke partijen",
         "start": "2026-08-09T15:57:00.000Z",
@@ -50,11 +40,6 @@
       }
     ],
     "NPO 2": [
-      {
-        "title": "Pauscast",
-        "start": "2026-08-09T15:05:00.000Z",
-        "end": "2026-08-09T15:30:00.000Z"
-      },
       {
         "title": "Verloren in het Lake District",
         "start": "2026-08-09T15:30:00.000Z",
@@ -94,24 +79,14 @@
         "title": "Rail away",
         "start": "2026-08-09T17:25:00.000Z",
         "end": "2026-08-09T17:50:00.000Z"
+      },
+      {
+        "title": "Met het mes op tafel",
+        "start": "2026-08-09T17:50:00.000Z",
+        "end": "2026-08-09T18:20:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zenith II",
-        "start": "2026-08-09T15:10:00.000Z",
-        "end": "2026-08-09T15:40:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-08-09T15:40:00.000Z",
-        "end": "2026-08-09T15:50:00.000Z"
-      },
-      {
-        "title": "Shaun het schaap",
-        "start": "2026-08-09T15:50:00.000Z",
-        "end": "2026-08-09T15:55:00.000Z"
-      },
       {
         "title": "Topdoks in de tropen",
         "start": "2026-08-09T15:55:00.000Z",
@@ -156,14 +131,19 @@
         "title": "Vlogmania",
         "start": "2026-08-09T17:20:00.000Z",
         "end": "2026-08-09T17:45:00.000Z"
+      },
+      {
+        "title": "Reizen Waes",
+        "start": "2026-08-09T17:45:00.000Z",
+        "end": "2026-08-09T17:50:00.000Z"
+      },
+      {
+        "title": "Sport: EK atletiek outdoor",
+        "start": "2026-08-09T17:50:00.000Z",
+        "end": "2026-08-09T18:35:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Campingtijd",
-        "start": "2026-08-09T15:00:00.000Z",
-        "end": "2026-08-09T15:29:00.000Z"
-      },
       {
         "title": "Het goede camperleven",
         "start": "2026-08-09T15:29:00.000Z",
@@ -203,19 +183,24 @@
         "title": "VriendenLoterij: De winnaars",
         "start": "2026-08-09T17:22:00.000Z",
         "end": "2026-08-09T17:30:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-09T17:30:00.000Z",
+        "end": "2026-08-09T17:55:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-09T17:55:00.000Z",
+        "end": "2026-08-09T17:57:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-09T17:57:00.000Z",
+        "end": "2026-08-09T18:01:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-09T14:55:00.000Z",
-        "end": "2026-08-09T15:37:00.000Z"
-      },
-      {
-        "title": "Erasmus MC 24/7",
-        "start": "2026-08-09T15:37:00.000Z",
-        "end": "2026-08-09T15:49:00.000Z"
-      },
       {
         "title": "Stop! Politie UK",
         "start": "2026-08-09T15:49:00.000Z",
@@ -230,14 +215,14 @@
         "title": "De Pfaff's",
         "start": "2026-08-09T17:01:00.000Z",
         "end": "2026-08-09T17:43:00.000Z"
+      },
+      {
+        "title": "De Pfaff's",
+        "start": "2026-08-09T17:43:00.000Z",
+        "end": "2026-08-09T18:00:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border Patrol USA",
-        "start": "2026-08-09T15:24:00.000Z",
-        "end": "2026-08-09T15:50:00.000Z"
-      },
       {
         "title": "Pawn stars",
         "start": "2026-08-09T15:50:00.000Z",
@@ -262,14 +247,14 @@
         "title": "Border Patrol USA",
         "start": "2026-08-09T17:07:00.000Z",
         "end": "2026-08-09T17:32:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-09T17:32:00.000Z",
+        "end": "2026-08-09T18:00:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Undercover boss USA",
-        "start": "2026-08-09T15:10:00.000Z",
-        "end": "2026-08-09T15:38:00.000Z"
-      },
       {
         "title": "Lego masters Australië",
         "start": "2026-08-09T15:38:00.000Z",
@@ -294,14 +279,14 @@
         "title": "The bold and the beautiful - The beginning",
         "start": "2026-08-09T17:01:00.000Z",
         "end": "2026-08-09T17:30:00.000Z"
+      },
+      {
+        "title": "Bed & breakfast België",
+        "start": "2026-08-09T17:30:00.000Z",
+        "end": "2026-08-09T18:00:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De grote verhuizing",
-        "start": "2026-08-09T15:05:00.000Z",
-        "end": "2026-08-09T15:50:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-09T15:50:00.000Z",
@@ -385,24 +370,19 @@
         "title": "Two and a half men",
         "start": "2026-08-09T17:10:00.000Z",
         "end": "2026-08-09T17:35:00.000Z"
+      },
+      {
+        "title": "The big bang theory",
+        "start": "2026-08-09T17:35:00.000Z",
+        "end": "2026-08-09T17:55:00.000Z"
+      },
+      {
+        "title": "The big bang theory",
+        "start": "2026-08-09T17:55:00.000Z",
+        "end": "2026-08-09T18:00:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Verified Live",
-        "start": "2026-08-09T15:00:00.000Z",
-        "end": "2026-08-09T15:30:00.000Z"
-      },
-      {
-        "title": "Business Today",
-        "start": "2026-08-09T15:30:00.000Z",
-        "end": "2026-08-09T15:45:00.000Z"
-      },
-      {
-        "title": "Verified Live",
-        "start": "2026-08-09T15:45:00.000Z",
-        "end": "2026-08-09T15:55:00.000Z"
-      },
       {
         "title": "A Taste of the City",
         "start": "2026-08-09T15:55:00.000Z",
@@ -422,6 +402,11 @@
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-09T17:00:00.000Z",
         "end": "2026-08-09T17:30:00.000Z"
+      },
+      {
+        "title": "The World Today with Maryam Moshiri",
+        "start": "2026-08-09T17:30:00.000Z",
+        "end": "2026-08-09T18:00:00.000Z"
       }
     ],
     "CNN": [
@@ -449,6 +434,11 @@
         "title": "Amanpour",
         "start": "2026-08-09T17:00:00.000Z",
         "end": "2026-08-09T17:30:00.000Z"
+      },
+      {
+        "title": "Connecting Africa",
+        "start": "2026-08-09T17:30:00.000Z",
+        "end": "2026-08-09T18:00:00.000Z"
       }
     ]
   }
