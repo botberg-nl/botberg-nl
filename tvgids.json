@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-10T22:34:33.644Z",
+  "generated": "2026-08-10T23:32:14.185Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-10T21:45:00.000Z",
-        "end": "2026-08-10T22:40:00.000Z"
-      },
-      {
-        "title": "Het verhaal van Nederland - Oranje-Nassau",
-        "start": "2026-08-10T22:40:00.000Z",
-        "end": "2026-08-10T22:45:00.000Z"
-      },
       {
         "title": "Het verhaal van Nederland - Oranje-Nassau",
         "start": "2026-08-10T22:45:00.000Z",
@@ -47,24 +37,29 @@
         "title": "NOS Journaal met gebarentaal",
         "start": "2026-08-11T00:30:00.000Z",
         "end": "2026-08-11T00:50:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-11T00:50:00.000Z",
+        "end": "2026-08-11T00:55:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-11T00:55:00.000Z",
+        "end": "2026-08-11T01:10:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-11T01:10:00.000Z",
+        "end": "2026-08-11T01:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-11T01:15:00.000Z",
+        "end": "2026-08-11T03:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-10T22:30:00.000Z",
-        "end": "2026-08-10T22:45:00.000Z"
-      },
-      {
-        "title": "De nachtzoen",
-        "start": "2026-08-10T22:45:00.000Z",
-        "end": "2026-08-10T23:05:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-10T23:05:00.000Z",
-        "end": "2026-08-10T23:10:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-10T23:10:00.000Z",
@@ -77,16 +72,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Woeste grond",
-        "start": "2026-08-10T22:10:00.000Z",
-        "end": "2026-08-10T22:50:00.000Z"
-      },
-      {
-        "title": "Op safari",
-        "start": "2026-08-10T22:50:00.000Z",
-        "end": "2026-08-10T23:20:00.000Z"
-      },
       {
         "title": "Keuringsdienst van waarde",
         "start": "2026-08-10T23:20:00.000Z",
@@ -104,36 +89,6 @@
       }
     ],
     "RTL 4": [
-      {
-        "title": "Nederland met vakantie",
-        "start": "2026-08-10T22:15:00.000Z",
-        "end": "2026-08-10T22:55:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-10T22:55:00.000Z",
-        "end": "2026-08-10T22:57:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-10T22:57:00.000Z",
-        "end": "2026-08-10T23:05:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-10T23:05:00.000Z",
-        "end": "2026-08-10T23:16:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-10T23:16:00.000Z",
-        "end": "2026-08-10T23:18:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-10T23:18:00.000Z",
-        "end": "2026-08-10T23:25:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-10T23:25:00.000Z",
@@ -157,16 +112,6 @@
     ],
     "RTL 5": [
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-10T22:05:00.000Z",
-        "end": "2026-08-10T23:07:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-10T23:07:00.000Z",
-        "end": "2026-08-10T23:10:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-10T23:10:00.000Z",
         "end": "2026-08-11T00:10:00.000Z"
@@ -178,26 +123,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-10T22:30:00.000Z",
-        "end": "2026-08-10T22:58:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-10T22:58:00.000Z",
-        "end": "2026-08-10T23:03:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-10T23:03:00.000Z",
-        "end": "2026-08-10T23:30:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-10T23:30:00.000Z",
-        "end": "2026-08-10T23:31:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-08-10T23:31:00.000Z",
@@ -216,21 +141,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Crime scene investigation",
-        "start": "2026-08-10T22:17:00.000Z",
-        "end": "2026-08-10T22:39:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-10T22:39:00.000Z",
-        "end": "2026-08-10T23:15:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-10T23:15:00.000Z",
-        "end": "2026-08-10T23:18:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-10T23:18:00.000Z",
         "end": "2026-08-11T00:01:00.000Z"
@@ -242,16 +152,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-10T21:45:00.000Z",
-        "end": "2026-08-10T22:48:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-10T22:48:00.000Z",
-        "end": "2026-08-10T22:50:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-10T22:50:00.000Z",
@@ -270,21 +170,6 @@
     ],
     "NET 5": [
       {
-        "title": "Cedar Cove",
-        "start": "2026-08-10T22:28:00.000Z",
-        "end": "2026-08-10T23:05:00.000Z"
-      },
-      {
-        "title": "So help me Todd",
-        "start": "2026-08-10T23:05:00.000Z",
-        "end": "2026-08-10T23:12:00.000Z"
-      },
-      {
-        "title": "John Tucker Must Die\n                        Romantische komedie",
-        "start": "2026-08-10T23:12:00.000Z",
-        "end": "2026-08-10T23:28:00.000Z"
-      },
-      {
         "title": "House rules Australië",
         "start": "2026-08-10T23:28:00.000Z",
         "end": "2026-08-10T23:55:00.000Z"
@@ -298,29 +183,14 @@
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-11T00:21:00.000Z",
         "end": "2026-08-11T00:43:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-11T00:43:00.000Z",
+        "end": "2026-08-11T03:58:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Fugitives caught on tape",
-        "start": "2026-08-10T22:26:00.000Z",
-        "end": "2026-08-10T22:54:00.000Z"
-      },
-      {
-        "title": "Fugitives caught on tape",
-        "start": "2026-08-10T22:54:00.000Z",
-        "end": "2026-08-10T22:57:00.000Z"
-      },
-      {
-        "title": "Kevin Hart's muscle car crew",
-        "start": "2026-08-10T22:57:00.000Z",
-        "end": "2026-08-10T23:14:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-10T23:14:00.000Z",
-        "end": "2026-08-10T23:25:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-10T23:25:00.000Z",
@@ -344,16 +214,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC World News America",
-        "start": "2026-08-10T22:00:00.000Z",
-        "end": "2026-08-10T23:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-10T23:00:00.000Z",
-        "end": "2026-08-10T23:30:00.000Z"
-      },
-      {
         "title": "Talking Business",
         "start": "2026-08-10T23:30:00.000Z",
         "end": "2026-08-11T00:00:00.000Z"
@@ -367,14 +227,19 @@
         "title": "AI Decoded",
         "start": "2026-08-11T00:30:00.000Z",
         "end": "2026-08-11T01:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-11T01:00:00.000Z",
+        "end": "2026-08-11T01:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-11T01:30:00.000Z",
+        "end": "2026-08-11T01:45:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "The Brief with Jim Sciutto",
-        "start": "2026-08-10T22:00:00.000Z",
-        "end": "2026-08-10T23:00:00.000Z"
-      },
       {
         "title": "Erin Burnett OutFront",
         "start": "2026-08-10T23:00:00.000Z",
@@ -384,6 +249,11 @@
         "title": "Anderson Cooper 360",
         "start": "2026-08-11T00:00:00.000Z",
         "end": "2026-08-11T01:00:00.000Z"
+      },
+      {
+        "title": "The Source with Kaitlan Collins",
+        "start": "2026-08-11T01:00:00.000Z",
+        "end": "2026-08-11T02:00:00.000Z"
       }
     ]
   }
