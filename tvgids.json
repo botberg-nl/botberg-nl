@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-12T19:12:29.666Z",
+  "generated": "2026-08-12T20:08:41.904Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Van onschatbare waarde",
-        "start": "2026-08-12T18:40:00.000Z",
-        "end": "2026-08-12T19:20:00.000Z"
-      },
-      {
-        "title": "Triviant",
-        "start": "2026-08-12T19:20:00.000Z",
-        "end": "2026-08-12T19:30:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-12T19:30:00.000Z",
@@ -32,24 +22,29 @@
         "title": "NOS Journaal",
         "start": "2026-08-12T21:10:00.000Z",
         "end": "2026-08-12T21:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-12T21:20:00.000Z",
+        "end": "2026-08-12T21:35:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-12T21:35:00.000Z",
+        "end": "2026-08-12T21:40:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-12T21:40:00.000Z",
+        "end": "2026-08-12T21:45:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-12T21:45:00.000Z",
+        "end": "2026-08-12T22:35:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Poorten van Europa",
-        "start": "2026-08-12T18:30:00.000Z",
-        "end": "2026-08-12T19:15:00.000Z"
-      },
-      {
-        "title": "Zembla",
-        "start": "2026-08-12T19:15:00.000Z",
-        "end": "2026-08-12T19:25:00.000Z"
-      },
-      {
-        "title": "Dit is de kwestie",
-        "start": "2026-08-12T19:25:00.000Z",
-        "end": "2026-08-12T20:00:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-12T20:00:00.000Z",
@@ -64,6 +59,21 @@
         "title": "De Joodse wereld",
         "start": "2026-08-12T21:10:00.000Z",
         "end": "2026-08-12T21:25:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-08-12T21:25:00.000Z",
+        "end": "2026-08-12T21:35:00.000Z"
+      },
+      {
+        "title": "De wilde ruimte",
+        "start": "2026-08-12T21:35:00.000Z",
+        "end": "2026-08-12T21:40:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-12T21:40:00.000Z",
+        "end": "2026-08-12T22:10:00.000Z"
       }
     ],
     "NPO 3": [
@@ -71,6 +81,11 @@
         "title": "Sport: EK atletiek outdoor",
         "start": "2026-08-12T18:30:00.000Z",
         "end": "2026-08-12T21:20:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-12T21:20:00.000Z",
+        "end": "2026-08-12T22:10:00.000Z"
       }
     ],
     "RTL 4": [
@@ -98,19 +113,34 @@
         "title": "RTL Nieuws",
         "start": "2026-08-12T21:02:00.000Z",
         "end": "2026-08-12T21:17:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-12T21:17:00.000Z",
+        "end": "2026-08-12T21:19:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-12T21:19:00.000Z",
+        "end": "2026-08-12T21:23:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-12T21:23:00.000Z",
+        "end": "2026-08-12T21:24:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-12T21:24:00.000Z",
+        "end": "2026-08-12T21:26:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-12T21:26:00.000Z",
+        "end": "2026-08-12T22:09:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "St. Willebrord: Het mirakel van Brabant",
-        "start": "2026-08-12T18:29:00.000Z",
-        "end": "2026-08-12T19:55:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-12T19:55:00.000Z",
-        "end": "2026-08-12T19:56:00.000Z"
-      },
       {
         "title": "112 vandaag",
         "start": "2026-08-12T19:56:00.000Z",
@@ -135,6 +165,41 @@
         "title": "24 uur in de ER",
         "start": "2026-08-12T20:30:00.000Z",
         "end": "2026-08-12T21:32:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-12T21:32:00.000Z",
+        "end": "2026-08-12T21:35:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-12T21:35:00.000Z",
+        "end": "2026-08-12T21:55:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-12T21:55:00.000Z",
+        "end": "2026-08-12T21:57:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-12T21:57:00.000Z",
+        "end": "2026-08-12T21:58:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-12T21:58:00.000Z",
+        "end": "2026-08-12T21:59:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-12T21:59:00.000Z",
+        "end": "2026-08-12T22:01:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-12T22:01:00.000Z",
+        "end": "2026-08-12T23:05:00.000Z"
       }
     ],
     "RTL 7": [
@@ -174,14 +239,34 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-12T20:23:00.000Z",
         "end": "2026-08-12T21:15:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-12T21:15:00.000Z",
+        "end": "2026-08-12T21:18:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-12T21:18:00.000Z",
+        "end": "2026-08-12T21:37:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-12T21:37:00.000Z",
+        "end": "2026-08-12T21:59:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-12T21:59:00.000Z",
+        "end": "2026-08-12T22:03:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-12T22:03:00.000Z",
+        "end": "2026-08-12T22:39:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-12T18:01:00.000Z",
-        "end": "2026-08-12T19:18:00.000Z"
-      },
       {
         "title": "De Oranjezomer",
         "start": "2026-08-12T19:18:00.000Z",
@@ -196,19 +281,14 @@
         "title": "Shownieuws",
         "start": "2026-08-12T20:49:00.000Z",
         "end": "2026-08-12T21:45:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-12T21:45:00.000Z",
+        "end": "2026-08-12T22:50:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "The rookie",
-        "start": "2026-08-12T18:30:00.000Z",
-        "end": "2026-08-12T19:27:00.000Z"
-      },
-      {
-        "title": "The rookie",
-        "start": "2026-08-12T19:27:00.000Z",
-        "end": "2026-08-12T19:28:00.000Z"
-      },
       {
         "title": "Sullivan's Crossing",
         "start": "2026-08-12T19:28:00.000Z",
@@ -228,6 +308,21 @@
         "title": "Hot Pursuit\n                        Actiekomedie",
         "start": "2026-08-12T20:43:00.000Z",
         "end": "2026-08-12T21:20:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-08-12T21:20:00.000Z",
+        "end": "2026-08-12T21:24:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-08-12T21:24:00.000Z",
+        "end": "2026-08-12T22:07:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-12T22:07:00.000Z",
+        "end": "2026-08-12T22:11:00.000Z"
       }
     ],
     "Veronica": [
@@ -254,16 +349,6 @@
     ],
     "BBC News": [
       {
-        "title": "The Context USA",
-        "start": "2026-08-12T19:00:00.000Z",
-        "end": "2026-08-12T19:30:00.000Z"
-      },
-      {
-        "title": "The Context USA",
-        "start": "2026-08-12T19:30:00.000Z",
-        "end": "2026-08-12T20:00:00.000Z"
-      },
-      {
         "title": "The Context with Christian Fraser",
         "start": "2026-08-12T20:00:00.000Z",
         "end": "2026-08-12T20:30:00.000Z"
@@ -282,14 +367,19 @@
         "title": "BBC World News America",
         "start": "2026-08-12T21:00:00.000Z",
         "end": "2026-08-12T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-12T21:30:00.000Z",
+        "end": "2026-08-12T22:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-12T22:00:00.000Z",
+        "end": "2026-08-12T23:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "What We Know with Max Foster",
-        "start": "2026-08-12T19:00:00.000Z",
-        "end": "2026-08-12T20:00:00.000Z"
-      },
       {
         "title": "Quest Means Business",
         "start": "2026-08-12T20:00:00.000Z",
@@ -304,6 +394,16 @@
         "title": "The Lead with Jake Tapper",
         "start": "2026-08-12T21:00:00.000Z",
         "end": "2026-08-12T21:30:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-08-12T21:30:00.000Z",
+        "end": "2026-08-12T22:00:00.000Z"
+      },
+      {
+        "title": "The Brief with Jim Sciutto",
+        "start": "2026-08-12T22:00:00.000Z",
+        "end": "2026-08-12T23:00:00.000Z"
       }
     ]
   }
