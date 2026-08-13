@@ -1,28 +1,8 @@
 {
-  "generated": "2026-08-12T23:09:31.139Z",
+  "generated": "2026-08-13T00:06:19.981Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Het verhaal van Nederland - Oranje-Nassau",
-        "start": "2026-08-12T22:50:00.000Z",
-        "end": "2026-08-12T23:35:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-12T23:35:00.000Z",
-        "end": "2026-08-12T23:45:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-12T23:45:00.000Z",
-        "end": "2026-08-12T23:55:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-12T23:55:00.000Z",
-        "end": "2026-08-13T00:05:00.000Z"
-      },
       {
         "title": "EenVandaag",
         "start": "2026-08-13T00:05:00.000Z",
@@ -52,6 +32,16 @@
         "title": "NOS Journaal",
         "start": "2026-08-13T01:05:00.000Z",
         "end": "2026-08-13T01:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-13T01:15:00.000Z",
+        "end": "2026-08-13T01:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-13T01:20:00.000Z",
+        "end": "2026-08-13T03:50:00.000Z"
       }
     ],
     "NPO 2": [
@@ -62,21 +52,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Op safari",
-        "start": "2026-08-12T22:50:00.000Z",
-        "end": "2026-08-12T23:20:00.000Z"
-      },
-      {
-        "title": "Keuringsdienst van waarde",
-        "start": "2026-08-12T23:20:00.000Z",
-        "end": "2026-08-12T23:50:00.000Z"
-      },
-      {
-        "title": "Reizen Waes: De bucketlist",
-        "start": "2026-08-12T23:50:00.000Z",
-        "end": "2026-08-12T23:55:00.000Z"
-      },
       {
         "title": "Reizen Waes",
         "start": "2026-08-12T23:55:00.000Z",
@@ -90,47 +65,12 @@
     ],
     "RTL 4": [
       {
-        "title": "EditieNL",
-        "start": "2026-08-12T23:05:00.000Z",
-        "end": "2026-08-12T23:17:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-12T23:17:00.000Z",
-        "end": "2026-08-12T23:18:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-12T23:18:00.000Z",
-        "end": "2026-08-12T23:25:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-12T23:25:00.000Z",
-        "end": "2026-08-13T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-13T00:01:00.000Z",
-        "end": "2026-08-13T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-13T00:02:00.000Z",
-        "end": "2026-08-13T00:03:00.000Z"
-      },
-      {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-13T00:03:00.000Z",
         "end": "2026-08-13T04:00:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-12T23:08:00.000Z",
-        "end": "2026-08-12T23:10:00.000Z"
-      },
       {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-12T23:10:00.000Z",
@@ -145,16 +85,6 @@
     "RTL 7": [
       {
         "title": "Teleshop",
-        "start": "2026-08-12T23:05:00.000Z",
-        "end": "2026-08-12T23:23:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-12T23:23:00.000Z",
-        "end": "2026-08-12T23:55:00.000Z"
-      },
-      {
-        "title": "Teleshop",
         "start": "2026-08-12T23:55:00.000Z",
         "end": "2026-08-13T00:10:00.000Z"
       },
@@ -167,31 +97,11 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-08-12T23:04:00.000Z",
-        "end": "2026-08-12T23:40:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-12T23:40:00.000Z",
-        "end": "2026-08-13T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-08-13T00:01:00.000Z",
         "end": "2026-08-13T04:30:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-12T22:50:00.000Z",
-        "end": "2026-08-12T23:35:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-12T23:35:00.000Z",
-        "end": "2026-08-12T23:40:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-12T23:40:00.000Z",
@@ -201,46 +111,11 @@
     "NET 5": [
       {
         "title": "Loop: Hart van Nederland",
-        "start": "2026-08-12T23:08:00.000Z",
-        "end": "2026-08-12T23:12:00.000Z"
-      },
-      {
-        "title": "So help me Todd",
-        "start": "2026-08-12T23:12:00.000Z",
-        "end": "2026-08-13T00:01:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
         "start": "2026-08-13T00:01:00.000Z",
         "end": "2026-08-13T03:54:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Welcome to Wrexham",
-        "start": "2026-08-12T23:07:00.000Z",
-        "end": "2026-08-12T23:28:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-12T23:28:00.000Z",
-        "end": "2026-08-12T23:31:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-12T23:31:00.000Z",
-        "end": "2026-08-12T23:40:00.000Z"
-      },
-      {
-        "title": "Fugitives caught on tape",
-        "start": "2026-08-12T23:40:00.000Z",
-        "end": "2026-08-12T23:50:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-08-12T23:50:00.000Z",
-        "end": "2026-08-13T00:00:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-13T00:00:00.000Z",
@@ -255,16 +130,6 @@
     "BBC News": [
       {
         "title": "BBC news",
-        "start": "2026-08-12T23:00:00.000Z",
-        "end": "2026-08-12T23:30:00.000Z"
-      },
-      {
-        "title": "Tech Now",
-        "start": "2026-08-12T23:30:00.000Z",
-        "end": "2026-08-13T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
         "start": "2026-08-13T00:00:00.000Z",
         "end": "2026-08-13T00:30:00.000Z"
       },
@@ -277,14 +142,24 @@
         "title": "BBC news",
         "start": "2026-08-13T01:00:00.000Z",
         "end": "2026-08-13T01:30:00.000Z"
+      },
+      {
+        "title": "World's Ultimate Adventures",
+        "start": "2026-08-13T01:30:00.000Z",
+        "end": "2026-08-13T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-13T01:45:00.000Z",
+        "end": "2026-08-13T02:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-13T02:00:00.000Z",
+        "end": "2026-08-13T02:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Erin Burnett OutFront",
-        "start": "2026-08-12T23:00:00.000Z",
-        "end": "2026-08-13T00:00:00.000Z"
-      },
       {
         "title": "Anderson Cooper 360",
         "start": "2026-08-13T00:00:00.000Z",
@@ -294,6 +169,11 @@
         "title": "The Source with Kaitlan Collins",
         "start": "2026-08-13T01:00:00.000Z",
         "end": "2026-08-13T02:00:00.000Z"
+      },
+      {
+        "title": "CNN NewsNight",
+        "start": "2026-08-13T02:00:00.000Z",
+        "end": "2026-08-13T03:00:00.000Z"
       }
     ]
   }
