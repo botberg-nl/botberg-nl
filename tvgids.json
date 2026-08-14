@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-14T21:22:01.089Z",
+  "generated": "2026-08-14T21:49:06.733Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Studio sport",
-        "start": "2026-08-14T21:15:00.000Z",
-        "end": "2026-08-14T21:25:00.000Z"
-      },
-      {
-        "title": "Keuringsdienst van waarde",
-        "start": "2026-08-14T21:25:00.000Z",
-        "end": "2026-08-14T21:35:00.000Z"
-      },
       {
         "title": "Goedenavond Nederland",
         "start": "2026-08-14T21:35:00.000Z",
@@ -47,14 +37,24 @@
         "title": "NOS Journaal",
         "start": "2026-08-14T23:15:00.000Z",
         "end": "2026-08-14T23:30:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-08-14T23:30:00.000Z",
+        "end": "2026-08-14T23:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-14T23:35:00.000Z",
+        "end": "2026-08-14T23:45:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-14T23:45:00.000Z",
+        "end": "2026-08-14T23:55:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De Joodse wereld",
-        "start": "2026-08-14T21:10:00.000Z",
-        "end": "2026-08-14T21:25:00.000Z"
-      },
       {
         "title": "Silent witness",
         "start": "2026-08-14T21:25:00.000Z",
@@ -116,29 +116,14 @@
         "title": "Keuringsdienst van waarde",
         "start": "2026-08-14T23:20:00.000Z",
         "end": "2026-08-14T23:25:00.000Z"
+      },
+      {
+        "title": "Keuringsdienst van waarde",
+        "start": "2026-08-14T23:25:00.000Z",
+        "end": "2026-08-14T23:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-14T21:20:00.000Z",
-        "end": "2026-08-14T21:24:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-14T21:24:00.000Z",
-        "end": "2026-08-14T21:27:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-14T21:27:00.000Z",
-        "end": "2026-08-14T21:34:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-14T21:34:00.000Z",
-        "end": "2026-08-14T21:38:00.000Z"
-      },
       {
         "title": "Beste kijkers",
         "start": "2026-08-14T21:38:00.000Z",
@@ -186,16 +171,6 @@
       }
     ],
     "RTL 5": [
-      {
-        "title": "Helden van hier: Op interventie",
-        "start": "2026-08-14T20:56:00.000Z",
-        "end": "2026-08-14T21:32:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-14T21:32:00.000Z",
-        "end": "2026-08-14T21:43:00.000Z"
-      },
       {
         "title": "Stop! Politie UK",
         "start": "2026-08-14T21:43:00.000Z",
@@ -252,19 +227,19 @@
         "title": "Teleshop",
         "start": "2026-08-14T23:05:00.000Z",
         "end": "2026-08-14T23:36:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-08-14T23:36:00.000Z",
+        "end": "2026-08-14T23:37:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-08-14T23:37:00.000Z",
+        "end": "2026-08-15T00:10:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-14T21:18:00.000Z",
-        "end": "2026-08-14T21:25:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-14T21:25:00.000Z",
-        "end": "2026-08-14T21:40:00.000Z"
-      },
       {
         "title": "Crime scene investigation",
         "start": "2026-08-14T21:40:00.000Z",
@@ -294,14 +269,14 @@
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-14T23:14:00.000Z",
         "end": "2026-08-14T23:26:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-14T23:26:00.000Z",
+        "end": "2026-08-15T00:01:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-14T20:51:00.000Z",
-        "end": "2026-08-14T21:45:00.000Z"
-      },
       {
         "title": "I've got the music in me",
         "start": "2026-08-14T21:45:00.000Z",
@@ -321,6 +296,21 @@
         "title": "Shownieuws",
         "start": "2026-08-14T23:07:00.000Z",
         "end": "2026-08-14T23:35:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-14T23:35:00.000Z",
+        "end": "2026-08-14T23:41:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-14T23:41:00.000Z",
+        "end": "2026-08-14T23:45:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-14T23:45:00.000Z",
+        "end": "2026-08-15T04:00:00.000Z"
       }
     ],
     "NET 5": [
@@ -357,11 +347,6 @@
     ],
     "Veronica": [
       {
-        "title": "De Staatsloterij Show",
-        "start": "2026-08-14T20:40:00.000Z",
-        "end": "2026-08-14T21:25:00.000Z"
-      },
-      {
         "title": "Baywatch remastered",
         "start": "2026-08-14T21:25:00.000Z",
         "end": "2026-08-14T22:05:00.000Z"
@@ -395,14 +380,24 @@
         "title": "Welcome to Wrexham",
         "start": "2026-08-14T23:07:00.000Z",
         "end": "2026-08-14T23:31:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-14T23:31:00.000Z",
+        "end": "2026-08-14T23:35:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-14T23:35:00.000Z",
+        "end": "2026-08-14T23:42:00.000Z"
+      },
+      {
+        "title": "Fugitives caught on tape",
+        "start": "2026-08-14T23:42:00.000Z",
+        "end": "2026-08-14T23:52:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-14T21:00:00.000Z",
-        "end": "2026-08-14T21:30:00.000Z"
-      },
       {
         "title": "Newsnight",
         "start": "2026-08-14T21:30:00.000Z",
@@ -427,14 +422,14 @@
         "title": "BBC news",
         "start": "2026-08-14T23:00:00.000Z",
         "end": "2026-08-14T23:30:00.000Z"
+      },
+      {
+        "title": "The Media Show",
+        "start": "2026-08-14T23:30:00.000Z",
+        "end": "2026-08-15T00:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "World Sport",
-        "start": "2026-08-14T21:00:00.000Z",
-        "end": "2026-08-14T21:30:00.000Z"
-      },
       {
         "title": "CNN Creators",
         "start": "2026-08-14T21:30:00.000Z",
