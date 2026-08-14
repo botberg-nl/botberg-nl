@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-14T14:17:56.620Z",
+  "generated": "2026-08-14T15:21:17.049Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-14T14:00:00.000Z",
-        "end": "2026-08-14T14:50:00.000Z"
-      },
-      {
-        "title": "Sport - WK hockey (v): Nederland - Chili",
-        "start": "2026-08-14T14:50:00.000Z",
-        "end": "2026-08-14T15:00:00.000Z"
-      },
-      {
-        "title": "Journaal in makkelijke taal",
-        "start": "2026-08-14T15:00:00.000Z",
-        "end": "2026-08-14T15:15:00.000Z"
-      },
       {
         "title": "Journaal in makkelijke taal",
         "start": "2026-08-14T15:15:00.000Z",
@@ -47,34 +32,29 @@
         "title": "Sportjournaal",
         "start": "2026-08-14T16:15:00.000Z",
         "end": "2026-08-14T16:20:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-08-14T16:20:00.000Z",
+        "end": "2026-08-14T16:30:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-08-14T16:30:00.000Z",
+        "end": "2026-08-14T16:45:00.000Z"
+      },
+      {
+        "title": "Nationale Herdenking 15 augustus 1945",
+        "start": "2026-08-14T16:45:00.000Z",
+        "end": "2026-08-14T17:00:00.000Z"
+      },
+      {
+        "title": "Yibbi: Stilte voor de slag",
+        "start": "2026-08-14T17:00:00.000Z",
+        "end": "2026-08-14T17:25:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Bak mee met MAX",
-        "start": "2026-08-14T14:10:00.000Z",
-        "end": "2026-08-14T14:30:00.000Z"
-      },
-      {
-        "title": "De verwondering",
-        "start": "2026-08-14T14:30:00.000Z",
-        "end": "2026-08-14T14:55:00.000Z"
-      },
-      {
-        "title": "Politieke partijen",
-        "start": "2026-08-14T14:55:00.000Z",
-        "end": "2026-08-14T14:56:00.000Z"
-      },
-      {
-        "title": "Politieke partijen",
-        "start": "2026-08-14T14:56:00.000Z",
-        "end": "2026-08-14T15:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-14T15:00:00.000Z",
-        "end": "2026-08-14T15:10:00.000Z"
-      },
       {
         "title": "Petrus in het land",
         "start": "2026-08-14T15:10:00.000Z",
@@ -104,24 +84,29 @@
         "title": "NOS Journaal met regio",
         "start": "2026-08-14T16:15:00.000Z",
         "end": "2026-08-14T16:30:00.000Z"
+      },
+      {
+        "title": "Noord-Zuid-Oost-West",
+        "start": "2026-08-14T16:30:00.000Z",
+        "end": "2026-08-14T16:35:00.000Z"
+      },
+      {
+        "title": "Ik mis je",
+        "start": "2026-08-14T16:35:00.000Z",
+        "end": "2026-08-14T17:00:00.000Z"
+      },
+      {
+        "title": "Into the Congo with Ben Fogle",
+        "start": "2026-08-14T17:00:00.000Z",
+        "end": "2026-08-14T17:10:00.000Z"
+      },
+      {
+        "title": "BinnensteBuiten",
+        "start": "2026-08-14T17:10:00.000Z",
+        "end": "2026-08-14T17:50:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zappbios: Mijn eigen circus\n                        Komedie",
-        "start": "2026-08-14T13:20:00.000Z",
-        "end": "2026-08-14T14:45:00.000Z"
-      },
-      {
-        "title": "Klaas kan alles kort",
-        "start": "2026-08-14T14:45:00.000Z",
-        "end": "2026-08-14T14:55:00.000Z"
-      },
-      {
-        "title": "Checkpoint",
-        "start": "2026-08-14T14:55:00.000Z",
-        "end": "2026-08-14T15:20:00.000Z"
-      },
       {
         "title": "Welkom thuis op vakantie",
         "start": "2026-08-14T15:20:00.000Z",
@@ -151,24 +136,34 @@
         "title": "De eerste keer",
         "start": "2026-08-14T16:10:00.000Z",
         "end": "2026-08-14T16:20:00.000Z"
+      },
+      {
+        "title": "Waku waku",
+        "start": "2026-08-14T16:20:00.000Z",
+        "end": "2026-08-14T16:30:00.000Z"
+      },
+      {
+        "title": "Het klokhuis",
+        "start": "2026-08-14T16:30:00.000Z",
+        "end": "2026-08-14T16:45:00.000Z"
+      },
+      {
+        "title": "Steken en prikken: Op vakantie",
+        "start": "2026-08-14T16:45:00.000Z",
+        "end": "2026-08-14T17:00:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal",
+        "start": "2026-08-14T17:00:00.000Z",
+        "end": "2026-08-14T17:20:00.000Z"
+      },
+      {
+        "title": "Bommetje!",
+        "start": "2026-08-14T17:20:00.000Z",
+        "end": "2026-08-14T17:35:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Varend corso weekjournaal",
-        "start": "2026-08-14T13:58:00.000Z",
-        "end": "2026-08-14T14:27:00.000Z"
-      },
-      {
-        "title": "Knappe koppen",
-        "start": "2026-08-14T14:27:00.000Z",
-        "end": "2026-08-14T14:33:00.000Z"
-      },
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-14T14:33:00.000Z",
-        "end": "2026-08-14T15:00:00.000Z"
-      },
       {
         "title": "Chickslovefood on tour",
         "start": "2026-08-14T15:00:00.000Z",
@@ -188,19 +183,24 @@
         "title": "EditieNL",
         "start": "2026-08-14T16:17:00.000Z",
         "end": "2026-08-14T16:32:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-14T16:32:00.000Z",
+        "end": "2026-08-14T16:33:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-14T16:33:00.000Z",
+        "end": "2026-08-14T16:35:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-14T16:35:00.000Z",
+        "end": "2026-08-14T17:30:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Telvero",
-        "start": "2026-08-14T12:45:00.000Z",
-        "end": "2026-08-14T14:45:00.000Z"
-      },
-      {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-14T14:45:00.000Z",
-        "end": "2026-08-14T14:54:00.000Z"
-      },
       {
         "title": "Stop! Politie UK",
         "start": "2026-08-14T14:54:00.000Z",
@@ -215,24 +215,19 @@
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-14T15:52:00.000Z",
         "end": "2026-08-14T16:57:00.000Z"
+      },
+      {
+        "title": "Helden van hier: Op interventie",
+        "start": "2026-08-14T16:57:00.000Z",
+        "end": "2026-08-14T17:05:00.000Z"
+      },
+      {
+        "title": "De Pfaff's",
+        "start": "2026-08-14T17:05:00.000Z",
+        "end": "2026-08-14T17:45:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-14T14:16:00.000Z",
-        "end": "2026-08-14T14:39:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-14T14:39:00.000Z",
-        "end": "2026-08-14T15:07:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-14T15:07:00.000Z",
-        "end": "2026-08-14T15:10:00.000Z"
-      },
       {
         "title": "Border security Canada",
         "start": "2026-08-14T15:10:00.000Z",
@@ -257,19 +252,24 @@
         "title": "Pawn stars",
         "start": "2026-08-14T16:17:00.000Z",
         "end": "2026-08-14T16:34:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-08-14T16:34:00.000Z",
+        "end": "2026-08-14T16:42:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-14T16:42:00.000Z",
+        "end": "2026-08-14T17:03:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-08-14T17:03:00.000Z",
+        "end": "2026-08-14T17:31:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-14T11:00:00.000Z",
-        "end": "2026-08-14T14:45:00.000Z"
-      },
-      {
-        "title": "Goede tijden, slechte tijden",
-        "start": "2026-08-14T14:45:00.000Z",
-        "end": "2026-08-14T15:13:00.000Z"
-      },
       {
         "title": "Undercover boss USA",
         "start": "2026-08-14T15:13:00.000Z",
@@ -284,19 +284,24 @@
         "title": "The bold and the beautiful",
         "start": "2026-08-14T16:09:00.000Z",
         "end": "2026-08-14T16:36:00.000Z"
+      },
+      {
+        "title": "De Verraders UK",
+        "start": "2026-08-14T16:36:00.000Z",
+        "end": "2026-08-14T16:37:00.000Z"
+      },
+      {
+        "title": "The bold and the beautiful - The beginning",
+        "start": "2026-08-14T16:37:00.000Z",
+        "end": "2026-08-14T17:05:00.000Z"
+      },
+      {
+        "title": "The bold and the beautiful - The beginning",
+        "start": "2026-08-14T17:05:00.000Z",
+        "end": "2026-08-14T17:32:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Verkopen of verbouwen",
-        "start": "2026-08-14T14:00:00.000Z",
-        "end": "2026-08-14T14:51:00.000Z"
-      },
-      {
-        "title": "Droomhuis op het platteland",
-        "start": "2026-08-14T14:51:00.000Z",
-        "end": "2026-08-14T15:00:00.000Z"
-      },
       {
         "title": "De grote tuinverbouwing",
         "start": "2026-08-14T15:00:00.000Z",
@@ -311,19 +316,19 @@
         "title": "Nieuws van de dag",
         "start": "2026-08-14T16:05:00.000Z",
         "end": "2026-08-14T16:30:00.000Z"
+      },
+      {
+        "title": "Lachen om home video's",
+        "start": "2026-08-14T16:30:00.000Z",
+        "end": "2026-08-14T17:00:00.000Z"
+      },
+      {
+        "title": "Overtreders",
+        "start": "2026-08-14T17:00:00.000Z",
+        "end": "2026-08-14T17:30:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-08-14T14:04:00.000Z",
-        "end": "2026-08-14T14:24:00.000Z"
-      },
-      {
-        "title": "House rules Australië",
-        "start": "2026-08-14T14:24:00.000Z",
-        "end": "2026-08-14T15:03:00.000Z"
-      },
       {
         "title": "Een dag in de dierenkliniek",
         "start": "2026-08-14T15:03:00.000Z",
@@ -338,6 +343,16 @@
         "title": "Een dag in de dierenkliniek",
         "start": "2026-08-14T16:03:00.000Z",
         "end": "2026-08-14T16:25:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-14T16:25:00.000Z",
+        "end": "2026-08-14T17:00:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierenkliniek",
+        "start": "2026-08-14T17:00:00.000Z",
+        "end": "2026-08-14T17:28:00.000Z"
       }
     ],
     "Veronica": [
@@ -350,19 +365,29 @@
         "title": "Zeepkistenrace",
         "start": "2026-08-14T16:10:00.000Z",
         "end": "2026-08-14T16:18:00.000Z"
+      },
+      {
+        "title": "Two and a half men",
+        "start": "2026-08-14T16:18:00.000Z",
+        "end": "2026-08-14T16:45:00.000Z"
+      },
+      {
+        "title": "Two and a half men",
+        "start": "2026-08-14T16:45:00.000Z",
+        "end": "2026-08-14T17:05:00.000Z"
+      },
+      {
+        "title": "Zeepkistenrace",
+        "start": "2026-08-14T17:05:00.000Z",
+        "end": "2026-08-14T17:12:00.000Z"
+      },
+      {
+        "title": "Two and a half men",
+        "start": "2026-08-14T17:12:00.000Z",
+        "end": "2026-08-14T17:38:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-14T14:00:00.000Z",
-        "end": "2026-08-14T14:30:00.000Z"
-      },
-      {
-        "title": "The Media Show",
-        "start": "2026-08-14T14:30:00.000Z",
-        "end": "2026-08-14T15:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-14T15:00:00.000Z",
@@ -382,19 +407,19 @@
         "title": "BBC news",
         "start": "2026-08-14T16:00:00.000Z",
         "end": "2026-08-14T16:30:00.000Z"
+      },
+      {
+        "title": "BBC Focus on Africa",
+        "start": "2026-08-14T16:30:00.000Z",
+        "end": "2026-08-14T17:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-14T17:00:00.000Z",
+        "end": "2026-08-14T17:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Creators",
-        "start": "2026-08-14T14:00:00.000Z",
-        "end": "2026-08-14T14:30:00.000Z"
-      },
-      {
-        "title": "Inside Africa",
-        "start": "2026-08-14T14:30:00.000Z",
-        "end": "2026-08-14T15:00:00.000Z"
-      },
       {
         "title": "The Amanpour Hour",
         "start": "2026-08-14T15:00:00.000Z",
@@ -404,6 +429,16 @@
         "title": "World Sport",
         "start": "2026-08-14T16:00:00.000Z",
         "end": "2026-08-14T16:30:00.000Z"
+      },
+      {
+        "title": "The Link",
+        "start": "2026-08-14T16:30:00.000Z",
+        "end": "2026-08-14T17:00:00.000Z"
+      },
+      {
+        "title": "Smerconish",
+        "start": "2026-08-14T17:00:00.000Z",
+        "end": "2026-08-14T18:00:00.000Z"
       }
     ]
   }
