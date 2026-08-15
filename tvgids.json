@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T17:17:33.544Z",
+  "generated": "2026-08-15T17:44:40.846Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -31,11 +31,6 @@
     ],
     "NPO 2": [
       {
-        "title": "Hello goodbye",
-        "start": "2026-08-15T17:00:00.000Z",
-        "end": "2026-08-15T17:25:00.000Z"
-      },
-      {
         "title": "Sue Perkins ontdekt Alaska",
         "start": "2026-08-15T17:25:00.000Z",
         "end": "2026-08-15T17:50:00.000Z"
@@ -54,19 +49,14 @@
         "title": "NPO Doc: De Indische tafel, jongens van de Japanse kampen",
         "start": "2026-08-15T18:25:00.000Z",
         "end": "2026-08-15T19:25:00.000Z"
+      },
+      {
+        "title": "Zinzoekers",
+        "start": "2026-08-15T19:25:00.000Z",
+        "end": "2026-08-15T20:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Jeugdjournaal",
-        "start": "2026-08-15T17:00:00.000Z",
-        "end": "2026-08-15T17:20:00.000Z"
-      },
-      {
-        "title": "ZappDoc: I am - Investigation art mysteries",
-        "start": "2026-08-15T17:20:00.000Z",
-        "end": "2026-08-15T17:40:00.000Z"
-      },
       {
         "title": "Reizen Waes",
         "start": "2026-08-15T17:40:00.000Z",
@@ -89,16 +79,6 @@
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-15T16:35:00.000Z",
-        "end": "2026-08-15T17:22:00.000Z"
-      },
-      {
-        "title": "VriendenLoterij: De winnaars",
-        "start": "2026-08-15T17:22:00.000Z",
-        "end": "2026-08-15T17:30:00.000Z"
-      },
       {
         "title": "RTL Nieuws",
         "start": "2026-08-15T17:30:00.000Z",
@@ -145,14 +125,14 @@
         "title": "Het interventie team",
         "start": "2026-08-15T18:57:00.000Z",
         "end": "2026-08-15T19:26:00.000Z"
+      },
+      {
+        "title": "Kees van der Spek ontmaskert",
+        "start": "2026-08-15T19:26:00.000Z",
+        "end": "2026-08-15T19:54:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-15T17:03:00.000Z",
-        "end": "2026-08-15T17:31:00.000Z"
-      },
       {
         "title": "Border security Canada",
         "start": "2026-08-15T17:31:00.000Z",
@@ -178,11 +158,6 @@
     ],
     "SBS 6": [
       {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-15T17:01:00.000Z",
-        "end": "2026-08-15T17:34:00.000Z"
-      },
-      {
         "title": "De Hanslers: Van de piste naar de playa",
         "start": "2026-08-15T17:34:00.000Z",
         "end": "2026-08-15T18:00:00.000Z"
@@ -196,6 +171,16 @@
         "title": "Het jachtseizoen",
         "start": "2026-08-15T18:30:00.000Z",
         "end": "2026-08-15T19:25:00.000Z"
+      },
+      {
+        "title": "Postcode Loterij In de ring",
+        "start": "2026-08-15T19:25:00.000Z",
+        "end": "2026-08-15T19:27:00.000Z"
+      },
+      {
+        "title": "Mi dushi: Wat is dan liefde?",
+        "start": "2026-08-15T19:27:00.000Z",
+        "end": "2026-08-15T20:34:00.000Z"
       }
     ],
     "NET 5": [
@@ -230,14 +215,14 @@
         "title": "FBI: International",
         "start": "2026-08-15T18:54:00.000Z",
         "end": "2026-08-15T19:35:00.000Z"
+      },
+      {
+        "title": "Baywatch remastered",
+        "start": "2026-08-15T19:35:00.000Z",
+        "end": "2026-08-15T19:52:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-15T17:00:00.000Z",
-        "end": "2026-08-15T17:30:00.000Z"
-      },
       {
         "title": "Talking Business",
         "start": "2026-08-15T17:30:00.000Z",
@@ -257,14 +242,14 @@
         "title": "BBC news",
         "start": "2026-08-15T19:00:00.000Z",
         "end": "2026-08-15T19:30:00.000Z"
+      },
+      {
+        "title": "World's Ultimate Adventures",
+        "start": "2026-08-15T19:30:00.000Z",
+        "end": "2026-08-15T20:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "African Voices Playmakers",
-        "start": "2026-08-15T17:00:00.000Z",
-        "end": "2026-08-15T17:30:00.000Z"
-      },
       {
         "title": "The Link",
         "start": "2026-08-15T17:30:00.000Z",
