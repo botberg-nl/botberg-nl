@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T14:18:55.904Z",
+  "generated": "2026-08-15T14:47:14.731Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -22,19 +22,19 @@
         "title": "Studio sport",
         "start": "2026-08-15T16:10:00.000Z",
         "end": "2026-08-15T16:20:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-08-15T16:20:00.000Z",
+        "end": "2026-08-15T16:45:00.000Z"
+      },
+      {
+        "title": "Nationale Herdenking 15 augustus 1945",
+        "start": "2026-08-15T16:45:00.000Z",
+        "end": "2026-08-15T17:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Pauscast",
-        "start": "2026-08-15T14:05:00.000Z",
-        "end": "2026-08-15T14:20:00.000Z"
-      },
-      {
-        "title": "Uit de knipscheer",
-        "start": "2026-08-15T14:20:00.000Z",
-        "end": "2026-08-15T14:30:00.000Z"
-      },
       {
         "title": "De verwondering",
         "start": "2026-08-15T14:30:00.000Z",
@@ -79,6 +79,11 @@
         "title": "Krabbé zoekt Chagall",
         "start": "2026-08-15T16:15:00.000Z",
         "end": "2026-08-15T16:35:00.000Z"
+      },
+      {
+        "title": "Ik mis je",
+        "start": "2026-08-15T16:35:00.000Z",
+        "end": "2026-08-15T17:00:00.000Z"
       }
     ],
     "NPO 3": [
@@ -126,19 +131,24 @@
         "title": "Wilde buren",
         "start": "2026-08-15T16:15:00.000Z",
         "end": "2026-08-15T16:25:00.000Z"
+      },
+      {
+        "title": "Het klokhuis",
+        "start": "2026-08-15T16:25:00.000Z",
+        "end": "2026-08-15T16:30:00.000Z"
+      },
+      {
+        "title": "Welkom in de 80-jarige Oorlog",
+        "start": "2026-08-15T16:30:00.000Z",
+        "end": "2026-08-15T16:45:00.000Z"
+      },
+      {
+        "title": "Steken en prikken: Op vakantie",
+        "start": "2026-08-15T16:45:00.000Z",
+        "end": "2026-08-15T17:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Vis tv",
-        "start": "2026-08-15T13:59:00.000Z",
-        "end": "2026-08-15T14:27:00.000Z"
-      },
-      {
-        "title": "Knappe koppen",
-        "start": "2026-08-15T14:27:00.000Z",
-        "end": "2026-08-15T14:30:00.000Z"
-      },
       {
         "title": "Huis gezocht",
         "start": "2026-08-15T14:30:00.000Z",
@@ -163,14 +173,19 @@
         "title": "EditieNL",
         "start": "2026-08-15T16:17:00.000Z",
         "end": "2026-08-15T16:33:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-15T16:33:00.000Z",
+        "end": "2026-08-15T16:35:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-15T16:35:00.000Z",
+        "end": "2026-08-15T17:22:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-15T13:24:00.000Z",
-        "end": "2026-08-15T14:46:00.000Z"
-      },
       {
         "title": "Stop! Politie UK",
         "start": "2026-08-15T14:46:00.000Z",
@@ -190,19 +205,14 @@
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-15T15:52:00.000Z",
         "end": "2026-08-15T16:39:00.000Z"
+      },
+      {
+        "title": "Meldkamer Utrecht Centraal",
+        "start": "2026-08-15T16:39:00.000Z",
+        "end": "2026-08-15T16:57:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-15T14:11:00.000Z",
-        "end": "2026-08-15T14:27:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-15T14:27:00.000Z",
-        "end": "2026-08-15T14:39:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-15T14:39:00.000Z",
@@ -227,6 +237,11 @@
         "title": "Border Patrol USA",
         "start": "2026-08-15T16:08:00.000Z",
         "end": "2026-08-15T16:34:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-08-15T16:34:00.000Z",
+        "end": "2026-08-15T17:02:00.000Z"
       }
     ],
     "RTL 8": [
@@ -244,6 +259,11 @@
         "title": "Cruisen over de Middellandse Zee",
         "start": "2026-08-15T15:39:00.000Z",
         "end": "2026-08-15T16:36:00.000Z"
+      },
+      {
+        "title": "De Verraders UK",
+        "start": "2026-08-15T16:36:00.000Z",
+        "end": "2026-08-15T16:54:00.000Z"
       }
     ],
     "SBS 6": [
@@ -266,6 +286,11 @@
         "title": "De grote verbouwing Australië",
         "start": "2026-08-15T16:05:00.000Z",
         "end": "2026-08-15T16:36:00.000Z"
+      },
+      {
+        "title": "Lachen om home video's",
+        "start": "2026-08-15T16:36:00.000Z",
+        "end": "2026-08-15T17:01:00.000Z"
       }
     ],
     "NET 5": [
@@ -310,14 +335,14 @@
         "title": "Zeepkistenrace",
         "start": "2026-08-15T16:10:00.000Z",
         "end": "2026-08-15T16:32:00.000Z"
+      },
+      {
+        "title": "Border security: Nieuw-Zeeland",
+        "start": "2026-08-15T16:32:00.000Z",
+        "end": "2026-08-15T17:02:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-15T14:00:00.000Z",
-        "end": "2026-08-15T14:30:00.000Z"
-      },
       {
         "title": "World's Ultimate Adventures",
         "start": "2026-08-15T14:30:00.000Z",
@@ -341,11 +366,6 @@
     ],
     "CNN": [
       {
-        "title": "Fareed Zakaria GPS",
-        "start": "2026-08-15T14:00:00.000Z",
-        "end": "2026-08-15T14:30:00.000Z"
-      },
-      {
         "title": "Inside Africa",
         "start": "2026-08-15T14:30:00.000Z",
         "end": "2026-08-15T15:00:00.000Z"
@@ -359,6 +379,11 @@
         "title": "World Sport",
         "start": "2026-08-15T16:00:00.000Z",
         "end": "2026-08-15T16:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-15T16:30:00.000Z",
+        "end": "2026-08-15T17:00:00.000Z"
       }
     ]
   }
