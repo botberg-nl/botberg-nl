@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-15T10:47:16.694Z",
+  "generated": "2026-08-15T11:17:17.483Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Sterren NL top 25",
-        "start": "2026-08-15T10:20:00.000Z",
-        "end": "2026-08-15T10:50:00.000Z"
-      },
-      {
-        "title": "Kook mee met MAX",
-        "start": "2026-08-15T10:50:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-15T11:00:00.000Z",
-        "end": "2026-08-15T11:10:00.000Z"
-      },
       {
         "title": "Het familiediner",
         "start": "2026-08-15T11:10:00.000Z",
@@ -37,19 +22,24 @@
         "title": "Je weet niet dat je date",
         "start": "2026-08-15T12:25:00.000Z",
         "end": "2026-08-15T12:55:00.000Z"
+      },
+      {
+        "title": "Ik vertrek",
+        "start": "2026-08-15T12:55:00.000Z",
+        "end": "2026-08-15T13:07:00.000Z"
+      },
+      {
+        "title": "Socutera",
+        "start": "2026-08-15T13:07:00.000Z",
+        "end": "2026-08-15T13:15:00.000Z"
+      },
+      {
+        "title": "Yibbi: Stilte voor de slag",
+        "start": "2026-08-15T13:15:00.000Z",
+        "end": "2026-08-15T13:45:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-08-15T10:40:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-15T11:00:00.000Z",
-        "end": "2026-08-15T11:10:00.000Z"
-      },
       {
         "title": "Nederland op film",
         "start": "2026-08-15T11:10:00.000Z",
@@ -74,14 +64,14 @@
         "title": "Sporen van slavernij",
         "start": "2026-08-15T12:40:00.000Z",
         "end": "2026-08-15T12:50:00.000Z"
+      },
+      {
+        "title": "Zinzoekers",
+        "start": "2026-08-15T12:50:00.000Z",
+        "end": "2026-08-15T13:25:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zappbios: Apenstreken\n                        Jeugd",
-        "start": "2026-08-15T09:55:00.000Z",
-        "end": "2026-08-15T11:10:00.000Z"
-      },
       {
         "title": "Zeven kleine criminelen",
         "start": "2026-08-15T11:10:00.000Z",
@@ -121,19 +111,19 @@
         "title": "Summer break",
         "start": "2026-08-15T12:35:00.000Z",
         "end": "2026-08-15T12:50:00.000Z"
+      },
+      {
+        "title": "The Lady Grace Mysteries",
+        "start": "2026-08-15T12:50:00.000Z",
+        "end": "2026-08-15T13:15:00.000Z"
+      },
+      {
+        "title": "Zappbios: Het waterpaard\n                        Avontuur",
+        "start": "2026-08-15T13:15:00.000Z",
+        "end": "2026-08-15T14:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ibiza!",
-        "start": "2026-08-15T10:28:00.000Z",
-        "end": "2026-08-15T10:56:00.000Z"
-      },
-      {
-        "title": "Way of living",
-        "start": "2026-08-15T10:56:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
       {
         "title": "Nederland ontdekt",
         "start": "2026-08-15T11:00:00.000Z",
@@ -163,14 +153,19 @@
         "title": "Buitengewoon wonen",
         "start": "2026-08-15T12:29:00.000Z",
         "end": "2026-08-15T12:56:00.000Z"
+      },
+      {
+        "title": "Huis gezocht",
+        "start": "2026-08-15T12:56:00.000Z",
+        "end": "2026-08-15T13:00:00.000Z"
+      },
+      {
+        "title": "Cruise life",
+        "start": "2026-08-15T13:00:00.000Z",
+        "end": "2026-08-15T13:28:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-15T08:04:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
       {
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-15T11:00:00.000Z",
@@ -188,16 +183,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-15T10:36:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
-      {
-        "title": "Vis tv",
-        "start": "2026-08-15T11:00:00.000Z",
-        "end": "2026-08-15T11:06:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-15T11:06:00.000Z",
@@ -237,14 +222,19 @@
         "title": "Idioten op de weg",
         "start": "2026-08-15T12:45:00.000Z",
         "end": "2026-08-15T13:01:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-15T13:01:00.000Z",
+        "end": "2026-08-15T13:13:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-15T13:13:00.000Z",
+        "end": "2026-08-15T13:30:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop",
-        "start": "2026-08-15T04:15:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
       {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-15T11:00:00.000Z",
@@ -252,11 +242,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Secret life of the zoo",
-        "start": "2026-08-15T10:26:00.000Z",
-        "end": "2026-08-15T10:52:00.000Z"
-      },
       {
         "title": "I've got the music in me",
         "start": "2026-08-15T10:52:00.000Z",
@@ -276,19 +261,14 @@
         "title": "De Hanslers: Van de piste naar de playa",
         "start": "2026-08-15T12:15:00.000Z",
         "end": "2026-08-15T13:11:00.000Z"
+      },
+      {
+        "title": "Het jachtseizoen",
+        "start": "2026-08-15T13:11:00.000Z",
+        "end": "2026-08-15T14:06:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Gilmore girls",
-        "start": "2026-08-15T10:13:00.000Z",
-        "end": "2026-08-15T10:56:00.000Z"
-      },
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-15T10:56:00.000Z",
-        "end": "2026-08-15T11:09:00.000Z"
-      },
       {
         "title": "Gilmore girls",
         "start": "2026-08-15T11:09:00.000Z",
@@ -303,6 +283,16 @@
         "title": "Gilmore girls",
         "start": "2026-08-15T12:07:00.000Z",
         "end": "2026-08-15T12:53:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-08-15T12:53:00.000Z",
+        "end": "2026-08-15T13:06:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-08-15T13:06:00.000Z",
+        "end": "2026-08-15T13:52:00.000Z"
       }
     ],
     "Veronica": [
@@ -313,11 +303,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "Path to the Presidency",
-        "start": "2026-08-15T10:45:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-15T11:00:00.000Z",
@@ -337,14 +322,14 @@
         "title": "The travel show",
         "start": "2026-08-15T12:30:00.000Z",
         "end": "2026-08-15T13:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T13:00:00.000Z",
+        "end": "2026-08-15T13:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Inside Africa",
-        "start": "2026-08-15T10:30:00.000Z",
-        "end": "2026-08-15T11:00:00.000Z"
-      },
       {
         "title": "CNN This Morning Weekend",
         "start": "2026-08-15T11:00:00.000Z",
@@ -359,6 +344,11 @@
         "title": "Inside Politics",
         "start": "2026-08-15T12:00:00.000Z",
         "end": "2026-08-15T13:00:00.000Z"
+      },
+      {
+        "title": "U.S. State of the Union Address",
+        "start": "2026-08-15T13:00:00.000Z",
+        "end": "2026-08-15T14:00:00.000Z"
       }
     ]
   }
