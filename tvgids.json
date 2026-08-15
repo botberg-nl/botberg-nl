@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-15T05:51:02.555Z",
+  "generated": "2026-08-15T06:32:33.562Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Nederland in beweging",
-        "start": "2026-08-15T05:35:00.000Z",
-        "end": "2026-08-15T05:55:00.000Z"
-      },
-      {
-        "title": "Close up",
-        "start": "2026-08-15T05:55:00.000Z",
-        "end": "2026-08-15T06:05:00.000Z"
-      },
-      {
-        "title": "Nederland in beweging",
-        "start": "2026-08-15T06:05:00.000Z",
-        "end": "2026-08-15T06:25:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-15T06:25:00.000Z",
@@ -37,24 +22,14 @@
         "title": "Het mooiste meisje van de klas",
         "start": "2026-08-15T07:45:00.000Z",
         "end": "2026-08-15T08:10:00.000Z"
+      },
+      {
+        "title": "Bed & breakfast",
+        "start": "2026-08-15T08:10:00.000Z",
+        "end": "2026-08-15T08:35:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-14T23:10:00.000Z",
-        "end": "2026-08-15T06:00:00.000Z"
-      },
-      {
-        "title": "Petrus in het land",
-        "start": "2026-08-15T06:00:00.000Z",
-        "end": "2026-08-15T06:20:00.000Z"
-      },
-      {
-        "title": "Natuur in de Cariben",
-        "start": "2026-08-15T06:20:00.000Z",
-        "end": "2026-08-15T06:30:00.000Z"
-      },
       {
         "title": "De verwondering",
         "start": "2026-08-15T06:30:00.000Z",
@@ -79,54 +54,14 @@
         "title": "Geloofsgesprek",
         "start": "2026-08-15T07:45:00.000Z",
         "end": "2026-08-15T08:00:00.000Z"
+      },
+      {
+        "title": "Eucharistieviering",
+        "start": "2026-08-15T08:00:00.000Z",
+        "end": "2026-08-15T08:35:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T05:50:00.000Z",
-        "end": "2026-08-15T05:55:00.000Z"
-      },
-      {
-        "title": "Mojo swoptops",
-        "start": "2026-08-15T05:55:00.000Z",
-        "end": "2026-08-15T06:04:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T06:04:00.000Z",
-        "end": "2026-08-15T06:05:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T06:05:00.000Z",
-        "end": "2026-08-15T06:06:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T06:06:00.000Z",
-        "end": "2026-08-15T06:07:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T06:07:00.000Z",
-        "end": "2026-08-15T06:10:00.000Z"
-      },
-      {
-        "title": "Masha's sprookjes",
-        "start": "2026-08-15T06:10:00.000Z",
-        "end": "2026-08-15T06:15:00.000Z"
-      },
-      {
-        "title": "Samson & Marie, ijsjestijd",
-        "start": "2026-08-15T06:15:00.000Z",
-        "end": "2026-08-15T06:20:00.000Z"
-      },
-      {
-        "title": "Pop papierstad",
-        "start": "2026-08-15T06:20:00.000Z",
-        "end": "2026-08-15T06:25:00.000Z"
-      },
       {
         "title": "Pop papierstad",
         "start": "2026-08-15T06:25:00.000Z",
@@ -196,59 +131,49 @@
         "title": "De smurfen",
         "start": "2026-08-15T07:50:00.000Z",
         "end": "2026-08-15T07:55:00.000Z"
+      },
+      {
+        "title": "De smurfen",
+        "start": "2026-08-15T07:55:00.000Z",
+        "end": "2026-08-15T08:00:00.000Z"
+      },
+      {
+        "title": "SamSam",
+        "start": "2026-08-15T08:00:00.000Z",
+        "end": "2026-08-15T08:05:00.000Z"
+      },
+      {
+        "title": "SamSam",
+        "start": "2026-08-15T08:05:00.000Z",
+        "end": "2026-08-15T08:10:00.000Z"
+      },
+      {
+        "title": "Lucas de spin",
+        "start": "2026-08-15T08:10:00.000Z",
+        "end": "2026-08-15T08:18:00.000Z"
+      },
+      {
+        "title": "Kiwi & Strit",
+        "start": "2026-08-15T08:18:00.000Z",
+        "end": "2026-08-15T08:20:00.000Z"
+      },
+      {
+        "title": "Masha en de beer",
+        "start": "2026-08-15T08:20:00.000Z",
+        "end": "2026-08-15T08:25:00.000Z"
+      },
+      {
+        "title": "Shaun het schaap",
+        "start": "2026-08-15T08:25:00.000Z",
+        "end": "2026-08-15T08:30:00.000Z"
+      },
+      {
+        "title": "Masha en de beer",
+        "start": "2026-08-15T08:30:00.000Z",
+        "end": "2026-08-15T08:35:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Sprookjesboom",
-        "start": "2026-08-15T05:49:00.000Z",
-        "end": "2026-08-15T05:54:00.000Z"
-      },
-      {
-        "title": "Mike & Molly",
-        "start": "2026-08-15T05:54:00.000Z",
-        "end": "2026-08-15T05:55:00.000Z"
-      },
-      {
-        "title": "Mike & Molly",
-        "start": "2026-08-15T05:55:00.000Z",
-        "end": "2026-08-15T06:02:00.000Z"
-      },
-      {
-        "title": "Fien & Teun",
-        "start": "2026-08-15T06:02:00.000Z",
-        "end": "2026-08-15T06:03:00.000Z"
-      },
-      {
-        "title": "Fien & Teun",
-        "start": "2026-08-15T06:03:00.000Z",
-        "end": "2026-08-15T06:16:00.000Z"
-      },
-      {
-        "title": "Fien & Teun",
-        "start": "2026-08-15T06:16:00.000Z",
-        "end": "2026-08-15T06:18:00.000Z"
-      },
-      {
-        "title": "Fien & Teun",
-        "start": "2026-08-15T06:18:00.000Z",
-        "end": "2026-08-15T06:22:00.000Z"
-      },
-      {
-        "title": "Fien & Teun",
-        "start": "2026-08-15T06:22:00.000Z",
-        "end": "2026-08-15T06:25:00.000Z"
-      },
-      {
-        "title": "Fien & Teun",
-        "start": "2026-08-15T06:25:00.000Z",
-        "end": "2026-08-15T06:30:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-15T06:30:00.000Z",
-        "end": "2026-08-15T06:32:00.000Z"
-      },
       {
         "title": "Ernst, Bobbie en de rest",
         "start": "2026-08-15T06:32:00.000Z",
@@ -278,19 +203,24 @@
         "title": "Ambassadeur voor 1 dag",
         "start": "2026-08-15T07:30:00.000Z",
         "end": "2026-08-15T07:59:00.000Z"
+      },
+      {
+        "title": "Nederland ontdekt",
+        "start": "2026-08-15T07:59:00.000Z",
+        "end": "2026-08-15T08:00:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-08-15T08:00:00.000Z",
+        "end": "2026-08-15T08:29:00.000Z"
+      },
+      {
+        "title": "Let's visit",
+        "start": "2026-08-15T08:29:00.000Z",
+        "end": "2026-08-15T08:58:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Antwoorden met Bayless Conley",
-        "start": "2026-08-15T05:33:00.000Z",
-        "end": "2026-08-15T05:58:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-15T05:58:00.000Z",
-        "end": "2026-08-15T06:00:00.000Z"
-      },
       {
         "title": "Hour of power",
         "start": "2026-08-15T06:00:00.000Z",
@@ -300,6 +230,11 @@
         "title": "Hour of power",
         "start": "2026-08-15T06:59:00.000Z",
         "end": "2026-08-15T08:04:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-15T08:04:00.000Z",
+        "end": "2026-08-15T11:00:00.000Z"
       }
     ],
     "RTL 7": [
@@ -312,6 +247,16 @@
         "title": "Vis tv",
         "start": "2026-08-15T07:30:00.000Z",
         "end": "2026-08-15T07:55:00.000Z"
+      },
+      {
+        "title": "Vis tv",
+        "start": "2026-08-15T07:55:00.000Z",
+        "end": "2026-08-15T08:22:00.000Z"
+      },
+      {
+        "title": "Stop! Politie",
+        "start": "2026-08-15T08:22:00.000Z",
+        "end": "2026-08-15T09:18:00.000Z"
       }
     ],
     "RTL 8": [
@@ -322,21 +267,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T05:45:00.000Z",
-        "end": "2026-08-15T06:00:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T06:00:00.000Z",
-        "end": "2026-08-15T06:15:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T06:15:00.000Z",
-        "end": "2026-08-15T06:30:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-15T06:30:00.000Z",
@@ -366,19 +296,14 @@
         "title": "Hart van Nederland",
         "start": "2026-08-15T07:45:00.000Z",
         "end": "2026-08-15T08:00:00.000Z"
+      },
+      {
+        "title": "De grote tuinverbouwing",
+        "start": "2026-08-15T08:00:00.000Z",
+        "end": "2026-08-15T08:57:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Say yes to the dress: Atlanta",
-        "start": "2026-08-15T05:32:00.000Z",
-        "end": "2026-08-15T05:59:00.000Z"
-      },
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-15T05:59:00.000Z",
-        "end": "2026-08-15T06:02:00.000Z"
-      },
       {
         "title": "Signed, sealed, delivered",
         "start": "2026-08-15T06:02:00.000Z",
@@ -393,6 +318,16 @@
         "title": "Home and away",
         "start": "2026-08-15T07:51:00.000Z",
         "end": "2026-08-15T07:57:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-15T07:57:00.000Z",
+        "end": "2026-08-15T08:19:00.000Z"
+      },
+      {
+        "title": "Home and away",
+        "start": "2026-08-15T08:19:00.000Z",
+        "end": "2026-08-15T08:48:00.000Z"
       }
     ],
     "Veronica": [
@@ -403,16 +338,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "Talking Business",
-        "start": "2026-08-15T05:30:00.000Z",
-        "end": "2026-08-15T06:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-15T06:00:00.000Z",
-        "end": "2026-08-15T06:30:00.000Z"
-      },
       {
         "title": "The travel show",
         "start": "2026-08-15T06:30:00.000Z",
@@ -427,19 +352,14 @@
         "title": "World's Ultimate Adventures",
         "start": "2026-08-15T07:30:00.000Z",
         "end": "2026-08-15T08:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T08:00:00.000Z",
+        "end": "2026-08-15T09:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Inside Africa",
-        "start": "2026-08-15T05:30:00.000Z",
-        "end": "2026-08-15T06:00:00.000Z"
-      },
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-15T06:00:00.000Z",
-        "end": "2026-08-15T06:30:00.000Z"
-      },
       {
         "title": "CNN Marketplace Europe",
         "start": "2026-08-15T06:30:00.000Z",
@@ -459,6 +379,16 @@
         "title": "Quest's World of Wonder",
         "start": "2026-08-15T07:30:00.000Z",
         "end": "2026-08-15T08:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-15T08:00:00.000Z",
+        "end": "2026-08-15T08:30:00.000Z"
+      },
+      {
+        "title": "CNN Creators",
+        "start": "2026-08-15T08:30:00.000Z",
+        "end": "2026-08-15T09:00:00.000Z"
       }
     ]
   }
