@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-15T13:26:57.823Z",
+  "generated": "2026-08-15T13:52:04.322Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Yibbi: Stilte voor de slag",
-        "start": "2026-08-15T13:15:00.000Z",
-        "end": "2026-08-15T13:45:00.000Z"
-      },
-      {
-        "title": "Studio sport live - WK hockey (m): Nederland - Nieuw-Zeeland",
-        "start": "2026-08-15T13:45:00.000Z",
-        "end": "2026-08-15T13:50:00.000Z"
-      },
       {
         "title": "Sport - WK hockey (v): Nederland - Chili",
         "start": "2026-08-15T13:50:00.000Z",
@@ -25,11 +15,6 @@
       }
     ],
     "NPO 2": [
-      {
-        "title": "De Joodse wereld",
-        "start": "2026-08-15T13:25:00.000Z",
-        "end": "2026-08-15T13:30:00.000Z"
-      },
       {
         "title": "Fryslân dok",
         "start": "2026-08-15T13:30:00.000Z",
@@ -64,6 +49,21 @@
         "title": "Pauscast",
         "start": "2026-08-15T15:10:00.000Z",
         "end": "2026-08-15T15:35:00.000Z"
+      },
+      {
+        "title": "De verandering",
+        "start": "2026-08-15T15:35:00.000Z",
+        "end": "2026-08-15T15:40:00.000Z"
+      },
+      {
+        "title": "Verloren in het Lake District",
+        "start": "2026-08-15T15:40:00.000Z",
+        "end": "2026-08-15T15:50:00.000Z"
+      },
+      {
+        "title": "EO Metterdaad",
+        "start": "2026-08-15T15:50:00.000Z",
+        "end": "2026-08-15T16:10:00.000Z"
       }
     ],
     "NPO 3": [
@@ -86,19 +86,19 @@
         "title": "Welkom thuis op vakantie",
         "start": "2026-08-15T15:20:00.000Z",
         "end": "2026-08-15T15:35:00.000Z"
+      },
+      {
+        "title": "Dierendokter in het wild",
+        "start": "2026-08-15T15:35:00.000Z",
+        "end": "2026-08-15T15:40:00.000Z"
+      },
+      {
+        "title": "Taakstraf",
+        "start": "2026-08-15T15:40:00.000Z",
+        "end": "2026-08-15T15:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Cruise life",
-        "start": "2026-08-15T13:00:00.000Z",
-        "end": "2026-08-15T13:28:00.000Z"
-      },
-      {
-        "title": "Sky high Sint-Maarten",
-        "start": "2026-08-15T13:28:00.000Z",
-        "end": "2026-08-15T13:30:00.000Z"
-      },
       {
         "title": "RTL Vakantiemagazine",
         "start": "2026-08-15T13:30:00.000Z",
@@ -128,6 +128,11 @@
         "title": "Campingtijd",
         "start": "2026-08-15T15:00:00.000Z",
         "end": "2026-08-15T15:29:00.000Z"
+      },
+      {
+        "title": "Het goede camperleven",
+        "start": "2026-08-15T15:29:00.000Z",
+        "end": "2026-08-15T16:00:00.000Z"
       }
     ],
     "RTL 5": [
@@ -145,19 +150,19 @@
         "title": "Stop! Politie UK",
         "start": "2026-08-15T14:54:00.000Z",
         "end": "2026-08-15T15:44:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-15T15:44:00.000Z",
+        "end": "2026-08-15T15:52:00.000Z"
+      },
+      {
+        "title": "Helden van hier: Op interventie",
+        "start": "2026-08-15T15:52:00.000Z",
+        "end": "2026-08-15T16:39:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-15T13:13:00.000Z",
-        "end": "2026-08-15T13:30:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-15T13:30:00.000Z",
-        "end": "2026-08-15T13:42:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-15T13:42:00.000Z",
@@ -187,6 +192,11 @@
         "title": "Border Patrol USA",
         "start": "2026-08-15T15:10:00.000Z",
         "end": "2026-08-15T15:38:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-08-15T15:38:00.000Z",
+        "end": "2026-08-15T16:06:00.000Z"
       }
     ],
     "RTL 8": [
@@ -199,6 +209,11 @@
         "title": "Lego masters Australië",
         "start": "2026-08-15T15:26:00.000Z",
         "end": "2026-08-15T15:39:00.000Z"
+      },
+      {
+        "title": "Cruisen over de Middellandse Zee",
+        "start": "2026-08-15T15:39:00.000Z",
+        "end": "2026-08-15T16:36:00.000Z"
       }
     ],
     "SBS 6": [
@@ -230,11 +245,6 @@
     ],
     "NET 5": [
       {
-        "title": "Gilmore girls",
-        "start": "2026-08-15T13:06:00.000Z",
-        "end": "2026-08-15T13:52:00.000Z"
-      },
-      {
         "title": "Een dag in de dierentuin",
         "start": "2026-08-15T13:52:00.000Z",
         "end": "2026-08-15T14:04:00.000Z"
@@ -258,11 +268,6 @@
     "Veronica": [],
     "BBC News": [
       {
-        "title": "BBC news",
-        "start": "2026-08-15T13:00:00.000Z",
-        "end": "2026-08-15T13:30:00.000Z"
-      },
-      {
         "title": "Tech Now",
         "start": "2026-08-15T13:30:00.000Z",
         "end": "2026-08-15T14:00:00.000Z"
@@ -281,6 +286,11 @@
         "title": "BBC news",
         "start": "2026-08-15T15:00:00.000Z",
         "end": "2026-08-15T15:30:00.000Z"
+      },
+      {
+        "title": "What happened at Chernobyl",
+        "start": "2026-08-15T15:30:00.000Z",
+        "end": "2026-08-15T16:00:00.000Z"
       }
     ],
     "CNN": [
