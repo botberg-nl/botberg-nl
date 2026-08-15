@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-15T20:46:41.337Z",
+  "generated": "2026-08-15T21:17:52.470Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Tatort: Over grenzen",
-        "start": "2026-08-15T20:25:00.000Z",
-        "end": "2026-08-15T21:15:00.000Z"
-      },
       {
         "title": "Studio sport",
         "start": "2026-08-15T21:15:00.000Z",
@@ -47,6 +42,16 @@
         "title": "NOS Journaal",
         "start": "2026-08-15T22:30:00.000Z",
         "end": "2026-08-15T22:50:00.000Z"
+      },
+      {
+        "title": "Muziekfeest op het plein",
+        "start": "2026-08-15T22:50:00.000Z",
+        "end": "2026-08-15T23:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-15T23:15:00.000Z",
+        "end": "2026-08-15T23:30:00.000Z"
       }
     ],
     "NPO 2": [
@@ -79,14 +84,19 @@
         "title": "Nieuwsuur",
         "start": "2026-08-15T22:35:00.000Z",
         "end": "2026-08-15T23:05:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-15T23:05:00.000Z",
+        "end": "2026-08-15T23:10:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-15T23:10:00.000Z",
+        "end": "2026-08-16T06:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Sport: EK atletiek outdoor",
-        "start": "2026-08-15T18:30:00.000Z",
-        "end": "2026-08-15T21:15:00.000Z"
-      },
       {
         "title": "De matchmaker\n                        Romantische komedie",
         "start": "2026-08-15T21:15:00.000Z",
@@ -106,24 +116,14 @@
         "title": "Woeste grond",
         "start": "2026-08-15T22:10:00.000Z",
         "end": "2026-08-15T22:50:00.000Z"
+      },
+      {
+        "title": "Studio sport",
+        "start": "2026-08-15T22:50:00.000Z",
+        "end": "2026-08-15T23:20:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Beste kijkers",
-        "start": "2026-08-15T20:34:00.000Z",
-        "end": "2026-08-15T20:50:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-15T20:50:00.000Z",
-        "end": "2026-08-15T21:08:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-15T21:08:00.000Z",
-        "end": "2026-08-15T21:12:00.000Z"
-      },
       {
         "title": "Vals spel",
         "start": "2026-08-15T21:12:00.000Z",
@@ -163,19 +163,29 @@
         "title": "Vals spel",
         "start": "2026-08-15T22:13:00.000Z",
         "end": "2026-08-15T22:55:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-15T22:55:00.000Z",
+        "end": "2026-08-15T23:00:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-15T23:00:00.000Z",
+        "end": "2026-08-15T23:14:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-15T23:14:00.000Z",
+        "end": "2026-08-15T23:15:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-08-15T23:15:00.000Z",
+        "end": "2026-08-15T23:22:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Helden van hier: Op interventie",
-        "start": "2026-08-15T19:54:00.000Z",
-        "end": "2026-08-15T20:54:00.000Z"
-      },
-      {
-        "title": "St. Willebrord: Het mirakel van Brabant",
-        "start": "2026-08-15T20:54:00.000Z",
-        "end": "2026-08-15T20:56:00.000Z"
-      },
       {
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-15T20:56:00.000Z",
@@ -200,14 +210,24 @@
         "title": "Stop! Politie UK",
         "start": "2026-08-15T22:11:00.000Z",
         "end": "2026-08-15T22:47:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-15T22:47:00.000Z",
+        "end": "2026-08-15T23:03:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-15T23:03:00.000Z",
+        "end": "2026-08-15T23:14:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-15T23:14:00.000Z",
+        "end": "2026-08-16T00:10:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Broken City\n                        Thriller",
-        "start": "2026-08-15T20:40:00.000Z",
-        "end": "2026-08-15T20:53:00.000Z"
-      },
       {
         "title": "Sniper: Rogue Mission\n                        Actie",
         "start": "2026-08-15T20:53:00.000Z",
@@ -254,19 +274,19 @@
         "title": "Crime scene investigation",
         "start": "2026-08-15T22:31:00.000Z",
         "end": "2026-08-15T23:14:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-15T23:14:00.000Z",
+        "end": "2026-08-15T23:15:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-15T23:15:00.000Z",
+        "end": "2026-08-15T23:26:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T20:38:00.000Z",
-        "end": "2026-08-15T20:51:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-15T20:51:00.000Z",
-        "end": "2026-08-15T20:57:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-15T20:57:00.000Z",
@@ -286,14 +306,19 @@
         "title": "De bondgenoten",
         "start": "2026-08-15T22:43:00.000Z",
         "end": "2026-08-15T22:47:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-15T22:47:00.000Z",
+        "end": "2026-08-15T23:07:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-15T23:07:00.000Z",
+        "end": "2026-08-15T23:33:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "The American\n                        Misdaad",
-        "start": "2026-08-15T20:17:00.000Z",
-        "end": "2026-08-15T20:55:00.000Z"
-      },
       {
         "title": "Soko Köln",
         "start": "2026-08-15T20:55:00.000Z",
@@ -318,14 +343,19 @@
         "title": "Ordinary Joe",
         "start": "2026-08-15T22:24:00.000Z",
         "end": "2026-08-15T22:53:00.000Z"
+      },
+      {
+        "title": "The resident",
+        "start": "2026-08-15T22:53:00.000Z",
+        "end": "2026-08-15T23:09:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-15T23:09:00.000Z",
+        "end": "2026-08-15T23:21:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "De Staatsloterij Show",
-        "start": "2026-08-15T20:40:00.000Z",
-        "end": "2026-08-15T20:57:00.000Z"
-      },
       {
         "title": "Criminal minds",
         "start": "2026-08-15T20:57:00.000Z",
@@ -350,14 +380,24 @@
         "title": "911 crisis center",
         "start": "2026-08-15T22:20:00.000Z",
         "end": "2026-08-15T22:50:00.000Z"
+      },
+      {
+        "title": "A1: Highway patrol",
+        "start": "2026-08-15T22:50:00.000Z",
+        "end": "2026-08-15T22:57:00.000Z"
+      },
+      {
+        "title": "Chopper cops",
+        "start": "2026-08-15T22:57:00.000Z",
+        "end": "2026-08-15T23:03:00.000Z"
+      },
+      {
+        "title": "Overtreders USA",
+        "start": "2026-08-15T23:03:00.000Z",
+        "end": "2026-08-15T23:20:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-15T20:00:00.000Z",
-        "end": "2026-08-15T21:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-15T21:00:00.000Z",
@@ -382,14 +422,14 @@
         "title": "BBC news",
         "start": "2026-08-15T22:45:00.000Z",
         "end": "2026-08-15T23:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T23:00:00.000Z",
+        "end": "2026-08-15T23:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Quest's World of Wonder",
-        "start": "2026-08-15T20:30:00.000Z",
-        "end": "2026-08-15T21:00:00.000Z"
-      },
       {
         "title": "World Sport",
         "start": "2026-08-15T21:00:00.000Z",
@@ -404,6 +444,11 @@
         "title": "CNN Newsroom",
         "start": "2026-08-15T22:00:00.000Z",
         "end": "2026-08-15T23:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-15T23:00:00.000Z",
+        "end": "2026-08-16T00:00:00.000Z"
       }
     ]
   }
