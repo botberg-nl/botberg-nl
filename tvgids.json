@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T04:57:05.696Z",
+  "generated": "2026-08-15T05:26:27.324Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -32,6 +32,11 @@
         "title": "Muziekfeest op het plein",
         "start": "2026-08-15T06:50:00.000Z",
         "end": "2026-08-15T07:15:00.000Z"
+      },
+      {
+        "title": "Van onschatbare waarde",
+        "start": "2026-08-15T07:15:00.000Z",
+        "end": "2026-08-15T07:45:00.000Z"
       }
     ],
     "NPO 2": [
@@ -59,39 +64,19 @@
         "title": "Mocronado's",
         "start": "2026-08-15T06:55:00.000Z",
         "end": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Ik mis je",
+        "start": "2026-08-15T07:00:00.000Z",
+        "end": "2026-08-15T07:20:00.000Z"
+      },
+      {
+        "title": "Nederland zingt",
+        "start": "2026-08-15T07:20:00.000Z",
+        "end": "2026-08-15T07:45:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Angelina Ballerina",
-        "start": "2026-08-15T04:55:00.000Z",
-        "end": "2026-08-15T05:05:00.000Z"
-      },
-      {
-        "title": "Calimero",
-        "start": "2026-08-15T05:05:00.000Z",
-        "end": "2026-08-15T05:16:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T05:16:00.000Z",
-        "end": "2026-08-15T05:18:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T05:18:00.000Z",
-        "end": "2026-08-15T05:20:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T05:20:00.000Z",
-        "end": "2026-08-15T05:21:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-15T05:21:00.000Z",
-        "end": "2026-08-15T05:25:00.000Z"
-      },
       {
         "title": "Noddy, de detective",
         "start": "2026-08-15T05:25:00.000Z",
@@ -181,34 +166,34 @@
         "title": "Kindertijd",
         "start": "2026-08-15T06:55:00.000Z",
         "end": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Beestenbrigade missie",
+        "start": "2026-08-15T07:00:00.000Z",
+        "end": "2026-08-15T07:05:00.000Z"
+      },
+      {
+        "title": "Beestenbrigade missie",
+        "start": "2026-08-15T07:05:00.000Z",
+        "end": "2026-08-15T07:15:00.000Z"
+      },
+      {
+        "title": "BabyBeestenBoel",
+        "start": "2026-08-15T07:15:00.000Z",
+        "end": "2026-08-15T07:20:00.000Z"
+      },
+      {
+        "title": "BabyBeestenBoel",
+        "start": "2026-08-15T07:20:00.000Z",
+        "end": "2026-08-15T07:25:00.000Z"
+      },
+      {
+        "title": "Het betoverde dorp van Pinokkio",
+        "start": "2026-08-15T07:25:00.000Z",
+        "end": "2026-08-15T07:30:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-15T04:49:00.000Z",
-        "end": "2026-08-15T05:00:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-15T05:00:00.000Z",
-        "end": "2026-08-15T05:10:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-15T05:10:00.000Z",
-        "end": "2026-08-15T05:11:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-15T05:11:00.000Z",
-        "end": "2026-08-15T05:21:00.000Z"
-      },
-      {
-        "title": "Sprookjes van Klaas Vaak",
-        "start": "2026-08-15T05:21:00.000Z",
-        "end": "2026-08-15T05:22:00.000Z"
-      },
       {
         "title": "Sprookjes van Klaas Vaak",
         "start": "2026-08-15T05:22:00.000Z",
@@ -318,14 +303,19 @@
         "title": "Ernst, Bobbie en de rest",
         "start": "2026-08-15T06:47:00.000Z",
         "end": "2026-08-15T06:58:00.000Z"
+      },
+      {
+        "title": "Ronreizen",
+        "start": "2026-08-15T06:58:00.000Z",
+        "end": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Telvero",
+        "start": "2026-08-15T07:00:00.000Z",
+        "end": "2026-08-15T07:30:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-15T00:10:00.000Z",
-        "end": "2026-08-15T05:05:00.000Z"
-      },
       {
         "title": "Pastor Joseph Prince - New creation TV",
         "start": "2026-08-15T05:05:00.000Z",
@@ -350,6 +340,11 @@
         "title": "Hour of power",
         "start": "2026-08-15T06:00:00.000Z",
         "end": "2026-08-15T06:59:00.000Z"
+      },
+      {
+        "title": "Hour of power",
+        "start": "2026-08-15T06:59:00.000Z",
+        "end": "2026-08-15T08:04:00.000Z"
       }
     ],
     "RTL 7": [
@@ -367,16 +362,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T04:00:00.000Z",
-        "end": "2026-08-15T05:00:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T05:00:00.000Z",
-        "end": "2026-08-15T05:15:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-15T05:15:00.000Z",
@@ -411,14 +396,19 @@
         "title": "Hart van Nederland",
         "start": "2026-08-15T06:45:00.000Z",
         "end": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-15T07:00:00.000Z",
+        "end": "2026-08-15T07:15:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-15T07:15:00.000Z",
+        "end": "2026-08-15T07:30:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-15T03:59:00.000Z",
-        "end": "2026-08-15T05:04:00.000Z"
-      },
       {
         "title": "Say yes to the dress: Atlanta",
         "start": "2026-08-15T05:04:00.000Z",
@@ -438,6 +428,11 @@
         "title": "Signed, sealed, delivered",
         "start": "2026-08-15T06:02:00.000Z",
         "end": "2026-08-15T06:58:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-15T06:58:00.000Z",
+        "end": "2026-08-15T07:51:00.000Z"
       }
     ],
     "Veronica": [
@@ -448,11 +443,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "World's Ultimate Adventures",
-        "start": "2026-08-15T04:30:00.000Z",
-        "end": "2026-08-15T05:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-15T05:00:00.000Z",
@@ -472,14 +462,14 @@
         "title": "The travel show",
         "start": "2026-08-15T06:30:00.000Z",
         "end": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T07:00:00.000Z",
+        "end": "2026-08-15T07:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "World Sport",
-        "start": "2026-08-15T04:30:00.000Z",
-        "end": "2026-08-15T05:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-15T05:00:00.000Z",
@@ -504,6 +494,11 @@
         "title": "Marketplace Asia",
         "start": "2026-08-15T06:45:00.000Z",
         "end": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-15T07:00:00.000Z",
+        "end": "2026-08-15T07:30:00.000Z"
       }
     ]
   }
