@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-15T22:18:21.413Z",
+  "generated": "2026-08-15T22:46:06.226Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Nationale Herdenking 15 augustus 1945",
-        "start": "2026-08-15T21:55:00.000Z",
-        "end": "2026-08-15T22:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-15T22:30:00.000Z",
-        "end": "2026-08-15T22:40:00.000Z"
-      },
       {
         "title": "Het verhaal van Nederland - Oranje-Nassau",
         "start": "2026-08-15T22:40:00.000Z",
@@ -57,19 +47,29 @@
         "title": "NOS Journaal",
         "start": "2026-08-16T00:15:00.000Z",
         "end": "2026-08-16T00:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal met gebarentaal",
+        "start": "2026-08-16T00:20:00.000Z",
+        "end": "2026-08-16T00:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T00:30:00.000Z",
+        "end": "2026-08-16T00:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T00:35:00.000Z",
+        "end": "2026-08-16T00:45:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T00:45:00.000Z",
+        "end": "2026-08-16T01:10:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De nachtzoen",
-        "start": "2026-08-15T22:15:00.000Z",
-        "end": "2026-08-15T22:30:00.000Z"
-      },
-      {
-        "title": "Pauscast",
-        "start": "2026-08-15T22:30:00.000Z",
-        "end": "2026-08-15T22:35:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-15T22:35:00.000Z",
@@ -116,6 +116,11 @@
         "title": "NPO Doc: Misslukt",
         "start": "2026-08-15T23:40:00.000Z",
         "end": "2026-08-16T00:40:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-16T00:40:00.000Z",
+        "end": "2026-08-16T01:25:00.000Z"
       }
     ],
     "RTL 4": [
@@ -199,16 +204,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Trauma Center\n                        Actie",
-        "start": "2026-08-15T21:09:00.000Z",
-        "end": "2026-08-15T22:37:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-15T22:37:00.000Z",
-        "end": "2026-08-15T22:41:00.000Z"
-      },
-      {
         "title": "Pawn stars",
         "start": "2026-08-15T22:41:00.000Z",
         "end": "2026-08-15T23:05:00.000Z"
@@ -240,11 +235,6 @@
       }
     ],
     "RTL 8": [
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-08-15T22:18:00.000Z",
-        "end": "2026-08-15T22:31:00.000Z"
-      },
       {
         "title": "Crime scene investigation",
         "start": "2026-08-15T22:31:00.000Z",
@@ -310,16 +300,6 @@
     ],
     "NET 5": [
       {
-        "title": "The resident",
-        "start": "2026-08-15T21:56:00.000Z",
-        "end": "2026-08-15T22:24:00.000Z"
-      },
-      {
-        "title": "Ordinary Joe",
-        "start": "2026-08-15T22:24:00.000Z",
-        "end": "2026-08-15T22:38:00.000Z"
-      },
-      {
         "title": "27 Dresses\n                        Romantische komedie",
         "start": "2026-08-15T22:38:00.000Z",
         "end": "2026-08-15T22:53:00.000Z"
@@ -338,14 +318,14 @@
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-15T23:51:00.000Z",
         "end": "2026-08-16T00:41:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-16T00:41:00.000Z",
+        "end": "2026-08-16T03:51:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "FBI: Most wanted",
-        "start": "2026-08-15T22:02:00.000Z",
-        "end": "2026-08-15T22:20:00.000Z"
-      },
       {
         "title": "911 crisis center",
         "start": "2026-08-15T22:20:00.000Z",
@@ -394,11 +374,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC World News America",
-        "start": "2026-08-15T22:00:00.000Z",
-        "end": "2026-08-15T22:30:00.000Z"
-      },
-      {
         "title": "World's Ultimate Adventures",
         "start": "2026-08-15T22:30:00.000Z",
         "end": "2026-08-15T23:00:00.000Z"
@@ -417,6 +392,11 @@
         "title": "BBC news",
         "start": "2026-08-16T00:00:00.000Z",
         "end": "2026-08-16T00:30:00.000Z"
+      },
+      {
+        "title": "Talking Business",
+        "start": "2026-08-16T00:30:00.000Z",
+        "end": "2026-08-16T01:00:00.000Z"
       }
     ],
     "CNN": [
