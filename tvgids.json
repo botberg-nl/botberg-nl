@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T02:31:20.481Z",
+  "generated": "2026-08-15T03:35:47.169Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -7,6 +7,11 @@
         "title": "NOS Journaal",
         "start": "2026-08-15T01:20:00.000Z",
         "end": "2026-08-15T05:35:00.000Z"
+      },
+      {
+        "title": "Nederland in beweging",
+        "start": "2026-08-15T05:35:00.000Z",
+        "end": "2026-08-15T05:55:00.000Z"
       }
     ],
     "NPO 2": [
@@ -56,6 +61,76 @@
         "title": "Nelli en Nora",
         "start": "2026-08-15T04:30:00.000Z",
         "end": "2026-08-15T04:36:00.000Z"
+      },
+      {
+        "title": "Kiri & Lou",
+        "start": "2026-08-15T04:36:00.000Z",
+        "end": "2026-08-15T04:38:00.000Z"
+      },
+      {
+        "title": "Kiri & Lou",
+        "start": "2026-08-15T04:38:00.000Z",
+        "end": "2026-08-15T04:40:00.000Z"
+      },
+      {
+        "title": "Charlie & Lola",
+        "start": "2026-08-15T04:40:00.000Z",
+        "end": "2026-08-15T04:45:00.000Z"
+      },
+      {
+        "title": "Charlie & Lola",
+        "start": "2026-08-15T04:45:00.000Z",
+        "end": "2026-08-15T04:50:00.000Z"
+      },
+      {
+        "title": "Angelina Ballerina",
+        "start": "2026-08-15T04:50:00.000Z",
+        "end": "2026-08-15T04:55:00.000Z"
+      },
+      {
+        "title": "Angelina Ballerina",
+        "start": "2026-08-15T04:55:00.000Z",
+        "end": "2026-08-15T05:05:00.000Z"
+      },
+      {
+        "title": "Calimero",
+        "start": "2026-08-15T05:05:00.000Z",
+        "end": "2026-08-15T05:16:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-15T05:16:00.000Z",
+        "end": "2026-08-15T05:18:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-15T05:18:00.000Z",
+        "end": "2026-08-15T05:20:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-15T05:20:00.000Z",
+        "end": "2026-08-15T05:21:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-15T05:21:00.000Z",
+        "end": "2026-08-15T05:25:00.000Z"
+      },
+      {
+        "title": "Noddy, de detective",
+        "start": "2026-08-15T05:25:00.000Z",
+        "end": "2026-08-15T05:34:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-15T05:34:00.000Z",
+        "end": "2026-08-15T05:35:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-15T05:35:00.000Z",
+        "end": "2026-08-15T05:40:00.000Z"
       }
     ],
     "RTL 4": [
@@ -83,6 +158,61 @@
         "title": "Ernst, Bobbie en de rest",
         "start": "2026-08-15T04:26:00.000Z",
         "end": "2026-08-15T04:34:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-15T04:34:00.000Z",
+        "end": "2026-08-15T04:37:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-15T04:37:00.000Z",
+        "end": "2026-08-15T04:44:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-15T04:44:00.000Z",
+        "end": "2026-08-15T04:49:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-15T04:49:00.000Z",
+        "end": "2026-08-15T05:00:00.000Z"
+      },
+      {
+        "title": "Thomas de stoomlocomotief",
+        "start": "2026-08-15T05:00:00.000Z",
+        "end": "2026-08-15T05:10:00.000Z"
+      },
+      {
+        "title": "Thomas de stoomlocomotief",
+        "start": "2026-08-15T05:10:00.000Z",
+        "end": "2026-08-15T05:11:00.000Z"
+      },
+      {
+        "title": "Thomas de stoomlocomotief",
+        "start": "2026-08-15T05:11:00.000Z",
+        "end": "2026-08-15T05:21:00.000Z"
+      },
+      {
+        "title": "Sprookjes van Klaas Vaak",
+        "start": "2026-08-15T05:21:00.000Z",
+        "end": "2026-08-15T05:22:00.000Z"
+      },
+      {
+        "title": "Sprookjes van Klaas Vaak",
+        "start": "2026-08-15T05:22:00.000Z",
+        "end": "2026-08-15T05:31:00.000Z"
+      },
+      {
+        "title": "Jokie",
+        "start": "2026-08-15T05:31:00.000Z",
+        "end": "2026-08-15T05:32:00.000Z"
+      },
+      {
+        "title": "Jokie",
+        "start": "2026-08-15T05:32:00.000Z",
+        "end": "2026-08-15T05:36:00.000Z"
       }
     ],
     "RTL 5": [
@@ -90,6 +220,21 @@
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-15T00:10:00.000Z",
         "end": "2026-08-15T05:05:00.000Z"
+      },
+      {
+        "title": "Pastor Joseph Prince - New creation TV",
+        "start": "2026-08-15T05:05:00.000Z",
+        "end": "2026-08-15T05:30:00.000Z"
+      },
+      {
+        "title": "Pastor Joseph Prince - New creation TV",
+        "start": "2026-08-15T05:30:00.000Z",
+        "end": "2026-08-15T05:33:00.000Z"
+      },
+      {
+        "title": "Antwoorden met Bayless Conley",
+        "start": "2026-08-15T05:33:00.000Z",
+        "end": "2026-08-15T05:58:00.000Z"
       }
     ],
     "RTL 7": [
@@ -126,6 +271,21 @@
         "title": "Hart van Nederland",
         "start": "2026-08-15T04:00:00.000Z",
         "end": "2026-08-15T05:00:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-15T05:00:00.000Z",
+        "end": "2026-08-15T05:15:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-15T05:15:00.000Z",
+        "end": "2026-08-15T05:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-15T05:30:00.000Z",
+        "end": "2026-08-15T05:45:00.000Z"
       }
     ],
     "NET 5": [
@@ -143,25 +303,20 @@
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-15T03:59:00.000Z",
         "end": "2026-08-15T05:04:00.000Z"
+      },
+      {
+        "title": "Say yes to the dress: Atlanta",
+        "start": "2026-08-15T05:04:00.000Z",
+        "end": "2026-08-15T05:32:00.000Z"
+      },
+      {
+        "title": "Say yes to the dress: Atlanta",
+        "start": "2026-08-15T05:32:00.000Z",
+        "end": "2026-08-15T05:59:00.000Z"
       }
     ],
     "Veronica": [],
     "BBC News": [
-      {
-        "title": "Business Today",
-        "start": "2026-08-15T02:30:00.000Z",
-        "end": "2026-08-15T02:45:00.000Z"
-      },
-      {
-        "title": "BBC Sport",
-        "start": "2026-08-15T02:45:00.000Z",
-        "end": "2026-08-15T03:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-15T03:00:00.000Z",
-        "end": "2026-08-15T03:30:00.000Z"
-      },
       {
         "title": "What happened at Chernobyl",
         "start": "2026-08-15T03:30:00.000Z",
@@ -176,24 +331,19 @@
         "title": "World's Ultimate Adventures",
         "start": "2026-08-15T04:30:00.000Z",
         "end": "2026-08-15T05:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T05:00:00.000Z",
+        "end": "2026-08-15T05:30:00.000Z"
+      },
+      {
+        "title": "Talking Business",
+        "start": "2026-08-15T05:30:00.000Z",
+        "end": "2026-08-15T06:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Marketplace Europe",
-        "start": "2026-08-15T02:30:00.000Z",
-        "end": "2026-08-15T02:45:00.000Z"
-      },
-      {
-        "title": "Marketplace Asia",
-        "start": "2026-08-15T02:45:00.000Z",
-        "end": "2026-08-15T03:00:00.000Z"
-      },
-      {
-        "title": "The Link",
-        "start": "2026-08-15T03:00:00.000Z",
-        "end": "2026-08-15T03:30:00.000Z"
-      },
       {
         "title": "CNN Marketplace Europe",
         "start": "2026-08-15T03:30:00.000Z",
@@ -213,6 +363,16 @@
         "title": "World Sport",
         "start": "2026-08-15T04:30:00.000Z",
         "end": "2026-08-15T05:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-15T05:00:00.000Z",
+        "end": "2026-08-15T05:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-15T05:30:00.000Z",
+        "end": "2026-08-15T06:00:00.000Z"
       }
     ]
   }
