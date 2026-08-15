@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-15T14:47:14.731Z",
+  "generated": "2026-08-15T15:17:05.002Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Sport - WK hockey (v): Nederland - Chili",
-        "start": "2026-08-15T13:50:00.000Z",
-        "end": "2026-08-15T14:50:00.000Z"
-      },
       {
         "title": "Studio sport live - WK hockey (m): Nederland - Nieuw-Zeeland\n                                                                            Nederland - Nieuw-Zeeland",
         "start": "2026-08-15T14:50:00.000Z",
@@ -32,24 +27,14 @@
         "title": "Nationale Herdenking 15 augustus 1945",
         "start": "2026-08-15T16:45:00.000Z",
         "end": "2026-08-15T17:00:00.000Z"
+      },
+      {
+        "title": "Studio sport voetbal",
+        "start": "2026-08-15T17:00:00.000Z",
+        "end": "2026-08-15T18:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De verwondering",
-        "start": "2026-08-15T14:30:00.000Z",
-        "end": "2026-08-15T14:51:00.000Z"
-      },
-      {
-        "title": "Socutera",
-        "start": "2026-08-15T14:51:00.000Z",
-        "end": "2026-08-15T15:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-15T15:00:00.000Z",
-        "end": "2026-08-15T15:10:00.000Z"
-      },
       {
         "title": "Pauscast",
         "start": "2026-08-15T15:10:00.000Z",
@@ -84,19 +69,14 @@
         "title": "Ik mis je",
         "start": "2026-08-15T16:35:00.000Z",
         "end": "2026-08-15T17:00:00.000Z"
+      },
+      {
+        "title": "Hello goodbye",
+        "start": "2026-08-15T17:00:00.000Z",
+        "end": "2026-08-15T17:25:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zappbios: Het waterpaard\n                        Avontuur",
-        "start": "2026-08-15T13:15:00.000Z",
-        "end": "2026-08-15T14:55:00.000Z"
-      },
-      {
-        "title": "Bollox",
-        "start": "2026-08-15T14:55:00.000Z",
-        "end": "2026-08-15T15:10:00.000Z"
-      },
       {
         "title": "Zenith II",
         "start": "2026-08-15T15:10:00.000Z",
@@ -146,14 +126,14 @@
         "title": "Steken en prikken: Op vakantie",
         "start": "2026-08-15T16:45:00.000Z",
         "end": "2026-08-15T17:00:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal",
+        "start": "2026-08-15T17:00:00.000Z",
+        "end": "2026-08-15T17:20:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Huis gezocht",
-        "start": "2026-08-15T14:30:00.000Z",
-        "end": "2026-08-15T15:00:00.000Z"
-      },
       {
         "title": "Campingtijd",
         "start": "2026-08-15T15:00:00.000Z",
@@ -188,11 +168,6 @@
     "RTL 5": [
       {
         "title": "Stop! Politie UK",
-        "start": "2026-08-15T14:46:00.000Z",
-        "end": "2026-08-15T14:54:00.000Z"
-      },
-      {
-        "title": "Stop! Politie UK",
         "start": "2026-08-15T14:54:00.000Z",
         "end": "2026-08-15T15:44:00.000Z"
       },
@@ -210,14 +185,14 @@
         "title": "Meldkamer Utrecht Centraal",
         "start": "2026-08-15T16:39:00.000Z",
         "end": "2026-08-15T16:57:00.000Z"
+      },
+      {
+        "title": "Helden van hier: Op interventie",
+        "start": "2026-08-15T16:57:00.000Z",
+        "end": "2026-08-15T18:00:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-15T14:39:00.000Z",
-        "end": "2026-08-15T15:10:00.000Z"
-      },
       {
         "title": "Border Patrol USA",
         "start": "2026-08-15T15:10:00.000Z",
@@ -242,6 +217,16 @@
         "title": "Border security Canada",
         "start": "2026-08-15T16:34:00.000Z",
         "end": "2026-08-15T17:02:00.000Z"
+      },
+      {
+        "title": "Border Patrol USA",
+        "start": "2026-08-15T17:02:00.000Z",
+        "end": "2026-08-15T17:03:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-08-15T17:03:00.000Z",
+        "end": "2026-08-15T17:31:00.000Z"
       }
     ],
     "RTL 8": [
@@ -264,19 +249,14 @@
         "title": "De Verraders UK",
         "start": "2026-08-15T16:36:00.000Z",
         "end": "2026-08-15T16:54:00.000Z"
+      },
+      {
+        "title": "Lego masters Australië",
+        "start": "2026-08-15T16:54:00.000Z",
+        "end": "2026-08-15T18:00:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Verkopen of verbouwen",
-        "start": "2026-08-15T14:09:00.000Z",
-        "end": "2026-08-15T15:06:00.000Z"
-      },
-      {
-        "title": "De grote verhuizing",
-        "start": "2026-08-15T15:06:00.000Z",
-        "end": "2026-08-15T15:09:00.000Z"
-      },
       {
         "title": "De grote tuinverbouwing",
         "start": "2026-08-15T15:09:00.000Z",
@@ -291,19 +271,14 @@
         "title": "Lachen om home video's",
         "start": "2026-08-15T16:36:00.000Z",
         "end": "2026-08-15T17:01:00.000Z"
+      },
+      {
+        "title": "vtwonen weer verliefd op je huis",
+        "start": "2026-08-15T17:01:00.000Z",
+        "end": "2026-08-15T17:34:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-08-15T14:04:00.000Z",
-        "end": "2026-08-15T14:55:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-08-15T14:55:00.000Z",
-        "end": "2026-08-15T15:03:00.000Z"
-      },
       {
         "title": "Een dag in de dierenkliniek",
         "start": "2026-08-15T15:03:00.000Z",
@@ -318,6 +293,16 @@
         "title": "Een dag in de dierenkliniek",
         "start": "2026-08-15T16:03:00.000Z",
         "end": "2026-08-15T16:59:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-08-15T16:59:00.000Z",
+        "end": "2026-08-15T17:00:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierenkliniek",
+        "start": "2026-08-15T17:00:00.000Z",
+        "end": "2026-08-15T18:00:00.000Z"
       }
     ],
     "Veronica": [
@@ -340,14 +325,19 @@
         "title": "Border security: Nieuw-Zeeland",
         "start": "2026-08-15T16:32:00.000Z",
         "end": "2026-08-15T17:02:00.000Z"
+      },
+      {
+        "title": "Airport security: Amerika",
+        "start": "2026-08-15T17:02:00.000Z",
+        "end": "2026-08-15T17:05:00.000Z"
+      },
+      {
+        "title": "Zeepkistenrace",
+        "start": "2026-08-15T17:05:00.000Z",
+        "end": "2026-08-15T18:00:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "World's Ultimate Adventures",
-        "start": "2026-08-15T14:30:00.000Z",
-        "end": "2026-08-15T15:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-15T15:00:00.000Z",
@@ -362,14 +352,14 @@
         "title": "BBC news",
         "start": "2026-08-15T16:00:00.000Z",
         "end": "2026-08-15T17:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T17:00:00.000Z",
+        "end": "2026-08-15T17:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Inside Africa",
-        "start": "2026-08-15T14:30:00.000Z",
-        "end": "2026-08-15T15:00:00.000Z"
-      },
       {
         "title": "Inside Politics",
         "start": "2026-08-15T15:00:00.000Z",
@@ -384,6 +374,11 @@
         "title": "Inside Africa",
         "start": "2026-08-15T16:30:00.000Z",
         "end": "2026-08-15T17:00:00.000Z"
+      },
+      {
+        "title": "African Voices Playmakers",
+        "start": "2026-08-15T17:00:00.000Z",
+        "end": "2026-08-15T17:30:00.000Z"
       }
     ]
   }
