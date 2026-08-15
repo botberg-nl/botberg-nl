@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-15T07:27:19.228Z",
+  "generated": "2026-08-15T07:53:22.109Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Van onschatbare waarde",
-        "start": "2026-08-15T07:15:00.000Z",
-        "end": "2026-08-15T07:45:00.000Z"
-      },
       {
         "title": "Het mooiste meisje van de klas",
         "start": "2026-08-15T07:45:00.000Z",
@@ -27,14 +22,14 @@
         "title": "Zussen",
         "start": "2026-08-15T09:05:00.000Z",
         "end": "2026-08-15T09:30:00.000Z"
+      },
+      {
+        "title": "Het familiediner",
+        "start": "2026-08-15T09:30:00.000Z",
+        "end": "2026-08-15T10:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nederland zingt",
-        "start": "2026-08-15T07:20:00.000Z",
-        "end": "2026-08-15T07:45:00.000Z"
-      },
       {
         "title": "Geloofsgesprek",
         "start": "2026-08-15T07:45:00.000Z",
@@ -59,29 +54,19 @@
         "title": "Nederland zingt op zondag",
         "start": "2026-08-15T09:05:00.000Z",
         "end": "2026-08-15T09:30:00.000Z"
+      },
+      {
+        "title": "EO Metterdaad",
+        "start": "2026-08-15T09:30:00.000Z",
+        "end": "2026-08-15T09:40:00.000Z"
+      },
+      {
+        "title": "De verandering",
+        "start": "2026-08-15T09:40:00.000Z",
+        "end": "2026-08-15T09:58:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Het betoverde dorp van Pinokkio",
-        "start": "2026-08-15T07:25:00.000Z",
-        "end": "2026-08-15T07:30:00.000Z"
-      },
-      {
-        "title": "Het betoverde dorp van Pinokkio",
-        "start": "2026-08-15T07:30:00.000Z",
-        "end": "2026-08-15T07:35:00.000Z"
-      },
-      {
-        "title": "Zo is Joey!",
-        "start": "2026-08-15T07:35:00.000Z",
-        "end": "2026-08-15T07:45:00.000Z"
-      },
-      {
-        "title": "Zo is Joey!",
-        "start": "2026-08-15T07:45:00.000Z",
-        "end": "2026-08-15T07:50:00.000Z"
-      },
       {
         "title": "De smurfen",
         "start": "2026-08-15T07:50:00.000Z",
@@ -166,14 +151,24 @@
         "title": "Mike de ridder",
         "start": "2026-08-15T09:25:00.000Z",
         "end": "2026-08-15T09:30:00.000Z"
+      },
+      {
+        "title": "Pol de piratenmuis",
+        "start": "2026-08-15T09:30:00.000Z",
+        "end": "2026-08-15T09:35:00.000Z"
+      },
+      {
+        "title": "Grizzy en de lemmingen",
+        "start": "2026-08-15T09:35:00.000Z",
+        "end": "2026-08-15T09:45:00.000Z"
+      },
+      {
+        "title": "Zappbios: Pluk van de Petteflet\n                        Jeugd",
+        "start": "2026-08-15T09:45:00.000Z",
+        "end": "2026-08-15T09:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Teleshop 4: Telvero",
-        "start": "2026-08-15T07:00:00.000Z",
-        "end": "2026-08-15T07:30:00.000Z"
-      },
       {
         "title": "Ambassadeur voor 1 dag",
         "start": "2026-08-15T07:30:00.000Z",
@@ -198,6 +193,11 @@
         "title": "Huis gezocht",
         "start": "2026-08-15T08:58:00.000Z",
         "end": "2026-08-15T09:29:00.000Z"
+      },
+      {
+        "title": "De mooiste wegen",
+        "start": "2026-08-15T09:29:00.000Z",
+        "end": "2026-08-15T09:58:00.000Z"
       }
     ],
     "RTL 5": [
@@ -213,11 +213,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Teleshop 7: Telvero",
-        "start": "2026-08-15T04:00:00.000Z",
-        "end": "2026-08-15T07:30:00.000Z"
-      },
       {
         "title": "Vis tv",
         "start": "2026-08-15T07:30:00.000Z",
@@ -237,6 +232,11 @@
         "title": "Idioten op de weg",
         "start": "2026-08-15T09:18:00.000Z",
         "end": "2026-08-15T09:47:00.000Z"
+      },
+      {
+        "title": "Stop! Politie",
+        "start": "2026-08-15T09:47:00.000Z",
+        "end": "2026-08-15T10:07:00.000Z"
       }
     ],
     "RTL 8": [
@@ -247,16 +247,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T07:15:00.000Z",
-        "end": "2026-08-15T07:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T07:30:00.000Z",
-        "end": "2026-08-15T07:45:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-15T07:45:00.000Z",
@@ -276,14 +266,14 @@
         "title": "Man bijt hond",
         "start": "2026-08-15T09:26:00.000Z",
         "end": "2026-08-15T09:45:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-08-15T09:45:00.000Z",
+        "end": "2026-08-15T10:00:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-15T06:58:00.000Z",
-        "end": "2026-08-15T07:51:00.000Z"
-      },
       {
         "title": "Home and away",
         "start": "2026-08-15T07:51:00.000Z",
@@ -313,6 +303,11 @@
         "title": "Home and away",
         "start": "2026-08-15T09:16:00.000Z",
         "end": "2026-08-15T09:44:00.000Z"
+      },
+      {
+        "title": "Home and away",
+        "start": "2026-08-15T09:44:00.000Z",
+        "end": "2026-08-15T09:56:00.000Z"
       }
     ],
     "Veronica": [
@@ -323,11 +318,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-15T07:00:00.000Z",
-        "end": "2026-08-15T07:30:00.000Z"
-      },
       {
         "title": "World's Ultimate Adventures",
         "start": "2026-08-15T07:30:00.000Z",
@@ -342,14 +332,14 @@
         "title": "BBC news",
         "start": "2026-08-15T09:00:00.000Z",
         "end": "2026-08-15T09:30:00.000Z"
+      },
+      {
+        "title": "Inside China's EV Revolution",
+        "start": "2026-08-15T09:30:00.000Z",
+        "end": "2026-08-15T10:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-15T07:00:00.000Z",
-        "end": "2026-08-15T07:30:00.000Z"
-      },
       {
         "title": "Quest's World of Wonder",
         "start": "2026-08-15T07:30:00.000Z",
