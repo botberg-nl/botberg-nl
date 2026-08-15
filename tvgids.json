@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-15T07:53:22.109Z",
+  "generated": "2026-08-15T08:23:45.813Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Het mooiste meisje van de klas",
-        "start": "2026-08-15T07:45:00.000Z",
-        "end": "2026-08-15T08:10:00.000Z"
-      },
       {
         "title": "Bed & breakfast",
         "start": "2026-08-15T08:10:00.000Z",
@@ -27,14 +22,24 @@
         "title": "Het familiediner",
         "start": "2026-08-15T09:30:00.000Z",
         "end": "2026-08-15T10:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-15T10:00:00.000Z",
+        "end": "2026-08-15T10:10:00.000Z"
+      },
+      {
+        "title": "Een buitengewoon gesprek",
+        "start": "2026-08-15T10:10:00.000Z",
+        "end": "2026-08-15T10:20:00.000Z"
+      },
+      {
+        "title": "Sterren NL top 25",
+        "start": "2026-08-15T10:20:00.000Z",
+        "end": "2026-08-15T10:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Geloofsgesprek",
-        "start": "2026-08-15T07:45:00.000Z",
-        "end": "2026-08-15T08:00:00.000Z"
-      },
       {
         "title": "Eucharistieviering",
         "start": "2026-08-15T08:00:00.000Z",
@@ -64,39 +69,29 @@
         "title": "De verandering",
         "start": "2026-08-15T09:40:00.000Z",
         "end": "2026-08-15T09:58:00.000Z"
+      },
+      {
+        "title": "Wilde Ganzen",
+        "start": "2026-08-15T09:58:00.000Z",
+        "end": "2026-08-15T10:00:00.000Z"
+      },
+      {
+        "title": "De kist",
+        "start": "2026-08-15T10:00:00.000Z",
+        "end": "2026-08-15T10:05:00.000Z"
+      },
+      {
+        "title": "Nu te zien!",
+        "start": "2026-08-15T10:05:00.000Z",
+        "end": "2026-08-15T10:15:00.000Z"
+      },
+      {
+        "title": "Dit is de kwestie",
+        "start": "2026-08-15T10:15:00.000Z",
+        "end": "2026-08-15T10:30:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "De smurfen",
-        "start": "2026-08-15T07:50:00.000Z",
-        "end": "2026-08-15T07:55:00.000Z"
-      },
-      {
-        "title": "De smurfen",
-        "start": "2026-08-15T07:55:00.000Z",
-        "end": "2026-08-15T08:00:00.000Z"
-      },
-      {
-        "title": "SamSam",
-        "start": "2026-08-15T08:00:00.000Z",
-        "end": "2026-08-15T08:05:00.000Z"
-      },
-      {
-        "title": "SamSam",
-        "start": "2026-08-15T08:05:00.000Z",
-        "end": "2026-08-15T08:10:00.000Z"
-      },
-      {
-        "title": "Lucas de spin",
-        "start": "2026-08-15T08:10:00.000Z",
-        "end": "2026-08-15T08:18:00.000Z"
-      },
-      {
-        "title": "Kiwi & Strit",
-        "start": "2026-08-15T08:18:00.000Z",
-        "end": "2026-08-15T08:20:00.000Z"
-      },
       {
         "title": "Masha en de beer",
         "start": "2026-08-15T08:20:00.000Z",
@@ -166,19 +161,14 @@
         "title": "Zappbios: Pluk van de Petteflet\n                        Jeugd",
         "start": "2026-08-15T09:45:00.000Z",
         "end": "2026-08-15T09:55:00.000Z"
+      },
+      {
+        "title": "Zappbios: Apenstreken\n                        Jeugd",
+        "start": "2026-08-15T09:55:00.000Z",
+        "end": "2026-08-15T11:10:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ambassadeur voor 1 dag",
-        "start": "2026-08-15T07:30:00.000Z",
-        "end": "2026-08-15T07:59:00.000Z"
-      },
-      {
-        "title": "Nederland ontdekt",
-        "start": "2026-08-15T07:59:00.000Z",
-        "end": "2026-08-15T08:00:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-15T08:00:00.000Z",
@@ -198,14 +188,19 @@
         "title": "De mooiste wegen",
         "start": "2026-08-15T09:29:00.000Z",
         "end": "2026-08-15T09:58:00.000Z"
+      },
+      {
+        "title": "Het goede camperleven",
+        "start": "2026-08-15T09:58:00.000Z",
+        "end": "2026-08-15T10:00:00.000Z"
+      },
+      {
+        "title": "Later als ik groot ben",
+        "start": "2026-08-15T10:00:00.000Z",
+        "end": "2026-08-15T10:27:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Hour of power",
-        "start": "2026-08-15T06:59:00.000Z",
-        "end": "2026-08-15T08:04:00.000Z"
-      },
       {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-15T08:04:00.000Z",
@@ -213,16 +208,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Vis tv",
-        "start": "2026-08-15T07:30:00.000Z",
-        "end": "2026-08-15T07:55:00.000Z"
-      },
-      {
-        "title": "Vis tv",
-        "start": "2026-08-15T07:55:00.000Z",
-        "end": "2026-08-15T08:22:00.000Z"
-      },
       {
         "title": "Stop! Politie",
         "start": "2026-08-15T08:22:00.000Z",
@@ -237,6 +222,11 @@
         "title": "Stop! Politie",
         "start": "2026-08-15T09:47:00.000Z",
         "end": "2026-08-15T10:07:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-15T10:07:00.000Z",
+        "end": "2026-08-15T10:36:00.000Z"
       }
     ],
     "RTL 8": [
@@ -247,11 +237,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-15T07:45:00.000Z",
-        "end": "2026-08-15T08:00:00.000Z"
-      },
       {
         "title": "De grote tuinverbouwing",
         "start": "2026-08-15T08:00:00.000Z",
@@ -271,19 +256,19 @@
         "title": "Een dag in de dierentuin",
         "start": "2026-08-15T09:45:00.000Z",
         "end": "2026-08-15T10:00:00.000Z"
+      },
+      {
+        "title": "Levende Steen ministries",
+        "start": "2026-08-15T10:00:00.000Z",
+        "end": "2026-08-15T10:18:00.000Z"
+      },
+      {
+        "title": "Verkopen of verbouwen",
+        "start": "2026-08-15T10:18:00.000Z",
+        "end": "2026-08-15T10:26:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Home and away",
-        "start": "2026-08-15T07:51:00.000Z",
-        "end": "2026-08-15T07:57:00.000Z"
-      },
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-15T07:57:00.000Z",
-        "end": "2026-08-15T08:19:00.000Z"
-      },
       {
         "title": "Home and away",
         "start": "2026-08-15T08:19:00.000Z",
@@ -308,6 +293,16 @@
         "title": "Home and away",
         "start": "2026-08-15T09:44:00.000Z",
         "end": "2026-08-15T09:56:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-15T09:56:00.000Z",
+        "end": "2026-08-15T10:13:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-08-15T10:13:00.000Z",
+        "end": "2026-08-15T10:56:00.000Z"
       }
     ],
     "Veronica": [
@@ -318,11 +313,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "World's Ultimate Adventures",
-        "start": "2026-08-15T07:30:00.000Z",
-        "end": "2026-08-15T08:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-15T08:00:00.000Z",
@@ -337,14 +327,14 @@
         "title": "Inside China's EV Revolution",
         "start": "2026-08-15T09:30:00.000Z",
         "end": "2026-08-15T10:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T10:00:00.000Z",
+        "end": "2026-08-15T10:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Quest's World of Wonder",
-        "start": "2026-08-15T07:30:00.000Z",
-        "end": "2026-08-15T08:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-15T08:00:00.000Z",
@@ -359,6 +349,11 @@
         "title": "CNN Newsroom",
         "start": "2026-08-15T09:00:00.000Z",
         "end": "2026-08-15T10:00:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-15T10:00:00.000Z",
+        "end": "2026-08-15T10:30:00.000Z"
       }
     ]
   }
