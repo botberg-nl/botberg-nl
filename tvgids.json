@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-15T18:55:44.466Z",
+  "generated": "2026-08-15T19:20:05.018Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Harrie Jekkers: In mijn liedjes kan ik wonen",
-        "start": "2026-08-15T18:30:00.000Z",
-        "end": "2026-08-15T19:15:00.000Z"
-      },
       {
         "title": "Ahoy zingt De Nijs",
         "start": "2026-08-15T19:15:00.000Z",
@@ -27,6 +22,16 @@
         "title": "Tatort: Over grenzen",
         "start": "2026-08-15T20:25:00.000Z",
         "end": "2026-08-15T21:15:00.000Z"
+      },
+      {
+        "title": "Studio sport",
+        "start": "2026-08-15T21:15:00.000Z",
+        "end": "2026-08-15T21:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-15T21:20:00.000Z",
+        "end": "2026-08-15T21:25:00.000Z"
       }
     ],
     "NPO 2": [
@@ -56,14 +61,19 @@
         "title": "Sport: EK atletiek outdoor",
         "start": "2026-08-15T18:30:00.000Z",
         "end": "2026-08-15T21:15:00.000Z"
+      },
+      {
+        "title": "De matchmaker\n                        Romantische komedie",
+        "start": "2026-08-15T21:15:00.000Z",
+        "end": "2026-08-15T21:20:00.000Z"
+      },
+      {
+        "title": "Holy sh!t",
+        "start": "2026-08-15T21:20:00.000Z",
+        "end": "2026-08-15T22:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Postcode Loterij Eén tegen 100",
-        "start": "2026-08-15T18:07:00.000Z",
-        "end": "2026-08-15T19:03:00.000Z"
-      },
       {
         "title": "Los het op!",
         "start": "2026-08-15T19:03:00.000Z",
@@ -88,14 +98,24 @@
         "title": "RTL Nieuws",
         "start": "2026-08-15T20:50:00.000Z",
         "end": "2026-08-15T21:08:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-15T21:08:00.000Z",
+        "end": "2026-08-15T21:12:00.000Z"
+      },
+      {
+        "title": "Vals spel",
+        "start": "2026-08-15T21:12:00.000Z",
+        "end": "2026-08-15T21:20:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-15T21:20:00.000Z",
+        "end": "2026-08-15T21:27:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Het interventie team",
-        "start": "2026-08-15T18:01:00.000Z",
-        "end": "2026-08-15T18:57:00.000Z"
-      },
       {
         "title": "Het interventie team",
         "start": "2026-08-15T18:57:00.000Z",
@@ -115,6 +135,11 @@
         "title": "St. Willebrord: Het mirakel van Brabant",
         "start": "2026-08-15T20:54:00.000Z",
         "end": "2026-08-15T20:56:00.000Z"
+      },
+      {
+        "title": "Helden van hier: Op interventie",
+        "start": "2026-08-15T20:56:00.000Z",
+        "end": "2026-08-15T21:43:00.000Z"
       }
     ],
     "RTL 7": [
@@ -196,14 +221,14 @@
         "title": "Shownieuws",
         "start": "2026-08-15T20:51:00.000Z",
         "end": "2026-08-15T20:57:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-15T20:57:00.000Z",
+        "end": "2026-08-15T21:45:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Fool's Gold\n                        Avontuur",
-        "start": "2026-08-15T18:00:00.000Z",
-        "end": "2026-08-15T18:57:00.000Z"
-      },
       {
         "title": "NCIS",
         "start": "2026-08-15T18:57:00.000Z",
@@ -250,14 +275,14 @@
         "title": "De Staatsloterij Show",
         "start": "2026-08-15T20:40:00.000Z",
         "end": "2026-08-15T20:57:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-08-15T20:57:00.000Z",
+        "end": "2026-08-15T21:25:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Inside China's EV Revolution",
-        "start": "2026-08-15T18:30:00.000Z",
-        "end": "2026-08-15T19:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-15T19:00:00.000Z",
@@ -272,14 +297,14 @@
         "title": "BBC news",
         "start": "2026-08-15T20:00:00.000Z",
         "end": "2026-08-15T21:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-15T21:00:00.000Z",
+        "end": "2026-08-15T21:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-15T18:00:00.000Z",
-        "end": "2026-08-15T19:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-15T19:00:00.000Z",
@@ -299,6 +324,11 @@
         "title": "Quest's World of Wonder",
         "start": "2026-08-15T20:30:00.000Z",
         "end": "2026-08-15T21:00:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-08-15T21:00:00.000Z",
+        "end": "2026-08-15T21:30:00.000Z"
       }
     ]
   }
