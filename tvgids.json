@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-15T09:22:40.387Z",
+  "generated": "2026-08-15T09:49:25.117Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Zussen",
-        "start": "2026-08-15T09:05:00.000Z",
+        "title": "Het familiediner",
+        "start": "2026-08-15T09:30:00.000Z",
         "end": "2026-08-15T10:00:00.000Z"
       },
       {
@@ -16,30 +16,35 @@
       {
         "title": "Een buitengewoon gesprek",
         "start": "2026-08-15T10:10:00.000Z",
+        "end": "2026-08-15T10:20:00.000Z"
+      },
+      {
+        "title": "Sterren NL top 25",
+        "start": "2026-08-15T10:20:00.000Z",
         "end": "2026-08-15T10:50:00.000Z"
       },
       {
         "title": "Kook mee met MAX",
         "start": "2026-08-15T10:50:00.000Z",
+        "end": "2026-08-15T11:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-15T11:00:00.000Z",
         "end": "2026-08-15T11:10:00.000Z"
       },
       {
         "title": "Het familiediner",
         "start": "2026-08-15T11:10:00.000Z",
+        "end": "2026-08-15T11:30:00.000Z"
+      },
+      {
+        "title": "We zijn er bijna!",
+        "start": "2026-08-15T11:30:00.000Z",
         "end": "2026-08-15T11:55:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nederland zingt op zondag",
-        "start": "2026-08-15T09:05:00.000Z",
-        "end": "2026-08-15T09:30:00.000Z"
-      },
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-08-15T09:30:00.000Z",
-        "end": "2026-08-15T09:40:00.000Z"
-      },
       {
         "title": "De verandering",
         "start": "2026-08-15T09:40:00.000Z",
@@ -93,26 +98,6 @@
     ],
     "NPO 3": [
       {
-        "title": "Mike de ridder",
-        "start": "2026-08-15T09:15:00.000Z",
-        "end": "2026-08-15T09:25:00.000Z"
-      },
-      {
-        "title": "Mike de ridder",
-        "start": "2026-08-15T09:25:00.000Z",
-        "end": "2026-08-15T09:30:00.000Z"
-      },
-      {
-        "title": "Pol de piratenmuis",
-        "start": "2026-08-15T09:30:00.000Z",
-        "end": "2026-08-15T09:35:00.000Z"
-      },
-      {
-        "title": "Grizzy en de lemmingen",
-        "start": "2026-08-15T09:35:00.000Z",
-        "end": "2026-08-15T09:45:00.000Z"
-      },
-      {
         "title": "Zappbios: Pluk van de Petteflet\n                        Jeugd",
         "start": "2026-08-15T09:45:00.000Z",
         "end": "2026-08-15T09:55:00.000Z"
@@ -131,14 +116,14 @@
         "title": "Studio snugger",
         "start": "2026-08-15T11:20:00.000Z",
         "end": "2026-08-15T11:35:00.000Z"
+      },
+      {
+        "title": "De zomer van Zoë",
+        "start": "2026-08-15T11:35:00.000Z",
+        "end": "2026-08-15T11:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Huis gezocht",
-        "start": "2026-08-15T08:58:00.000Z",
-        "end": "2026-08-15T09:29:00.000Z"
-      },
       {
         "title": "De mooiste wegen",
         "start": "2026-08-15T09:29:00.000Z",
@@ -173,6 +158,16 @@
         "title": "Nederland ontdekt",
         "start": "2026-08-15T11:00:00.000Z",
         "end": "2026-08-15T11:27:00.000Z"
+      },
+      {
+        "title": "Buitengewoon wonen",
+        "start": "2026-08-15T11:27:00.000Z",
+        "end": "2026-08-15T11:30:00.000Z"
+      },
+      {
+        "title": "Van woonvilla naar droomvilla",
+        "start": "2026-08-15T11:30:00.000Z",
+        "end": "2026-08-15T11:58:00.000Z"
       }
     ],
     "RTL 5": [
@@ -188,11 +183,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-15T09:18:00.000Z",
-        "end": "2026-08-15T09:47:00.000Z"
-      },
       {
         "title": "Stop! Politie",
         "start": "2026-08-15T09:47:00.000Z",
@@ -217,6 +207,16 @@
         "title": "Idioten op de weg",
         "start": "2026-08-15T11:06:00.000Z",
         "end": "2026-08-15T11:26:00.000Z"
+      },
+      {
+        "title": "Vis tv",
+        "start": "2026-08-15T11:26:00.000Z",
+        "end": "2026-08-15T11:35:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-15T11:35:00.000Z",
+        "end": "2026-08-15T11:52:00.000Z"
       }
     ],
     "RTL 8": [
@@ -232,16 +232,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "De grote verbouwing Nieuw-Zeeland",
-        "start": "2026-08-15T08:57:00.000Z",
-        "end": "2026-08-15T09:26:00.000Z"
-      },
-      {
-        "title": "Man bijt hond",
-        "start": "2026-08-15T09:26:00.000Z",
-        "end": "2026-08-15T09:45:00.000Z"
-      },
       {
         "title": "Een dag in de dierentuin",
         "start": "2026-08-15T09:45:00.000Z",
@@ -274,11 +264,6 @@
       }
     ],
     "NET 5": [
-      {
-        "title": "Home and away",
-        "start": "2026-08-15T09:16:00.000Z",
-        "end": "2026-08-15T09:44:00.000Z"
-      },
       {
         "title": "Home and away",
         "start": "2026-08-15T09:44:00.000Z",
@@ -314,11 +299,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC news",
-        "start": "2026-08-15T09:00:00.000Z",
-        "end": "2026-08-15T09:30:00.000Z"
-      },
-      {
         "title": "Inside China's EV Revolution",
         "start": "2026-08-15T09:30:00.000Z",
         "end": "2026-08-15T10:00:00.000Z"
@@ -342,6 +322,11 @@
         "title": "BBC news",
         "start": "2026-08-15T11:00:00.000Z",
         "end": "2026-08-15T11:30:00.000Z"
+      },
+      {
+        "title": "The Media Show",
+        "start": "2026-08-15T11:30:00.000Z",
+        "end": "2026-08-15T12:00:00.000Z"
       }
     ],
     "CNN": [
@@ -364,6 +349,11 @@
         "title": "CNN This Morning Weekend",
         "start": "2026-08-15T11:00:00.000Z",
         "end": "2026-08-15T11:30:00.000Z"
+      },
+      {
+        "title": "Quest's World of Wonder",
+        "start": "2026-08-15T11:30:00.000Z",
+        "end": "2026-08-15T12:00:00.000Z"
       }
     ]
   }
