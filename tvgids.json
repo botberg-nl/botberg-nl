@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-16T17:43:53.199Z",
+  "generated": "2026-08-16T18:23:26.695Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Studio sport voetbal",
-        "start": "2026-08-16T17:00:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-16T18:00:00.000Z",
@@ -32,19 +27,14 @@
         "title": "Triviant",
         "start": "2026-08-16T19:25:00.000Z",
         "end": "2026-08-16T20:15:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-16T20:15:00.000Z",
+        "end": "2026-08-16T20:25:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Sue Perkins ontdekt Alaska",
-        "start": "2026-08-16T17:25:00.000Z",
-        "end": "2026-08-16T17:50:00.000Z"
-      },
-      {
-        "title": "Met het mes op tafel",
-        "start": "2026-08-16T17:50:00.000Z",
-        "end": "2026-08-16T18:15:00.000Z"
-      },
       {
         "title": "Zomergasten",
         "start": "2026-08-16T18:15:00.000Z",
@@ -59,14 +49,14 @@
         "title": "Keurmeesters",
         "start": "2026-08-16T19:20:00.000Z",
         "end": "2026-08-16T20:00:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-16T20:00:00.000Z",
+        "end": "2026-08-16T20:40:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Reizen Waes",
-        "start": "2026-08-16T17:40:00.000Z",
-        "end": "2026-08-16T18:20:00.000Z"
-      },
       {
         "title": "Verliefd op Ibiza\n                        Romantische komedie",
         "start": "2026-08-16T18:20:00.000Z",
@@ -76,29 +66,14 @@
         "title": "Sport: EK atletiek outdoor",
         "start": "2026-08-16T18:30:00.000Z",
         "end": "2026-08-16T20:20:00.000Z"
+      },
+      {
+        "title": "NPO Doc: Misslukt",
+        "start": "2026-08-16T20:20:00.000Z",
+        "end": "2026-08-16T21:15:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-16T17:30:00.000Z",
-        "end": "2026-08-16T17:56:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-16T17:56:00.000Z",
-        "end": "2026-08-16T17:57:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-16T17:57:00.000Z",
-        "end": "2026-08-16T18:01:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-16T18:01:00.000Z",
-        "end": "2026-08-16T18:07:00.000Z"
-      },
       {
         "title": "Postcode Loterij Eén tegen 100",
         "start": "2026-08-16T18:07:00.000Z",
@@ -113,19 +88,19 @@
         "title": "Los het op!",
         "start": "2026-08-16T19:03:00.000Z",
         "end": "2026-08-16T19:53:00.000Z"
+      },
+      {
+        "title": "Ons kent ons",
+        "start": "2026-08-16T19:53:00.000Z",
+        "end": "2026-08-16T20:20:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-16T20:20:00.000Z",
+        "end": "2026-08-16T20:50:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-16T17:07:00.000Z",
-        "end": "2026-08-16T17:49:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-16T17:49:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
       {
         "title": "Scam alert: Trap er niet in!",
         "start": "2026-08-16T18:00:00.000Z",
@@ -140,14 +115,19 @@
         "title": "Kees van der Spek ontmaskert",
         "start": "2026-08-16T19:26:00.000Z",
         "end": "2026-08-16T19:55:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-16T19:55:00.000Z",
+        "end": "2026-08-16T20:18:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-16T20:18:00.000Z",
+        "end": "2026-08-16T20:29:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-16T17:30:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
       {
         "title": "Patriots Day\n                        Actie",
         "start": "2026-08-16T18:00:00.000Z",
@@ -157,14 +137,14 @@
         "title": "Die Hard\n                        Actie",
         "start": "2026-08-16T18:27:00.000Z",
         "end": "2026-08-16T20:08:00.000Z"
+      },
+      {
+        "title": "All the Money in the World\n                        Misdaad",
+        "start": "2026-08-16T20:08:00.000Z",
+        "end": "2026-08-16T20:40:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Bed & breakfast België",
-        "start": "2026-08-16T17:31:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
       {
         "title": "America's got talent",
         "start": "2026-08-16T18:00:00.000Z",
@@ -179,14 +159,14 @@
         "title": "Flikken Gent",
         "start": "2026-08-16T19:31:00.000Z",
         "end": "2026-08-16T19:50:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-16T19:50:00.000Z",
+        "end": "2026-08-16T20:34:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-16T17:01:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
       {
         "title": "De bondgenoten",
         "start": "2026-08-16T18:00:00.000Z",
@@ -205,11 +185,6 @@
     ],
     "NET 5": [
       {
-        "title": "Het blok Australië",
-        "start": "2026-08-16T17:29:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
-      {
         "title": "Fool's Gold\n                        Avontuur",
         "start": "2026-08-16T18:00:00.000Z",
         "end": "2026-08-16T18:32:00.000Z"
@@ -218,19 +193,14 @@
         "title": "Marry Me\n                        Romantische komedie",
         "start": "2026-08-16T18:32:00.000Z",
         "end": "2026-08-16T20:17:00.000Z"
+      },
+      {
+        "title": "The American\n                        Misdaad",
+        "start": "2026-08-16T20:17:00.000Z",
+        "end": "2026-08-16T20:50:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-16T17:37:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
-      {
-        "title": "FBI: International",
-        "start": "2026-08-16T18:00:00.000Z",
-        "end": "2026-08-16T18:02:00.000Z"
-      },
       {
         "title": "The big bang theory",
         "start": "2026-08-16T18:02:00.000Z",
@@ -245,14 +215,14 @@
         "title": "FBI: International",
         "start": "2026-08-16T18:54:00.000Z",
         "end": "2026-08-16T19:52:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-08-16T19:52:00.000Z",
+        "end": "2026-08-16T20:30:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-16T17:30:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
       {
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-16T18:00:00.000Z",
@@ -277,14 +247,14 @@
         "title": "The Context USA",
         "start": "2026-08-16T19:30:00.000Z",
         "end": "2026-08-16T20:00:00.000Z"
+      },
+      {
+        "title": "The Context with Christian Fraser",
+        "start": "2026-08-16T20:00:00.000Z",
+        "end": "2026-08-16T20:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "The Link",
-        "start": "2026-08-16T17:30:00.000Z",
-        "end": "2026-08-16T18:00:00.000Z"
-      },
       {
         "title": "Isa Soares Tonight",
         "start": "2026-08-16T18:00:00.000Z",
@@ -294,6 +264,11 @@
         "title": "What We Know with Max Foster",
         "start": "2026-08-16T19:00:00.000Z",
         "end": "2026-08-16T20:00:00.000Z"
+      },
+      {
+        "title": "Quest Means Business",
+        "start": "2026-08-16T20:00:00.000Z",
+        "end": "2026-08-16T20:45:00.000Z"
       }
     ]
   }
