@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-16T20:17:49.190Z",
+  "generated": "2026-08-16T20:46:38.940Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-16T20:15:00.000Z",
-        "end": "2026-08-16T20:25:00.000Z"
-      },
       {
         "title": "Tatort: Over grenzen",
         "start": "2026-08-16T20:25:00.000Z",
@@ -32,14 +27,19 @@
         "title": "Nationale Herdenking 15 augustus 1945",
         "start": "2026-08-16T21:55:00.000Z",
         "end": "2026-08-16T22:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T22:30:00.000Z",
+        "end": "2026-08-16T22:40:00.000Z"
+      },
+      {
+        "title": "Het verhaal van Nederland - Oranje-Nassau",
+        "start": "2026-08-16T22:40:00.000Z",
+        "end": "2026-08-16T22:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-16T20:00:00.000Z",
-        "end": "2026-08-16T20:40:00.000Z"
-      },
       {
         "title": "Het uur van de wolf",
         "start": "2026-08-16T20:40:00.000Z",
@@ -54,14 +54,19 @@
         "title": "De nachtzoen",
         "start": "2026-08-16T22:15:00.000Z",
         "end": "2026-08-16T22:30:00.000Z"
+      },
+      {
+        "title": "Pauscast",
+        "start": "2026-08-16T22:30:00.000Z",
+        "end": "2026-08-16T22:35:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-16T22:35:00.000Z",
+        "end": "2026-08-16T22:55:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Sport: EK atletiek outdoor",
-        "start": "2026-08-16T18:30:00.000Z",
-        "end": "2026-08-16T20:20:00.000Z"
-      },
       {
         "title": "NPO Doc: Misslukt",
         "start": "2026-08-16T20:20:00.000Z",
@@ -89,11 +94,6 @@
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ons kent ons",
-        "start": "2026-08-16T19:53:00.000Z",
-        "end": "2026-08-16T20:20:00.000Z"
-      },
       {
         "title": "Nederland met vakantie",
         "start": "2026-08-16T20:20:00.000Z",
@@ -152,16 +152,6 @@
     ],
     "RTL 5": [
       {
-        "title": "112 vandaag",
-        "start": "2026-08-16T19:55:00.000Z",
-        "end": "2026-08-16T20:18:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-16T20:18:00.000Z",
-        "end": "2026-08-16T20:29:00.000Z"
-      },
-      {
         "title": "24 uur in de ER",
         "start": "2026-08-16T20:29:00.000Z",
         "end": "2026-08-16T20:54:00.000Z"
@@ -199,11 +189,6 @@
     ],
     "RTL 7": [
       {
-        "title": "All the Money in the World\n                        Misdaad",
-        "start": "2026-08-16T20:08:00.000Z",
-        "end": "2026-08-16T20:40:00.000Z"
-      },
-      {
         "title": "Broken City\n                        Thriller",
         "start": "2026-08-16T20:40:00.000Z",
         "end": "2026-08-16T21:09:00.000Z"
@@ -212,19 +197,19 @@
         "title": "Trauma Center\n                        Actie",
         "start": "2026-08-16T21:09:00.000Z",
         "end": "2026-08-16T22:37:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-16T22:37:00.000Z",
+        "end": "2026-08-16T22:41:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-16T22:41:00.000Z",
+        "end": "2026-08-16T23:05:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-16T19:50:00.000Z",
-        "end": "2026-08-16T20:34:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-16T20:34:00.000Z",
-        "end": "2026-08-16T20:43:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-16T20:43:00.000Z",
@@ -244,19 +229,19 @@
         "title": "Crime scene investigation",
         "start": "2026-08-16T21:40:00.000Z",
         "end": "2026-08-16T22:18:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-16T22:18:00.000Z",
+        "end": "2026-08-16T22:31:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-16T22:31:00.000Z",
+        "end": "2026-08-16T23:13:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Mi dushi: Wat is dan liefde?",
-        "start": "2026-08-16T19:27:00.000Z",
-        "end": "2026-08-16T20:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-16T20:30:00.000Z",
-        "end": "2026-08-16T20:38:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-16T20:38:00.000Z",
@@ -303,14 +288,19 @@
         "title": "The resident",
         "start": "2026-08-16T21:56:00.000Z",
         "end": "2026-08-16T22:24:00.000Z"
+      },
+      {
+        "title": "Ordinary Joe",
+        "start": "2026-08-16T22:24:00.000Z",
+        "end": "2026-08-16T22:38:00.000Z"
+      },
+      {
+        "title": "27 Dresses\n                        Romantische komedie",
+        "start": "2026-08-16T22:38:00.000Z",
+        "end": "2026-08-16T22:53:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Criminal minds",
-        "start": "2026-08-16T19:52:00.000Z",
-        "end": "2026-08-16T20:30:00.000Z"
-      },
       {
         "title": "Speed Racer\n                        Actie",
         "start": "2026-08-16T20:30:00.000Z",
@@ -330,14 +320,14 @@
         "title": "FBI: Most wanted",
         "start": "2026-08-16T22:02:00.000Z",
         "end": "2026-08-16T22:20:00.000Z"
+      },
+      {
+        "title": "911 crisis center",
+        "start": "2026-08-16T22:20:00.000Z",
+        "end": "2026-08-16T22:50:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-08-16T20:00:00.000Z",
-        "end": "2026-08-16T20:30:00.000Z"
-      },
       {
         "title": "The Context with Christian Fraser",
         "start": "2026-08-16T20:30:00.000Z",
@@ -362,14 +352,14 @@
         "title": "BBC World News America",
         "start": "2026-08-16T22:00:00.000Z",
         "end": "2026-08-16T22:30:00.000Z"
+      },
+      {
+        "title": "World's Ultimate Adventures",
+        "start": "2026-08-16T22:30:00.000Z",
+        "end": "2026-08-16T23:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Quest Means Business",
-        "start": "2026-08-16T20:00:00.000Z",
-        "end": "2026-08-16T20:45:00.000Z"
-      },
       {
         "title": "Quest's World of Wonder",
         "start": "2026-08-16T20:45:00.000Z",
