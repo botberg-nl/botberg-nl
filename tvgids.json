@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-16T22:45:29.064Z",
+  "generated": "2026-08-16T23:16:53.739Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Het verhaal van Nederland - Oranje-Nassau",
-        "start": "2026-08-16T22:40:00.000Z",
-        "end": "2026-08-16T22:50:00.000Z"
-      },
       {
         "title": "Muziekfeest op het plein",
         "start": "2026-08-16T22:50:00.000Z",
@@ -52,19 +47,19 @@
         "title": "NOS Journaal",
         "start": "2026-08-17T00:45:00.000Z",
         "end": "2026-08-17T00:50:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-17T00:50:00.000Z",
+        "end": "2026-08-17T01:10:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-17T01:10:00.000Z",
+        "end": "2026-08-17T03:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-16T22:30:00.000Z",
-        "end": "2026-08-16T22:55:00.000Z"
-      },
-      {
-        "title": "De nachtzoen",
-        "start": "2026-08-16T22:55:00.000Z",
-        "end": "2026-08-16T23:10:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-16T23:10:00.000Z",
@@ -77,16 +72,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Op safari",
-        "start": "2026-08-16T22:45:00.000Z",
-        "end": "2026-08-16T22:50:00.000Z"
-      },
-      {
-        "title": "Studio sport",
-        "start": "2026-08-16T22:50:00.000Z",
-        "end": "2026-08-16T23:10:00.000Z"
-      },
       {
         "title": "Op safari",
         "start": "2026-08-16T23:10:00.000Z",
@@ -114,21 +99,6 @@
       }
     ],
     "RTL 4": [
-      {
-        "title": "Nederland met vakantie",
-        "start": "2026-08-16T22:15:00.000Z",
-        "end": "2026-08-16T23:02:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-16T23:02:00.000Z",
-        "end": "2026-08-16T23:05:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-16T23:05:00.000Z",
-        "end": "2026-08-16T23:14:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-16T23:14:00.000Z",
@@ -162,21 +132,6 @@
     ],
     "RTL 5": [
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-16T22:11:00.000Z",
-        "end": "2026-08-16T23:07:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-16T23:07:00.000Z",
-        "end": "2026-08-16T23:10:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-16T23:10:00.000Z",
-        "end": "2026-08-16T23:14:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-16T23:14:00.000Z",
         "end": "2026-08-17T00:10:00.000Z"
@@ -188,16 +143,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-16T22:37:00.000Z",
-        "end": "2026-08-16T22:55:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-16T22:55:00.000Z",
-        "end": "2026-08-16T23:05:00.000Z"
-      },
       {
         "title": "Pawn stars",
         "start": "2026-08-16T23:05:00.000Z",
@@ -226,21 +171,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Crime scene investigation",
-        "start": "2026-08-16T22:18:00.000Z",
-        "end": "2026-08-16T22:50:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-16T22:50:00.000Z",
-        "end": "2026-08-16T23:13:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-16T23:13:00.000Z",
-        "end": "2026-08-16T23:15:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-16T23:15:00.000Z",
         "end": "2026-08-17T00:01:00.000Z"
@@ -252,16 +182,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "De Hanslers: Van de piste naar de playa",
-        "start": "2026-08-16T21:52:00.000Z",
-        "end": "2026-08-16T22:47:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-16T22:47:00.000Z",
-        "end": "2026-08-16T22:50:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-16T22:50:00.000Z",
@@ -280,11 +200,6 @@
     ],
     "NET 5": [
       {
-        "title": "27 Dresses\n                        Romantische komedie",
-        "start": "2026-08-16T22:38:00.000Z",
-        "end": "2026-08-16T23:05:00.000Z"
-      },
-      {
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-16T23:05:00.000Z",
         "end": "2026-08-16T23:21:00.000Z"
@@ -301,16 +216,6 @@
       }
     ],
     "Veronica": [
-      {
-        "title": "FBI: Most wanted",
-        "start": "2026-08-16T22:02:00.000Z",
-        "end": "2026-08-16T22:57:00.000Z"
-      },
-      {
-        "title": "Chopper cops",
-        "start": "2026-08-16T22:57:00.000Z",
-        "end": "2026-08-16T23:12:00.000Z"
-      },
       {
         "title": "Fugitives caught on tape",
         "start": "2026-08-16T23:12:00.000Z",
@@ -339,11 +244,6 @@
     ],
     "BBC News": [
       {
-        "title": "World's Ultimate Adventures",
-        "start": "2026-08-16T22:30:00.000Z",
-        "end": "2026-08-16T23:00:00.000Z"
-      },
-      {
         "title": "BBC news",
         "start": "2026-08-16T23:00:00.000Z",
         "end": "2026-08-16T23:30:00.000Z"
@@ -362,14 +262,14 @@
         "title": "The Media Show",
         "start": "2026-08-17T00:30:00.000Z",
         "end": "2026-08-17T01:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-17T01:00:00.000Z",
+        "end": "2026-08-17T01:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "The Brief with Jim Sciutto",
-        "start": "2026-08-16T22:00:00.000Z",
-        "end": "2026-08-16T23:00:00.000Z"
-      },
       {
         "title": "Erin Burnett OutFront",
         "start": "2026-08-16T23:00:00.000Z",
@@ -379,6 +279,11 @@
         "title": "Anderson Cooper 360",
         "start": "2026-08-17T00:00:00.000Z",
         "end": "2026-08-17T01:00:00.000Z"
+      },
+      {
+        "title": "The Source with Kaitlan Collins",
+        "start": "2026-08-17T01:00:00.000Z",
+        "end": "2026-08-17T02:00:00.000Z"
       }
     ]
   }
