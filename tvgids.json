@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-16T11:17:37.394Z",
+  "generated": "2026-08-16T11:44:05.598Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Het familiediner",
-        "start": "2026-08-16T11:10:00.000Z",
-        "end": "2026-08-16T11:20:00.000Z"
-      },
-      {
-        "title": "Kook mee met MAX",
-        "start": "2026-08-16T11:20:00.000Z",
-        "end": "2026-08-16T11:35:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-16T11:35:00.000Z",
@@ -52,14 +42,19 @@
         "title": "NOS Journaal",
         "start": "2026-08-16T13:00:00.000Z",
         "end": "2026-08-16T13:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T13:20:00.000Z",
+        "end": "2026-08-16T13:40:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T13:40:00.000Z",
+        "end": "2026-08-16T13:45:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-16T11:00:00.000Z",
-        "end": "2026-08-16T11:20:00.000Z"
-      },
       {
         "title": "De ongelooflijke podcast",
         "start": "2026-08-16T11:20:00.000Z",
@@ -84,29 +79,14 @@
         "title": "Keurmeesters",
         "start": "2026-08-16T12:55:00.000Z",
         "end": "2026-08-16T13:25:00.000Z"
+      },
+      {
+        "title": "Rail away",
+        "start": "2026-08-16T13:25:00.000Z",
+        "end": "2026-08-16T14:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-16T11:17:00.000Z",
-        "end": "2026-08-16T11:20:00.000Z"
-      },
-      {
-        "title": "Kindertijd",
-        "start": "2026-08-16T11:20:00.000Z",
-        "end": "2026-08-16T11:28:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-16T11:28:00.000Z",
-        "end": "2026-08-16T11:31:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-16T11:31:00.000Z",
-        "end": "2026-08-16T11:35:00.000Z"
-      },
       {
         "title": "Mike de ridder",
         "start": "2026-08-16T11:35:00.000Z",
@@ -180,16 +160,6 @@
     ],
     "RTL 4": [
       {
-        "title": "Way of living",
-        "start": "2026-08-16T10:56:00.000Z",
-        "end": "2026-08-16T11:24:00.000Z"
-      },
-      {
-        "title": "Love At Sea\n                        Romantiek",
-        "start": "2026-08-16T11:24:00.000Z",
-        "end": "2026-08-16T11:30:00.000Z"
-      },
-      {
         "title": "Van woonvilla naar droomvilla",
         "start": "2026-08-16T11:30:00.000Z",
         "end": "2026-08-16T11:58:00.000Z"
@@ -208,6 +178,16 @@
         "title": "Cruise life",
         "start": "2026-08-16T13:00:00.000Z",
         "end": "2026-08-16T13:28:00.000Z"
+      },
+      {
+        "title": "Sky high Sint-Maarten",
+        "start": "2026-08-16T13:28:00.000Z",
+        "end": "2026-08-16T13:40:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-16T13:40:00.000Z",
+        "end": "2026-08-16T13:59:00.000Z"
       }
     ],
     "RTL 5": [
@@ -225,19 +205,14 @@
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-16T12:44:00.000Z",
         "end": "2026-08-16T13:24:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-16T13:24:00.000Z",
+        "end": "2026-08-16T14:44:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-16T11:06:00.000Z",
-        "end": "2026-08-16T11:31:00.000Z"
-      },
-      {
-        "title": "De sterkste man van Nederland",
-        "start": "2026-08-16T11:31:00.000Z",
-        "end": "2026-08-16T11:35:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-16T11:35:00.000Z",
@@ -262,6 +237,16 @@
         "title": "Flodder",
         "start": "2026-08-16T13:01:00.000Z",
         "end": "2026-08-16T13:30:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-16T13:30:00.000Z",
+        "end": "2026-08-16T13:32:00.000Z"
+      },
+      {
+        "title": "Flodder",
+        "start": "2026-08-16T13:32:00.000Z",
+        "end": "2026-08-16T13:58:00.000Z"
       }
     ],
     "RTL 8": [
@@ -272,16 +257,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "De Oranjezomer",
-        "start": "2026-08-16T10:38:00.000Z",
-        "end": "2026-08-16T11:18:00.000Z"
-      },
-      {
-        "title": "De grote verbouwing Nieuw-Zeeland",
-        "start": "2026-08-16T11:18:00.000Z",
-        "end": "2026-08-16T11:38:00.000Z"
-      },
       {
         "title": "De bondgenoten",
         "start": "2026-08-16T11:38:00.000Z",
@@ -301,14 +276,14 @@
         "title": "Het jachtseizoen",
         "start": "2026-08-16T13:11:00.000Z",
         "end": "2026-08-16T13:40:00.000Z"
+      },
+      {
+        "title": "Huizen onder de hamer",
+        "start": "2026-08-16T13:40:00.000Z",
+        "end": "2026-08-16T14:06:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-16T10:56:00.000Z",
-        "end": "2026-08-16T11:29:00.000Z"
-      },
       {
         "title": "Telvero",
         "start": "2026-08-16T11:29:00.000Z",
@@ -333,6 +308,11 @@
         "title": "Een dag in de dierentuin",
         "start": "2026-08-16T12:53:00.000Z",
         "end": "2026-08-16T13:25:00.000Z"
+      },
+      {
+        "title": "Neighbours",
+        "start": "2026-08-16T13:25:00.000Z",
+        "end": "2026-08-16T13:52:00.000Z"
       }
     ],
     "Veronica": [
@@ -343,11 +323,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC News Now",
-        "start": "2026-08-16T11:00:00.000Z",
-        "end": "2026-08-16T11:30:00.000Z"
-      },
       {
         "title": "BBC News Now",
         "start": "2026-08-16T11:30:00.000Z",
@@ -372,6 +347,11 @@
         "title": "BBC News Now",
         "start": "2026-08-16T13:00:00.000Z",
         "end": "2026-08-16T13:30:00.000Z"
+      },
+      {
+        "title": "Business Today - NYSE Opening Bell",
+        "start": "2026-08-16T13:30:00.000Z",
+        "end": "2026-08-16T13:45:00.000Z"
       }
     ],
     "CNN": [
