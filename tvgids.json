@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T14:19:00.389Z",
+  "generated": "2026-08-16T14:47:57.241Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -47,19 +47,14 @@
         "title": "Studio sport",
         "start": "2026-08-16T16:10:00.000Z",
         "end": "2026-08-16T16:45:00.000Z"
+      },
+      {
+        "title": "Sport - WK hockey (v): Nederland - Australië",
+        "start": "2026-08-16T16:45:00.000Z",
+        "end": "2026-08-16T17:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Kook mee met MAX",
-        "start": "2026-08-16T14:10:00.000Z",
-        "end": "2026-08-16T14:20:00.000Z"
-      },
-      {
-        "title": "Uit de knipscheer",
-        "start": "2026-08-16T14:20:00.000Z",
-        "end": "2026-08-16T14:30:00.000Z"
-      },
       {
         "title": "Wildernis onder water",
         "start": "2026-08-16T14:30:00.000Z",
@@ -114,6 +109,11 @@
         "title": "NOS Journaal met regio",
         "start": "2026-08-16T16:15:00.000Z",
         "end": "2026-08-16T16:30:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-08-16T16:30:00.000Z",
+        "end": "2026-08-16T17:00:00.000Z"
       }
     ],
     "NPO 3": [
@@ -166,19 +166,24 @@
         "title": "Freeks wilde wereld",
         "start": "2026-08-16T16:15:00.000Z",
         "end": "2026-08-16T16:25:00.000Z"
+      },
+      {
+        "title": "De faker op vakantie",
+        "start": "2026-08-16T16:25:00.000Z",
+        "end": "2026-08-16T16:30:00.000Z"
+      },
+      {
+        "title": "Welkom in de 80-jarige Oorlog",
+        "start": "2026-08-16T16:30:00.000Z",
+        "end": "2026-08-16T16:45:00.000Z"
+      },
+      {
+        "title": "Het klokhuis",
+        "start": "2026-08-16T16:45:00.000Z",
+        "end": "2026-08-16T17:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Vis tv",
-        "start": "2026-08-16T13:59:00.000Z",
-        "end": "2026-08-16T14:21:00.000Z"
-      },
-      {
-        "title": "Oh, wat een jaar!",
-        "start": "2026-08-16T14:21:00.000Z",
-        "end": "2026-08-16T14:30:00.000Z"
-      },
       {
         "title": "Huis gezocht",
         "start": "2026-08-16T14:30:00.000Z",
@@ -208,19 +213,19 @@
         "title": "EditieNL",
         "start": "2026-08-16T16:17:00.000Z",
         "end": "2026-08-16T16:33:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-16T16:33:00.000Z",
+        "end": "2026-08-16T16:35:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-16T16:35:00.000Z",
+        "end": "2026-08-16T17:22:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-16T13:24:00.000Z",
-        "end": "2026-08-16T14:44:00.000Z"
-      },
-      {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-16T14:44:00.000Z",
-        "end": "2026-08-16T14:46:00.000Z"
-      },
       {
         "title": "Stop! Politie UK",
         "start": "2026-08-16T14:46:00.000Z",
@@ -235,19 +240,14 @@
         "title": "Stop! Politie UK",
         "start": "2026-08-16T15:44:00.000Z",
         "end": "2026-08-16T16:39:00.000Z"
+      },
+      {
+        "title": "Meldkamer Utrecht Centraal",
+        "start": "2026-08-16T16:39:00.000Z",
+        "end": "2026-08-16T17:07:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-16T14:04:00.000Z",
-        "end": "2026-08-16T14:27:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-16T14:27:00.000Z",
-        "end": "2026-08-16T14:39:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-16T14:39:00.000Z",
@@ -277,6 +277,11 @@
         "title": "Pawn stars",
         "start": "2026-08-16T16:10:00.000Z",
         "end": "2026-08-16T16:37:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-16T16:37:00.000Z",
+        "end": "2026-08-16T17:02:00.000Z"
       }
     ],
     "RTL 8": [
@@ -299,6 +304,11 @@
         "title": "The bold and the beautiful",
         "start": "2026-08-16T16:09:00.000Z",
         "end": "2026-08-16T16:37:00.000Z"
+      },
+      {
+        "title": "The bold and the beautiful - The beginning",
+        "start": "2026-08-16T16:37:00.000Z",
+        "end": "2026-08-16T16:54:00.000Z"
       }
     ],
     "SBS 6": [
@@ -330,11 +340,6 @@
     ],
     "NET 5": [
       {
-        "title": "Home and away",
-        "start": "2026-08-16T13:55:00.000Z",
-        "end": "2026-08-16T14:25:00.000Z"
-      },
-      {
         "title": "House rules Australië",
         "start": "2026-08-16T14:25:00.000Z",
         "end": "2026-08-16T14:55:00.000Z"
@@ -353,6 +358,11 @@
         "title": "Een dag in de dierentuin",
         "start": "2026-08-16T15:58:00.000Z",
         "end": "2026-08-16T16:26:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-16T16:26:00.000Z",
+        "end": "2026-08-16T16:59:00.000Z"
       }
     ],
     "Veronica": [
@@ -370,14 +380,19 @@
         "title": "Two and a half men",
         "start": "2026-08-16T16:16:00.000Z",
         "end": "2026-08-16T16:32:00.000Z"
+      },
+      {
+        "title": "Border security: Nieuw-Zeeland",
+        "start": "2026-08-16T16:32:00.000Z",
+        "end": "2026-08-16T16:43:00.000Z"
+      },
+      {
+        "title": "Two and a half men",
+        "start": "2026-08-16T16:43:00.000Z",
+        "end": "2026-08-16T17:02:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Verified Live",
-        "start": "2026-08-16T14:00:00.000Z",
-        "end": "2026-08-16T14:30:00.000Z"
-      },
       {
         "title": "Verified Live",
         "start": "2026-08-16T14:30:00.000Z",
@@ -407,6 +422,11 @@
         "title": "Verified Live",
         "start": "2026-08-16T16:00:00.000Z",
         "end": "2026-08-16T16:30:00.000Z"
+      },
+      {
+        "title": "BBC Focus on Africa",
+        "start": "2026-08-16T16:30:00.000Z",
+        "end": "2026-08-16T17:00:00.000Z"
       }
     ],
     "CNN": [
@@ -424,6 +444,16 @@
         "title": "One World",
         "start": "2026-08-16T16:00:00.000Z",
         "end": "2026-08-16T16:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-16T16:30:00.000Z",
+        "end": "2026-08-16T16:45:00.000Z"
+      },
+      {
+        "title": "African Voices Playmakers",
+        "start": "2026-08-16T16:45:00.000Z",
+        "end": "2026-08-16T17:00:00.000Z"
       }
     ]
   }
