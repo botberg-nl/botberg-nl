@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-16T16:49:54.022Z",
+  "generated": "2026-08-16T17:16:51.602Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Sport - WK hockey (v): Nederland - Australië",
-        "start": "2026-08-16T16:45:00.000Z",
-        "end": "2026-08-16T17:00:00.000Z"
-      },
       {
         "title": "Studio sport voetbal",
         "start": "2026-08-16T17:00:00.000Z",
@@ -27,19 +22,14 @@
         "title": "MAX Vakantieman",
         "start": "2026-08-16T18:35:00.000Z",
         "end": "2026-08-16T19:15:00.000Z"
+      },
+      {
+        "title": "Ahoy zingt De Nijs",
+        "start": "2026-08-16T19:15:00.000Z",
+        "end": "2026-08-16T19:25:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-16T16:30:00.000Z",
-        "end": "2026-08-16T17:00:00.000Z"
-      },
-      {
-        "title": "Hello goodbye",
-        "start": "2026-08-16T17:00:00.000Z",
-        "end": "2026-08-16T17:05:00.000Z"
-      },
       {
         "title": "BinnensteBuiten",
         "start": "2026-08-16T17:05:00.000Z",
@@ -67,11 +57,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Het klokhuis",
-        "start": "2026-08-16T16:45:00.000Z",
-        "end": "2026-08-16T17:00:00.000Z"
-      },
       {
         "title": "Jeugdjournaal",
         "start": "2026-08-16T17:00:00.000Z",
@@ -138,14 +123,19 @@
         "title": "Postcode Loterij Eén tegen 100",
         "start": "2026-08-16T18:07:00.000Z",
         "end": "2026-08-16T18:53:00.000Z"
+      },
+      {
+        "title": "B&B vol liefde",
+        "start": "2026-08-16T18:53:00.000Z",
+        "end": "2026-08-16T19:03:00.000Z"
+      },
+      {
+        "title": "Los het op!",
+        "start": "2026-08-16T19:03:00.000Z",
+        "end": "2026-08-16T19:53:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Meldkamer Utrecht Centraal",
-        "start": "2026-08-16T16:39:00.000Z",
-        "end": "2026-08-16T17:07:00.000Z"
-      },
       {
         "title": "De Pfaff's",
         "start": "2026-08-16T17:07:00.000Z",
@@ -168,11 +158,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-16T16:37:00.000Z",
-        "end": "2026-08-16T17:02:00.000Z"
-      },
       {
         "title": "Border Patrol USA",
         "start": "2026-08-16T17:02:00.000Z",
@@ -197,16 +182,6 @@
     "RTL 8": [
       {
         "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-16T16:37:00.000Z",
-        "end": "2026-08-16T16:54:00.000Z"
-      },
-      {
-        "title": "Lego masters Australië",
-        "start": "2026-08-16T16:54:00.000Z",
-        "end": "2026-08-16T17:05:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful - The beginning",
         "start": "2026-08-16T17:05:00.000Z",
         "end": "2026-08-16T17:31:00.000Z"
       },
@@ -228,16 +203,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Nieuws van de dag",
-        "start": "2026-08-16T16:05:00.000Z",
-        "end": "2026-08-16T17:00:00.000Z"
-      },
-      {
-        "title": "Overtreders",
-        "start": "2026-08-16T17:00:00.000Z",
-        "end": "2026-08-16T17:01:00.000Z"
-      },
-      {
         "title": "vtwonen weer verliefd op je huis",
         "start": "2026-08-16T17:01:00.000Z",
         "end": "2026-08-16T18:00:00.000Z"
@@ -249,11 +214,6 @@
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-16T16:26:00.000Z",
-        "end": "2026-08-16T16:59:00.000Z"
-      },
       {
         "title": "Een dag in de dierentuin",
         "start": "2026-08-16T16:59:00.000Z",
@@ -278,16 +238,6 @@
     "Veronica": [
       {
         "title": "Two and a half men",
-        "start": "2026-08-16T16:43:00.000Z",
-        "end": "2026-08-16T17:02:00.000Z"
-      },
-      {
-        "title": "Airport security: Amerika",
-        "start": "2026-08-16T17:02:00.000Z",
-        "end": "2026-08-16T17:10:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
         "start": "2026-08-16T17:10:00.000Z",
         "end": "2026-08-16T17:37:00.000Z"
       },
@@ -310,14 +260,14 @@
         "title": "Faster\n                        Actie",
         "start": "2026-08-16T18:28:00.000Z",
         "end": "2026-08-16T18:54:00.000Z"
+      },
+      {
+        "title": "FBI: International",
+        "start": "2026-08-16T18:54:00.000Z",
+        "end": "2026-08-16T19:52:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC Focus on Africa",
-        "start": "2026-08-16T16:30:00.000Z",
-        "end": "2026-08-16T17:00:00.000Z"
-      },
       {
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-16T17:00:00.000Z",
@@ -337,14 +287,19 @@
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-16T18:30:00.000Z",
         "end": "2026-08-16T18:55:00.000Z"
+      },
+      {
+        "title": "Tech Now",
+        "start": "2026-08-16T18:55:00.000Z",
+        "end": "2026-08-16T19:00:00.000Z"
+      },
+      {
+        "title": "The Context USA",
+        "start": "2026-08-16T19:00:00.000Z",
+        "end": "2026-08-16T19:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "African Voices Playmakers",
-        "start": "2026-08-16T16:45:00.000Z",
-        "end": "2026-08-16T17:00:00.000Z"
-      },
       {
         "title": "Amanpour",
         "start": "2026-08-16T17:00:00.000Z",
@@ -359,6 +314,11 @@
         "title": "Isa Soares Tonight",
         "start": "2026-08-16T18:00:00.000Z",
         "end": "2026-08-16T19:00:00.000Z"
+      },
+      {
+        "title": "What We Know with Max Foster",
+        "start": "2026-08-16T19:00:00.000Z",
+        "end": "2026-08-16T20:00:00.000Z"
       }
     ]
   }
