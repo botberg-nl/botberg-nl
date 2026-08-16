@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-16T08:25:07.924Z",
+  "generated": "2026-08-16T08:56:22.405Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Nederland in beweging",
-        "start": "2026-08-16T08:15:00.000Z",
-        "end": "2026-08-16T08:30:00.000Z"
-      },
-      {
-        "title": "MAX geheugentrainer",
-        "start": "2026-08-16T08:30:00.000Z",
-        "end": "2026-08-16T08:45:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-16T08:45:00.000Z",
@@ -62,14 +52,24 @@
         "title": "NOS Journaal",
         "start": "2026-08-16T10:20:00.000Z",
         "end": "2026-08-16T10:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T10:30:00.000Z",
+        "end": "2026-08-16T10:40:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T10:40:00.000Z",
+        "end": "2026-08-16T10:50:00.000Z"
+      },
+      {
+        "title": "Kook mee met MAX",
+        "start": "2026-08-16T10:50:00.000Z",
+        "end": "2026-08-16T11:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De streken van Van Boven",
-        "start": "2026-08-16T08:25:00.000Z",
-        "end": "2026-08-16T08:50:00.000Z"
-      },
       {
         "title": "De kist",
         "start": "2026-08-16T08:50:00.000Z",
@@ -109,34 +109,19 @@
         "title": "Kook mee met MAX",
         "start": "2026-08-16T10:15:00.000Z",
         "end": "2026-08-16T10:30:00.000Z"
+      },
+      {
+        "title": "10 jaar volle zalen",
+        "start": "2026-08-16T10:30:00.000Z",
+        "end": "2026-08-16T10:40:00.000Z"
+      },
+      {
+        "title": "Andere tijden kort",
+        "start": "2026-08-16T10:40:00.000Z",
+        "end": "2026-08-16T11:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Shaun het schaap",
-        "start": "2026-08-16T08:25:00.000Z",
-        "end": "2026-08-16T08:30:00.000Z"
-      },
-      {
-        "title": "Simon",
-        "start": "2026-08-16T08:30:00.000Z",
-        "end": "2026-08-16T08:35:00.000Z"
-      },
-      {
-        "title": "Liselotte",
-        "start": "2026-08-16T08:35:00.000Z",
-        "end": "2026-08-16T08:40:00.000Z"
-      },
-      {
-        "title": "Bing",
-        "start": "2026-08-16T08:40:00.000Z",
-        "end": "2026-08-16T08:50:00.000Z"
-      },
-      {
-        "title": "Pettenpret",
-        "start": "2026-08-16T08:50:00.000Z",
-        "end": "2026-08-16T08:55:00.000Z"
-      },
       {
         "title": "Timmy tijd",
         "start": "2026-08-16T08:55:00.000Z",
@@ -201,19 +186,24 @@
         "title": "Wickie de Viking",
         "start": "2026-08-16T10:25:00.000Z",
         "end": "2026-08-16T10:37:00.000Z"
+      },
+      {
+        "title": "Samson & Marie",
+        "start": "2026-08-16T10:37:00.000Z",
+        "end": "2026-08-16T10:40:00.000Z"
+      },
+      {
+        "title": "Maya de Bij",
+        "start": "2026-08-16T10:40:00.000Z",
+        "end": "2026-08-16T10:54:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-16T10:54:00.000Z",
+        "end": "2026-08-16T10:57:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-16T07:59:00.000Z",
-        "end": "2026-08-16T08:29:00.000Z"
-      },
-      {
-        "title": "Let's visit",
-        "start": "2026-08-16T08:29:00.000Z",
-        "end": "2026-08-16T08:44:00.000Z"
-      },
       {
         "title": "Eigen huis & tuin: Lekker leven",
         "start": "2026-08-16T08:44:00.000Z",
@@ -238,18 +228,33 @@
         "title": "Het goede camperleven",
         "start": "2026-08-16T09:58:00.000Z",
         "end": "2026-08-16T10:28:00.000Z"
+      },
+      {
+        "title": "Ibiza!",
+        "start": "2026-08-16T10:28:00.000Z",
+        "end": "2026-08-16T10:38:00.000Z"
+      },
+      {
+        "title": "The bold and the beautiful",
+        "start": "2026-08-16T10:38:00.000Z",
+        "end": "2026-08-16T10:56:00.000Z"
+      },
+      {
+        "title": "Way of living",
+        "start": "2026-08-16T10:56:00.000Z",
+        "end": "2026-08-16T11:24:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-16T08:04:00.000Z",
-        "end": "2026-08-16T08:44:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-16T08:44:00.000Z",
         "end": "2026-08-16T10:44:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-16T10:44:00.000Z",
+        "end": "2026-08-16T11:59:00.000Z"
       }
     ],
     "RTL 7": [
@@ -287,6 +292,16 @@
         "title": "Idioten op de weg",
         "start": "2026-08-16T10:23:00.000Z",
         "end": "2026-08-16T10:31:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-16T10:31:00.000Z",
+        "end": "2026-08-16T10:36:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-16T10:36:00.000Z",
+        "end": "2026-08-16T11:01:00.000Z"
       }
     ],
     "RTL 8": [
@@ -302,11 +317,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-16T08:15:00.000Z",
-        "end": "2026-08-16T08:30:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-16T08:30:00.000Z",
@@ -331,6 +341,16 @@
         "title": "Verkopen of verbouwen",
         "start": "2026-08-16T10:18:00.000Z",
         "end": "2026-08-16T10:26:00.000Z"
+      },
+      {
+        "title": "Man bijt hond",
+        "start": "2026-08-16T10:26:00.000Z",
+        "end": "2026-08-16T10:38:00.000Z"
+      },
+      {
+        "title": "De Oranjezomer",
+        "start": "2026-08-16T10:38:00.000Z",
+        "end": "2026-08-16T11:18:00.000Z"
       }
     ],
     "NET 5": [
@@ -358,6 +378,11 @@
         "title": "Million dollar listing UAE",
         "start": "2026-08-16T10:25:00.000Z",
         "end": "2026-08-16T10:56:00.000Z"
+      },
+      {
+        "title": "vtwonen weer verliefd op je huis",
+        "start": "2026-08-16T10:56:00.000Z",
+        "end": "2026-08-16T11:29:00.000Z"
       }
     ],
     "Veronica": [
@@ -368,16 +393,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-16T08:00:00.000Z",
-        "end": "2026-08-16T08:30:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-16T08:30:00.000Z",
-        "end": "2026-08-16T08:55:00.000Z"
-      },
       {
         "title": "Tech Now",
         "start": "2026-08-16T08:55:00.000Z",
@@ -397,6 +412,21 @@
         "title": "BBC news",
         "start": "2026-08-16T10:00:00.000Z",
         "end": "2026-08-16T10:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-16T10:30:00.000Z",
+        "end": "2026-08-16T10:45:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-16T10:45:00.000Z",
+        "end": "2026-08-16T10:55:00.000Z"
+      },
+      {
+        "title": "World's Ultimate Adventures",
+        "start": "2026-08-16T10:55:00.000Z",
+        "end": "2026-08-16T11:00:00.000Z"
       }
     ],
     "CNN": [
@@ -414,6 +444,11 @@
         "title": "CNN This Morning",
         "start": "2026-08-16T10:00:00.000Z",
         "end": "2026-08-16T10:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-16T10:30:00.000Z",
+        "end": "2026-08-16T11:00:00.000Z"
       }
     ]
   }
