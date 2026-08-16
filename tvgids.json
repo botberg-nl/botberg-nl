@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-16T19:19:34.973Z",
+  "generated": "2026-08-16T19:43:18.430Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Ahoy zingt De Nijs",
-        "start": "2026-08-16T19:15:00.000Z",
-        "end": "2026-08-16T19:25:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-16T19:25:00.000Z",
@@ -27,14 +22,19 @@
         "title": "NOS Journaal",
         "start": "2026-08-16T21:10:00.000Z",
         "end": "2026-08-16T21:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T21:20:00.000Z",
+        "end": "2026-08-16T21:40:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-16T21:40:00.000Z",
+        "end": "2026-08-16T21:55:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "After the flood",
-        "start": "2026-08-16T18:25:00.000Z",
-        "end": "2026-08-16T19:20:00.000Z"
-      },
       {
         "title": "Keurmeesters",
         "start": "2026-08-16T19:20:00.000Z",
@@ -49,6 +49,11 @@
         "title": "Het uur van de wolf",
         "start": "2026-08-16T20:40:00.000Z",
         "end": "2026-08-16T21:25:00.000Z"
+      },
+      {
+        "title": "Mirakel n°71",
+        "start": "2026-08-16T21:25:00.000Z",
+        "end": "2026-08-16T22:15:00.000Z"
       }
     ],
     "NPO 3": [
@@ -66,6 +71,11 @@
         "title": "De matchmaker\n                        Romantische komedie",
         "start": "2026-08-16T21:15:00.000Z",
         "end": "2026-08-16T21:20:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-16T21:20:00.000Z",
+        "end": "2026-08-16T22:00:00.000Z"
       }
     ],
     "RTL 4": [
@@ -103,14 +113,24 @@
         "title": "Vals spel",
         "start": "2026-08-16T21:12:00.000Z",
         "end": "2026-08-16T21:21:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-16T21:21:00.000Z",
+        "end": "2026-08-16T21:25:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-16T21:25:00.000Z",
+        "end": "2026-08-16T21:38:00.000Z"
+      },
+      {
+        "title": "Beste kijkers",
+        "start": "2026-08-16T21:38:00.000Z",
+        "end": "2026-08-16T22:08:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Kees van der Spek ontmaskert",
-        "start": "2026-08-16T18:26:00.000Z",
-        "end": "2026-08-16T19:26:00.000Z"
-      },
       {
         "title": "Kees van der Spek ontmaskert",
         "start": "2026-08-16T19:26:00.000Z",
@@ -135,6 +155,16 @@
         "title": "St. Willebrord: Het mirakel van Brabant",
         "start": "2026-08-16T20:54:00.000Z",
         "end": "2026-08-16T21:33:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-16T21:33:00.000Z",
+        "end": "2026-08-16T21:43:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-16T21:43:00.000Z",
+        "end": "2026-08-16T21:56:00.000Z"
       }
     ],
     "RTL 7": [
@@ -162,11 +192,6 @@
     "RTL 8": [
       {
         "title": "Flikken Gent",
-        "start": "2026-08-16T18:25:00.000Z",
-        "end": "2026-08-16T19:31:00.000Z"
-      },
-      {
-        "title": "Flikken Gent",
         "start": "2026-08-16T19:31:00.000Z",
         "end": "2026-08-16T19:50:00.000Z"
       },
@@ -184,14 +209,24 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-16T20:43:00.000Z",
         "end": "2026-08-16T21:27:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-16T21:27:00.000Z",
+        "end": "2026-08-16T21:33:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-16T21:33:00.000Z",
+        "end": "2026-08-16T21:40:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-16T21:40:00.000Z",
+        "end": "2026-08-16T22:18:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De Oranjezomer",
-        "start": "2026-08-16T19:18:00.000Z",
-        "end": "2026-08-16T19:27:00.000Z"
-      },
       {
         "title": "Mi dushi: Wat is dan liefde?",
         "start": "2026-08-16T19:27:00.000Z",
@@ -255,14 +290,14 @@
         "title": "Criminal minds",
         "start": "2026-08-16T20:57:00.000Z",
         "end": "2026-08-16T21:25:00.000Z"
+      },
+      {
+        "title": "Baywatch remastered",
+        "start": "2026-08-16T21:25:00.000Z",
+        "end": "2026-08-16T22:02:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context USA",
-        "start": "2026-08-16T19:00:00.000Z",
-        "end": "2026-08-16T19:30:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-16T19:30:00.000Z",
@@ -287,6 +322,11 @@
         "title": "BBC World News America",
         "start": "2026-08-16T21:00:00.000Z",
         "end": "2026-08-16T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-16T21:30:00.000Z",
+        "end": "2026-08-16T22:00:00.000Z"
       }
     ],
     "CNN": [
@@ -309,6 +349,11 @@
         "title": "The Lead with Jake Tapper",
         "start": "2026-08-16T21:00:00.000Z",
         "end": "2026-08-16T21:30:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-08-16T21:30:00.000Z",
+        "end": "2026-08-16T22:00:00.000Z"
       }
     ]
   }
