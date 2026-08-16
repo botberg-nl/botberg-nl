@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-16T22:17:27.798Z",
+  "generated": "2026-08-16T22:45:29.064Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-16T21:40:00.000Z",
-        "end": "2026-08-16T22:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-16T22:30:00.000Z",
-        "end": "2026-08-16T22:40:00.000Z"
-      },
       {
         "title": "Het verhaal van Nederland - Oranje-Nassau",
         "start": "2026-08-16T22:40:00.000Z",
@@ -47,14 +37,24 @@
         "title": "NOS Journaal",
         "start": "2026-08-17T00:15:00.000Z",
         "end": "2026-08-17T00:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal met gebarentaal",
+        "start": "2026-08-17T00:20:00.000Z",
+        "end": "2026-08-17T00:25:00.000Z"
+      },
+      {
+        "title": "NOS Journaal met gebarentaal",
+        "start": "2026-08-17T00:25:00.000Z",
+        "end": "2026-08-17T00:45:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-17T00:45:00.000Z",
+        "end": "2026-08-17T00:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De nachtzoen",
-        "start": "2026-08-16T22:15:00.000Z",
-        "end": "2026-08-16T22:30:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-16T22:30:00.000Z",
@@ -77,11 +77,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Meiden die rijden",
-        "start": "2026-08-16T22:15:00.000Z",
-        "end": "2026-08-16T22:45:00.000Z"
-      },
       {
         "title": "Op safari",
         "start": "2026-08-16T22:45:00.000Z",
@@ -111,6 +106,11 @@
         "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-08-17T00:10:00.000Z",
         "end": "2026-08-17T00:40:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-17T00:40:00.000Z",
+        "end": "2026-08-17T01:25:00.000Z"
       }
     ],
     "RTL 4": [
@@ -189,11 +189,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Trauma Center\n                        Actie",
-        "start": "2026-08-16T21:09:00.000Z",
-        "end": "2026-08-16T22:37:00.000Z"
-      },
-      {
         "title": "Pawn stars",
         "start": "2026-08-16T22:37:00.000Z",
         "end": "2026-08-16T22:55:00.000Z"
@@ -230,11 +225,6 @@
       }
     ],
     "RTL 8": [
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-08-16T21:50:00.000Z",
-        "end": "2026-08-16T22:18:00.000Z"
-      },
       {
         "title": "Crime scene investigation",
         "start": "2026-08-16T22:18:00.000Z",
@@ -290,16 +280,6 @@
     ],
     "NET 5": [
       {
-        "title": "House rules Australië",
-        "start": "2026-08-16T22:10:00.000Z",
-        "end": "2026-08-16T22:24:00.000Z"
-      },
-      {
-        "title": "Ordinary Joe",
-        "start": "2026-08-16T22:24:00.000Z",
-        "end": "2026-08-16T22:38:00.000Z"
-      },
-      {
         "title": "27 Dresses\n                        Romantische komedie",
         "start": "2026-08-16T22:38:00.000Z",
         "end": "2026-08-16T23:05:00.000Z"
@@ -313,6 +293,11 @@
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-16T23:21:00.000Z",
         "end": "2026-08-17T00:41:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-17T00:41:00.000Z",
+        "end": "2026-08-17T03:51:00.000Z"
       }
     ],
     "Veronica": [
@@ -354,11 +339,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC World News America",
-        "start": "2026-08-16T22:00:00.000Z",
-        "end": "2026-08-16T22:30:00.000Z"
-      },
-      {
         "title": "World's Ultimate Adventures",
         "start": "2026-08-16T22:30:00.000Z",
         "end": "2026-08-16T23:00:00.000Z"
@@ -377,6 +357,11 @@
         "title": "BBC news",
         "start": "2026-08-17T00:00:00.000Z",
         "end": "2026-08-17T00:30:00.000Z"
+      },
+      {
+        "title": "The Media Show",
+        "start": "2026-08-17T00:30:00.000Z",
+        "end": "2026-08-17T01:00:00.000Z"
       }
     ],
     "CNN": [
