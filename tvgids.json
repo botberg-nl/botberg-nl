@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-16T18:55:30.959Z",
+  "generated": "2026-08-16T19:19:34.973Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "MAX Vakantieman",
-        "start": "2026-08-16T18:35:00.000Z",
-        "end": "2026-08-16T19:15:00.000Z"
-      },
       {
         "title": "Ahoy zingt De Nijs",
         "start": "2026-08-16T19:15:00.000Z",
@@ -27,6 +22,11 @@
         "title": "Tatort: Over grenzen",
         "start": "2026-08-16T20:25:00.000Z",
         "end": "2026-08-16T21:10:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-16T21:10:00.000Z",
+        "end": "2026-08-16T21:20:00.000Z"
       }
     ],
     "NPO 2": [
@@ -61,14 +61,14 @@
         "title": "NPO Doc: Misslukt",
         "start": "2026-08-16T20:20:00.000Z",
         "end": "2026-08-16T21:15:00.000Z"
+      },
+      {
+        "title": "De matchmaker\n                        Romantische komedie",
+        "start": "2026-08-16T21:15:00.000Z",
+        "end": "2026-08-16T21:20:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-16T18:53:00.000Z",
-        "end": "2026-08-16T19:03:00.000Z"
-      },
       {
         "title": "Los het op!",
         "start": "2026-08-16T19:03:00.000Z",
@@ -88,6 +88,21 @@
         "title": "RTL Nieuws",
         "start": "2026-08-16T20:50:00.000Z",
         "end": "2026-08-16T21:07:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-16T21:07:00.000Z",
+        "end": "2026-08-16T21:08:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-16T21:08:00.000Z",
+        "end": "2026-08-16T21:12:00.000Z"
+      },
+      {
+        "title": "Vals spel",
+        "start": "2026-08-16T21:12:00.000Z",
+        "end": "2026-08-16T21:21:00.000Z"
       }
     ],
     "RTL 5": [
@@ -137,6 +152,11 @@
         "title": "Broken City\n                        Thriller",
         "start": "2026-08-16T20:40:00.000Z",
         "end": "2026-08-16T21:09:00.000Z"
+      },
+      {
+        "title": "Trauma Center\n                        Actie",
+        "start": "2026-08-16T21:09:00.000Z",
+        "end": "2026-08-16T22:37:00.000Z"
       }
     ],
     "RTL 8": [
@@ -168,11 +188,6 @@
     ],
     "SBS 6": [
       {
-        "title": "De bondgenoten",
-        "start": "2026-08-16T18:00:00.000Z",
-        "end": "2026-08-16T19:18:00.000Z"
-      },
-      {
         "title": "De Oranjezomer",
         "start": "2026-08-16T19:18:00.000Z",
         "end": "2026-08-16T19:27:00.000Z"
@@ -196,6 +211,11 @@
         "title": "Shownieuws",
         "start": "2026-08-16T20:49:00.000Z",
         "end": "2026-08-16T20:57:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-16T20:57:00.000Z",
+        "end": "2026-08-16T21:45:00.000Z"
       }
     ],
     "NET 5": [
@@ -230,14 +250,14 @@
         "title": "Speed Racer\n                        Actie",
         "start": "2026-08-16T20:30:00.000Z",
         "end": "2026-08-16T20:57:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-08-16T20:57:00.000Z",
+        "end": "2026-08-16T21:25:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Tech Now",
-        "start": "2026-08-16T18:55:00.000Z",
-        "end": "2026-08-16T19:00:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-16T19:00:00.000Z",
@@ -262,14 +282,14 @@
         "title": "World's Ultimate Adventures",
         "start": "2026-08-16T20:55:00.000Z",
         "end": "2026-08-16T21:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-16T21:00:00.000Z",
+        "end": "2026-08-16T21:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Isa Soares Tonight",
-        "start": "2026-08-16T18:00:00.000Z",
-        "end": "2026-08-16T19:00:00.000Z"
-      },
       {
         "title": "What We Know with Max Foster",
         "start": "2026-08-16T19:00:00.000Z",
@@ -284,6 +304,11 @@
         "title": "Quest's World of Wonder",
         "start": "2026-08-16T20:45:00.000Z",
         "end": "2026-08-16T21:00:00.000Z"
+      },
+      {
+        "title": "The Lead with Jake Tapper",
+        "start": "2026-08-16T21:00:00.000Z",
+        "end": "2026-08-16T21:30:00.000Z"
       }
     ]
   }
