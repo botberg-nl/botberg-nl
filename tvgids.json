@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-17T21:22:49.769Z",
+  "generated": "2026-08-17T21:49:36.427Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-17T21:15:00.000Z",
-        "end": "2026-08-17T21:40:00.000Z"
-      },
       {
         "title": "Goedenavond Nederland",
         "start": "2026-08-17T21:40:00.000Z",
@@ -27,19 +22,14 @@
         "title": "Muziekfeest op het plein",
         "start": "2026-08-17T22:50:00.000Z",
         "end": "2026-08-17T23:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-17T23:35:00.000Z",
+        "end": "2026-08-17T23:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "The capture",
-        "start": "2026-08-17T20:40:00.000Z",
-        "end": "2026-08-17T21:25:00.000Z"
-      },
-      {
-        "title": "Mirakel n°71",
-        "start": "2026-08-17T21:25:00.000Z",
-        "end": "2026-08-17T21:30:00.000Z"
-      },
       {
         "title": "De wilde ruimte",
         "start": "2026-08-17T21:30:00.000Z",
@@ -64,6 +54,11 @@
         "title": "Nieuwsuur",
         "start": "2026-08-17T23:10:00.000Z",
         "end": "2026-08-17T23:45:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-17T23:45:00.000Z",
+        "end": "2026-08-18T05:00:00.000Z"
       }
     ],
     "NPO 3": [
@@ -106,14 +101,14 @@
         "title": "A beautiful mess",
         "start": "2026-08-17T23:20:00.000Z",
         "end": "2026-08-17T23:40:00.000Z"
+      },
+      {
+        "title": "NPO Doc: Misslukt",
+        "start": "2026-08-17T23:40:00.000Z",
+        "end": "2026-08-18T00:10:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-17T21:21:00.000Z",
-        "end": "2026-08-17T21:25:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-17T21:25:00.000Z",
@@ -148,19 +143,14 @@
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-17T23:19:00.000Z",
         "end": "2026-08-17T23:25:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-08-17T23:25:00.000Z",
+        "end": "2026-08-17T23:53:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "St. Willebrord: Het mirakel van Brabant",
-        "start": "2026-08-17T20:54:00.000Z",
-        "end": "2026-08-17T21:33:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-17T21:33:00.000Z",
-        "end": "2026-08-17T21:35:00.000Z"
-      },
       {
         "title": "112 vandaag",
         "start": "2026-08-17T21:35:00.000Z",
@@ -227,24 +217,24 @@
         "title": "Pawn stars",
         "start": "2026-08-17T23:05:00.000Z",
         "end": "2026-08-17T23:30:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-08-17T23:30:00.000Z",
+        "end": "2026-08-17T23:33:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-08-17T23:33:00.000Z",
+        "end": "2026-08-17T23:48:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-08-17T23:48:00.000Z",
+        "end": "2026-08-18T00:10:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-17T20:48:00.000Z",
-        "end": "2026-08-17T21:27:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-17T21:27:00.000Z",
-        "end": "2026-08-17T21:33:00.000Z"
-      },
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-08-17T21:33:00.000Z",
-        "end": "2026-08-17T21:43:00.000Z"
-      },
       {
         "title": "Crime scene investigation",
         "start": "2026-08-17T21:43:00.000Z",
@@ -273,11 +263,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Shownieuws",
-        "start": "2026-08-17T20:49:00.000Z",
-        "end": "2026-08-17T21:45:00.000Z"
-      },
-      {
         "title": "De bondgenoten",
         "start": "2026-08-17T21:45:00.000Z",
         "end": "2026-08-17T21:52:00.000Z"
@@ -296,6 +281,16 @@
         "title": "Shownieuws",
         "start": "2026-08-17T22:50:00.000Z",
         "end": "2026-08-17T23:33:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-17T23:33:00.000Z",
+        "end": "2026-08-17T23:35:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-17T23:35:00.000Z",
+        "end": "2026-08-18T04:00:00.000Z"
       }
     ],
     "NET 5": [
@@ -323,14 +318,14 @@
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-17T23:21:00.000Z",
         "end": "2026-08-17T23:44:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-17T23:44:00.000Z",
+        "end": "2026-08-18T00:28:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Criminal minds",
-        "start": "2026-08-17T20:57:00.000Z",
-        "end": "2026-08-17T21:25:00.000Z"
-      },
       {
         "title": "Mad Max: Fury Road\n                        Actie",
         "start": "2026-08-17T21:25:00.000Z",
@@ -355,14 +350,24 @@
         "title": "Hart van Nederland",
         "start": "2026-08-17T23:20:00.000Z",
         "end": "2026-08-17T23:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-17T23:30:00.000Z",
+        "end": "2026-08-17T23:37:00.000Z"
+      },
+      {
+        "title": "Alien: Covenant\n                        Horror",
+        "start": "2026-08-17T23:37:00.000Z",
+        "end": "2026-08-17T23:49:00.000Z"
+      },
+      {
+        "title": "Pause",
+        "start": "2026-08-17T23:49:00.000Z",
+        "end": "2026-08-18T01:27:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC World News America",
-        "start": "2026-08-17T21:00:00.000Z",
-        "end": "2026-08-17T21:30:00.000Z"
-      },
       {
         "title": "Newsnight",
         "start": "2026-08-17T21:30:00.000Z",
@@ -382,14 +387,14 @@
         "title": "BBC news",
         "start": "2026-08-17T23:00:00.000Z",
         "end": "2026-08-17T23:30:00.000Z"
+      },
+      {
+        "title": "Newscast",
+        "start": "2026-08-17T23:30:00.000Z",
+        "end": "2026-08-18T00:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "The Lead with Jake Tapper",
-        "start": "2026-08-17T21:00:00.000Z",
-        "end": "2026-08-17T21:30:00.000Z"
-      },
       {
         "title": "World Sport",
         "start": "2026-08-17T21:30:00.000Z",
