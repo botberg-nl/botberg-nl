@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T19:25:11.052Z",
+  "generated": "2026-08-17T19:50:59.502Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -22,14 +22,14 @@
         "title": "NOS Journaal",
         "start": "2026-08-17T21:15:00.000Z",
         "end": "2026-08-17T21:40:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-17T21:40:00.000Z",
+        "end": "2026-08-17T22:30:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Keurmeesters",
-        "start": "2026-08-17T19:20:00.000Z",
-        "end": "2026-08-17T19:45:00.000Z"
-      },
       {
         "title": "Nu te zien!",
         "start": "2026-08-17T19:45:00.000Z",
@@ -49,6 +49,11 @@
         "title": "Mirakel n°71",
         "start": "2026-08-17T21:25:00.000Z",
         "end": "2026-08-17T21:30:00.000Z"
+      },
+      {
+        "title": "De wilde ruimte",
+        "start": "2026-08-17T21:30:00.000Z",
+        "end": "2026-08-17T22:15:00.000Z"
       }
     ],
     "NPO 3": [
@@ -71,6 +76,11 @@
         "title": "Yorkshire Air 999",
         "start": "2026-08-17T21:20:00.000Z",
         "end": "2026-08-17T21:50:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-17T21:50:00.000Z",
+        "end": "2026-08-17T22:00:00.000Z"
       }
     ],
     "RTL 4": [
@@ -150,6 +160,16 @@
         "title": "St. Willebrord: Het mirakel van Brabant",
         "start": "2026-08-17T20:54:00.000Z",
         "end": "2026-08-17T21:33:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-17T21:33:00.000Z",
+        "end": "2026-08-17T21:35:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-17T21:35:00.000Z",
+        "end": "2026-08-17T21:56:00.000Z"
       }
     ],
     "RTL 7": [
@@ -176,11 +196,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Kopen zonder kijken",
-        "start": "2026-08-17T18:27:00.000Z",
-        "end": "2026-08-17T19:31:00.000Z"
-      },
-      {
         "title": "Flikken Gent",
         "start": "2026-08-17T19:31:00.000Z",
         "end": "2026-08-17T19:54:00.000Z"
@@ -199,6 +214,21 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-17T20:48:00.000Z",
         "end": "2026-08-17T21:27:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-17T21:27:00.000Z",
+        "end": "2026-08-17T21:33:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-17T21:33:00.000Z",
+        "end": "2026-08-17T21:43:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-17T21:43:00.000Z",
+        "end": "2026-08-17T22:18:00.000Z"
       }
     ],
     "SBS 6": [
@@ -221,6 +251,11 @@
         "title": "Shownieuws",
         "start": "2026-08-17T20:49:00.000Z",
         "end": "2026-08-17T21:45:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-17T21:45:00.000Z",
+        "end": "2026-08-17T21:52:00.000Z"
       }
     ],
     "NET 5": [
@@ -270,11 +305,6 @@
     "BBC News": [
       {
         "title": "The Context USA",
-        "start": "2026-08-17T19:00:00.000Z",
-        "end": "2026-08-17T19:30:00.000Z"
-      },
-      {
-        "title": "The Context USA",
         "start": "2026-08-17T19:30:00.000Z",
         "end": "2026-08-17T20:00:00.000Z"
       },
@@ -297,6 +327,11 @@
         "title": "BBC World News America",
         "start": "2026-08-17T21:00:00.000Z",
         "end": "2026-08-17T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-17T21:30:00.000Z",
+        "end": "2026-08-17T22:00:00.000Z"
       }
     ],
     "CNN": [
@@ -319,6 +354,11 @@
         "title": "The Lead with Jake Tapper",
         "start": "2026-08-17T21:00:00.000Z",
         "end": "2026-08-17T21:30:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-08-17T21:30:00.000Z",
+        "end": "2026-08-17T22:00:00.000Z"
       }
     ]
   }
