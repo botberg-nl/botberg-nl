@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T20:22:43.321Z",
+  "generated": "2026-08-17T20:53:04.174Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -22,14 +22,24 @@
         "title": "Goedenavond Nederland",
         "start": "2026-08-17T21:40:00.000Z",
         "end": "2026-08-17T22:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-17T22:30:00.000Z",
+        "end": "2026-08-17T22:40:00.000Z"
+      },
+      {
+        "title": "Het verhaal van Nederland - Oranje-Nassau",
+        "start": "2026-08-17T22:40:00.000Z",
+        "end": "2026-08-17T22:50:00.000Z"
+      },
+      {
+        "title": "Muziekfeest op het plein",
+        "start": "2026-08-17T22:50:00.000Z",
+        "end": "2026-08-17T23:35:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-17T20:00:00.000Z",
-        "end": "2026-08-17T20:40:00.000Z"
-      },
       {
         "title": "The capture",
         "start": "2026-08-17T20:40:00.000Z",
@@ -49,6 +59,11 @@
         "title": "De nachtzoen",
         "start": "2026-08-17T22:15:00.000Z",
         "end": "2026-08-17T22:30:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-17T22:30:00.000Z",
+        "end": "2026-08-17T22:55:00.000Z"
       }
     ],
     "NPO 3": [
@@ -81,6 +96,16 @@
         "title": "Meiden die rijden",
         "start": "2026-08-17T22:15:00.000Z",
         "end": "2026-08-17T22:45:00.000Z"
+      },
+      {
+        "title": "Op safari",
+        "start": "2026-08-17T22:45:00.000Z",
+        "end": "2026-08-17T22:50:00.000Z"
+      },
+      {
+        "title": "Studio sport",
+        "start": "2026-08-17T22:50:00.000Z",
+        "end": "2026-08-17T23:10:00.000Z"
       }
     ],
     "RTL 4": [
@@ -126,16 +151,6 @@
       }
     ],
     "RTL 5": [
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-17T20:19:00.000Z",
-        "end": "2026-08-17T20:29:00.000Z"
-      },
-      {
-        "title": "24 uur in de ER",
-        "start": "2026-08-17T20:29:00.000Z",
-        "end": "2026-08-17T20:30:00.000Z"
-      },
       {
         "title": "24 uur in de ER",
         "start": "2026-08-17T20:30:00.000Z",
@@ -184,11 +199,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Die Hard\n                        Actie",
-        "start": "2026-08-17T18:27:00.000Z",
-        "end": "2026-08-17T20:40:00.000Z"
-      },
-      {
         "title": "Broken City\n                        Thriller",
         "start": "2026-08-17T20:40:00.000Z",
         "end": "2026-08-17T20:57:00.000Z"
@@ -202,19 +212,19 @@
         "title": "Trauma Center\n                        Actie",
         "start": "2026-08-17T21:09:00.000Z",
         "end": "2026-08-17T22:37:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-17T22:37:00.000Z",
+        "end": "2026-08-17T22:52:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-17T22:52:00.000Z",
+        "end": "2026-08-17T23:05:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-17T19:54:00.000Z",
-        "end": "2026-08-17T20:34:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-17T20:34:00.000Z",
-        "end": "2026-08-17T20:48:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-17T20:48:00.000Z",
@@ -239,24 +249,14 @@
         "title": "Crime scene investigation",
         "start": "2026-08-17T22:18:00.000Z",
         "end": "2026-08-17T22:45:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-17T22:45:00.000Z",
+        "end": "2026-08-17T23:13:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De Oranjezomer",
-        "start": "2026-08-17T19:18:00.000Z",
-        "end": "2026-08-17T20:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-17T20:30:00.000Z",
-        "end": "2026-08-17T20:48:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-17T20:48:00.000Z",
-        "end": "2026-08-17T20:49:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-17T20:49:00.000Z",
@@ -271,31 +271,41 @@
         "title": "De Hanslers: Van de piste naar de playa",
         "start": "2026-08-17T21:52:00.000Z",
         "end": "2026-08-17T22:47:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-17T22:47:00.000Z",
+        "end": "2026-08-17T22:50:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-17T22:50:00.000Z",
+        "end": "2026-08-17T23:33:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "The American\n                        Misdaad",
-        "start": "2026-08-17T20:17:00.000Z",
-        "end": "2026-08-17T20:34:00.000Z"
-      },
-      {
-        "title": "Sister Act 2: Back in the Habit\n                        Komedie",
-        "start": "2026-08-17T20:34:00.000Z",
-        "end": "2026-08-17T20:48:00.000Z"
-      },
-      {
         "title": "All My Life\n                        Romantiek",
         "start": "2026-08-17T20:48:00.000Z",
         "end": "2026-08-17T22:24:00.000Z"
+      },
+      {
+        "title": "Ordinary Joe",
+        "start": "2026-08-17T22:24:00.000Z",
+        "end": "2026-08-17T22:35:00.000Z"
+      },
+      {
+        "title": "27 Dresses\n                        Romantische komedie",
+        "start": "2026-08-17T22:35:00.000Z",
+        "end": "2026-08-17T22:44:00.000Z"
+      },
+      {
+        "title": "Cedar Cove",
+        "start": "2026-08-17T22:44:00.000Z",
+        "end": "2026-08-17T23:21:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Faster\n                        Actie",
-        "start": "2026-08-17T18:28:00.000Z",
-        "end": "2026-08-17T20:29:00.000Z"
-      },
       {
         "title": "Speed Racer\n                        Actie",
         "start": "2026-08-17T20:29:00.000Z",
@@ -320,11 +330,6 @@
     "BBC News": [
       {
         "title": "The Context with Christian Fraser",
-        "start": "2026-08-17T20:00:00.000Z",
-        "end": "2026-08-17T20:30:00.000Z"
-      },
-      {
-        "title": "The Context with Christian Fraser",
         "start": "2026-08-17T20:30:00.000Z",
         "end": "2026-08-17T20:55:00.000Z"
       },
@@ -347,14 +352,14 @@
         "title": "BBC World News America",
         "start": "2026-08-17T22:00:00.000Z",
         "end": "2026-08-17T22:30:00.000Z"
+      },
+      {
+        "title": "World's Ultimate Adventures",
+        "start": "2026-08-17T22:30:00.000Z",
+        "end": "2026-08-17T23:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Quest Means Business",
-        "start": "2026-08-17T20:00:00.000Z",
-        "end": "2026-08-17T20:45:00.000Z"
-      },
       {
         "title": "Quest's World of Wonder",
         "start": "2026-08-17T20:45:00.000Z",
