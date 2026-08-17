@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-17T18:34:49.922Z",
+  "generated": "2026-08-17T19:25:11.052Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-17T18:00:00.000Z",
-        "end": "2026-08-17T18:35:00.000Z"
-      },
-      {
-        "title": "We zijn er bijna!",
-        "start": "2026-08-17T18:35:00.000Z",
-        "end": "2026-08-17T19:25:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-17T19:25:00.000Z",
@@ -22,14 +12,19 @@
         "title": "Goedenavond Nederland",
         "start": "2026-08-17T20:15:00.000Z",
         "end": "2026-08-17T21:10:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-17T21:10:00.000Z",
+        "end": "2026-08-17T21:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-17T21:15:00.000Z",
+        "end": "2026-08-17T21:40:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "NPO Doc: Mijn broer",
-        "start": "2026-08-17T18:25:00.000Z",
-        "end": "2026-08-17T19:20:00.000Z"
-      },
       {
         "title": "Keurmeesters",
         "start": "2026-08-17T19:20:00.000Z",
@@ -44,14 +39,19 @@
         "title": "Nieuwsuur",
         "start": "2026-08-17T20:00:00.000Z",
         "end": "2026-08-17T20:40:00.000Z"
+      },
+      {
+        "title": "The capture",
+        "start": "2026-08-17T20:40:00.000Z",
+        "end": "2026-08-17T21:25:00.000Z"
+      },
+      {
+        "title": "Mirakel n°71",
+        "start": "2026-08-17T21:25:00.000Z",
+        "end": "2026-08-17T21:30:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "A beautiful mess",
-        "start": "2026-08-17T18:20:00.000Z",
-        "end": "2026-08-17T19:15:00.000Z"
-      },
       {
         "title": "Niemand in de stad\n                        Drama",
         "start": "2026-08-17T19:15:00.000Z",
@@ -61,19 +61,19 @@
         "title": "NPO Doc: Misslukt",
         "start": "2026-08-17T20:20:00.000Z",
         "end": "2026-08-17T21:00:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-17T21:00:00.000Z",
+        "end": "2026-08-17T21:20:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-17T21:20:00.000Z",
+        "end": "2026-08-17T21:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-17T18:01:00.000Z",
-        "end": "2026-08-17T18:53:00.000Z"
-      },
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-17T18:53:00.000Z",
-        "end": "2026-08-17T18:54:00.000Z"
-      },
       {
         "title": "B&B vol liefde",
         "start": "2026-08-17T18:54:00.000Z",
@@ -83,6 +83,31 @@
         "title": "Nederland met vakantie",
         "start": "2026-08-17T20:20:00.000Z",
         "end": "2026-08-17T21:07:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-17T21:07:00.000Z",
+        "end": "2026-08-17T21:08:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-17T21:08:00.000Z",
+        "end": "2026-08-17T21:12:00.000Z"
+      },
+      {
+        "title": "Vals spel",
+        "start": "2026-08-17T21:12:00.000Z",
+        "end": "2026-08-17T21:21:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-17T21:21:00.000Z",
+        "end": "2026-08-17T21:25:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-17T21:25:00.000Z",
+        "end": "2026-08-17T22:10:00.000Z"
       }
     ],
     "RTL 5": [
@@ -120,6 +145,11 @@
         "title": "24 uur in de ER",
         "start": "2026-08-17T20:30:00.000Z",
         "end": "2026-08-17T20:54:00.000Z"
+      },
+      {
+        "title": "St. Willebrord: Het mirakel van Brabant",
+        "start": "2026-08-17T20:54:00.000Z",
+        "end": "2026-08-17T21:33:00.000Z"
       }
     ],
     "RTL 7": [
@@ -127,6 +157,21 @@
         "title": "Die Hard\n                        Actie",
         "start": "2026-08-17T18:27:00.000Z",
         "end": "2026-08-17T20:40:00.000Z"
+      },
+      {
+        "title": "Broken City\n                        Thriller",
+        "start": "2026-08-17T20:40:00.000Z",
+        "end": "2026-08-17T20:57:00.000Z"
+      },
+      {
+        "title": "Reprisal\n                        Actie",
+        "start": "2026-08-17T20:57:00.000Z",
+        "end": "2026-08-17T21:09:00.000Z"
+      },
+      {
+        "title": "Trauma Center\n                        Actie",
+        "start": "2026-08-17T21:09:00.000Z",
+        "end": "2026-08-17T22:37:00.000Z"
       }
     ],
     "RTL 8": [
@@ -149,14 +194,14 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-17T20:34:00.000Z",
         "end": "2026-08-17T20:48:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-17T20:48:00.000Z",
+        "end": "2026-08-17T21:27:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-17T18:00:00.000Z",
-        "end": "2026-08-17T19:18:00.000Z"
-      },
       {
         "title": "De Oranjezomer",
         "start": "2026-08-17T19:18:00.000Z",
@@ -166,6 +211,16 @@
         "title": "Hart van Nederland",
         "start": "2026-08-17T20:30:00.000Z",
         "end": "2026-08-17T20:48:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-17T20:48:00.000Z",
+        "end": "2026-08-17T20:49:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-17T20:49:00.000Z",
+        "end": "2026-08-17T21:45:00.000Z"
       }
     ],
     "NET 5": [
@@ -183,6 +238,11 @@
         "title": "Sister Act 2: Back in the Habit\n                        Komedie",
         "start": "2026-08-17T20:34:00.000Z",
         "end": "2026-08-17T20:48:00.000Z"
+      },
+      {
+        "title": "All My Life\n                        Romantiek",
+        "start": "2026-08-17T20:48:00.000Z",
+        "end": "2026-08-17T22:24:00.000Z"
       }
     ],
     "Veronica": [
@@ -195,19 +255,19 @@
         "title": "Speed Racer\n                        Actie",
         "start": "2026-08-17T20:29:00.000Z",
         "end": "2026-08-17T20:57:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-08-17T20:57:00.000Z",
+        "end": "2026-08-17T21:25:00.000Z"
+      },
+      {
+        "title": "Mad Max: Fury Road\n                        Actie",
+        "start": "2026-08-17T21:25:00.000Z",
+        "end": "2026-08-17T22:02:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-17T18:30:00.000Z",
-        "end": "2026-08-17T18:55:00.000Z"
-      },
-      {
-        "title": "Discover the World",
-        "start": "2026-08-17T18:55:00.000Z",
-        "end": "2026-08-17T19:00:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-17T19:00:00.000Z",
@@ -227,14 +287,19 @@
         "title": "The Context with Christian Fraser",
         "start": "2026-08-17T20:30:00.000Z",
         "end": "2026-08-17T20:55:00.000Z"
+      },
+      {
+        "title": "Discover the World",
+        "start": "2026-08-17T20:55:00.000Z",
+        "end": "2026-08-17T21:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-17T21:00:00.000Z",
+        "end": "2026-08-17T21:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Isa Soares Tonight",
-        "start": "2026-08-17T18:00:00.000Z",
-        "end": "2026-08-17T19:00:00.000Z"
-      },
       {
         "title": "What We Know with Max Foster",
         "start": "2026-08-17T19:00:00.000Z",
@@ -244,6 +309,16 @@
         "title": "Quest Means Business",
         "start": "2026-08-17T20:00:00.000Z",
         "end": "2026-08-17T20:45:00.000Z"
+      },
+      {
+        "title": "Quest's World of Wonder",
+        "start": "2026-08-17T20:45:00.000Z",
+        "end": "2026-08-17T21:00:00.000Z"
+      },
+      {
+        "title": "The Lead with Jake Tapper",
+        "start": "2026-08-17T21:00:00.000Z",
+        "end": "2026-08-17T21:30:00.000Z"
       }
     ]
   }
