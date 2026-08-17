@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-17T15:48:45.947Z",
+  "generated": "2026-08-17T16:23:24.265Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Politieke partijen",
-        "start": "2026-08-17T15:47:00.000Z",
-        "end": "2026-08-17T15:50:00.000Z"
-      },
       {
         "title": "Sport - WK hockey (m): Argentinië - Nederland",
         "start": "2026-08-17T15:50:00.000Z",
@@ -17,19 +12,14 @@
         "title": "Sport - WK hockey (m): Argentinië - Nederland",
         "start": "2026-08-17T16:45:00.000Z",
         "end": "2026-08-17T18:00:00.000Z"
-      }
-    ],
-    "NPO 2": [
-      {
-        "title": "Noord-Zuid-Oost-West",
-        "start": "2026-08-17T15:20:00.000Z",
-        "end": "2026-08-17T16:00:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-08-17T16:00:00.000Z",
-        "end": "2026-08-17T16:15:00.000Z"
-      },
+        "start": "2026-08-17T18:00:00.000Z",
+        "end": "2026-08-17T18:35:00.000Z"
+      }
+    ],
+    "NPO 2": [
       {
         "title": "NOS Journaal met regio",
         "start": "2026-08-17T16:15:00.000Z",
@@ -44,29 +34,14 @@
         "title": "BinnensteBuiten",
         "start": "2026-08-17T17:05:00.000Z",
         "end": "2026-08-17T17:50:00.000Z"
+      },
+      {
+        "title": "Met het mes op tafel",
+        "start": "2026-08-17T17:50:00.000Z",
+        "end": "2026-08-17T18:25:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Machtige Mike",
-        "start": "2026-08-17T15:45:00.000Z",
-        "end": "2026-08-17T15:50:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-08-17T15:50:00.000Z",
-        "end": "2026-08-17T15:55:00.000Z"
-      },
-      {
-        "title": "Shaun het schaap",
-        "start": "2026-08-17T15:55:00.000Z",
-        "end": "2026-08-17T16:05:00.000Z"
-      },
-      {
-        "title": "Submarine Jim",
-        "start": "2026-08-17T16:05:00.000Z",
-        "end": "2026-08-17T16:15:00.000Z"
-      },
       {
         "title": "Freeks wilde wereld",
         "start": "2026-08-17T16:15:00.000Z",
@@ -91,24 +66,14 @@
         "title": "Meiden die rijden",
         "start": "2026-08-17T17:25:00.000Z",
         "end": "2026-08-17T18:20:00.000Z"
+      },
+      {
+        "title": "A beautiful mess",
+        "start": "2026-08-17T18:20:00.000Z",
+        "end": "2026-08-17T19:15:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-17T14:30:00.000Z",
-        "end": "2026-08-17T16:00:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-17T16:00:00.000Z",
-        "end": "2026-08-17T16:15:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-17T16:15:00.000Z",
-        "end": "2026-08-17T16:16:00.000Z"
-      },
       {
         "title": "EditieNL",
         "start": "2026-08-17T16:16:00.000Z",
@@ -133,6 +98,26 @@
         "title": "RTL Nieuws",
         "start": "2026-08-17T17:30:00.000Z",
         "end": "2026-08-17T17:55:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-17T17:55:00.000Z",
+        "end": "2026-08-17T17:57:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-17T17:57:00.000Z",
+        "end": "2026-08-17T18:00:00.000Z"
+      },
+      {
+        "title": "Ik weet er alles van!",
+        "start": "2026-08-17T18:00:00.000Z",
+        "end": "2026-08-17T18:01:00.000Z"
+      },
+      {
+        "title": "Ik weet er alles van!",
+        "start": "2026-08-17T18:01:00.000Z",
+        "end": "2026-08-17T18:53:00.000Z"
       }
     ],
     "RTL 5": [
@@ -155,29 +140,14 @@
         "title": "De Pfaff's",
         "start": "2026-08-17T17:45:00.000Z",
         "end": "2026-08-17T17:49:00.000Z"
+      },
+      {
+        "title": "De Pfaff's",
+        "start": "2026-08-17T17:49:00.000Z",
+        "end": "2026-08-17T18:26:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-17T15:00:00.000Z",
-        "end": "2026-08-17T15:50:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-17T15:50:00.000Z",
-        "end": "2026-08-17T15:55:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-17T15:55:00.000Z",
-        "end": "2026-08-17T16:00:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-17T16:00:00.000Z",
-        "end": "2026-08-17T16:10:00.000Z"
-      },
       {
         "title": "Pawn stars",
         "start": "2026-08-17T16:10:00.000Z",
@@ -200,16 +170,6 @@
       }
     ],
     "RTL 8": [
-      {
-        "title": "Undercover boss USA",
-        "start": "2026-08-17T15:13:00.000Z",
-        "end": "2026-08-17T16:05:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful",
-        "start": "2026-08-17T16:05:00.000Z",
-        "end": "2026-08-17T16:09:00.000Z"
-      },
       {
         "title": "The bold and the beautiful",
         "start": "2026-08-17T16:09:00.000Z",
@@ -248,16 +208,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Droomhuis op het platteland",
-        "start": "2026-08-17T14:51:00.000Z",
-        "end": "2026-08-17T15:50:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-17T15:50:00.000Z",
-        "end": "2026-08-17T16:05:00.000Z"
-      },
-      {
         "title": "Nieuws van de dag",
         "start": "2026-08-17T16:05:00.000Z",
         "end": "2026-08-17T16:59:00.000Z"
@@ -271,6 +221,11 @@
         "title": "Overtreders",
         "start": "2026-08-17T17:00:00.000Z",
         "end": "2026-08-17T18:00:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-17T18:00:00.000Z",
+        "end": "2026-08-17T19:18:00.000Z"
       }
     ],
     "NET 5": [
@@ -296,16 +251,6 @@
       }
     ],
     "Veronica": [
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-17T16:00:00.000Z",
-        "end": "2026-08-17T16:16:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-17T16:16:00.000Z",
-        "end": "2026-08-17T16:18:00.000Z"
-      },
       {
         "title": "Two and a half men",
         "start": "2026-08-17T16:18:00.000Z",
@@ -335,19 +280,14 @@
         "title": "The big bang theory",
         "start": "2026-08-17T17:37:00.000Z",
         "end": "2026-08-17T18:02:00.000Z"
+      },
+      {
+        "title": "The big bang theory",
+        "start": "2026-08-17T18:02:00.000Z",
+        "end": "2026-08-17T18:26:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Verified Live",
-        "start": "2026-08-17T15:45:00.000Z",
-        "end": "2026-08-17T15:55:00.000Z"
-      },
-      {
-        "title": "Discover the World",
-        "start": "2026-08-17T15:55:00.000Z",
-        "end": "2026-08-17T16:00:00.000Z"
-      },
       {
         "title": "Verified Live",
         "start": "2026-08-17T16:00:00.000Z",
@@ -367,14 +307,14 @@
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-17T17:30:00.000Z",
         "end": "2026-08-17T18:00:00.000Z"
+      },
+      {
+        "title": "The World Today with Maryam Moshiri",
+        "start": "2026-08-17T18:00:00.000Z",
+        "end": "2026-08-17T18:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "One World",
-        "start": "2026-08-17T15:00:00.000Z",
-        "end": "2026-08-17T16:00:00.000Z"
-      },
       {
         "title": "One World",
         "start": "2026-08-17T16:00:00.000Z",
@@ -389,6 +329,11 @@
         "title": "Amanpour",
         "start": "2026-08-17T17:00:00.000Z",
         "end": "2026-08-17T18:00:00.000Z"
+      },
+      {
+        "title": "Isa Soares Tonight",
+        "start": "2026-08-17T18:00:00.000Z",
+        "end": "2026-08-17T19:00:00.000Z"
       }
     ]
   }
