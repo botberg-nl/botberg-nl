@@ -1,48 +1,8 @@
 {
-  "generated": "2026-08-16T23:43:02.290Z",
+  "generated": "2026-08-17T01:05:38.178Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-16T23:35:00.000Z",
-        "end": "2026-08-16T23:50:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-16T23:50:00.000Z",
-        "end": "2026-08-16T23:55:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-16T23:55:00.000Z",
-        "end": "2026-08-17T00:05:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-17T00:05:00.000Z",
-        "end": "2026-08-17T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-17T00:15:00.000Z",
-        "end": "2026-08-17T00:20:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-17T00:20:00.000Z",
-        "end": "2026-08-17T00:25:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-17T00:25:00.000Z",
-        "end": "2026-08-17T00:45:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-17T00:45:00.000Z",
-        "end": "2026-08-17T00:50:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-17T00:50:00.000Z",
@@ -57,26 +17,11 @@
     "NPO 2": [
       {
         "title": "Nieuwsuur",
-        "start": "2026-08-16T23:10:00.000Z",
-        "end": "2026-08-16T23:45:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
         "start": "2026-08-16T23:45:00.000Z",
         "end": "2026-08-17T05:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "NPO Doc: Misslukt",
-        "start": "2026-08-16T23:40:00.000Z",
-        "end": "2026-08-17T00:10:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-08-17T00:10:00.000Z",
-        "end": "2026-08-17T00:40:00.000Z"
-      },
       {
         "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-08-17T00:40:00.000Z",
@@ -91,36 +36,11 @@
     "RTL 4": [
       {
         "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-16T23:25:00.000Z",
-        "end": "2026-08-16T23:53:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-16T23:53:00.000Z",
-        "end": "2026-08-17T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-17T00:02:00.000Z",
-        "end": "2026-08-17T00:03:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-17T00:03:00.000Z",
-        "end": "2026-08-17T00:05:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-17T00:05:00.000Z",
         "end": "2026-08-17T03:58:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-16T23:14:00.000Z",
-        "end": "2026-08-17T00:10:00.000Z"
-      },
       {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-17T00:10:00.000Z",
@@ -130,26 +50,11 @@
     "RTL 7": [
       {
         "title": "Teleshop",
-        "start": "2026-08-16T23:33:00.000Z",
-        "end": "2026-08-16T23:55:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-16T23:55:00.000Z",
-        "end": "2026-08-17T00:10:00.000Z"
-      },
-      {
-        "title": "Teleshop",
         "start": "2026-08-17T00:10:00.000Z",
         "end": "2026-08-17T04:00:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-16T23:15:00.000Z",
-        "end": "2026-08-17T00:01:00.000Z"
-      },
       {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-17T00:01:00.000Z",
@@ -166,21 +71,11 @@
     "NET 5": [
       {
         "title": "Loop: Hart van Nederland",
-        "start": "2026-08-16T23:21:00.000Z",
-        "end": "2026-08-17T00:41:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
         "start": "2026-08-17T00:41:00.000Z",
         "end": "2026-08-17T03:51:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Alien: Covenant\n                        Horror",
-        "start": "2026-08-16T23:35:00.000Z",
-        "end": "2026-08-16T23:51:00.000Z"
-      },
       {
         "title": "Pause",
         "start": "2026-08-16T23:51:00.000Z",
@@ -190,24 +85,14 @@
         "title": "Hart van Nederland",
         "start": "2026-08-17T01:30:00.000Z",
         "end": "2026-08-17T02:49:00.000Z"
+      },
+      {
+        "title": "Pause",
+        "start": "2026-08-17T02:49:00.000Z",
+        "end": "2026-08-17T03:19:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Newscast",
-        "start": "2026-08-16T23:30:00.000Z",
-        "end": "2026-08-17T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-17T00:00:00.000Z",
-        "end": "2026-08-17T00:30:00.000Z"
-      },
-      {
-        "title": "The Media Show",
-        "start": "2026-08-17T00:30:00.000Z",
-        "end": "2026-08-17T01:00:00.000Z"
-      },
       {
         "title": "Newsday",
         "start": "2026-08-17T01:00:00.000Z",
@@ -217,23 +102,58 @@
         "title": "Business Today",
         "start": "2026-08-17T01:30:00.000Z",
         "end": "2026-08-17T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-17T01:45:00.000Z",
+        "end": "2026-08-17T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-17T02:00:00.000Z",
+        "end": "2026-08-17T02:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-17T02:30:00.000Z",
+        "end": "2026-08-17T02:45:00.000Z"
+      },
+      {
+        "title": "Asia Specific",
+        "start": "2026-08-17T02:45:00.000Z",
+        "end": "2026-08-17T03:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-17T03:00:00.000Z",
+        "end": "2026-08-17T03:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Erin Burnett OutFront",
-        "start": "2026-08-16T23:00:00.000Z",
-        "end": "2026-08-17T00:00:00.000Z"
-      },
-      {
-        "title": "Anderson Cooper 360",
-        "start": "2026-08-17T00:00:00.000Z",
-        "end": "2026-08-17T01:00:00.000Z"
-      },
-      {
         "title": "The Source with Kaitlan Collins",
         "start": "2026-08-17T01:00:00.000Z",
         "end": "2026-08-17T02:00:00.000Z"
+      },
+      {
+        "title": "CNN NewsNight",
+        "start": "2026-08-17T02:00:00.000Z",
+        "end": "2026-08-17T02:30:00.000Z"
+      },
+      {
+        "title": "CNN Marketplace Europe",
+        "start": "2026-08-17T02:30:00.000Z",
+        "end": "2026-08-17T02:45:00.000Z"
+      },
+      {
+        "title": "Marketplace Asia",
+        "start": "2026-08-17T02:45:00.000Z",
+        "end": "2026-08-17T03:00:00.000Z"
+      },
+      {
+        "title": "Laura Coates Live",
+        "start": "2026-08-17T03:00:00.000Z",
+        "end": "2026-08-17T03:30:00.000Z"
       }
     ]
   }
