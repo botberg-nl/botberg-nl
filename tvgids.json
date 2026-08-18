@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-18T19:24:39.004Z",
+  "generated": "2026-08-18T19:48:39.479Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Van onschatbare waarde",
-        "start": "2026-08-18T18:35:00.000Z",
-        "end": "2026-08-18T19:25:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-18T19:25:00.000Z",
@@ -22,19 +17,14 @@
         "title": "NOS Journaal",
         "start": "2026-08-18T21:10:00.000Z",
         "end": "2026-08-18T21:40:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-18T21:40:00.000Z",
+        "end": "2026-08-18T22:40:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Dit is de kwestie",
-        "start": "2026-08-18T19:20:00.000Z",
-        "end": "2026-08-18T19:45:00.000Z"
-      },
-      {
-        "title": "Nu te zien!",
-        "start": "2026-08-18T19:45:00.000Z",
-        "end": "2026-08-18T19:46:00.000Z"
-      },
       {
         "title": "EO Metterdaad",
         "start": "2026-08-18T19:46:00.000Z",
@@ -49,6 +39,21 @@
         "title": "Het zaad van Karbaat",
         "start": "2026-08-18T20:40:00.000Z",
         "end": "2026-08-18T21:25:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-08-18T21:25:00.000Z",
+        "end": "2026-08-18T21:30:00.000Z"
+      },
+      {
+        "title": "De wilde ruimte",
+        "start": "2026-08-18T21:30:00.000Z",
+        "end": "2026-08-18T21:35:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-18T21:35:00.000Z",
+        "end": "2026-08-18T22:15:00.000Z"
       }
     ],
     "NPO 3": [
@@ -108,6 +113,16 @@
         "title": "RTL Weer",
         "start": "2026-08-18T21:23:00.000Z",
         "end": "2026-08-18T21:25:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-18T21:25:00.000Z",
+        "end": "2026-08-18T21:27:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-18T21:27:00.000Z",
+        "end": "2026-08-18T22:10:00.000Z"
       }
     ],
     "RTL 5": [
@@ -130,6 +145,11 @@
         "title": "24 uur in de ER",
         "start": "2026-08-18T20:30:00.000Z",
         "end": "2026-08-18T21:35:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-18T21:35:00.000Z",
+        "end": "2026-08-18T21:56:00.000Z"
       }
     ],
     "RTL 7": [
@@ -179,6 +199,16 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-18T21:24:00.000Z",
         "end": "2026-08-18T21:27:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-18T21:27:00.000Z",
+        "end": "2026-08-18T21:43:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-18T21:43:00.000Z",
+        "end": "2026-08-18T22:18:00.000Z"
       }
     ],
     "SBS 6": [
@@ -196,14 +226,19 @@
         "title": "Shownieuws",
         "start": "2026-08-18T20:49:00.000Z",
         "end": "2026-08-18T21:45:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-18T21:45:00.000Z",
+        "end": "2026-08-18T21:46:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-18T21:46:00.000Z",
+        "end": "2026-08-18T22:50:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Sullivan's Crossing",
-        "start": "2026-08-18T18:30:00.000Z",
-        "end": "2026-08-18T19:28:00.000Z"
-      },
       {
         "title": "Sullivan's Crossing",
         "start": "2026-08-18T19:28:00.000Z",
@@ -240,14 +275,19 @@
         "title": "Speed Racer\n                        Actie",
         "start": "2026-08-18T20:29:00.000Z",
         "end": "2026-08-18T21:25:00.000Z"
+      },
+      {
+        "title": "Mad Max: Fury Road\n                        Actie",
+        "start": "2026-08-18T21:25:00.000Z",
+        "end": "2026-08-18T21:33:00.000Z"
+      },
+      {
+        "title": "Torque\n                        Actie",
+        "start": "2026-08-18T21:33:00.000Z",
+        "end": "2026-08-18T23:10:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context USA",
-        "start": "2026-08-18T19:00:00.000Z",
-        "end": "2026-08-18T19:30:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-18T19:30:00.000Z",
@@ -272,6 +312,11 @@
         "title": "BBC World News America",
         "start": "2026-08-18T21:00:00.000Z",
         "end": "2026-08-18T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-18T21:30:00.000Z",
+        "end": "2026-08-18T22:00:00.000Z"
       }
     ],
     "CNN": [
@@ -294,6 +339,11 @@
         "title": "The Lead with Jake Tapper",
         "start": "2026-08-18T21:00:00.000Z",
         "end": "2026-08-18T21:30:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-08-18T21:30:00.000Z",
+        "end": "2026-08-18T22:00:00.000Z"
       }
     ]
   }
