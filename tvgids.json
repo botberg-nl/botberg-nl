@@ -1,28 +1,8 @@
 {
-  "generated": "2026-08-18T07:34:45.058Z",
+  "generated": "2026-08-18T08:32:42.125Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-18T07:30:00.000Z",
-        "end": "2026-08-18T07:45:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-18T07:45:00.000Z",
-        "end": "2026-08-18T08:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-18T08:00:00.000Z",
-        "end": "2026-08-18T08:15:00.000Z"
-      },
-      {
-        "title": "Nederland in beweging",
-        "start": "2026-08-18T08:15:00.000Z",
-        "end": "2026-08-18T08:30:00.000Z"
-      },
       {
         "title": "MAX geheugentrainer",
         "start": "2026-08-18T08:30:00.000Z",
@@ -47,24 +27,39 @@
         "title": "NOS Journaal",
         "start": "2026-08-18T09:25:00.000Z",
         "end": "2026-08-18T09:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-18T09:35:00.000Z",
+        "end": "2026-08-18T09:45:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-18T09:45:00.000Z",
+        "end": "2026-08-18T10:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-18T10:00:00.000Z",
+        "end": "2026-08-18T10:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-18T10:15:00.000Z",
+        "end": "2026-08-18T10:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-18T10:20:00.000Z",
+        "end": "2026-08-18T10:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-18T10:30:00.000Z",
+        "end": "2026-08-18T10:40:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Zentijd",
-        "start": "2026-08-18T07:30:00.000Z",
-        "end": "2026-08-18T07:50:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-18T07:50:00.000Z",
-        "end": "2026-08-18T07:55:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-18T07:55:00.000Z",
-        "end": "2026-08-18T08:30:00.000Z"
-      },
       {
         "title": "Noord-Zuid-Oost-West",
         "start": "2026-08-18T08:30:00.000Z",
@@ -79,49 +74,29 @@
         "title": "BinnensteBuiten",
         "start": "2026-08-18T09:10:00.000Z",
         "end": "2026-08-18T09:45:00.000Z"
+      },
+      {
+        "title": "Andere tijden kort",
+        "start": "2026-08-18T09:45:00.000Z",
+        "end": "2026-08-18T10:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-18T10:00:00.000Z",
+        "end": "2026-08-18T10:15:00.000Z"
+      },
+      {
+        "title": "Kook mee met MAX",
+        "start": "2026-08-18T10:15:00.000Z",
+        "end": "2026-08-18T10:30:00.000Z"
+      },
+      {
+        "title": "Andere tijden kort",
+        "start": "2026-08-18T10:30:00.000Z",
+        "end": "2026-08-18T10:45:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Het muizenhuis",
-        "start": "2026-08-18T07:25:00.000Z",
-        "end": "2026-08-18T07:35:00.000Z"
-      },
-      {
-        "title": "Ellie de olifant",
-        "start": "2026-08-18T07:35:00.000Z",
-        "end": "2026-08-18T07:40:00.000Z"
-      },
-      {
-        "title": "Nijntjes avonturen, groot en klein",
-        "start": "2026-08-18T07:40:00.000Z",
-        "end": "2026-08-18T07:45:00.000Z"
-      },
-      {
-        "title": "Ta-daaa!",
-        "start": "2026-08-18T07:45:00.000Z",
-        "end": "2026-08-18T07:50:00.000Z"
-      },
-      {
-        "title": "Ta-daaa!",
-        "start": "2026-08-18T07:50:00.000Z",
-        "end": "2026-08-18T07:58:00.000Z"
-      },
-      {
-        "title": "Kiri & Lou",
-        "start": "2026-08-18T07:58:00.000Z",
-        "end": "2026-08-18T08:05:00.000Z"
-      },
-      {
-        "title": "Bumba",
-        "start": "2026-08-18T08:05:00.000Z",
-        "end": "2026-08-18T08:10:00.000Z"
-      },
-      {
-        "title": "Maan en ik",
-        "start": "2026-08-18T08:10:00.000Z",
-        "end": "2026-08-18T08:30:00.000Z"
-      },
       {
         "title": "Simon",
         "start": "2026-08-18T08:30:00.000Z",
@@ -186,24 +161,39 @@
         "title": "Pop papierstad",
         "start": "2026-08-18T09:25:00.000Z",
         "end": "2026-08-18T09:35:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-18T09:35:00.000Z",
+        "end": "2026-08-18T09:50:00.000Z"
+      },
+      {
+        "title": "Het zandkasteel",
+        "start": "2026-08-18T09:50:00.000Z",
+        "end": "2026-08-18T10:05:00.000Z"
+      },
+      {
+        "title": "Sarah en Eend",
+        "start": "2026-08-18T10:05:00.000Z",
+        "end": "2026-08-18T10:15:00.000Z"
+      },
+      {
+        "title": "Pipi, Pupu & Rosemarie",
+        "start": "2026-08-18T10:15:00.000Z",
+        "end": "2026-08-18T10:20:00.000Z"
+      },
+      {
+        "title": "Tip de muis",
+        "start": "2026-08-18T10:20:00.000Z",
+        "end": "2026-08-18T10:30:00.000Z"
+      },
+      {
+        "title": "Wickie de Viking",
+        "start": "2026-08-18T10:30:00.000Z",
+        "end": "2026-08-18T10:40:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-18T07:30:00.000Z",
-        "end": "2026-08-18T07:50:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-18T07:50:00.000Z",
-        "end": "2026-08-18T07:59:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-18T07:59:00.000Z",
-        "end": "2026-08-18T08:00:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-18T08:00:00.000Z",
@@ -218,14 +208,19 @@
         "title": "Eigen huis & tuin: Lekker leven",
         "start": "2026-08-18T08:45:00.000Z",
         "end": "2026-08-18T09:45:00.000Z"
+      },
+      {
+        "title": "Ik weet er alles van!",
+        "start": "2026-08-18T09:45:00.000Z",
+        "end": "2026-08-18T09:46:00.000Z"
+      },
+      {
+        "title": "Ik weet er alles van!",
+        "start": "2026-08-18T09:46:00.000Z",
+        "end": "2026-08-18T10:42:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-18T05:08:00.000Z",
-        "end": "2026-08-18T08:30:00.000Z"
-      },
       {
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-18T08:30:00.000Z",
@@ -235,24 +230,14 @@
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-18T08:38:00.000Z",
         "end": "2026-08-18T10:30:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-18T10:30:00.000Z",
+        "end": "2026-08-18T10:38:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Vis tv",
-        "start": "2026-08-18T07:30:00.000Z",
-        "end": "2026-08-18T08:00:00.000Z"
-      },
-      {
-        "title": "Vis tv",
-        "start": "2026-08-18T08:00:00.000Z",
-        "end": "2026-08-18T08:30:00.000Z"
-      },
-      {
-        "title": "Stop! Politie",
-        "start": "2026-08-18T08:30:00.000Z",
-        "end": "2026-08-18T08:31:00.000Z"
-      },
       {
         "title": "Stop! Politie",
         "start": "2026-08-18T08:31:00.000Z",
@@ -267,6 +252,31 @@
         "title": "Idioten op de weg",
         "start": "2026-08-18T09:30:00.000Z",
         "end": "2026-08-18T09:54:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-18T09:54:00.000Z",
+        "end": "2026-08-18T09:55:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-18T09:55:00.000Z",
+        "end": "2026-08-18T10:00:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-18T10:00:00.000Z",
+        "end": "2026-08-18T10:25:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-18T10:25:00.000Z",
+        "end": "2026-08-18T10:30:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-18T10:30:00.000Z",
+        "end": "2026-08-18T10:54:00.000Z"
       }
     ],
     "RTL 8": [
@@ -283,26 +293,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Hart van Nederland",
-        "start": "2026-08-18T07:30:00.000Z",
-        "end": "2026-08-18T07:45:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-18T07:45:00.000Z",
-        "end": "2026-08-18T08:00:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-18T08:00:00.000Z",
-        "end": "2026-08-18T08:15:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-18T08:15:00.000Z",
-        "end": "2026-08-18T08:30:00.000Z"
-      },
-      {
         "title": "Shownieuws",
         "start": "2026-08-18T08:30:00.000Z",
         "end": "2026-08-18T09:20:00.000Z"
@@ -316,6 +306,16 @@
         "title": "Nieuws van de dag",
         "start": "2026-08-18T09:23:00.000Z",
         "end": "2026-08-18T10:20:00.000Z"
+      },
+      {
+        "title": "Man bijt hond",
+        "start": "2026-08-18T10:20:00.000Z",
+        "end": "2026-08-18T10:23:00.000Z"
+      },
+      {
+        "title": "De Oranjezomer",
+        "start": "2026-08-18T10:23:00.000Z",
+        "end": "2026-08-18T10:40:00.000Z"
       }
     ],
     "NET 5": [
@@ -333,6 +333,16 @@
         "title": "Million dollar listing NY",
         "start": "2026-08-18T09:30:00.000Z",
         "end": "2026-08-18T10:29:00.000Z"
+      },
+      {
+        "title": "Million dollar listing NY",
+        "start": "2026-08-18T10:29:00.000Z",
+        "end": "2026-08-18T10:30:00.000Z"
+      },
+      {
+        "title": "Million dollar listing NY",
+        "start": "2026-08-18T10:30:00.000Z",
+        "end": "2026-08-18T11:25:00.000Z"
       }
     ],
     "Veronica": [
@@ -343,16 +353,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-18T07:30:00.000Z",
-        "end": "2026-08-18T08:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-18T08:00:00.000Z",
-        "end": "2026-08-18T08:30:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-18T08:30:00.000Z",
@@ -372,19 +372,19 @@
         "title": "BBC news",
         "start": "2026-08-18T09:30:00.000Z",
         "end": "2026-08-18T10:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-18T10:00:00.000Z",
+        "end": "2026-08-18T10:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-18T10:30:00.000Z",
+        "end": "2026-08-18T10:45:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-18T07:00:00.000Z",
-        "end": "2026-08-18T07:45:00.000Z"
-      },
-      {
-        "title": "World Sport",
-        "start": "2026-08-18T07:45:00.000Z",
-        "end": "2026-08-18T08:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-18T08:00:00.000Z",
@@ -394,6 +394,11 @@
         "title": "CNN Headline Express",
         "start": "2026-08-18T09:00:00.000Z",
         "end": "2026-08-18T10:00:00.000Z"
+      },
+      {
+        "title": "CNN This Morning",
+        "start": "2026-08-18T10:00:00.000Z",
+        "end": "2026-08-18T11:00:00.000Z"
       }
     ]
   }
