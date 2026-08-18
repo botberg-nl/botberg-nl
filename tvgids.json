@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-18T19:48:39.479Z",
+  "generated": "2026-08-18T20:19:42.198Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Triviant",
-        "start": "2026-08-18T19:25:00.000Z",
-        "end": "2026-08-18T20:15:00.000Z"
-      },
       {
         "title": "Goedenavond Nederland",
         "start": "2026-08-18T20:15:00.000Z",
@@ -25,11 +20,6 @@
       }
     ],
     "NPO 2": [
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-08-18T19:46:00.000Z",
-        "end": "2026-08-18T20:00:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-18T20:00:00.000Z",
@@ -54,6 +44,11 @@
         "title": "Nieuwsuur",
         "start": "2026-08-18T21:35:00.000Z",
         "end": "2026-08-18T22:15:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-18T22:15:00.000Z",
+        "end": "2026-08-18T22:30:00.000Z"
       }
     ],
     "NPO 3": [
@@ -76,6 +71,21 @@
         "title": "Yorkshire Air 999",
         "start": "2026-08-18T21:20:00.000Z",
         "end": "2026-08-18T21:50:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-18T21:50:00.000Z",
+        "end": "2026-08-18T22:10:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-18T22:10:00.000Z",
+        "end": "2026-08-18T22:15:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-18T22:15:00.000Z",
+        "end": "2026-08-18T22:45:00.000Z"
       }
     ],
     "RTL 4": [
@@ -123,19 +133,19 @@
         "title": "RTL Boulevard",
         "start": "2026-08-18T21:27:00.000Z",
         "end": "2026-08-18T22:10:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-18T22:10:00.000Z",
+        "end": "2026-08-18T22:12:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-18T22:12:00.000Z",
+        "end": "2026-08-18T22:56:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Scam alert: Trap er niet in!",
-        "start": "2026-08-18T18:30:00.000Z",
-        "end": "2026-08-18T19:56:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-18T19:56:00.000Z",
-        "end": "2026-08-18T20:19:00.000Z"
-      },
       {
         "title": "RTL Weer",
         "start": "2026-08-18T20:19:00.000Z",
@@ -150,6 +160,26 @@
         "title": "112 vandaag",
         "start": "2026-08-18T21:35:00.000Z",
         "end": "2026-08-18T21:56:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-18T21:56:00.000Z",
+        "end": "2026-08-18T21:58:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-18T21:58:00.000Z",
+        "end": "2026-08-18T22:00:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-18T22:00:00.000Z",
+        "end": "2026-08-18T22:02:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-18T22:02:00.000Z",
+        "end": "2026-08-18T23:07:00.000Z"
       }
     ],
     "RTL 7": [
@@ -175,11 +205,6 @@
       }
     ],
     "RTL 8": [
-      {
-        "title": "Kopen zonder kijken",
-        "start": "2026-08-18T18:27:00.000Z",
-        "end": "2026-08-18T19:54:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-18T19:54:00.000Z",
@@ -209,6 +234,11 @@
         "title": "Crime scene investigation",
         "start": "2026-08-18T21:43:00.000Z",
         "end": "2026-08-18T22:18:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-18T22:18:00.000Z",
+        "end": "2026-08-18T22:45:00.000Z"
       }
     ],
     "SBS 6": [
@@ -263,6 +293,11 @@
         "title": "Chicago fire",
         "start": "2026-08-18T21:24:00.000Z",
         "end": "2026-08-18T22:12:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-18T22:12:00.000Z",
+        "end": "2026-08-18T22:35:00.000Z"
       }
     ],
     "Veronica": [
@@ -289,11 +324,6 @@
     ],
     "BBC News": [
       {
-        "title": "The Context USA",
-        "start": "2026-08-18T19:30:00.000Z",
-        "end": "2026-08-18T20:00:00.000Z"
-      },
-      {
         "title": "The Context with Christian Fraser",
         "start": "2026-08-18T20:00:00.000Z",
         "end": "2026-08-18T20:30:00.000Z"
@@ -317,14 +347,14 @@
         "title": "Newsnight",
         "start": "2026-08-18T21:30:00.000Z",
         "end": "2026-08-18T22:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-18T22:00:00.000Z",
+        "end": "2026-08-18T23:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "What We Know with Max Foster",
-        "start": "2026-08-18T19:00:00.000Z",
-        "end": "2026-08-18T20:00:00.000Z"
-      },
       {
         "title": "Quest Means Business",
         "start": "2026-08-18T20:00:00.000Z",
@@ -344,6 +374,11 @@
         "title": "World Sport",
         "start": "2026-08-18T21:30:00.000Z",
         "end": "2026-08-18T22:00:00.000Z"
+      },
+      {
+        "title": "The Brief with Jim Sciutto",
+        "start": "2026-08-18T22:00:00.000Z",
+        "end": "2026-08-18T23:00:00.000Z"
       }
     ]
   }
