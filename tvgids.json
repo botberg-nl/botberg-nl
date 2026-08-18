@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-18T22:19:29.489Z",
+  "generated": "2026-08-18T22:49:51.647Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-18T21:40:00.000Z",
-        "end": "2026-08-18T22:35:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-18T22:35:00.000Z",
-        "end": "2026-08-18T22:40:00.000Z"
-      },
       {
         "title": "Het verhaal van Nederland - Oranje-Nassau",
         "start": "2026-08-18T22:40:00.000Z",
@@ -42,19 +32,14 @@
         "title": "NOS Journaal",
         "start": "2026-08-19T00:15:00.000Z",
         "end": "2026-08-19T00:25:00.000Z"
+      },
+      {
+        "title": "NOS Journaal met gebarentaal",
+        "start": "2026-08-19T00:25:00.000Z",
+        "end": "2026-08-19T00:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-18T22:15:00.000Z",
-        "end": "2026-08-18T22:20:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-18T22:20:00.000Z",
-        "end": "2026-08-18T22:30:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-18T22:30:00.000Z",
@@ -72,11 +57,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Yorkshire Air 999",
-        "start": "2026-08-18T22:10:00.000Z",
-        "end": "2026-08-18T22:45:00.000Z"
-      },
       {
         "title": "Op safari",
         "start": "2026-08-18T22:45:00.000Z",
@@ -111,6 +91,16 @@
         "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-08-19T00:10:00.000Z",
         "end": "2026-08-19T00:25:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-19T00:25:00.000Z",
+        "end": "2026-08-19T00:35:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-19T00:35:00.000Z",
+        "end": "2026-08-19T04:01:00.000Z"
       }
     ],
     "RTL 4": [
@@ -231,11 +221,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Crime scene investigation",
-        "start": "2026-08-18T22:18:00.000Z",
-        "end": "2026-08-18T22:45:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-18T22:45:00.000Z",
         "end": "2026-08-18T23:10:00.000Z"
@@ -290,11 +275,6 @@
     ],
     "NET 5": [
       {
-        "title": "House rules Australië",
-        "start": "2026-08-18T22:12:00.000Z",
-        "end": "2026-08-18T22:45:00.000Z"
-      },
-      {
         "title": "Cedar Cove",
         "start": "2026-08-18T22:45:00.000Z",
         "end": "2026-08-18T23:05:00.000Z"
@@ -318,6 +298,11 @@
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-19T00:04:00.000Z",
         "end": "2026-08-19T00:29:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-19T00:29:00.000Z",
+        "end": "2026-08-19T03:57:00.000Z"
       }
     ],
     "Veronica": [
@@ -372,6 +357,11 @@
         "title": "BBC news",
         "start": "2026-08-19T00:00:00.000Z",
         "end": "2026-08-19T00:30:00.000Z"
+      },
+      {
+        "title": "Inside China's EV Revolution",
+        "start": "2026-08-19T00:30:00.000Z",
+        "end": "2026-08-19T01:00:00.000Z"
       }
     ],
     "CNN": [
