@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T17:23:44.835Z",
+  "generated": "2026-08-19T17:49:41.439Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -22,6 +22,11 @@
         "title": "Triviant",
         "start": "2026-08-19T19:20:00.000Z",
         "end": "2026-08-19T19:25:00.000Z"
+      },
+      {
+        "title": "Triviant",
+        "start": "2026-08-19T19:25:00.000Z",
+        "end": "2026-08-19T20:10:00.000Z"
       }
     ],
     "NPO 2": [
@@ -49,14 +54,14 @@
         "title": "Dit is de kwestie",
         "start": "2026-08-19T19:20:00.000Z",
         "end": "2026-08-19T19:47:00.000Z"
+      },
+      {
+        "title": "EO Metterdaad",
+        "start": "2026-08-19T19:47:00.000Z",
+        "end": "2026-08-19T20:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Jeugdjournaal",
-        "start": "2026-08-19T17:00:00.000Z",
-        "end": "2026-08-19T17:25:00.000Z"
-      },
       {
         "title": "Meiden die rijden",
         "start": "2026-08-19T17:25:00.000Z",
@@ -75,79 +80,49 @@
     ],
     "RTL 4": [
       {
-        "title": "RTL Boulevard",
-        "start": "2026-08-19T16:35:00.000Z",
-        "end": "2026-08-19T17:30:00.000Z"
-      },
-      {
         "title": "RTL Nieuws",
         "start": "2026-08-19T17:30:00.000Z",
-        "end": "2026-08-19T17:55:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-19T17:55:00.000Z",
         "end": "2026-08-19T17:57:00.000Z"
       },
       {
         "title": "RTL Weer",
         "start": "2026-08-19T17:57:00.000Z",
-        "end": "2026-08-19T18:00:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-19T18:00:00.000Z",
         "end": "2026-08-19T18:01:00.000Z"
       },
       {
         "title": "Ik weet er alles van!",
         "start": "2026-08-19T18:01:00.000Z",
+        "end": "2026-08-19T18:53:00.000Z"
+      },
+      {
+        "title": "B&B vol liefde",
+        "start": "2026-08-19T18:53:00.000Z",
         "end": "2026-08-19T18:54:00.000Z"
       },
       {
         "title": "B&B vol liefde",
         "start": "2026-08-19T18:54:00.000Z",
-        "end": "2026-08-19T18:55:00.000Z"
-      },
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-19T18:55:00.000Z",
-        "end": "2026-08-19T20:20:00.000Z"
+        "end": "2026-08-19T20:18:00.000Z"
       }
     ],
     "RTL 5": [
       {
         "title": "De Pfaff's",
-        "start": "2026-08-19T17:08:00.000Z",
-        "end": "2026-08-19T17:45:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-19T17:45:00.000Z",
-        "end": "2026-08-19T17:48:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
         "start": "2026-08-19T17:48:00.000Z",
-        "end": "2026-08-19T18:30:00.000Z"
+        "end": "2026-08-19T18:29:00.000Z"
       },
       {
         "title": "St. Willebrord: Het mirakel van Brabant",
+        "start": "2026-08-19T18:29:00.000Z",
+        "end": "2026-08-19T18:30:00.000Z"
+      },
+      {
+        "title": "Scam alert: Trap er niet in!",
         "start": "2026-08-19T18:30:00.000Z",
-        "end": "2026-08-19T19:55:00.000Z"
+        "end": "2026-08-19T19:56:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-19T16:34:00.000Z",
-        "end": "2026-08-19T17:29:00.000Z"
-      },
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-19T17:29:00.000Z",
-        "end": "2026-08-19T17:30:00.000Z"
-      },
       {
         "title": "Pawn stars hit the road",
         "start": "2026-08-19T17:30:00.000Z",
@@ -161,16 +136,6 @@
     ],
     "RTL 8": [
       {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-19T17:03:00.000Z",
-        "end": "2026-08-19T17:25:00.000Z"
-      },
-      {
-        "title": "Bed & breakfast België",
-        "start": "2026-08-19T17:25:00.000Z",
-        "end": "2026-08-19T17:31:00.000Z"
-      },
-      {
         "title": "Bed & breakfast België",
         "start": "2026-08-19T17:31:00.000Z",
         "end": "2026-08-19T18:25:00.000Z"
@@ -178,7 +143,7 @@
       {
         "title": "Vera",
         "start": "2026-08-19T18:25:00.000Z",
-        "end": "2026-08-19T20:25:00.000Z"
+        "end": "2026-08-19T20:23:00.000Z"
       }
     ],
     "SBS 6": [
@@ -210,16 +175,6 @@
     ],
     "NET 5": [
       {
-        "title": "MasterChef Australië",
-        "start": "2026-08-19T16:25:00.000Z",
-        "end": "2026-08-19T17:27:00.000Z"
-      },
-      {
-        "title": "Het blok Australië",
-        "start": "2026-08-19T17:27:00.000Z",
-        "end": "2026-08-19T17:28:00.000Z"
-      },
-      {
         "title": "Het blok Australië",
         "start": "2026-08-19T17:28:00.000Z",
         "end": "2026-08-19T18:30:00.000Z"
@@ -228,41 +183,46 @@
         "title": "The rookie",
         "start": "2026-08-19T18:30:00.000Z",
         "end": "2026-08-19T19:27:00.000Z"
+      },
+      {
+        "title": "The rookie",
+        "start": "2026-08-19T19:27:00.000Z",
+        "end": "2026-08-19T19:28:00.000Z"
+      },
+      {
+        "title": "Sullivan's Crossing",
+        "start": "2026-08-19T19:28:00.000Z",
+        "end": "2026-08-19T20:26:00.000Z"
       }
     ],
     "Veronica": [
       {
-        "title": "Two and a half men",
-        "start": "2026-08-19T17:10:00.000Z",
-        "end": "2026-08-19T17:35:00.000Z"
-      },
-      {
         "title": "The big bang theory",
-        "start": "2026-08-19T17:35:00.000Z",
+        "start": "2026-08-19T17:37:00.000Z",
         "end": "2026-08-19T18:00:00.000Z"
       },
       {
         "title": "The big bang theory",
         "start": "2026-08-19T18:00:00.000Z",
+        "end": "2026-08-19T18:02:00.000Z"
+      },
+      {
+        "title": "The big bang theory",
+        "start": "2026-08-19T18:02:00.000Z",
         "end": "2026-08-19T18:25:00.000Z"
       },
       {
         "title": "Le Mans '66\n                        Actie",
         "start": "2026-08-19T18:25:00.000Z",
-        "end": "2026-08-19T18:30:00.000Z"
+        "end": "2026-08-19T18:28:00.000Z"
       },
       {
         "title": "Rush\n                        Biografie",
-        "start": "2026-08-19T18:30:00.000Z",
-        "end": "2026-08-19T20:50:00.000Z"
+        "start": "2026-08-19T18:28:00.000Z",
+        "end": "2026-08-19T20:49:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-19T17:00:00.000Z",
-        "end": "2026-08-19T17:30:00.000Z"
-      },
       {
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-19T17:30:00.000Z",
@@ -287,6 +247,11 @@
         "title": "The Context USA",
         "start": "2026-08-19T19:00:00.000Z",
         "end": "2026-08-19T19:30:00.000Z"
+      },
+      {
+        "title": "The Context USA",
+        "start": "2026-08-19T19:30:00.000Z",
+        "end": "2026-08-19T20:00:00.000Z"
       }
     ],
     "CNN": [
