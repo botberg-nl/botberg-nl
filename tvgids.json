@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-19T23:19:37.754Z",
+  "generated": "2026-08-19T23:45:48.139Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-19T23:00:00.000Z",
-        "end": "2026-08-19T23:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-19T23:30:00.000Z",
-        "end": "2026-08-19T23:35:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-19T23:35:00.000Z",
@@ -53,11 +43,6 @@
     ],
     "NPO 3": [
       {
-        "title": "Meiden die rijden",
-        "start": "2026-08-19T23:00:00.000Z",
-        "end": "2026-08-19T23:30:00.000Z"
-      },
-      {
         "title": "Louis Theroux: Transgender kids",
         "start": "2026-08-19T23:30:00.000Z",
         "end": "2026-08-19T23:55:00.000Z"
@@ -79,16 +64,6 @@
       }
     ],
     "RTL 4": [
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-19T23:19:00.000Z",
-        "end": "2026-08-19T23:22:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-19T23:22:00.000Z",
-        "end": "2026-08-19T23:25:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-19T23:25:00.000Z",
@@ -119,16 +94,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Pawn stars",
-        "start": "2026-08-19T23:02:00.000Z",
-        "end": "2026-08-19T23:25:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-19T23:25:00.000Z",
-        "end": "2026-08-19T23:30:00.000Z"
-      },
-      {
         "title": "Teleshop",
         "start": "2026-08-19T23:30:00.000Z",
         "end": "2026-08-19T23:51:00.000Z"
@@ -147,16 +112,6 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-08-19T23:02:00.000Z",
-        "end": "2026-08-19T23:20:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-19T23:20:00.000Z",
-        "end": "2026-08-19T23:40:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-08-19T23:40:00.000Z",
         "end": "2026-08-20T00:00:00.000Z"
       },
@@ -172,21 +127,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-19T22:59:00.000Z",
-        "end": "2026-08-19T23:37:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-19T23:37:00.000Z",
-        "end": "2026-08-19T23:40:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-19T23:40:00.000Z",
-        "end": "2026-08-19T23:44:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-19T23:44:00.000Z",
@@ -212,11 +152,6 @@
     ],
     "Veronica": [
       {
-        "title": "Star Trek Beyond\n                        Sciencefiction",
-        "start": "2026-08-19T23:15:00.000Z",
-        "end": "2026-08-19T23:28:00.000Z"
-      },
-      {
         "title": "Hart van Nederland",
         "start": "2026-08-19T23:28:00.000Z",
         "end": "2026-08-19T23:47:00.000Z"
@@ -233,11 +168,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-19T23:00:00.000Z",
-        "end": "2026-08-19T23:30:00.000Z"
-      },
       {
         "title": "Talking Business",
         "start": "2026-08-19T23:30:00.000Z",
@@ -257,6 +187,16 @@
         "title": "BBC news",
         "start": "2026-08-20T01:00:00.000Z",
         "end": "2026-08-20T01:30:00.000Z"
+      },
+      {
+        "title": "Streets of Gold: Mumbai",
+        "start": "2026-08-20T01:30:00.000Z",
+        "end": "2026-08-20T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-20T01:45:00.000Z",
+        "end": "2026-08-20T02:00:00.000Z"
       }
     ],
     "CNN": [
