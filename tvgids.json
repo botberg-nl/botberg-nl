@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-19T18:30:34.622Z",
+  "generated": "2026-08-19T19:21:56.310Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-19T18:00:00.000Z",
-        "end": "2026-08-19T18:35:00.000Z"
-      },
-      {
-        "title": "Het familiediner",
-        "start": "2026-08-19T18:35:00.000Z",
-        "end": "2026-08-19T19:20:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-19T19:20:00.000Z",
@@ -32,19 +22,14 @@
         "title": "Goedenavond Nederland",
         "start": "2026-08-19T20:15:00.000Z",
         "end": "2026-08-19T21:10:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-19T21:10:00.000Z",
+        "end": "2026-08-19T21:35:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Verzamelaarsfortuin",
-        "start": "2026-08-19T18:25:00.000Z",
-        "end": "2026-08-19T19:15:00.000Z"
-      },
-      {
-        "title": "Zembla",
-        "start": "2026-08-19T19:15:00.000Z",
-        "end": "2026-08-19T19:20:00.000Z"
-      },
       {
         "title": "Dit is de kwestie",
         "start": "2026-08-19T19:20:00.000Z",
@@ -59,6 +44,16 @@
         "title": "Nieuwsuur",
         "start": "2026-08-19T20:00:00.000Z",
         "end": "2026-08-19T20:40:00.000Z"
+      },
+      {
+        "title": "De kist",
+        "start": "2026-08-19T20:40:00.000Z",
+        "end": "2026-08-19T21:10:00.000Z"
+      },
+      {
+        "title": "De Joodse wereld",
+        "start": "2026-08-19T21:10:00.000Z",
+        "end": "2026-08-19T21:25:00.000Z"
       }
     ],
     "NPO 3": [
@@ -71,19 +66,19 @@
         "title": "Louis Theroux: Transgender kids",
         "start": "2026-08-19T20:00:00.000Z",
         "end": "2026-08-19T21:10:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-19T21:10:00.000Z",
+        "end": "2026-08-19T21:15:00.000Z"
+      },
+      {
+        "title": "A beautiful mess",
+        "start": "2026-08-19T21:15:00.000Z",
+        "end": "2026-08-19T21:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-19T18:01:00.000Z",
-        "end": "2026-08-19T18:53:00.000Z"
-      },
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-19T18:53:00.000Z",
-        "end": "2026-08-19T18:54:00.000Z"
-      },
       {
         "title": "B&B vol liefde",
         "start": "2026-08-19T18:54:00.000Z",
@@ -98,6 +93,21 @@
         "title": "Nederland met vakantie",
         "start": "2026-08-19T20:22:00.000Z",
         "end": "2026-08-19T21:06:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-19T21:06:00.000Z",
+        "end": "2026-08-19T21:10:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-19T21:10:00.000Z",
+        "end": "2026-08-19T21:21:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-19T21:21:00.000Z",
+        "end": "2026-08-19T21:23:00.000Z"
       }
     ],
     "RTL 5": [
@@ -120,6 +130,11 @@
         "title": "24 uur in de ER",
         "start": "2026-08-19T20:30:00.000Z",
         "end": "2026-08-19T20:31:00.000Z"
+      },
+      {
+        "title": "24 uur in de ER",
+        "start": "2026-08-19T20:31:00.000Z",
+        "end": "2026-08-19T21:35:00.000Z"
       }
     ],
     "RTL 7": [
@@ -127,6 +142,21 @@
         "title": "Live Free or Die Hard\n                        Actie",
         "start": "2026-08-19T18:27:00.000Z",
         "end": "2026-08-19T20:57:00.000Z"
+      },
+      {
+        "title": "Reprisal\n                        Actie",
+        "start": "2026-08-19T20:57:00.000Z",
+        "end": "2026-08-19T21:01:00.000Z"
+      },
+      {
+        "title": "10 Minutes Gone\n                        Actie",
+        "start": "2026-08-19T21:01:00.000Z",
+        "end": "2026-08-19T21:04:00.000Z"
+      },
+      {
+        "title": "Gasoline Alley\n                        Actie",
+        "start": "2026-08-19T21:04:00.000Z",
+        "end": "2026-08-19T22:52:00.000Z"
       }
     ],
     "RTL 8": [
@@ -144,19 +174,14 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-19T20:28:00.000Z",
         "end": "2026-08-19T21:17:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-19T21:17:00.000Z",
+        "end": "2026-08-19T21:24:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-19T18:00:00.000Z",
-        "end": "2026-08-19T19:18:00.000Z"
-      },
-      {
-        "title": "De Oranjezomer",
-        "start": "2026-08-19T19:18:00.000Z",
-        "end": "2026-08-19T19:21:00.000Z"
-      },
       {
         "title": "De Oranjezomer",
         "start": "2026-08-19T19:21:00.000Z",
@@ -166,6 +191,21 @@
         "title": "Hart van Nederland",
         "start": "2026-08-19T20:30:00.000Z",
         "end": "2026-08-19T20:33:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-19T20:33:00.000Z",
+        "end": "2026-08-19T20:49:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-19T20:49:00.000Z",
+        "end": "2026-08-19T20:52:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-19T20:52:00.000Z",
+        "end": "2026-08-19T21:45:00.000Z"
       }
     ],
     "NET 5": [
@@ -188,6 +228,16 @@
         "title": "Station 19",
         "start": "2026-08-19T20:26:00.000Z",
         "end": "2026-08-19T20:35:00.000Z"
+      },
+      {
+        "title": "Sister Act 2: Back in the Habit\n                        Komedie",
+        "start": "2026-08-19T20:35:00.000Z",
+        "end": "2026-08-19T21:21:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-08-19T21:21:00.000Z",
+        "end": "2026-08-19T21:24:00.000Z"
       }
     ],
     "Veronica": [
@@ -195,19 +245,14 @@
         "title": "Rush\n                        Biografie",
         "start": "2026-08-19T18:28:00.000Z",
         "end": "2026-08-19T20:49:00.000Z"
+      },
+      {
+        "title": "Driven\n                        Komedie",
+        "start": "2026-08-19T20:49:00.000Z",
+        "end": "2026-08-19T21:25:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-19T18:30:00.000Z",
-        "end": "2026-08-19T18:55:00.000Z"
-      },
-      {
-        "title": "Talking Movies",
-        "start": "2026-08-19T18:55:00.000Z",
-        "end": "2026-08-19T19:00:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-19T19:00:00.000Z",
@@ -227,14 +272,19 @@
         "title": "The Context with Christian Fraser",
         "start": "2026-08-19T20:30:00.000Z",
         "end": "2026-08-19T20:55:00.000Z"
+      },
+      {
+        "title": "Talking Movies",
+        "start": "2026-08-19T20:55:00.000Z",
+        "end": "2026-08-19T21:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-19T21:00:00.000Z",
+        "end": "2026-08-19T21:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Isa Soares Tonight",
-        "start": "2026-08-19T18:00:00.000Z",
-        "end": "2026-08-19T19:00:00.000Z"
-      },
       {
         "title": "What We Know with Max Foster",
         "start": "2026-08-19T19:00:00.000Z",
@@ -244,6 +294,16 @@
         "title": "Quest Means Business",
         "start": "2026-08-19T20:00:00.000Z",
         "end": "2026-08-19T20:45:00.000Z"
+      },
+      {
+        "title": "CNN Marketplace Europe",
+        "start": "2026-08-19T20:45:00.000Z",
+        "end": "2026-08-19T21:00:00.000Z"
+      },
+      {
+        "title": "The Lead with Jake Tapper",
+        "start": "2026-08-19T21:00:00.000Z",
+        "end": "2026-08-19T21:30:00.000Z"
       }
     ]
   }
