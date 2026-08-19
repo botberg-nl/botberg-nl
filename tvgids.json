@@ -1,28 +1,8 @@
 {
-  "generated": "2026-08-19T15:03:41.226Z",
+  "generated": "2026-08-19T15:56:50.920Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Journaal in makkelijke taal",
-        "start": "2026-08-19T15:00:00.000Z",
-        "end": "2026-08-19T15:15:00.000Z"
-      },
-      {
-        "title": "Op safari",
-        "start": "2026-08-19T15:15:00.000Z",
-        "end": "2026-08-19T15:45:00.000Z"
-      },
-      {
-        "title": "Politieke partijen",
-        "start": "2026-08-19T15:45:00.000Z",
-        "end": "2026-08-19T15:47:00.000Z"
-      },
-      {
-        "title": "Politieke partijen",
-        "start": "2026-08-19T15:47:00.000Z",
-        "end": "2026-08-19T15:50:00.000Z"
-      },
       {
         "title": "Sport - WK hockey (m): Nederland - Japan",
         "start": "2026-08-19T15:50:00.000Z",
@@ -35,16 +15,6 @@
       }
     ],
     "NPO 2": [
-      {
-        "title": "Politieke partijen",
-        "start": "2026-08-19T14:57:00.000Z",
-        "end": "2026-08-19T15:05:00.000Z"
-      },
-      {
-        "title": "MAX geheugentrainer",
-        "start": "2026-08-19T15:05:00.000Z",
-        "end": "2026-08-19T15:20:00.000Z"
-      },
       {
         "title": "Noord-Zuid-Oost-West",
         "start": "2026-08-19T15:20:00.000Z",
@@ -64,19 +34,19 @@
         "title": "EenVandaag",
         "start": "2026-08-19T16:30:00.000Z",
         "end": "2026-08-19T17:05:00.000Z"
+      },
+      {
+        "title": "BinnensteBuiten",
+        "start": "2026-08-19T17:05:00.000Z",
+        "end": "2026-08-19T17:50:00.000Z"
+      },
+      {
+        "title": "Met het mes op tafel",
+        "start": "2026-08-19T17:50:00.000Z",
+        "end": "2026-08-19T18:25:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Brugklas marathon",
-        "start": "2026-08-19T14:55:00.000Z",
-        "end": "2026-08-19T15:50:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-08-19T15:50:00.000Z",
-        "end": "2026-08-19T15:55:00.000Z"
-      },
       {
         "title": "Shaun het schaap",
         "start": "2026-08-19T15:55:00.000Z",
@@ -111,6 +81,11 @@
         "title": "Jeugdjournaal",
         "start": "2026-08-19T17:00:00.000Z",
         "end": "2026-08-19T17:25:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-19T17:25:00.000Z",
+        "end": "2026-08-19T18:20:00.000Z"
       }
     ],
     "RTL 4": [
@@ -148,36 +123,46 @@
         "title": "RTL Boulevard",
         "start": "2026-08-19T16:35:00.000Z",
         "end": "2026-08-19T17:30:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-19T17:30:00.000Z",
+        "end": "2026-08-19T17:55:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-19T17:55:00.000Z",
+        "end": "2026-08-19T17:57:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Politie in het holst van de nacht",
-        "start": "2026-08-19T14:45:00.000Z",
-        "end": "2026-08-19T15:35:00.000Z"
-      },
-      {
-        "title": "Scam alert: Trap er niet in!",
-        "start": "2026-08-19T15:35:00.000Z",
-        "end": "2026-08-19T15:44:00.000Z"
-      },
-      {
         "title": "Meldkamer Utrecht Centraal",
         "start": "2026-08-19T15:44:00.000Z",
         "end": "2026-08-19T17:05:00.000Z"
+      },
+      {
+        "title": "De Pfaff's",
+        "start": "2026-08-19T17:05:00.000Z",
+        "end": "2026-08-19T17:08:00.000Z"
+      },
+      {
+        "title": "De Pfaff's",
+        "start": "2026-08-19T17:08:00.000Z",
+        "end": "2026-08-19T17:45:00.000Z"
+      },
+      {
+        "title": "De Pfaff's",
+        "start": "2026-08-19T17:45:00.000Z",
+        "end": "2026-08-19T17:48:00.000Z"
+      },
+      {
+        "title": "De Pfaff's",
+        "start": "2026-08-19T17:48:00.000Z",
+        "end": "2026-08-19T18:30:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-19T15:00:00.000Z",
-        "end": "2026-08-19T15:48:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-19T15:48:00.000Z",
-        "end": "2026-08-19T15:55:00.000Z"
-      },
       {
         "title": "Pawn stars",
         "start": "2026-08-19T15:55:00.000Z",
@@ -202,14 +187,19 @@
         "title": "Pawn stars",
         "start": "2026-08-19T16:34:00.000Z",
         "end": "2026-08-19T17:29:00.000Z"
+      },
+      {
+        "title": "Pawn stars hit the road",
+        "start": "2026-08-19T17:29:00.000Z",
+        "end": "2026-08-19T17:30:00.000Z"
+      },
+      {
+        "title": "Pawn stars hit the road",
+        "start": "2026-08-19T17:30:00.000Z",
+        "end": "2026-08-19T18:27:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Undercover boss USA",
-        "start": "2026-08-19T15:00:00.000Z",
-        "end": "2026-08-19T15:13:00.000Z"
-      },
       {
         "title": "Undercover boss USA",
         "start": "2026-08-19T15:13:00.000Z",
@@ -244,14 +234,19 @@
         "title": "The bold and the beautiful - The beginning",
         "start": "2026-08-19T17:03:00.000Z",
         "end": "2026-08-19T17:25:00.000Z"
+      },
+      {
+        "title": "Bed & breakfast België",
+        "start": "2026-08-19T17:25:00.000Z",
+        "end": "2026-08-19T17:31:00.000Z"
+      },
+      {
+        "title": "Bed & breakfast België",
+        "start": "2026-08-19T17:31:00.000Z",
+        "end": "2026-08-19T18:25:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-19T14:52:00.000Z",
-        "end": "2026-08-19T15:50:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-19T15:50:00.000Z",
@@ -275,16 +270,6 @@
     ],
     "NET 5": [
       {
-        "title": "House rules Australië",
-        "start": "2026-08-19T14:25:00.000Z",
-        "end": "2026-08-19T15:25:00.000Z"
-      },
-      {
-        "title": "Een plek onder de zon",
-        "start": "2026-08-19T15:25:00.000Z",
-        "end": "2026-08-19T15:28:00.000Z"
-      },
-      {
         "title": "Een plek onder de zon",
         "start": "2026-08-19T15:28:00.000Z",
         "end": "2026-08-19T16:25:00.000Z"
@@ -293,6 +278,16 @@
         "title": "MasterChef Australië",
         "start": "2026-08-19T16:25:00.000Z",
         "end": "2026-08-19T17:25:00.000Z"
+      },
+      {
+        "title": "Het blok Australië",
+        "start": "2026-08-19T17:25:00.000Z",
+        "end": "2026-08-19T17:28:00.000Z"
+      },
+      {
+        "title": "Het blok Australië",
+        "start": "2026-08-19T17:28:00.000Z",
+        "end": "2026-08-19T18:30:00.000Z"
       }
     ],
     "Veronica": [
@@ -320,24 +315,24 @@
         "title": "Two and a half men",
         "start": "2026-08-19T16:45:00.000Z",
         "end": "2026-08-19T17:08:00.000Z"
+      },
+      {
+        "title": "Two and a half men",
+        "start": "2026-08-19T17:08:00.000Z",
+        "end": "2026-08-19T17:10:00.000Z"
+      },
+      {
+        "title": "Two and a half men",
+        "start": "2026-08-19T17:10:00.000Z",
+        "end": "2026-08-19T17:35:00.000Z"
+      },
+      {
+        "title": "The big bang theory",
+        "start": "2026-08-19T17:35:00.000Z",
+        "end": "2026-08-19T18:00:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Verified Live",
-        "start": "2026-08-19T15:00:00.000Z",
-        "end": "2026-08-19T15:30:00.000Z"
-      },
-      {
-        "title": "Business Today",
-        "start": "2026-08-19T15:30:00.000Z",
-        "end": "2026-08-19T15:45:00.000Z"
-      },
-      {
-        "title": "Verified Live",
-        "start": "2026-08-19T15:45:00.000Z",
-        "end": "2026-08-19T15:55:00.000Z"
-      },
       {
         "title": "Talking Movies",
         "start": "2026-08-19T15:55:00.000Z",
@@ -357,14 +352,14 @@
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-19T17:00:00.000Z",
         "end": "2026-08-19T17:30:00.000Z"
+      },
+      {
+        "title": "The World Today with Maryam Moshiri",
+        "start": "2026-08-19T17:30:00.000Z",
+        "end": "2026-08-19T18:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "One World",
-        "start": "2026-08-19T15:00:00.000Z",
-        "end": "2026-08-19T15:30:00.000Z"
-      },
       {
         "title": "CNN Creators",
         "start": "2026-08-19T15:30:00.000Z",
