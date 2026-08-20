@@ -1,28 +1,8 @@
 {
-  "generated": "2026-08-19T23:45:48.139Z",
+  "generated": "2026-08-20T01:03:54.222Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-19T23:35:00.000Z",
-        "end": "2026-08-19T23:55:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-19T23:55:00.000Z",
-        "end": "2026-08-20T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-20T00:15:00.000Z",
-        "end": "2026-08-20T00:25:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-20T00:25:00.000Z",
-        "end": "2026-08-20T00:50:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-20T00:50:00.000Z",
@@ -43,37 +23,12 @@
     ],
     "NPO 3": [
       {
-        "title": "Louis Theroux: Transgender kids",
-        "start": "2026-08-19T23:30:00.000Z",
-        "end": "2026-08-19T23:55:00.000Z"
-      },
-      {
-        "title": "Op safari",
-        "start": "2026-08-19T23:55:00.000Z",
-        "end": "2026-08-20T00:30:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-08-20T00:30:00.000Z",
-        "end": "2026-08-20T00:35:00.000Z"
-      },
-      {
         "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-08-20T00:35:00.000Z",
         "end": "2026-08-20T03:25:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-19T23:25:00.000Z",
-        "end": "2026-08-20T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-20T00:02:00.000Z",
-        "end": "2026-08-20T00:04:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-20T00:04:00.000Z",
@@ -83,11 +38,6 @@
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-19T23:10:00.000Z",
-        "end": "2026-08-20T00:10:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-20T00:10:00.000Z",
         "end": "2026-08-20T03:30:00.000Z"
       }
@@ -95,31 +45,11 @@
     "RTL 7": [
       {
         "title": "Teleshop",
-        "start": "2026-08-19T23:30:00.000Z",
-        "end": "2026-08-19T23:51:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-19T23:51:00.000Z",
-        "end": "2026-08-20T00:10:00.000Z"
-      },
-      {
-        "title": "Teleshop",
         "start": "2026-08-20T00:10:00.000Z",
         "end": "2026-08-20T04:00:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-19T23:40:00.000Z",
-        "end": "2026-08-20T00:00:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-20T00:00:00.000Z",
-        "end": "2026-08-20T00:01:00.000Z"
-      },
       {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-20T00:01:00.000Z",
@@ -135,16 +65,6 @@
     ],
     "NET 5": [
       {
-        "title": "So help me Todd",
-        "start": "2026-08-19T23:14:00.000Z",
-        "end": "2026-08-20T00:00:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-20T00:00:00.000Z",
-        "end": "2026-08-20T00:04:00.000Z"
-      },
-      {
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-20T00:04:00.000Z",
         "end": "2026-08-20T03:59:00.000Z"
@@ -153,36 +73,16 @@
     "Veronica": [
       {
         "title": "Hart van Nederland",
-        "start": "2026-08-19T23:28:00.000Z",
-        "end": "2026-08-19T23:47:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-08-19T23:47:00.000Z",
-        "end": "2026-08-20T01:02:00.000Z"
+        "start": "2026-08-20T01:02:00.000Z",
+        "end": "2026-08-20T01:50:00.000Z"
       },
       {
         "title": "Hart van Nederland",
-        "start": "2026-08-20T01:02:00.000Z",
-        "end": "2026-08-20T01:50:00.000Z"
+        "start": "2026-08-20T01:50:00.000Z",
+        "end": "2026-08-20T03:09:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Talking Business",
-        "start": "2026-08-19T23:30:00.000Z",
-        "end": "2026-08-20T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-20T00:00:00.000Z",
-        "end": "2026-08-20T00:30:00.000Z"
-      },
-      {
-        "title": "Tech Now",
-        "start": "2026-08-20T00:30:00.000Z",
-        "end": "2026-08-20T01:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-20T01:00:00.000Z",
@@ -197,23 +97,43 @@
         "title": "BBC Sport",
         "start": "2026-08-20T01:45:00.000Z",
         "end": "2026-08-20T02:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-20T02:00:00.000Z",
+        "end": "2026-08-20T02:30:00.000Z"
+      },
+      {
+        "title": "The Engineers",
+        "start": "2026-08-20T02:30:00.000Z",
+        "end": "2026-08-20T02:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-20T02:45:00.000Z",
+        "end": "2026-08-20T03:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-20T03:00:00.000Z",
+        "end": "2026-08-20T03:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Erin Burnett OutFront",
-        "start": "2026-08-19T23:00:00.000Z",
-        "end": "2026-08-20T00:00:00.000Z"
-      },
-      {
-        "title": "Anderson Cooper 360",
-        "start": "2026-08-20T00:00:00.000Z",
-        "end": "2026-08-20T01:00:00.000Z"
-      },
-      {
         "title": "The Source with Kaitlan Collins",
         "start": "2026-08-20T01:00:00.000Z",
         "end": "2026-08-20T02:00:00.000Z"
+      },
+      {
+        "title": "CNN NewsNight",
+        "start": "2026-08-20T02:00:00.000Z",
+        "end": "2026-08-20T03:00:00.000Z"
+      },
+      {
+        "title": "Laura Coates Live",
+        "start": "2026-08-20T03:00:00.000Z",
+        "end": "2026-08-20T04:00:00.000Z"
       }
     ]
   }
