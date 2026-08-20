@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-20T19:56:26.352Z",
+  "generated": "2026-08-20T20:27:58.490Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Triviant",
-        "start": "2026-08-20T19:30:00.000Z",
-        "end": "2026-08-20T20:10:00.000Z"
-      },
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-20T20:10:00.000Z",
-        "end": "2026-08-20T20:20:00.000Z"
-      },
       {
         "title": "Studio sport voetbal",
         "start": "2026-08-20T20:20:00.000Z",
@@ -46,11 +36,6 @@
     ],
     "NPO 2": [
       {
-        "title": "Zembla",
-        "start": "2026-08-20T19:15:00.000Z",
-        "end": "2026-08-20T20:00:00.000Z"
-      },
-      {
         "title": "Nieuwsuur",
         "start": "2026-08-20T20:00:00.000Z",
         "end": "2026-08-20T20:40:00.000Z"
@@ -69,14 +54,34 @@
         "title": "Nieuwsuur",
         "start": "2026-08-20T21:35:00.000Z",
         "end": "2026-08-20T22:05:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-08-20T22:05:00.000Z",
+        "end": "2026-08-20T22:10:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-08-20T22:10:00.000Z",
+        "end": "2026-08-20T22:15:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-20T22:15:00.000Z",
+        "end": "2026-08-20T22:20:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-20T22:20:00.000Z",
+        "end": "2026-08-20T22:25:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-20T22:25:00.000Z",
+        "end": "2026-08-20T23:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Lowlands",
-        "start": "2026-08-20T19:55:00.000Z",
-        "end": "2026-08-20T20:00:00.000Z"
-      },
       {
         "title": "Louis Theroux: Transgender kids",
         "start": "2026-08-20T20:00:00.000Z",
@@ -91,19 +96,19 @@
         "title": "A beautiful mess",
         "start": "2026-08-20T21:15:00.000Z",
         "end": "2026-08-20T22:00:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-20T22:00:00.000Z",
+        "end": "2026-08-20T22:10:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-20T22:10:00.000Z",
+        "end": "2026-08-20T22:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Secret duets",
-        "start": "2026-08-20T18:56:00.000Z",
-        "end": "2026-08-20T20:18:00.000Z"
-      },
-      {
-        "title": "Nederland met vakantie",
-        "start": "2026-08-20T20:18:00.000Z",
-        "end": "2026-08-20T20:23:00.000Z"
-      },
       {
         "title": "Nederland met vakantie",
         "start": "2026-08-20T20:23:00.000Z",
@@ -138,24 +143,19 @@
         "title": "RTL Boulevard",
         "start": "2026-08-20T21:27:00.000Z",
         "end": "2026-08-20T22:09:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-20T22:09:00.000Z",
+        "end": "2026-08-20T22:12:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-20T22:12:00.000Z",
+        "end": "2026-08-20T22:56:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-20T19:56:00.000Z",
-        "end": "2026-08-20T19:58:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-20T19:58:00.000Z",
-        "end": "2026-08-20T20:19:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-20T20:19:00.000Z",
-        "end": "2026-08-20T20:21:00.000Z"
-      },
       {
         "title": "RTL Weer",
         "start": "2026-08-20T20:21:00.000Z",
@@ -180,14 +180,24 @@
         "title": "112 vandaag",
         "start": "2026-08-20T21:39:00.000Z",
         "end": "2026-08-20T21:58:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-20T21:58:00.000Z",
+        "end": "2026-08-20T22:02:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-20T22:02:00.000Z",
+        "end": "2026-08-20T22:07:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-20T22:07:00.000Z",
+        "end": "2026-08-20T23:07:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "A Good Day to Die Hard\n                        Actie",
-        "start": "2026-08-20T18:27:00.000Z",
-        "end": "2026-08-20T20:27:00.000Z"
-      },
       {
         "title": "American Siege\n                        Actie",
         "start": "2026-08-20T20:27:00.000Z",
@@ -202,14 +212,14 @@
         "title": "Gasoline Alley\n                        Actie",
         "start": "2026-08-20T21:04:00.000Z",
         "end": "2026-08-20T22:17:00.000Z"
+      },
+      {
+        "title": "Pawn stars hit the road",
+        "start": "2026-08-20T22:17:00.000Z",
+        "end": "2026-08-20T22:55:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Poirot",
-        "start": "2026-08-20T19:27:00.000Z",
-        "end": "2026-08-20T20:23:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-20T20:23:00.000Z",
@@ -234,6 +244,16 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-20T21:26:00.000Z",
         "end": "2026-08-20T22:00:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-20T22:00:00.000Z",
+        "end": "2026-08-20T22:18:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-20T22:18:00.000Z",
+        "end": "2026-08-20T23:02:00.000Z"
       }
     ],
     "SBS 6": [
@@ -275,11 +295,6 @@
     ],
     "NET 5": [
       {
-        "title": "Fire country",
-        "start": "2026-08-20T19:28:00.000Z",
-        "end": "2026-08-20T20:26:00.000Z"
-      },
-      {
         "title": "Chicago fire",
         "start": "2026-08-20T20:26:00.000Z",
         "end": "2026-08-20T21:21:00.000Z"
@@ -298,6 +313,21 @@
         "title": "Chicago fire",
         "start": "2026-08-20T21:24:00.000Z",
         "end": "2026-08-20T22:08:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-20T22:08:00.000Z",
+        "end": "2026-08-20T22:09:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-20T22:09:00.000Z",
+        "end": "2026-08-20T22:12:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-20T22:12:00.000Z",
+        "end": "2026-08-20T23:11:00.000Z"
       }
     ],
     "Veronica": [
@@ -320,14 +350,14 @@
         "title": "Torque\n                        Actie",
         "start": "2026-08-20T21:33:00.000Z",
         "end": "2026-08-20T22:15:00.000Z"
+      },
+      {
+        "title": "Overtreders USA",
+        "start": "2026-08-20T22:15:00.000Z",
+        "end": "2026-08-20T23:05:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context USA",
-        "start": "2026-08-20T19:30:00.000Z",
-        "end": "2026-08-20T20:00:00.000Z"
-      },
       {
         "title": "The Context with Christian Fraser",
         "start": "2026-08-20T20:00:00.000Z",
@@ -352,14 +382,14 @@
         "title": "Newsnight",
         "start": "2026-08-20T21:30:00.000Z",
         "end": "2026-08-20T22:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-20T22:00:00.000Z",
+        "end": "2026-08-20T22:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "What We Know with Max Foster",
-        "start": "2026-08-20T19:00:00.000Z",
-        "end": "2026-08-20T20:00:00.000Z"
-      },
       {
         "title": "Quest Means Business",
         "start": "2026-08-20T20:00:00.000Z",
@@ -374,6 +404,11 @@
         "title": "World Sport",
         "start": "2026-08-20T21:30:00.000Z",
         "end": "2026-08-20T22:00:00.000Z"
+      },
+      {
+        "title": "The Brief with Jim Sciutto",
+        "start": "2026-08-20T22:00:00.000Z",
+        "end": "2026-08-20T23:00:00.000Z"
       }
     ]
   }
