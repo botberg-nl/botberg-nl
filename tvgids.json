@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T17:00:23.226Z",
+  "generated": "2026-08-20T17:55:47.562Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -17,19 +17,19 @@
         "title": "Muziekfeest op het plein",
         "start": "2026-08-20T18:35:00.000Z",
         "end": "2026-08-20T19:20:00.000Z"
+      },
+      {
+        "title": "Triviant",
+        "start": "2026-08-20T19:20:00.000Z",
+        "end": "2026-08-20T19:30:00.000Z"
+      },
+      {
+        "title": "Triviant",
+        "start": "2026-08-20T19:30:00.000Z",
+        "end": "2026-08-20T20:10:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-20T16:30:00.000Z",
-        "end": "2026-08-20T17:05:00.000Z"
-      },
-      {
-        "title": "BinnensteBuiten",
-        "start": "2026-08-20T17:05:00.000Z",
-        "end": "2026-08-20T17:50:00.000Z"
-      },
       {
         "title": "Wildernis onder water",
         "start": "2026-08-20T17:50:00.000Z",
@@ -39,14 +39,19 @@
         "title": "Nederland op film",
         "start": "2026-08-20T18:25:00.000Z",
         "end": "2026-08-20T19:05:00.000Z"
+      },
+      {
+        "title": "Patience",
+        "start": "2026-08-20T19:05:00.000Z",
+        "end": "2026-08-20T19:15:00.000Z"
+      },
+      {
+        "title": "Zembla",
+        "start": "2026-08-20T19:15:00.000Z",
+        "end": "2026-08-20T20:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Jeugdjournaal",
-        "start": "2026-08-20T17:00:00.000Z",
-        "end": "2026-08-20T17:25:00.000Z"
-      },
       {
         "title": "Meiden die rijden",
         "start": "2026-08-20T17:25:00.000Z",
@@ -61,14 +66,14 @@
         "title": "Freddie Mercury: The final act",
         "start": "2026-08-20T18:25:00.000Z",
         "end": "2026-08-20T19:55:00.000Z"
+      },
+      {
+        "title": "Lowlands",
+        "start": "2026-08-20T19:55:00.000Z",
+        "end": "2026-08-20T20:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-20T16:35:00.000Z",
-        "end": "2026-08-20T17:30:00.000Z"
-      },
       {
         "title": "RTL Nieuws",
         "start": "2026-08-20T17:30:00.000Z",
@@ -102,26 +107,6 @@
     ],
     "RTL 5": [
       {
-        "title": "St. Willebrord: Het mirakel van Brabant",
-        "start": "2026-08-20T15:47:00.000Z",
-        "end": "2026-08-20T17:05:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-20T17:05:00.000Z",
-        "end": "2026-08-20T17:11:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-20T17:11:00.000Z",
-        "end": "2026-08-20T17:47:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-20T17:47:00.000Z",
-        "end": "2026-08-20T17:50:00.000Z"
-      },
-      {
         "title": "De Pfaff's",
         "start": "2026-08-20T17:50:00.000Z",
         "end": "2026-08-20T18:29:00.000Z"
@@ -139,11 +124,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Pawn stars",
-        "start": "2026-08-20T16:36:00.000Z",
-        "end": "2026-08-20T17:30:00.000Z"
-      },
-      {
         "title": "Pawn stars hit the road",
         "start": "2026-08-20T17:30:00.000Z",
         "end": "2026-08-20T18:27:00.000Z"
@@ -151,30 +131,10 @@
       {
         "title": "A Good Day to Die Hard\n                        Actie",
         "start": "2026-08-20T18:27:00.000Z",
-        "end": "2026-08-20T20:25:00.000Z"
+        "end": "2026-08-20T20:27:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-20T16:36:00.000Z",
-        "end": "2026-08-20T17:03:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-20T17:03:00.000Z",
-        "end": "2026-08-20T17:04:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-20T17:04:00.000Z",
-        "end": "2026-08-20T17:30:00.000Z"
-      },
-      {
-        "title": "Bed & breakfast België",
-        "start": "2026-08-20T17:30:00.000Z",
-        "end": "2026-08-20T17:31:00.000Z"
-      },
       {
         "title": "Bed & breakfast België",
         "start": "2026-08-20T17:31:00.000Z",
@@ -184,6 +144,11 @@
         "title": "Poirot",
         "start": "2026-08-20T18:25:00.000Z",
         "end": "2026-08-20T19:27:00.000Z"
+      },
+      {
+        "title": "Poirot",
+        "start": "2026-08-20T19:27:00.000Z",
+        "end": "2026-08-20T20:23:00.000Z"
       }
     ],
     "SBS 6": [
@@ -196,19 +161,19 @@
         "title": "De bondgenoten",
         "start": "2026-08-20T18:00:00.000Z",
         "end": "2026-08-20T19:18:00.000Z"
+      },
+      {
+        "title": "De Oranjezomer",
+        "start": "2026-08-20T19:18:00.000Z",
+        "end": "2026-08-20T19:21:00.000Z"
+      },
+      {
+        "title": "De Oranjezomer",
+        "start": "2026-08-20T19:21:00.000Z",
+        "end": "2026-08-20T20:30:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-20T16:25:00.000Z",
-        "end": "2026-08-20T17:27:00.000Z"
-      },
-      {
-        "title": "Het blok Australië",
-        "start": "2026-08-20T17:27:00.000Z",
-        "end": "2026-08-20T17:28:00.000Z"
-      },
       {
         "title": "Het blok Australië",
         "start": "2026-08-20T17:28:00.000Z",
@@ -218,24 +183,19 @@
         "title": "Fire country",
         "start": "2026-08-20T18:30:00.000Z",
         "end": "2026-08-20T19:27:00.000Z"
+      },
+      {
+        "title": "The rookie",
+        "start": "2026-08-20T19:27:00.000Z",
+        "end": "2026-08-20T19:28:00.000Z"
+      },
+      {
+        "title": "Fire country",
+        "start": "2026-08-20T19:28:00.000Z",
+        "end": "2026-08-20T20:26:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-20T16:44:00.000Z",
-        "end": "2026-08-20T17:10:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-20T17:10:00.000Z",
-        "end": "2026-08-20T17:35:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-20T17:35:00.000Z",
-        "end": "2026-08-20T17:37:00.000Z"
-      },
       {
         "title": "The big bang theory",
         "start": "2026-08-20T17:37:00.000Z",
@@ -265,11 +225,6 @@
     "BBC News": [
       {
         "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-20T17:00:00.000Z",
-        "end": "2026-08-20T17:30:00.000Z"
-      },
-      {
-        "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-20T17:30:00.000Z",
         "end": "2026-08-20T18:00:00.000Z"
       },
@@ -292,6 +247,11 @@
         "title": "The Context USA",
         "start": "2026-08-20T19:00:00.000Z",
         "end": "2026-08-20T19:30:00.000Z"
+      },
+      {
+        "title": "The Context USA",
+        "start": "2026-08-20T19:30:00.000Z",
+        "end": "2026-08-20T20:00:00.000Z"
       }
     ],
     "CNN": [
