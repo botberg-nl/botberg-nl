@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-20T20:27:58.490Z",
+  "generated": "2026-08-20T20:57:19.224Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Studio sport voetbal",
-        "start": "2026-08-20T20:20:00.000Z",
-        "end": "2026-08-20T20:45:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-20T20:45:00.000Z",
@@ -32,14 +27,19 @@
         "title": "Triviant",
         "start": "2026-08-20T21:45:00.000Z",
         "end": "2026-08-20T22:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-20T22:35:00.000Z",
+        "end": "2026-08-20T22:40:00.000Z"
+      },
+      {
+        "title": "Het verhaal van Nederland - Oranje-Nassau",
+        "start": "2026-08-20T22:40:00.000Z",
+        "end": "2026-08-20T23:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-20T20:00:00.000Z",
-        "end": "2026-08-20T20:40:00.000Z"
-      },
       {
         "title": "Midsomer murders",
         "start": "2026-08-20T20:40:00.000Z",
@@ -106,6 +106,11 @@
         "title": "Yorkshire Air 999",
         "start": "2026-08-20T22:10:00.000Z",
         "end": "2026-08-20T22:55:00.000Z"
+      },
+      {
+        "title": "Op safari",
+        "start": "2026-08-20T22:55:00.000Z",
+        "end": "2026-08-20T23:00:00.000Z"
       }
     ],
     "RTL 4": [
@@ -153,19 +158,14 @@
         "title": "Nederland met vakantie",
         "start": "2026-08-20T22:12:00.000Z",
         "end": "2026-08-20T22:56:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-20T22:56:00.000Z",
+        "end": "2026-08-20T22:58:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-20T20:21:00.000Z",
-        "end": "2026-08-20T20:31:00.000Z"
-      },
-      {
-        "title": "24 uur in de ER",
-        "start": "2026-08-20T20:31:00.000Z",
-        "end": "2026-08-20T20:34:00.000Z"
-      },
       {
         "title": "24 uur in de ER",
         "start": "2026-08-20T20:34:00.000Z",
@@ -217,14 +217,14 @@
         "title": "Pawn stars hit the road",
         "start": "2026-08-20T22:17:00.000Z",
         "end": "2026-08-20T22:55:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-20T22:55:00.000Z",
+        "end": "2026-08-20T23:02:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-20T20:23:00.000Z",
-        "end": "2026-08-20T20:32:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-20T20:32:00.000Z",
@@ -258,26 +258,6 @@
     ],
     "SBS 6": [
       {
-        "title": "De Oranjezomer",
-        "start": "2026-08-20T19:21:00.000Z",
-        "end": "2026-08-20T20:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-20T20:30:00.000Z",
-        "end": "2026-08-20T20:34:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-20T20:34:00.000Z",
-        "end": "2026-08-20T20:49:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-20T20:49:00.000Z",
-        "end": "2026-08-20T20:53:00.000Z"
-      },
-      {
         "title": "Shownieuws",
         "start": "2026-08-20T20:53:00.000Z",
         "end": "2026-08-20T21:45:00.000Z"
@@ -291,6 +271,16 @@
         "title": "De bondgenoten",
         "start": "2026-08-20T21:49:00.000Z",
         "end": "2026-08-20T22:47:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-20T22:47:00.000Z",
+        "end": "2026-08-20T22:51:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-20T22:51:00.000Z",
+        "end": "2026-08-20T22:59:00.000Z"
       }
     ],
     "NET 5": [
@@ -332,16 +322,6 @@
     ],
     "Veronica": [
       {
-        "title": "Najib Amhali: 30 jaar on stage",
-        "start": "2026-08-20T18:30:00.000Z",
-        "end": "2026-08-20T20:45:00.000Z"
-      },
-      {
-        "title": "De Staatsloterij Show",
-        "start": "2026-08-20T20:45:00.000Z",
-        "end": "2026-08-20T20:49:00.000Z"
-      },
-      {
         "title": "Driven\n                        Komedie",
         "start": "2026-08-20T20:49:00.000Z",
         "end": "2026-08-20T21:33:00.000Z"
@@ -358,16 +338,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-08-20T20:00:00.000Z",
-        "end": "2026-08-20T20:30:00.000Z"
-      },
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-08-20T20:30:00.000Z",
-        "end": "2026-08-20T20:55:00.000Z"
-      },
       {
         "title": "The travel show",
         "start": "2026-08-20T20:55:00.000Z",
@@ -387,6 +357,16 @@
         "title": "BBC World News America",
         "start": "2026-08-20T22:00:00.000Z",
         "end": "2026-08-20T22:30:00.000Z"
+      },
+      {
+        "title": "Path to the Presidency",
+        "start": "2026-08-20T22:30:00.000Z",
+        "end": "2026-08-20T22:45:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-20T22:45:00.000Z",
+        "end": "2026-08-20T23:00:00.000Z"
       }
     ],
     "CNN": [
