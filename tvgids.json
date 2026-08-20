@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-20T22:23:20.582Z",
+  "generated": "2026-08-20T22:54:07.930Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Muziekfeest op het plein",
-        "start": "2026-08-20T22:15:00.000Z",
-        "end": "2026-08-20T22:35:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-20T22:35:00.000Z",
@@ -52,11 +47,6 @@
     "NPO 2": [
       {
         "title": "Nieuwsuur",
-        "start": "2026-08-20T22:20:00.000Z",
-        "end": "2026-08-20T22:25:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
         "start": "2026-08-20T22:25:00.000Z",
         "end": "2026-08-20T22:55:00.000Z"
       },
@@ -91,6 +81,11 @@
         "title": "Louis Theroux: Transgender kids",
         "start": "2026-08-20T23:30:00.000Z",
         "end": "2026-08-21T00:35:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-21T00:35:00.000Z",
+        "end": "2026-08-21T03:25:00.000Z"
       }
     ],
     "RTL 4": [
@@ -206,11 +201,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Crime scene investigation",
-        "start": "2026-08-20T22:18:00.000Z",
-        "end": "2026-08-20T22:39:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-20T22:39:00.000Z",
         "end": "2026-08-20T23:02:00.000Z"
@@ -237,11 +227,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "I've got the music in me",
-        "start": "2026-08-20T21:50:00.000Z",
-        "end": "2026-08-20T22:47:00.000Z"
-      },
       {
         "title": "De bondgenoten",
         "start": "2026-08-20T22:47:00.000Z",
@@ -302,16 +287,6 @@
     ],
     "Veronica": [
       {
-        "title": "Overtreders USA",
-        "start": "2026-08-20T22:15:00.000Z",
-        "end": "2026-08-20T22:25:00.000Z"
-      },
-      {
-        "title": "911 crisis center",
-        "start": "2026-08-20T22:25:00.000Z",
-        "end": "2026-08-20T22:50:00.000Z"
-      },
-      {
         "title": "Aliens\n                        Sciencefiction",
         "start": "2026-08-20T22:50:00.000Z",
         "end": "2026-08-20T23:05:00.000Z"
@@ -335,16 +310,6 @@
     "BBC News": [
       {
         "title": "BBC news",
-        "start": "2026-08-20T22:00:00.000Z",
-        "end": "2026-08-20T22:30:00.000Z"
-      },
-      {
-        "title": "Talking Business",
-        "start": "2026-08-20T22:30:00.000Z",
-        "end": "2026-08-20T22:45:00.000Z"
-      },
-      {
-        "title": "BBC news",
         "start": "2026-08-20T22:45:00.000Z",
         "end": "2026-08-20T23:00:00.000Z"
       },
@@ -362,6 +327,11 @@
         "title": "BBC news",
         "start": "2026-08-21T00:00:00.000Z",
         "end": "2026-08-21T00:30:00.000Z"
+      },
+      {
+        "title": "World's Ultimate Adventures",
+        "start": "2026-08-21T00:30:00.000Z",
+        "end": "2026-08-21T01:00:00.000Z"
       }
     ],
     "CNN": [
