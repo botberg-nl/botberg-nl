@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-20T17:55:47.562Z",
+  "generated": "2026-08-20T18:36:21.867Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Sport - WK hockey (v): Tweede groepsfase",
-        "start": "2026-08-20T16:45:00.000Z",
-        "end": "2026-08-20T18:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-20T18:00:00.000Z",
-        "end": "2026-08-20T18:35:00.000Z"
-      },
       {
         "title": "Muziekfeest op het plein",
         "start": "2026-08-20T18:35:00.000Z",
@@ -27,14 +17,19 @@
         "title": "Triviant",
         "start": "2026-08-20T19:30:00.000Z",
         "end": "2026-08-20T20:10:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-20T20:10:00.000Z",
+        "end": "2026-08-20T20:20:00.000Z"
+      },
+      {
+        "title": "Studio sport voetbal",
+        "start": "2026-08-20T20:20:00.000Z",
+        "end": "2026-08-20T20:45:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Wildernis onder water",
-        "start": "2026-08-20T17:50:00.000Z",
-        "end": "2026-08-20T18:25:00.000Z"
-      },
       {
         "title": "Nederland op film",
         "start": "2026-08-20T18:25:00.000Z",
@@ -49,19 +44,14 @@
         "title": "Zembla",
         "start": "2026-08-20T19:15:00.000Z",
         "end": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-20T20:00:00.000Z",
+        "end": "2026-08-20T20:40:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Meiden die rijden",
-        "start": "2026-08-20T17:25:00.000Z",
-        "end": "2026-08-20T18:20:00.000Z"
-      },
-      {
-        "title": "Lowlands",
-        "start": "2026-08-20T18:20:00.000Z",
-        "end": "2026-08-20T18:25:00.000Z"
-      },
       {
         "title": "Freddie Mercury: The final act",
         "start": "2026-08-20T18:25:00.000Z",
@@ -71,24 +61,14 @@
         "title": "Lowlands",
         "start": "2026-08-20T19:55:00.000Z",
         "end": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "title": "Louis Theroux: Transgender kids",
+        "start": "2026-08-20T20:00:00.000Z",
+        "end": "2026-08-20T21:10:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-20T17:30:00.000Z",
-        "end": "2026-08-20T17:57:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-20T17:57:00.000Z",
-        "end": "2026-08-20T18:01:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-20T18:01:00.000Z",
-        "end": "2026-08-20T18:03:00.000Z"
-      },
       {
         "title": "Ik weet er alles van!",
         "start": "2026-08-20T18:03:00.000Z",
@@ -103,43 +83,68 @@
         "title": "Secret duets",
         "start": "2026-08-20T18:56:00.000Z",
         "end": "2026-08-20T20:18:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-20T20:18:00.000Z",
+        "end": "2026-08-20T20:23:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-20T20:23:00.000Z",
+        "end": "2026-08-20T21:06:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "De Pfaff's",
-        "start": "2026-08-20T17:50:00.000Z",
-        "end": "2026-08-20T18:29:00.000Z"
-      },
-      {
-        "title": "St. Willebrord: Het mirakel van Brabant",
-        "start": "2026-08-20T18:29:00.000Z",
-        "end": "2026-08-20T18:30:00.000Z"
-      },
-      {
         "title": "Erasmus MC 24/7",
         "start": "2026-08-20T18:30:00.000Z",
         "end": "2026-08-20T19:56:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-20T19:56:00.000Z",
+        "end": "2026-08-20T19:58:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-20T19:58:00.000Z",
+        "end": "2026-08-20T20:19:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-20T20:19:00.000Z",
+        "end": "2026-08-20T20:21:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-20T20:21:00.000Z",
+        "end": "2026-08-20T20:31:00.000Z"
+      },
+      {
+        "title": "24 uur in de ER",
+        "start": "2026-08-20T20:31:00.000Z",
+        "end": "2026-08-20T20:34:00.000Z"
+      },
+      {
+        "title": "24 uur in de ER",
+        "start": "2026-08-20T20:34:00.000Z",
+        "end": "2026-08-20T21:35:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-20T17:30:00.000Z",
-        "end": "2026-08-20T18:27:00.000Z"
-      },
-      {
         "title": "A Good Day to Die Hard\n                        Actie",
         "start": "2026-08-20T18:27:00.000Z",
         "end": "2026-08-20T20:27:00.000Z"
+      },
+      {
+        "title": "American Siege\n                        Actie",
+        "start": "2026-08-20T20:27:00.000Z",
+        "end": "2026-08-20T21:01:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Bed & breakfast België",
-        "start": "2026-08-20T17:31:00.000Z",
-        "end": "2026-08-20T18:25:00.000Z"
-      },
       {
         "title": "Poirot",
         "start": "2026-08-20T18:25:00.000Z",
@@ -149,14 +154,19 @@
         "title": "Poirot",
         "start": "2026-08-20T19:27:00.000Z",
         "end": "2026-08-20T20:23:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-20T20:23:00.000Z",
+        "end": "2026-08-20T20:32:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-20T20:32:00.000Z",
+        "end": "2026-08-20T21:17:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Overtreders",
-        "start": "2026-08-20T17:00:00.000Z",
-        "end": "2026-08-20T18:00:00.000Z"
-      },
       {
         "title": "De bondgenoten",
         "start": "2026-08-20T18:00:00.000Z",
@@ -171,14 +181,19 @@
         "title": "De Oranjezomer",
         "start": "2026-08-20T19:21:00.000Z",
         "end": "2026-08-20T20:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-20T20:30:00.000Z",
+        "end": "2026-08-20T20:34:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-20T20:34:00.000Z",
+        "end": "2026-08-20T20:49:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Het blok Australië",
-        "start": "2026-08-20T17:28:00.000Z",
-        "end": "2026-08-20T18:30:00.000Z"
-      },
       {
         "title": "Fire country",
         "start": "2026-08-20T18:30:00.000Z",
@@ -193,29 +208,14 @@
         "title": "Fire country",
         "start": "2026-08-20T19:28:00.000Z",
         "end": "2026-08-20T20:26:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-08-20T20:26:00.000Z",
+        "end": "2026-08-20T21:21:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-20T17:37:00.000Z",
-        "end": "2026-08-20T18:00:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-20T18:00:00.000Z",
-        "end": "2026-08-20T18:02:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-20T18:02:00.000Z",
-        "end": "2026-08-20T18:28:00.000Z"
-      },
-      {
-        "title": "Rush\n                        Biografie",
-        "start": "2026-08-20T18:28:00.000Z",
-        "end": "2026-08-20T18:30:00.000Z"
-      },
       {
         "title": "Najib Amhali: 30 jaar on stage",
         "start": "2026-08-20T18:30:00.000Z",
@@ -223,16 +223,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-20T17:30:00.000Z",
-        "end": "2026-08-20T18:00:00.000Z"
-      },
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-20T18:00:00.000Z",
-        "end": "2026-08-20T18:30:00.000Z"
-      },
       {
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-20T18:30:00.000Z",
@@ -252,14 +242,19 @@
         "title": "The Context USA",
         "start": "2026-08-20T19:30:00.000Z",
         "end": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "title": "The Context with Christian Fraser",
+        "start": "2026-08-20T20:00:00.000Z",
+        "end": "2026-08-20T20:30:00.000Z"
+      },
+      {
+        "title": "The Context with Christian Fraser",
+        "start": "2026-08-20T20:30:00.000Z",
+        "end": "2026-08-20T20:55:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Amanpour",
-        "start": "2026-08-20T17:00:00.000Z",
-        "end": "2026-08-20T18:00:00.000Z"
-      },
       {
         "title": "Isa Soares Tonight",
         "start": "2026-08-20T18:00:00.000Z",
@@ -269,6 +264,11 @@
         "title": "What We Know with Max Foster",
         "start": "2026-08-20T19:00:00.000Z",
         "end": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "title": "Quest Means Business",
+        "start": "2026-08-20T20:00:00.000Z",
+        "end": "2026-08-20T21:00:00.000Z"
       }
     ]
   }
