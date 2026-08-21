@@ -1,48 +1,8 @@
 {
-  "generated": "2026-08-21T04:34:47.019Z",
+  "generated": "2026-08-21T05:29:02.452Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T04:30:00.000Z",
-        "end": "2026-08-21T04:35:00.000Z"
-      },
-      {
-        "title": "Nederland in beweging",
-        "start": "2026-08-21T04:35:00.000Z",
-        "end": "2026-08-21T04:40:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T04:40:00.000Z",
-        "end": "2026-08-21T04:45:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T04:45:00.000Z",
-        "end": "2026-08-21T04:50:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T04:50:00.000Z",
-        "end": "2026-08-21T04:55:00.000Z"
-      },
-      {
-        "title": "Close up",
-        "start": "2026-08-21T04:55:00.000Z",
-        "end": "2026-08-21T05:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T05:00:00.000Z",
-        "end": "2026-08-21T05:10:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T05:10:00.000Z",
-        "end": "2026-08-21T05:20:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-21T05:20:00.000Z",
@@ -77,19 +37,34 @@
         "title": "NOS Journaal",
         "start": "2026-08-21T06:20:00.000Z",
         "end": "2026-08-21T06:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-21T06:35:00.000Z",
+        "end": "2026-08-21T06:45:00.000Z"
+      },
+      {
+        "title": "Het mooiste meisje van de klas",
+        "start": "2026-08-21T06:45:00.000Z",
+        "end": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-21T07:00:00.000Z",
+        "end": "2026-08-21T07:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-21T07:15:00.000Z",
+        "end": "2026-08-21T07:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-21T07:20:00.000Z",
+        "end": "2026-08-21T07:30:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-20T23:05:00.000Z",
-        "end": "2026-08-21T05:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-21T05:00:00.000Z",
-        "end": "2026-08-21T05:15:00.000Z"
-      },
       {
         "title": "BinnensteBuiten",
         "start": "2026-08-21T05:15:00.000Z",
@@ -109,74 +84,29 @@
         "title": "Verborgen verleden",
         "start": "2026-08-21T06:10:00.000Z",
         "end": "2026-08-21T06:55:00.000Z"
+      },
+      {
+        "title": "Mocronado's",
+        "start": "2026-08-21T06:55:00.000Z",
+        "end": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal met gebarentaal",
+        "start": "2026-08-21T07:00:00.000Z",
+        "end": "2026-08-21T07:10:00.000Z"
+      },
+      {
+        "title": "Nederland in beweging",
+        "start": "2026-08-21T07:10:00.000Z",
+        "end": "2026-08-21T07:25:00.000Z"
+      },
+      {
+        "title": "Zentijd",
+        "start": "2026-08-21T07:25:00.000Z",
+        "end": "2026-08-21T07:40:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Nelli en Nora",
-        "start": "2026-08-21T04:30:00.000Z",
-        "end": "2026-08-21T04:35:00.000Z"
-      },
-      {
-        "title": "Kiri & Lou",
-        "start": "2026-08-21T04:35:00.000Z",
-        "end": "2026-08-21T04:40:00.000Z"
-      },
-      {
-        "title": "Charlie & Lola",
-        "start": "2026-08-21T04:40:00.000Z",
-        "end": "2026-08-21T04:50:00.000Z"
-      },
-      {
-        "title": "Angelina Ballerina",
-        "start": "2026-08-21T04:50:00.000Z",
-        "end": "2026-08-21T05:00:00.000Z"
-      },
-      {
-        "title": "Kikker & vriendjes",
-        "start": "2026-08-21T05:00:00.000Z",
-        "end": "2026-08-21T05:05:00.000Z"
-      },
-      {
-        "title": "Calimero",
-        "start": "2026-08-21T05:05:00.000Z",
-        "end": "2026-08-21T05:06:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-21T05:06:00.000Z",
-        "end": "2026-08-21T05:09:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-21T05:09:00.000Z",
-        "end": "2026-08-21T05:10:00.000Z"
-      },
-      {
-        "title": "Jojo & Ouma",
-        "start": "2026-08-21T05:10:00.000Z",
-        "end": "2026-08-21T05:16:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-21T05:16:00.000Z",
-        "end": "2026-08-21T05:19:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-21T05:19:00.000Z",
-        "end": "2026-08-21T05:20:00.000Z"
-      },
-      {
-        "title": "Noddy, de detective",
-        "start": "2026-08-21T05:20:00.000Z",
-        "end": "2026-08-21T05:21:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-21T05:21:00.000Z",
-        "end": "2026-08-21T05:25:00.000Z"
-      },
       {
         "title": "Kindertijd",
         "start": "2026-08-21T05:25:00.000Z",
@@ -256,64 +186,49 @@
         "title": "De magische auto",
         "start": "2026-08-21T06:30:00.000Z",
         "end": "2026-08-21T06:35:00.000Z"
+      },
+      {
+        "title": "Noddy, de detective",
+        "start": "2026-08-21T06:35:00.000Z",
+        "end": "2026-08-21T06:40:00.000Z"
+      },
+      {
+        "title": "Kindertijd",
+        "start": "2026-08-21T06:40:00.000Z",
+        "end": "2026-08-21T06:45:00.000Z"
+      },
+      {
+        "title": "Beestenbrigade missie",
+        "start": "2026-08-21T06:45:00.000Z",
+        "end": "2026-08-21T06:47:00.000Z"
+      },
+      {
+        "title": "Rita & Krokodil",
+        "start": "2026-08-21T06:47:00.000Z",
+        "end": "2026-08-21T06:50:00.000Z"
+      },
+      {
+        "title": "Dora",
+        "start": "2026-08-21T06:50:00.000Z",
+        "end": "2026-08-21T07:05:00.000Z"
+      },
+      {
+        "title": "BabyBeestenBoel",
+        "start": "2026-08-21T07:05:00.000Z",
+        "end": "2026-08-21T07:15:00.000Z"
+      },
+      {
+        "title": "Het betoverde dorp van Pinokkio",
+        "start": "2026-08-21T07:15:00.000Z",
+        "end": "2026-08-21T07:25:00.000Z"
+      },
+      {
+        "title": "Zo is Joey!",
+        "start": "2026-08-21T07:25:00.000Z",
+        "end": "2026-08-21T07:30:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-21T04:30:00.000Z",
-        "end": "2026-08-21T04:36:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-21T04:36:00.000Z",
-        "end": "2026-08-21T04:45:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-21T04:45:00.000Z",
-        "end": "2026-08-21T04:48:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-21T04:48:00.000Z",
-        "end": "2026-08-21T04:52:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-21T04:52:00.000Z",
-        "end": "2026-08-21T04:58:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-21T04:58:00.000Z",
-        "end": "2026-08-21T05:00:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-21T05:00:00.000Z",
-        "end": "2026-08-21T05:09:00.000Z"
-      },
-      {
-        "title": "Thomas de stoomlocomotief",
-        "start": "2026-08-21T05:09:00.000Z",
-        "end": "2026-08-21T05:10:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-21T05:10:00.000Z",
-        "end": "2026-08-21T05:15:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-21T05:15:00.000Z",
-        "end": "2026-08-21T05:20:00.000Z"
-      },
-      {
-        "title": "Sprookjes van Klaas Vaak",
-        "start": "2026-08-21T05:20:00.000Z",
-        "end": "2026-08-21T05:25:00.000Z"
-      },
       {
         "title": "RTL Weer",
         "start": "2026-08-21T05:25:00.000Z",
@@ -398,14 +313,34 @@
         "title": "RTL Weer",
         "start": "2026-08-21T06:32:00.000Z",
         "end": "2026-08-21T06:40:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-21T06:40:00.000Z",
+        "end": "2026-08-21T06:46:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-08-21T06:46:00.000Z",
+        "end": "2026-08-21T06:52:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-21T06:52:00.000Z",
+        "end": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Telvero",
+        "start": "2026-08-21T07:00:00.000Z",
+        "end": "2026-08-21T07:20:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-21T07:20:00.000Z",
+        "end": "2026-08-21T07:30:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Telvero",
-        "start": "2026-08-21T03:48:00.000Z",
-        "end": "2026-08-21T05:18:00.000Z"
-      },
       {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-21T05:18:00.000Z",
@@ -439,21 +374,6 @@
     "SBS 6": [
       {
         "title": "Hart van Nederland",
-        "start": "2026-08-21T04:30:00.000Z",
-        "end": "2026-08-21T04:45:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-21T04:45:00.000Z",
-        "end": "2026-08-21T05:00:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-21T05:00:00.000Z",
-        "end": "2026-08-21T05:15:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
         "start": "2026-08-21T05:15:00.000Z",
         "end": "2026-08-21T05:30:00.000Z"
       },
@@ -481,14 +401,24 @@
         "title": "Hart van Nederland",
         "start": "2026-08-21T06:30:00.000Z",
         "end": "2026-08-21T06:45:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-21T06:45:00.000Z",
+        "end": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-21T07:00:00.000Z",
+        "end": "2026-08-21T07:15:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-21T07:15:00.000Z",
+        "end": "2026-08-21T07:30:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-21T03:55:00.000Z",
-        "end": "2026-08-21T05:28:00.000Z"
-      },
       {
         "title": "Telvero",
         "start": "2026-08-21T05:28:00.000Z",
@@ -508,11 +438,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "The travel show",
-        "start": "2026-08-21T04:30:00.000Z",
-        "end": "2026-08-21T05:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-21T05:00:00.000Z",
@@ -537,14 +462,19 @@
         "title": "Tech Now",
         "start": "2026-08-21T06:30:00.000Z",
         "end": "2026-08-21T06:55:00.000Z"
+      },
+      {
+        "title": "The travel show",
+        "start": "2026-08-21T06:55:00.000Z",
+        "end": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-21T07:00:00.000Z",
+        "end": "2026-08-21T07:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "The Story Is: With Elex Michaelson",
-        "start": "2026-08-21T04:00:00.000Z",
-        "end": "2026-08-21T05:00:00.000Z"
-      },
       {
         "title": "The Story Is: With Elex Michaelson",
         "start": "2026-08-21T05:00:00.000Z",
@@ -569,6 +499,11 @@
         "title": "African Voices",
         "start": "2026-08-21T06:30:00.000Z",
         "end": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-21T07:00:00.000Z",
+        "end": "2026-08-21T07:30:00.000Z"
       }
     ]
   }
