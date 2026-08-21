@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-20T23:49:12.175Z",
+  "generated": "2026-08-21T01:07:21.310Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-20T23:30:00.000Z",
-        "end": "2026-08-20T23:55:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-20T23:55:00.000Z",
-        "end": "2026-08-21T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T00:15:00.000Z",
-        "end": "2026-08-21T00:20:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-21T00:20:00.000Z",
@@ -33,32 +18,12 @@
     ],
     "NPO 3": [
       {
-        "title": "Louis Theroux: Transgender kids",
-        "start": "2026-08-20T23:30:00.000Z",
-        "end": "2026-08-21T00:35:00.000Z"
-      },
-      {
         "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-08-21T00:35:00.000Z",
         "end": "2026-08-21T03:25:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-20T23:22:00.000Z",
-        "end": "2026-08-21T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-21T00:02:00.000Z",
-        "end": "2026-08-21T00:04:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-21T00:04:00.000Z",
-        "end": "2026-08-21T00:06:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-21T00:06:00.000Z",
@@ -68,21 +33,11 @@
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-20T23:13:00.000Z",
-        "end": "2026-08-21T00:10:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-21T00:10:00.000Z",
         "end": "2026-08-21T03:48:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Teleshop",
-        "start": "2026-08-20T23:30:00.000Z",
-        "end": "2026-08-21T00:10:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-08-21T00:10:00.000Z",
@@ -92,16 +47,6 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-08-20T23:13:00.000Z",
-        "end": "2026-08-21T00:00:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-21T00:00:00.000Z",
-        "end": "2026-08-21T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-08-21T00:01:00.000Z",
         "end": "2026-08-21T04:15:00.000Z"
       }
@@ -109,26 +54,11 @@
     "SBS 6": [
       {
         "title": "Hart van Nederland",
-        "start": "2026-08-20T23:46:00.000Z",
-        "end": "2026-08-20T23:55:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
         "start": "2026-08-20T23:55:00.000Z",
         "end": "2026-08-21T04:00:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Fire country",
-        "start": "2026-08-20T23:11:00.000Z",
-        "end": "2026-08-20T23:53:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-20T23:53:00.000Z",
-        "end": "2026-08-21T00:09:00.000Z"
-      },
       {
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-21T00:09:00.000Z",
@@ -138,31 +68,26 @@
     "Veronica": [
       {
         "title": "Hart van Nederland",
-        "start": "2026-08-20T23:28:00.000Z",
-        "end": "2026-08-21T01:00:00.000Z"
+        "start": "2026-08-21T01:00:00.000Z",
+        "end": "2026-08-21T01:50:00.000Z"
       },
       {
         "title": "Hart van Nederland",
-        "start": "2026-08-21T01:00:00.000Z",
-        "end": "2026-08-21T01:50:00.000Z"
+        "start": "2026-08-21T01:50:00.000Z",
+        "end": "2026-08-21T02:17:00.000Z"
+      },
+      {
+        "title": "Pause",
+        "start": "2026-08-21T02:17:00.000Z",
+        "end": "2026-08-21T02:56:00.000Z"
+      },
+      {
+        "title": "Pause",
+        "start": "2026-08-21T02:56:00.000Z",
+        "end": "2026-08-21T03:26:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Media Show",
-        "start": "2026-08-20T23:30:00.000Z",
-        "end": "2026-08-21T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-21T00:00:00.000Z",
-        "end": "2026-08-21T00:30:00.000Z"
-      },
-      {
-        "title": "World's Ultimate Adventures",
-        "start": "2026-08-21T00:30:00.000Z",
-        "end": "2026-08-21T01:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-21T01:00:00.000Z",
@@ -177,19 +102,29 @@
         "title": "BBC Sport",
         "start": "2026-08-21T01:45:00.000Z",
         "end": "2026-08-21T02:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-21T02:00:00.000Z",
+        "end": "2026-08-21T02:30:00.000Z"
+      },
+      {
+        "title": "The Climate Question",
+        "start": "2026-08-21T02:30:00.000Z",
+        "end": "2026-08-21T02:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-21T02:45:00.000Z",
+        "end": "2026-08-21T03:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-21T03:00:00.000Z",
+        "end": "2026-08-21T03:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-20T23:00:00.000Z",
-        "end": "2026-08-21T00:00:00.000Z"
-      },
-      {
-        "title": "Smerconish",
-        "start": "2026-08-21T00:00:00.000Z",
-        "end": "2026-08-21T01:00:00.000Z"
-      },
       {
         "title": "World Sport",
         "start": "2026-08-21T01:00:00.000Z",
@@ -199,6 +134,21 @@
         "title": "Seasons",
         "start": "2026-08-21T01:30:00.000Z",
         "end": "2026-08-21T02:00:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-21T02:00:00.000Z",
+        "end": "2026-08-21T02:30:00.000Z"
+      },
+      {
+        "title": "African Voices",
+        "start": "2026-08-21T02:30:00.000Z",
+        "end": "2026-08-21T03:00:00.000Z"
+      },
+      {
+        "title": "Laura Coates Live",
+        "start": "2026-08-21T03:00:00.000Z",
+        "end": "2026-08-21T04:00:00.000Z"
       }
     ]
   }
