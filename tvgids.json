@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-21T22:50:13.780Z",
+  "generated": "2026-08-21T23:20:20.518Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Van onschatbare waarde",
-        "start": "2026-08-21T22:35:00.000Z",
-        "end": "2026-08-21T23:00:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-21T23:00:00.000Z",
-        "end": "2026-08-21T23:15:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-21T23:15:00.000Z",
@@ -51,16 +41,6 @@
     ],
     "NPO 2": [
       {
-        "title": "Tekst-tv",
-        "start": "2026-08-21T22:27:00.000Z",
-        "end": "2026-08-21T22:55:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-21T22:55:00.000Z",
-        "end": "2026-08-21T23:05:00.000Z"
-      },
-      {
         "title": "Nieuwsuur",
         "start": "2026-08-21T23:05:00.000Z",
         "end": "2026-08-22T06:00:00.000Z"
@@ -71,24 +51,14 @@
         "title": "Lowlands",
         "start": "2026-08-21T21:10:00.000Z",
         "end": "2026-08-22T01:05:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-22T01:05:00.000Z",
+        "end": "2026-08-22T03:25:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Vals spel",
-        "start": "2026-08-21T22:14:00.000Z",
-        "end": "2026-08-21T22:58:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-21T22:58:00.000Z",
-        "end": "2026-08-21T22:59:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-21T22:59:00.000Z",
-        "end": "2026-08-21T23:16:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-21T23:16:00.000Z",
@@ -127,21 +97,6 @@
     ],
     "RTL 5": [
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-21T22:13:00.000Z",
-        "end": "2026-08-21T22:57:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-21T22:57:00.000Z",
-        "end": "2026-08-21T23:13:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-21T23:13:00.000Z",
-        "end": "2026-08-21T23:19:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-21T23:19:00.000Z",
         "end": "2026-08-22T00:10:00.000Z"
@@ -153,16 +108,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-21T22:33:00.000Z",
-        "end": "2026-08-21T23:13:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-21T23:13:00.000Z",
-        "end": "2026-08-21T23:16:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-08-21T23:16:00.000Z",
@@ -182,11 +127,6 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-08-21T22:39:00.000Z",
-        "end": "2026-08-21T23:13:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-08-21T23:13:00.000Z",
         "end": "2026-08-22T00:01:00.000Z"
       },
@@ -197,11 +137,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-21T22:47:00.000Z",
-        "end": "2026-08-21T23:17:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-21T23:17:00.000Z",
@@ -225,16 +160,6 @@
     ],
     "NET 5": [
       {
-        "title": "Ordinary Joe",
-        "start": "2026-08-21T22:27:00.000Z",
-        "end": "2026-08-21T22:56:00.000Z"
-      },
-      {
-        "title": "The resident",
-        "start": "2026-08-21T22:56:00.000Z",
-        "end": "2026-08-21T23:11:00.000Z"
-      },
-      {
         "title": "Fire country",
         "start": "2026-08-21T23:11:00.000Z",
         "end": "2026-08-21T23:25:00.000Z"
@@ -257,11 +182,6 @@
     ],
     "Veronica": [
       {
-        "title": "Aliens\n                        Sciencefiction",
-        "start": "2026-08-21T22:47:00.000Z",
-        "end": "2026-08-21T23:04:00.000Z"
-      },
-      {
         "title": "Fugitives caught on tape",
         "start": "2026-08-21T23:04:00.000Z",
         "end": "2026-08-21T23:24:00.000Z"
@@ -275,14 +195,24 @@
         "title": "Pause",
         "start": "2026-08-21T23:43:00.000Z",
         "end": "2026-08-22T00:52:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-22T00:52:00.000Z",
+        "end": "2026-08-22T00:55:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-22T00:55:00.000Z",
+        "end": "2026-08-22T01:12:00.000Z"
+      },
+      {
+        "title": "Pause",
+        "start": "2026-08-22T01:12:00.000Z",
+        "end": "2026-08-22T01:42:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-21T22:45:00.000Z",
-        "end": "2026-08-21T23:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-21T23:00:00.000Z",
@@ -302,14 +232,14 @@
         "title": "The Engineers",
         "start": "2026-08-22T00:30:00.000Z",
         "end": "2026-08-22T01:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-22T01:00:00.000Z",
+        "end": "2026-08-22T01:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-21T22:00:00.000Z",
-        "end": "2026-08-21T23:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-21T23:00:00.000Z",
@@ -319,6 +249,11 @@
         "title": "CNN Newsroom",
         "start": "2026-08-22T00:00:00.000Z",
         "end": "2026-08-22T01:00:00.000Z"
+      },
+      {
+        "title": "Fareed Zakaria GPS",
+        "start": "2026-08-22T01:00:00.000Z",
+        "end": "2026-08-22T01:30:00.000Z"
       }
     ]
   }
