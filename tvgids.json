@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-21T21:20:38.607Z",
+  "generated": "2026-08-21T21:48:18.258Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Keuringsdienst van waarde",
-        "start": "2026-08-21T21:10:00.000Z",
-        "end": "2026-08-21T21:30:00.000Z"
-      },
-      {
-        "title": "Studio sport",
-        "start": "2026-08-21T21:30:00.000Z",
-        "end": "2026-08-21T21:35:00.000Z"
-      },
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-21T21:35:00.000Z",
-        "end": "2026-08-21T21:45:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-21T21:45:00.000Z",
@@ -47,6 +32,16 @@
         "title": "NOS Journaal",
         "start": "2026-08-21T23:15:00.000Z",
         "end": "2026-08-21T23:25:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-08-21T23:25:00.000Z",
+        "end": "2026-08-21T23:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal met gebarentaal",
+        "start": "2026-08-21T23:30:00.000Z",
+        "end": "2026-08-21T23:55:00.000Z"
       }
     ],
     "NPO 2": [
@@ -111,34 +106,14 @@
         "title": "Op safari",
         "start": "2026-08-21T22:55:00.000Z",
         "end": "2026-08-21T23:30:00.000Z"
+      },
+      {
+        "title": "Louis Theroux: Transgender kids",
+        "start": "2026-08-21T23:30:00.000Z",
+        "end": "2026-08-22T00:35:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-21T21:19:00.000Z",
-        "end": "2026-08-21T21:23:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-21T21:23:00.000Z",
-        "end": "2026-08-21T21:24:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-21T21:24:00.000Z",
-        "end": "2026-08-21T21:27:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-21T21:27:00.000Z",
-        "end": "2026-08-21T21:33:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-21T21:33:00.000Z",
-        "end": "2026-08-21T21:37:00.000Z"
-      },
       {
         "title": "Beste kijkers",
         "start": "2026-08-21T21:37:00.000Z",
@@ -178,14 +153,19 @@
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-21T23:19:00.000Z",
         "end": "2026-08-21T23:21:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-08-21T23:21:00.000Z",
+        "end": "2026-08-21T23:22:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-08-21T23:22:00.000Z",
+        "end": "2026-08-22T00:02:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Helden van hier: Op interventie",
-        "start": "2026-08-21T20:52:00.000Z",
-        "end": "2026-08-21T21:39:00.000Z"
-      },
       {
         "title": "112 vandaag",
         "start": "2026-08-21T21:39:00.000Z",
@@ -257,19 +237,14 @@
         "title": "Teleshop",
         "start": "2026-08-21T23:16:00.000Z",
         "end": "2026-08-21T23:30:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-08-21T23:30:00.000Z",
+        "end": "2026-08-22T00:10:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-21T21:17:00.000Z",
-        "end": "2026-08-21T21:26:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-21T21:26:00.000Z",
-        "end": "2026-08-21T21:36:00.000Z"
-      },
       {
         "title": "Crime scene investigation",
         "start": "2026-08-21T21:36:00.000Z",
@@ -303,11 +278,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Shownieuws",
-        "start": "2026-08-21T20:54:00.000Z",
-        "end": "2026-08-21T21:45:00.000Z"
-      },
-      {
         "title": "Mi dushi: Wat is dan liefde?",
         "start": "2026-08-21T21:45:00.000Z",
         "end": "2026-08-21T21:49:00.000Z"
@@ -331,19 +301,14 @@
         "title": "Shownieuws",
         "start": "2026-08-21T23:17:00.000Z",
         "end": "2026-08-21T23:45:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-21T23:45:00.000Z",
+        "end": "2026-08-21T23:55:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Soko Köln",
-        "start": "2026-08-21T20:57:00.000Z",
-        "end": "2026-08-21T21:21:00.000Z"
-      },
-      {
-        "title": "Chicago fire",
-        "start": "2026-08-21T21:21:00.000Z",
-        "end": "2026-08-21T21:22:00.000Z"
-      },
       {
         "title": "Chicago fire",
         "start": "2026-08-21T21:22:00.000Z",
@@ -377,11 +342,6 @@
     ],
     "Veronica": [
       {
-        "title": "De Staatsloterij Show",
-        "start": "2026-08-21T20:49:00.000Z",
-        "end": "2026-08-21T21:24:00.000Z"
-      },
-      {
         "title": "Baywatch remastered",
         "start": "2026-08-21T21:24:00.000Z",
         "end": "2026-08-21T22:16:00.000Z"
@@ -410,14 +370,14 @@
         "title": "Welcome to Wrexham",
         "start": "2026-08-21T23:06:00.000Z",
         "end": "2026-08-21T23:28:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-21T23:28:00.000Z",
+        "end": "2026-08-22T00:52:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-21T21:00:00.000Z",
-        "end": "2026-08-21T21:30:00.000Z"
-      },
       {
         "title": "Newsnight",
         "start": "2026-08-21T21:30:00.000Z",
@@ -442,14 +402,14 @@
         "title": "BBC news",
         "start": "2026-08-21T23:00:00.000Z",
         "end": "2026-08-21T23:30:00.000Z"
+      },
+      {
+        "title": "The Media Show",
+        "start": "2026-08-21T23:30:00.000Z",
+        "end": "2026-08-22T00:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "World Sport",
-        "start": "2026-08-21T21:00:00.000Z",
-        "end": "2026-08-21T21:30:00.000Z"
-      },
       {
         "title": "CNN Creators",
         "start": "2026-08-21T21:30:00.000Z",
