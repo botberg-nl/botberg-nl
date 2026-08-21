@@ -1,28 +1,8 @@
 {
-  "generated": "2026-08-21T11:51:26.046Z",
+  "generated": "2026-08-21T12:40:16.204Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Ahoy zingt De Nijs",
-        "start": "2026-08-21T11:45:00.000Z",
-        "end": "2026-08-21T12:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T12:00:00.000Z",
-        "end": "2026-08-21T12:20:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T12:20:00.000Z",
-        "end": "2026-08-21T12:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-21T12:30:00.000Z",
-        "end": "2026-08-21T12:40:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-21T12:40:00.000Z",
@@ -57,29 +37,14 @@
         "title": "Sport - WK hockey (m): Tweede groepsfase",
         "start": "2026-08-21T13:45:00.000Z",
         "end": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-21T14:00:00.000Z",
+        "end": "2026-08-21T14:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Langs de kust",
-        "start": "2026-08-21T11:20:00.000Z",
-        "end": "2026-08-21T11:55:00.000Z"
-      },
-      {
-        "title": "Meldpunt actueel",
-        "start": "2026-08-21T11:55:00.000Z",
-        "end": "2026-08-21T12:05:00.000Z"
-      },
-      {
-        "title": "Het uur van de wolf",
-        "start": "2026-08-21T12:05:00.000Z",
-        "end": "2026-08-21T12:20:00.000Z"
-      },
-      {
-        "title": "MAX Maakt Mogelijk helpt",
-        "start": "2026-08-21T12:20:00.000Z",
-        "end": "2026-08-21T12:40:00.000Z"
-      },
       {
         "title": "Sporen van slavernij",
         "start": "2026-08-21T12:40:00.000Z",
@@ -104,39 +69,29 @@
         "title": "Fryslân dok",
         "start": "2026-08-21T13:30:00.000Z",
         "end": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-21T14:00:00.000Z",
+        "end": "2026-08-21T14:05:00.000Z"
+      },
+      {
+        "title": "Pauscast",
+        "start": "2026-08-21T14:05:00.000Z",
+        "end": "2026-08-21T14:10:00.000Z"
+      },
+      {
+        "title": "Bak mee met MAX",
+        "start": "2026-08-21T14:10:00.000Z",
+        "end": "2026-08-21T14:30:00.000Z"
+      },
+      {
+        "title": "De verwondering",
+        "start": "2026-08-21T14:30:00.000Z",
+        "end": "2026-08-21T14:55:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Mike de ridder",
-        "start": "2026-08-21T11:50:00.000Z",
-        "end": "2026-08-21T11:55:00.000Z"
-      },
-      {
-        "title": "De dodelijkste 60",
-        "start": "2026-08-21T11:55:00.000Z",
-        "end": "2026-08-21T12:00:00.000Z"
-      },
-      {
-        "title": "Mojo swoptops",
-        "start": "2026-08-21T12:00:00.000Z",
-        "end": "2026-08-21T12:15:00.000Z"
-      },
-      {
-        "title": "De smurfen",
-        "start": "2026-08-21T12:15:00.000Z",
-        "end": "2026-08-21T12:20:00.000Z"
-      },
-      {
-        "title": "De achterblijvers",
-        "start": "2026-08-21T12:20:00.000Z",
-        "end": "2026-08-21T12:25:00.000Z"
-      },
-      {
-        "title": "Splat & Seymour",
-        "start": "2026-08-21T12:25:00.000Z",
-        "end": "2026-08-21T12:35:00.000Z"
-      },
       {
         "title": "Coop Troep",
         "start": "2026-08-21T12:35:00.000Z",
@@ -166,19 +121,14 @@
         "title": "Zappbios: Victoria's geheim\n                        Familie",
         "start": "2026-08-21T13:35:00.000Z",
         "end": "2026-08-21T14:40:00.000Z"
+      },
+      {
+        "title": "Klaas kan alles kort",
+        "start": "2026-08-21T14:40:00.000Z",
+        "end": "2026-08-21T14:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Buitengewoon wonen",
-        "start": "2026-08-21T11:29:00.000Z",
-        "end": "2026-08-21T11:58:00.000Z"
-      },
-      {
-        "title": "Franky en Coen: Patatje hoop",
-        "start": "2026-08-21T11:58:00.000Z",
-        "end": "2026-08-21T12:27:00.000Z"
-      },
       {
         "title": "Buitengewoon wonen",
         "start": "2026-08-21T12:27:00.000Z",
@@ -198,14 +148,29 @@
         "title": "Van woonvilla naar droomvilla",
         "start": "2026-08-21T13:30:00.000Z",
         "end": "2026-08-21T13:53:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-21T13:53:00.000Z",
+        "end": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "title": "Varend corso weekjournaal",
+        "start": "2026-08-21T14:00:00.000Z",
+        "end": "2026-08-21T14:29:00.000Z"
+      },
+      {
+        "title": "Knappe koppen",
+        "start": "2026-08-21T14:29:00.000Z",
+        "end": "2026-08-21T14:34:00.000Z"
+      },
+      {
+        "title": "B&B vol liefde",
+        "start": "2026-08-21T14:34:00.000Z",
+        "end": "2026-08-21T14:59:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Teleshop 5: Telvero",
-        "start": "2026-08-21T10:58:00.000Z",
-        "end": "2026-08-21T12:28:00.000Z"
-      },
       {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-21T12:28:00.000Z",
@@ -218,16 +183,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "De sterkste man van Nederland",
-        "start": "2026-08-21T11:45:00.000Z",
-        "end": "2026-08-21T11:56:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-21T11:56:00.000Z",
-        "end": "2026-08-21T12:27:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-21T12:27:00.000Z",
@@ -262,6 +217,21 @@
         "title": "Flodder",
         "start": "2026-08-21T13:47:00.000Z",
         "end": "2026-08-21T14:09:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-21T14:09:00.000Z",
+        "end": "2026-08-21T14:21:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-21T14:21:00.000Z",
+        "end": "2026-08-21T14:39:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-21T14:39:00.000Z",
+        "end": "2026-08-21T15:10:00.000Z"
       }
     ],
     "RTL 8": [
@@ -273,47 +243,32 @@
     ],
     "SBS 6": [
       {
-        "title": "De bondgenoten",
-        "start": "2026-08-21T11:27:00.000Z",
-        "end": "2026-08-21T12:05:00.000Z"
-      },
-      {
         "title": "Mi dushi: Wat is dan liefde?",
-        "start": "2026-08-21T12:05:00.000Z",
+        "start": "2026-08-21T12:07:00.000Z",
         "end": "2026-08-21T12:43:00.000Z"
       },
       {
         "title": "Droomhuis op het platteland",
         "start": "2026-08-21T12:43:00.000Z",
-        "end": "2026-08-21T13:05:00.000Z"
+        "end": "2026-08-21T13:08:00.000Z"
       },
       {
         "title": "De grote verhuizing",
-        "start": "2026-08-21T13:05:00.000Z",
+        "start": "2026-08-21T13:08:00.000Z",
         "end": "2026-08-21T13:40:00.000Z"
       },
       {
         "title": "Huizen onder de hamer",
         "start": "2026-08-21T13:40:00.000Z",
-        "end": "2026-08-21T14:00:00.000Z"
+        "end": "2026-08-21T14:08:00.000Z"
+      },
+      {
+        "title": "Verkopen of verbouwen",
+        "start": "2026-08-21T14:08:00.000Z",
+        "end": "2026-08-21T14:51:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Telvero",
-        "start": "2026-08-21T11:24:00.000Z",
-        "end": "2026-08-21T11:55:00.000Z"
-      },
-      {
-        "title": "Home and away",
-        "start": "2026-08-21T11:55:00.000Z",
-        "end": "2026-08-21T12:18:00.000Z"
-      },
-      {
-        "title": "Gilmore girls",
-        "start": "2026-08-21T12:18:00.000Z",
-        "end": "2026-08-21T12:24:00.000Z"
-      },
       {
         "title": "Een plek onder de zon",
         "start": "2026-08-21T12:24:00.000Z",
@@ -328,6 +283,21 @@
         "title": "Neighbours",
         "start": "2026-08-21T13:23:00.000Z",
         "end": "2026-08-21T13:54:00.000Z"
+      },
+      {
+        "title": "Home and away",
+        "start": "2026-08-21T13:54:00.000Z",
+        "end": "2026-08-21T14:04:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierenkliniek",
+        "start": "2026-08-21T14:04:00.000Z",
+        "end": "2026-08-21T14:23:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-21T14:23:00.000Z",
+        "end": "2026-08-21T15:03:00.000Z"
       }
     ],
     "Veronica": [
@@ -338,16 +308,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "Focus on Africa: The Conversation",
-        "start": "2026-08-21T11:30:00.000Z",
-        "end": "2026-08-21T12:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-21T12:00:00.000Z",
-        "end": "2026-08-21T12:30:00.000Z"
-      },
       {
         "title": "World's Ultimate Adventures",
         "start": "2026-08-21T12:30:00.000Z",
@@ -372,19 +332,19 @@
         "title": "BBC News Now",
         "start": "2026-08-21T13:45:00.000Z",
         "end": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-21T14:00:00.000Z",
+        "end": "2026-08-21T14:30:00.000Z"
+      },
+      {
+        "title": "The Media Show",
+        "start": "2026-08-21T14:30:00.000Z",
+        "end": "2026-08-21T15:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN This Morning Weekend",
-        "start": "2026-08-21T11:00:00.000Z",
-        "end": "2026-08-21T12:00:00.000Z"
-      },
-      {
-        "title": "First Of All With Victor Blackwell",
-        "start": "2026-08-21T12:00:00.000Z",
-        "end": "2026-08-21T12:30:00.000Z"
-      },
       {
         "title": "World Sport",
         "start": "2026-08-21T12:30:00.000Z",
@@ -399,6 +359,16 @@
         "title": "World Sport",
         "start": "2026-08-21T13:45:00.000Z",
         "end": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "title": "CNN Creators",
+        "start": "2026-08-21T14:00:00.000Z",
+        "end": "2026-08-21T14:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-21T14:30:00.000Z",
+        "end": "2026-08-21T15:00:00.000Z"
       }
     ]
   }
