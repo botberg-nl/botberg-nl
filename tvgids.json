@@ -1,17 +1,42 @@
 {
-  "generated": "2026-08-21T19:23:28.461Z",
+  "generated": "2026-08-21T19:46:57.427Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Paul & vrienden 2025",
-        "start": "2026-08-21T19:20:00.000Z",
+        "title": "Triviant",
+        "start": "2026-08-21T19:30:00.000Z",
+        "end": "2026-08-21T20:20:00.000Z"
+      },
+      {
+        "title": "Studio sport voetbal",
+        "start": "2026-08-21T20:20:00.000Z",
         "end": "2026-08-21T20:45:00.000Z"
       },
       {
         "title": "Studio sport voetbal",
         "start": "2026-08-21T20:45:00.000Z",
+        "end": "2026-08-21T21:10:00.000Z"
+      },
+      {
+        "title": "Keuringsdienst van waarde",
+        "start": "2026-08-21T21:10:00.000Z",
         "end": "2026-08-21T21:30:00.000Z"
+      },
+      {
+        "title": "Studio sport",
+        "start": "2026-08-21T21:30:00.000Z",
+        "end": "2026-08-21T21:35:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-21T21:35:00.000Z",
+        "end": "2026-08-21T21:45:00.000Z"
+      },
+      {
+        "title": "Triviant",
+        "start": "2026-08-21T21:45:00.000Z",
+        "end": "2026-08-21T22:05:00.000Z"
       }
     ],
     "NPO 2": [
@@ -60,11 +85,6 @@
     ],
     "RTL 4": [
       {
-        "title": "Secret duets",
-        "start": "2026-08-21T18:56:00.000Z",
-        "end": "2026-08-21T19:40:00.000Z"
-      },
-      {
         "title": "Ons kent ons",
         "start": "2026-08-21T19:40:00.000Z",
         "end": "2026-08-21T20:23:00.000Z"
@@ -93,6 +113,26 @@
         "title": "RTL Weer",
         "start": "2026-08-21T21:23:00.000Z",
         "end": "2026-08-21T21:24:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-21T21:24:00.000Z",
+        "end": "2026-08-21T21:27:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-21T21:27:00.000Z",
+        "end": "2026-08-21T21:33:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-21T21:33:00.000Z",
+        "end": "2026-08-21T21:37:00.000Z"
+      },
+      {
+        "title": "Beste kijkers",
+        "start": "2026-08-21T21:37:00.000Z",
+        "end": "2026-08-21T22:07:00.000Z"
       }
     ],
     "RTL 5": [
@@ -125,6 +165,11 @@
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-21T20:52:00.000Z",
         "end": "2026-08-21T21:39:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-21T21:39:00.000Z",
+        "end": "2026-08-21T21:51:00.000Z"
       }
     ],
     "RTL 7": [
@@ -152,11 +197,6 @@
     "RTL 8": [
       {
         "title": "Poirot",
-        "start": "2026-08-21T18:25:00.000Z",
-        "end": "2026-08-21T19:27:00.000Z"
-      },
-      {
-        "title": "Poirot",
         "start": "2026-08-21T19:27:00.000Z",
         "end": "2026-08-21T19:50:00.000Z"
       },
@@ -179,14 +219,19 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-21T21:17:00.000Z",
         "end": "2026-08-21T21:26:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-21T21:26:00.000Z",
+        "end": "2026-08-21T21:36:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-21T21:36:00.000Z",
+        "end": "2026-08-21T22:00:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De Oranjezomer",
-        "start": "2026-08-21T19:18:00.000Z",
-        "end": "2026-08-21T19:25:00.000Z"
-      },
       {
         "title": "Postcode Loterij In de ring",
         "start": "2026-08-21T19:25:00.000Z",
@@ -211,14 +256,14 @@
         "title": "Shownieuws",
         "start": "2026-08-21T20:54:00.000Z",
         "end": "2026-08-21T21:45:00.000Z"
+      },
+      {
+        "title": "Mi dushi: Wat is dan liefde?",
+        "start": "2026-08-21T21:45:00.000Z",
+        "end": "2026-08-21T21:49:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "NCIS",
-        "start": "2026-08-21T18:58:00.000Z",
-        "end": "2026-08-21T19:28:00.000Z"
-      },
       {
         "title": "Fire country",
         "start": "2026-08-21T19:28:00.000Z",
@@ -252,11 +297,6 @@
     ],
     "Veronica": [
       {
-        "title": "Najib Amhali: 30 jaar on stage",
-        "start": "2026-08-21T18:26:00.000Z",
-        "end": "2026-08-21T19:32:00.000Z"
-      },
-      {
         "title": "Baywatch remastered",
         "start": "2026-08-21T19:32:00.000Z",
         "end": "2026-08-21T20:28:00.000Z"
@@ -270,14 +310,14 @@
         "title": "De Staatsloterij Show",
         "start": "2026-08-21T20:49:00.000Z",
         "end": "2026-08-21T21:24:00.000Z"
+      },
+      {
+        "title": "Baywatch remastered",
+        "start": "2026-08-21T21:24:00.000Z",
+        "end": "2026-08-21T22:16:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-21T19:00:00.000Z",
-        "end": "2026-08-21T19:30:00.000Z"
-      },
       {
         "title": "The travel show",
         "start": "2026-08-21T19:30:00.000Z",
@@ -302,6 +342,11 @@
         "title": "BBC news",
         "start": "2026-08-21T21:00:00.000Z",
         "end": "2026-08-21T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-21T21:30:00.000Z",
+        "end": "2026-08-21T22:00:00.000Z"
       }
     ],
     "CNN": [
@@ -319,6 +364,11 @@
         "title": "World Sport",
         "start": "2026-08-21T21:00:00.000Z",
         "end": "2026-08-21T21:30:00.000Z"
+      },
+      {
+        "title": "CNN Creators",
+        "start": "2026-08-21T21:30:00.000Z",
+        "end": "2026-08-21T22:00:00.000Z"
       }
     ]
   }
