@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-22T16:19:48.898Z",
+  "generated": "2026-08-22T16:48:43.886Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Sportjournaal",
-        "start": "2026-08-22T16:15:00.000Z",
-        "end": "2026-08-22T16:30:00.000Z"
-      },
       {
         "title": "EenVandaag",
         "start": "2026-08-22T16:30:00.000Z",
@@ -22,14 +17,19 @@
         "title": "NOS Journaal",
         "start": "2026-08-22T18:00:00.000Z",
         "end": "2026-08-22T18:25:00.000Z"
+      },
+      {
+        "title": "Beestenboel",
+        "start": "2026-08-22T18:25:00.000Z",
+        "end": "2026-08-22T18:30:00.000Z"
+      },
+      {
+        "title": "Dit was het nieuws",
+        "start": "2026-08-22T18:30:00.000Z",
+        "end": "2026-08-22T19:15:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Prinsengrachtconcert 2026",
-        "start": "2026-08-22T16:10:00.000Z",
-        "end": "2026-08-22T16:35:00.000Z"
-      },
       {
         "title": "Ik mis je",
         "start": "2026-08-22T16:35:00.000Z",
@@ -49,19 +49,19 @@
         "title": "Rail away",
         "start": "2026-08-22T17:50:00.000Z",
         "end": "2026-08-22T18:20:00.000Z"
+      },
+      {
+        "title": "Zomergasten",
+        "start": "2026-08-22T18:20:00.000Z",
+        "end": "2026-08-22T18:25:00.000Z"
+      },
+      {
+        "title": "Andere tijden presenteert: Door vrouwenogen",
+        "start": "2026-08-22T18:25:00.000Z",
+        "end": "2026-08-22T19:15:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Wilde buren",
-        "start": "2026-08-22T16:15:00.000Z",
-        "end": "2026-08-22T16:20:00.000Z"
-      },
-      {
-        "title": "Steken en prikken: Op vakantie",
-        "start": "2026-08-22T16:20:00.000Z",
-        "end": "2026-08-22T16:35:00.000Z"
-      },
       {
         "title": "Welkom in de 80-jarige Oorlog",
         "start": "2026-08-22T16:35:00.000Z",
@@ -81,19 +81,24 @@
         "title": "3 op reis",
         "start": "2026-08-22T17:45:00.000Z",
         "end": "2026-08-22T18:23:00.000Z"
+      },
+      {
+        "title": "Socutera",
+        "start": "2026-08-22T18:23:00.000Z",
+        "end": "2026-08-22T18:25:00.000Z"
+      },
+      {
+        "title": "Lowlands",
+        "start": "2026-08-22T18:25:00.000Z",
+        "end": "2026-08-22T18:35:00.000Z"
+      },
+      {
+        "title": "Lowlands",
+        "start": "2026-08-22T18:35:00.000Z",
+        "end": "2026-08-22T19:55:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "EditieNL",
-        "start": "2026-08-22T16:17:00.000Z",
-        "end": "2026-08-22T16:33:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-22T16:33:00.000Z",
-        "end": "2026-08-22T16:35:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-22T16:35:00.000Z",
@@ -127,11 +132,6 @@
     ],
     "RTL 5": [
       {
-        "title": "Helden van hier: Op interventie",
-        "start": "2026-08-22T15:51:00.000Z",
-        "end": "2026-08-22T16:36:00.000Z"
-      },
-      {
         "title": "Meldkamer Utrecht Centraal",
         "start": "2026-08-22T16:36:00.000Z",
         "end": "2026-08-22T17:01:00.000Z"
@@ -153,11 +153,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-22T16:06:00.000Z",
-        "end": "2026-08-22T16:35:00.000Z"
-      },
       {
         "title": "Border security Canada",
         "start": "2026-08-22T16:35:00.000Z",
@@ -186,11 +181,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Lego masters Australië",
-        "start": "2026-08-22T15:39:00.000Z",
-        "end": "2026-08-22T16:35:00.000Z"
-      },
-      {
         "title": "De Verraders UK",
         "start": "2026-08-22T16:35:00.000Z",
         "end": "2026-08-22T16:53:00.000Z"
@@ -207,11 +197,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "De grote verbouwing Australië",
-        "start": "2026-08-22T16:05:00.000Z",
-        "end": "2026-08-22T16:36:00.000Z"
-      },
       {
         "title": "Lachen om home video's",
         "start": "2026-08-22T16:36:00.000Z",
@@ -231,6 +216,11 @@
         "title": "I've got the music in me",
         "start": "2026-08-22T18:05:00.000Z",
         "end": "2026-08-22T18:30:00.000Z"
+      },
+      {
+        "title": "Het jachtseizoen",
+        "start": "2026-08-22T18:30:00.000Z",
+        "end": "2026-08-22T19:25:00.000Z"
       }
     ],
     "NET 5": [
@@ -256,11 +246,6 @@
       }
     ],
     "Veronica": [
-      {
-        "title": "Zeepkistenrace",
-        "start": "2026-08-22T16:08:00.000Z",
-        "end": "2026-08-22T16:33:00.000Z"
-      },
       {
         "title": "Border security: Nieuw-Zeeland",
         "start": "2026-08-22T16:33:00.000Z",
@@ -307,14 +292,14 @@
         "title": "BBC news",
         "start": "2026-08-22T18:00:00.000Z",
         "end": "2026-08-22T18:30:00.000Z"
+      },
+      {
+        "title": "The Engineers",
+        "start": "2026-08-22T18:30:00.000Z",
+        "end": "2026-08-22T19:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "World Sport",
-        "start": "2026-08-22T16:00:00.000Z",
-        "end": "2026-08-22T16:30:00.000Z"
-      },
       {
         "title": "Inside Africa",
         "start": "2026-08-22T16:30:00.000Z",
