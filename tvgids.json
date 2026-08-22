@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T15:17:24.034Z",
+  "generated": "2026-08-22T15:44:59.230Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -36,11 +36,6 @@
     ],
     "NPO 2": [
       {
-        "title": "Pauscast",
-        "start": "2026-08-22T15:10:00.000Z",
-        "end": "2026-08-22T15:35:00.000Z"
-      },
-      {
         "title": "Verloren in het Lake District",
         "start": "2026-08-22T15:35:00.000Z",
         "end": "2026-08-22T15:55:00.000Z"
@@ -64,19 +59,14 @@
         "title": "Into the Congo with Ben Fogle",
         "start": "2026-08-22T17:00:00.000Z",
         "end": "2026-08-22T17:25:00.000Z"
+      },
+      {
+        "title": "Sue Perkins ontdekt Alaska",
+        "start": "2026-08-22T17:25:00.000Z",
+        "end": "2026-08-22T17:50:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zenith II",
-        "start": "2026-08-22T15:15:00.000Z",
-        "end": "2026-08-22T15:30:00.000Z"
-      },
-      {
-        "title": "Taakstraf",
-        "start": "2026-08-22T15:30:00.000Z",
-        "end": "2026-08-22T15:40:00.000Z"
-      },
       {
         "title": "Dierendokter in het wild",
         "start": "2026-08-22T15:40:00.000Z",
@@ -116,14 +106,14 @@
         "title": "Jeugdjournaal",
         "start": "2026-08-22T17:00:00.000Z",
         "end": "2026-08-22T17:20:00.000Z"
+      },
+      {
+        "title": "ZappDoc: I am - Investigation art mysteries",
+        "start": "2026-08-22T17:20:00.000Z",
+        "end": "2026-08-22T17:45:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Campingtijd",
-        "start": "2026-08-22T15:00:00.000Z",
-        "end": "2026-08-22T15:29:00.000Z"
-      },
       {
         "title": "Het goede camperleven",
         "start": "2026-08-22T15:29:00.000Z",
@@ -148,14 +138,19 @@
         "title": "RTL Boulevard",
         "start": "2026-08-22T16:35:00.000Z",
         "end": "2026-08-22T17:21:00.000Z"
+      },
+      {
+        "title": "VriendenLoterij: De winnaars",
+        "start": "2026-08-22T17:21:00.000Z",
+        "end": "2026-08-22T17:30:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-22T17:30:00.000Z",
+        "end": "2026-08-22T17:56:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-22T14:53:00.000Z",
-        "end": "2026-08-22T15:37:00.000Z"
-      },
       {
         "title": "Stop! Politie UK",
         "start": "2026-08-22T15:37:00.000Z",
@@ -178,11 +173,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-22T15:10:00.000Z",
-        "end": "2026-08-22T15:38:00.000Z"
-      },
       {
         "title": "Border security Canada",
         "start": "2026-08-22T15:38:00.000Z",
@@ -212,14 +202,14 @@
         "title": "Border security Canada",
         "start": "2026-08-22T17:02:00.000Z",
         "end": "2026-08-22T17:31:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-08-22T17:31:00.000Z",
+        "end": "2026-08-22T18:00:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-22T11:00:00.000Z",
-        "end": "2026-08-22T15:39:00.000Z"
-      },
       {
         "title": "Lego masters Australië",
         "start": "2026-08-22T15:39:00.000Z",
@@ -256,6 +246,11 @@
         "title": "vtwonen weer verliefd op je huis",
         "start": "2026-08-22T17:00:00.000Z",
         "end": "2026-08-22T17:34:00.000Z"
+      },
+      {
+        "title": "De Hanslers: Van de piste naar de playa",
+        "start": "2026-08-22T17:34:00.000Z",
+        "end": "2026-08-22T18:05:00.000Z"
       }
     ],
     "NET 5": [
@@ -324,11 +319,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC news",
-        "start": "2026-08-22T15:00:00.000Z",
-        "end": "2026-08-22T15:30:00.000Z"
-      },
-      {
         "title": "Global eye",
         "start": "2026-08-22T15:30:00.000Z",
         "end": "2026-08-22T16:00:00.000Z"
@@ -342,6 +332,11 @@
         "title": "BBC news",
         "start": "2026-08-22T17:00:00.000Z",
         "end": "2026-08-22T17:30:00.000Z"
+      },
+      {
+        "title": "Talking Business",
+        "start": "2026-08-22T17:30:00.000Z",
+        "end": "2026-08-22T18:00:00.000Z"
       }
     ],
     "CNN": [
@@ -364,6 +359,11 @@
         "title": "African Voices",
         "start": "2026-08-22T17:00:00.000Z",
         "end": "2026-08-22T17:30:00.000Z"
+      },
+      {
+        "title": "Marketplace Africa",
+        "start": "2026-08-22T17:30:00.000Z",
+        "end": "2026-08-22T17:45:00.000Z"
       }
     ]
   }
