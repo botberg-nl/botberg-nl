@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-22T09:34:36.314Z",
+  "generated": "2026-08-22T10:19:47.671Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "We zijn er bijna!",
-        "start": "2026-08-22T09:25:00.000Z",
-        "end": "2026-08-22T10:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-22T10:00:00.000Z",
-        "end": "2026-08-22T10:10:00.000Z"
-      },
       {
         "title": "Een buitengewoon gesprek",
         "start": "2026-08-22T10:10:00.000Z",
@@ -37,29 +27,14 @@
         "title": "Studio sport live",
         "start": "2026-08-22T11:10:00.000Z",
         "end": "2026-08-22T11:45:00.000Z"
+      },
+      {
+        "title": "Ahoy zingt De Nijs",
+        "start": "2026-08-22T11:45:00.000Z",
+        "end": "2026-08-22T12:48:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-08-22T09:30:00.000Z",
-        "end": "2026-08-22T09:40:00.000Z"
-      },
-      {
-        "title": "De verandering",
-        "start": "2026-08-22T09:40:00.000Z",
-        "end": "2026-08-22T09:57:00.000Z"
-      },
-      {
-        "title": "Wilde Ganzen",
-        "start": "2026-08-22T09:57:00.000Z",
-        "end": "2026-08-22T10:00:00.000Z"
-      },
-      {
-        "title": "De kist",
-        "start": "2026-08-22T10:00:00.000Z",
-        "end": "2026-08-22T10:15:00.000Z"
-      },
       {
         "title": "Dit is de kwestie",
         "start": "2026-08-22T10:15:00.000Z",
@@ -89,29 +64,14 @@
         "title": "Fryslân dok",
         "start": "2026-08-22T11:20:00.000Z",
         "end": "2026-08-22T11:55:00.000Z"
+      },
+      {
+        "title": "Andere tijden presenteert: Door vrouwenogen",
+        "start": "2026-08-22T11:55:00.000Z",
+        "end": "2026-08-22T12:20:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zappbios: Helemaal de baas\n                        Jeugd",
-        "start": "2026-08-22T09:30:00.000Z",
-        "end": "2026-08-22T09:40:00.000Z"
-      },
-      {
-        "title": "Grizzy en de lemmingen",
-        "start": "2026-08-22T09:40:00.000Z",
-        "end": "2026-08-22T09:45:00.000Z"
-      },
-      {
-        "title": "Molmans",
-        "start": "2026-08-22T09:45:00.000Z",
-        "end": "2026-08-22T10:00:00.000Z"
-      },
-      {
-        "title": "Machtige Mike",
-        "start": "2026-08-22T10:00:00.000Z",
-        "end": "2026-08-22T10:05:00.000Z"
-      },
       {
         "title": "Zappbios: K3 - Dans van de Farao\n                        Familie",
         "start": "2026-08-22T10:05:00.000Z",
@@ -126,19 +86,24 @@
         "title": "Zeven kleine criminelen",
         "start": "2026-08-22T11:30:00.000Z",
         "end": "2026-08-22T11:35:00.000Z"
+      },
+      {
+        "title": "Studio snugger",
+        "start": "2026-08-22T11:35:00.000Z",
+        "end": "2026-08-22T11:55:00.000Z"
+      },
+      {
+        "title": "De zomer van Zoë",
+        "start": "2026-08-22T11:55:00.000Z",
+        "end": "2026-08-22T12:10:00.000Z"
+      },
+      {
+        "title": "De zomer van Zoë",
+        "start": "2026-08-22T12:10:00.000Z",
+        "end": "2026-08-22T12:20:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "De mooiste wegen",
-        "start": "2026-08-22T09:27:00.000Z",
-        "end": "2026-08-22T09:59:00.000Z"
-      },
-      {
-        "title": "Het goede camperleven",
-        "start": "2026-08-22T09:59:00.000Z",
-        "end": "2026-08-22T10:00:00.000Z"
-      },
       {
         "title": "Later als ik groot ben",
         "start": "2026-08-22T10:00:00.000Z",
@@ -173,6 +138,16 @@
         "title": "Van woonvilla naar droomvilla",
         "start": "2026-08-22T11:31:00.000Z",
         "end": "2026-08-22T11:58:00.000Z"
+      },
+      {
+        "title": "Franky en Coen: Patatje hoop",
+        "start": "2026-08-22T11:58:00.000Z",
+        "end": "2026-08-22T12:00:00.000Z"
+      },
+      {
+        "title": "Thuis voor jou",
+        "start": "2026-08-22T12:00:00.000Z",
+        "end": "2026-08-22T12:27:00.000Z"
       }
     ],
     "RTL 5": [
@@ -185,14 +160,14 @@
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-22T10:58:00.000Z",
         "end": "2026-08-22T12:01:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Telvero",
+        "start": "2026-08-22T12:01:00.000Z",
+        "end": "2026-08-22T12:28:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-22T09:33:00.000Z",
-        "end": "2026-08-22T10:04:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-22T10:04:00.000Z",
@@ -217,6 +192,21 @@
         "title": "Vis tv",
         "start": "2026-08-22T11:29:00.000Z",
         "end": "2026-08-22T11:35:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-22T11:35:00.000Z",
+        "end": "2026-08-22T11:56:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-22T11:56:00.000Z",
+        "end": "2026-08-22T12:06:00.000Z"
+      },
+      {
+        "title": "Autosport NL",
+        "start": "2026-08-22T12:06:00.000Z",
+        "end": "2026-08-22T12:27:00.000Z"
       }
     ],
     "RTL 8": [
@@ -232,21 +222,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Man bijt hond",
-        "start": "2026-08-22T09:25:00.000Z",
-        "end": "2026-08-22T09:45:00.000Z"
-      },
-      {
-        "title": "Secret life of the zoo",
-        "start": "2026-08-22T09:45:00.000Z",
-        "end": "2026-08-22T10:00:00.000Z"
-      },
-      {
-        "title": "Levende Steen ministries",
-        "start": "2026-08-22T10:00:00.000Z",
-        "end": "2026-08-22T10:15:00.000Z"
-      },
       {
         "title": "Verkopen of verbouwen",
         "start": "2026-08-22T10:15:00.000Z",
@@ -266,19 +241,19 @@
         "title": "De grote verbouwing Nieuw-Zeeland",
         "start": "2026-08-22T11:15:00.000Z",
         "end": "2026-08-22T12:07:00.000Z"
+      },
+      {
+        "title": "Mi dushi: Wat is dan liefde?",
+        "start": "2026-08-22T12:07:00.000Z",
+        "end": "2026-08-22T12:15:00.000Z"
+      },
+      {
+        "title": "De Hanslers: Van de piste naar de playa",
+        "start": "2026-08-22T12:15:00.000Z",
+        "end": "2026-08-22T13:08:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Home and away",
-        "start": "2026-08-22T09:24:00.000Z",
-        "end": "2026-08-22T09:51:00.000Z"
-      },
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-22T09:51:00.000Z",
-        "end": "2026-08-22T09:53:00.000Z"
-      },
       {
         "title": "Home and away",
         "start": "2026-08-22T09:53:00.000Z",
@@ -298,6 +273,16 @@
         "title": "Gilmore girls",
         "start": "2026-08-22T11:18:00.000Z",
         "end": "2026-08-22T11:50:00.000Z"
+      },
+      {
+        "title": "Een dag in de dierentuin",
+        "start": "2026-08-22T11:50:00.000Z",
+        "end": "2026-08-22T12:15:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-08-22T12:15:00.000Z",
+        "end": "2026-08-22T12:50:00.000Z"
       }
     ],
     "Veronica": [
@@ -308,11 +293,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "The Engineers",
-        "start": "2026-08-22T09:30:00.000Z",
-        "end": "2026-08-22T10:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-22T10:00:00.000Z",
@@ -337,14 +317,14 @@
         "title": "The Media Show",
         "start": "2026-08-22T11:30:00.000Z",
         "end": "2026-08-22T12:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-22T12:00:00.000Z",
+        "end": "2026-08-22T12:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-22T09:00:00.000Z",
-        "end": "2026-08-22T10:00:00.000Z"
-      },
       {
         "title": "CNN This Morning Weekend",
         "start": "2026-08-22T10:00:00.000Z",
@@ -359,6 +339,11 @@
         "title": "CNN This Morning Weekend",
         "start": "2026-08-22T11:00:00.000Z",
         "end": "2026-08-22T12:00:00.000Z"
+      },
+      {
+        "title": "Inside Politics",
+        "start": "2026-08-22T12:00:00.000Z",
+        "end": "2026-08-22T13:00:00.000Z"
       }
     ]
   }
