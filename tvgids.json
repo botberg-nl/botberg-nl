@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-22T22:46:46.629Z",
+  "generated": "2026-08-22T23:17:25.910Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-22T22:40:00.000Z",
-        "end": "2026-08-22T23:10:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-22T23:10:00.000Z",
-        "end": "2026-08-22T23:15:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-22T23:15:00.000Z",
@@ -61,27 +51,12 @@
     ],
     "NPO 2": [
       {
-        "title": "Tekst-tv",
-        "start": "2026-08-22T22:27:00.000Z",
-        "end": "2026-08-22T22:55:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-22T22:55:00.000Z",
-        "end": "2026-08-22T23:00:00.000Z"
-      },
-      {
         "title": "Nieuwsuur",
         "start": "2026-08-22T23:00:00.000Z",
         "end": "2026-08-23T05:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Meiden die rijden",
-        "start": "2026-08-22T22:00:00.000Z",
-        "end": "2026-08-22T22:55:00.000Z"
-      },
       {
         "title": "Het dubbelleven van Marijn Kuipers",
         "start": "2026-08-22T22:55:00.000Z",
@@ -91,24 +66,19 @@
         "title": "A beautiful mess",
         "start": "2026-08-22T23:55:00.000Z",
         "end": "2026-08-23T00:55:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-23T00:55:00.000Z",
+        "end": "2026-08-23T01:05:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-23T01:05:00.000Z",
+        "end": "2026-08-23T01:50:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Vals spel",
-        "start": "2026-08-22T22:14:00.000Z",
-        "end": "2026-08-22T22:56:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-22T22:56:00.000Z",
-        "end": "2026-08-22T22:59:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-08-22T22:59:00.000Z",
-        "end": "2026-08-22T23:16:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-22T23:16:00.000Z",
@@ -147,16 +117,6 @@
     ],
     "RTL 5": [
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-08-22T22:13:00.000Z",
-        "end": "2026-08-22T22:57:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-22T22:57:00.000Z",
-        "end": "2026-08-22T23:11:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-22T23:11:00.000Z",
         "end": "2026-08-22T23:19:00.000Z"
@@ -173,16 +133,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-22T22:33:00.000Z",
-        "end": "2026-08-22T22:49:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-22T22:49:00.000Z",
-        "end": "2026-08-22T23:13:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-08-22T23:13:00.000Z",
@@ -207,11 +157,6 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-08-22T22:39:00.000Z",
-        "end": "2026-08-22T23:13:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-08-22T23:13:00.000Z",
         "end": "2026-08-23T00:01:00.000Z"
       },
@@ -222,16 +167,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-22T22:40:00.000Z",
-        "end": "2026-08-22T22:50:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-22T22:50:00.000Z",
-        "end": "2026-08-22T23:17:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-22T23:17:00.000Z",
@@ -255,11 +190,6 @@
     ],
     "NET 5": [
       {
-        "title": "Ordinary Joe",
-        "start": "2026-08-22T22:27:00.000Z",
-        "end": "2026-08-22T22:56:00.000Z"
-      },
-      {
         "title": "The resident",
         "start": "2026-08-22T22:56:00.000Z",
         "end": "2026-08-22T23:25:00.000Z"
@@ -278,19 +208,14 @@
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-22T23:54:00.000Z",
         "end": "2026-08-23T01:09:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-23T01:09:00.000Z",
+        "end": "2026-08-23T03:54:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Chopper cops",
-        "start": "2026-08-22T22:38:00.000Z",
-        "end": "2026-08-22T22:47:00.000Z"
-      },
-      {
-        "title": "Aliens\n                        Sciencefiction",
-        "start": "2026-08-22T22:47:00.000Z",
-        "end": "2026-08-22T23:04:00.000Z"
-      },
       {
         "title": "Fugitives caught on tape",
         "start": "2026-08-22T23:04:00.000Z",
@@ -315,14 +240,14 @@
         "title": "Pause",
         "start": "2026-08-23T00:14:00.000Z",
         "end": "2026-08-23T00:55:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-23T00:55:00.000Z",
+        "end": "2026-08-23T01:25:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Streets of Gold: Mumbai",
-        "start": "2026-08-22T22:30:00.000Z",
-        "end": "2026-08-22T23:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-22T23:00:00.000Z",
@@ -342,14 +267,14 @@
         "title": "Talking Business",
         "start": "2026-08-23T00:30:00.000Z",
         "end": "2026-08-23T01:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-23T01:00:00.000Z",
+        "end": "2026-08-23T01:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "The Brief with Jim Sciutto",
-        "start": "2026-08-22T22:00:00.000Z",
-        "end": "2026-08-22T23:00:00.000Z"
-      },
       {
         "title": "Erin Burnett OutFront",
         "start": "2026-08-22T23:00:00.000Z",
@@ -359,6 +284,11 @@
         "title": "Anderson Cooper 360",
         "start": "2026-08-23T00:00:00.000Z",
         "end": "2026-08-23T01:00:00.000Z"
+      },
+      {
+        "title": "The Source with Kaitlan Collins",
+        "start": "2026-08-23T01:00:00.000Z",
+        "end": "2026-08-23T01:30:00.000Z"
       }
     ]
   }
