@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T17:17:31.289Z",
+  "generated": "2026-08-22T17:44:47.067Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -16,20 +16,25 @@
       {
         "title": "Beestenboel",
         "start": "2026-08-22T18:25:00.000Z",
+        "end": "2026-08-22T18:30:00.000Z"
+      },
+      {
+        "title": "Dit was het nieuws",
+        "start": "2026-08-22T18:30:00.000Z",
         "end": "2026-08-22T19:15:00.000Z"
       },
       {
         "title": "Tussen kunst en kitsch",
         "start": "2026-08-22T19:15:00.000Z",
+        "end": "2026-08-22T19:20:00.000Z"
+      },
+      {
+        "title": "Paul & vrienden 2025",
+        "start": "2026-08-22T19:20:00.000Z",
         "end": "2026-08-22T20:10:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Into the Congo with Ben Fogle",
-        "start": "2026-08-22T17:00:00.000Z",
-        "end": "2026-08-22T17:25:00.000Z"
-      },
       {
         "title": "Sue Perkins ontdekt Alaska",
         "start": "2026-08-22T17:25:00.000Z",
@@ -58,11 +63,6 @@
     ],
     "NPO 3": [
       {
-        "title": "Jeugdjournaal",
-        "start": "2026-08-22T17:00:00.000Z",
-        "end": "2026-08-22T17:20:00.000Z"
-      },
-      {
         "title": "ZappDoc: I am - Investigation art mysteries",
         "start": "2026-08-22T17:20:00.000Z",
         "end": "2026-08-22T17:45:00.000Z"
@@ -90,16 +90,6 @@
     ],
     "RTL 4": [
       {
-        "title": "RTL Boulevard",
-        "start": "2026-08-22T16:35:00.000Z",
-        "end": "2026-08-22T17:21:00.000Z"
-      },
-      {
-        "title": "VriendenLoterij: De winnaars",
-        "start": "2026-08-22T17:21:00.000Z",
-        "end": "2026-08-22T17:30:00.000Z"
-      },
-      {
         "title": "RTL Nieuws",
         "start": "2026-08-22T17:30:00.000Z",
         "end": "2026-08-22T17:56:00.000Z"
@@ -123,6 +113,11 @@
         "title": "Los het op!",
         "start": "2026-08-22T19:04:00.000Z",
         "end": "2026-08-22T19:40:00.000Z"
+      },
+      {
+        "title": "Ons kent ons",
+        "start": "2026-08-22T19:40:00.000Z",
+        "end": "2026-08-22T19:52:00.000Z"
       }
     ],
     "RTL 5": [
@@ -145,14 +140,14 @@
         "title": "Het interventie team",
         "start": "2026-08-22T18:57:00.000Z",
         "end": "2026-08-22T19:25:00.000Z"
+      },
+      {
+        "title": "Kees van der Spek ontmaskert",
+        "start": "2026-08-22T19:25:00.000Z",
+        "end": "2026-08-22T19:54:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-22T17:02:00.000Z",
-        "end": "2026-08-22T17:31:00.000Z"
-      },
       {
         "title": "Border security Canada",
         "start": "2026-08-22T17:31:00.000Z",
@@ -178,11 +173,6 @@
     ],
     "SBS 6": [
       {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-22T17:00:00.000Z",
-        "end": "2026-08-22T17:34:00.000Z"
-      },
-      {
         "title": "De Hanslers: Van de piste naar de playa",
         "start": "2026-08-22T17:34:00.000Z",
         "end": "2026-08-22T18:05:00.000Z"
@@ -196,6 +186,11 @@
         "title": "Het jachtseizoen",
         "start": "2026-08-22T18:30:00.000Z",
         "end": "2026-08-22T19:25:00.000Z"
+      },
+      {
+        "title": "Mi dushi: Wat is dan liefde?",
+        "start": "2026-08-22T19:25:00.000Z",
+        "end": "2026-08-22T20:30:00.000Z"
       }
     ],
     "NET 5": [
@@ -235,14 +230,14 @@
         "title": "Alert: Missing persons unit",
         "start": "2026-08-22T18:56:00.000Z",
         "end": "2026-08-22T19:32:00.000Z"
+      },
+      {
+        "title": "Baywatch remastered",
+        "start": "2026-08-22T19:32:00.000Z",
+        "end": "2026-08-22T19:54:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-22T17:00:00.000Z",
-        "end": "2026-08-22T17:30:00.000Z"
-      },
       {
         "title": "Talking Business",
         "start": "2026-08-22T17:30:00.000Z",
@@ -262,14 +257,14 @@
         "title": "BBC news",
         "start": "2026-08-22T19:00:00.000Z",
         "end": "2026-08-22T19:30:00.000Z"
+      },
+      {
+        "title": "World's Ultimate Adventures",
+        "start": "2026-08-22T19:30:00.000Z",
+        "end": "2026-08-22T20:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "African Voices",
-        "start": "2026-08-22T17:00:00.000Z",
-        "end": "2026-08-22T17:30:00.000Z"
-      },
       {
         "title": "Marketplace Africa",
         "start": "2026-08-22T17:30:00.000Z",
