@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-22T16:48:43.886Z",
+  "generated": "2026-08-22T17:17:31.289Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-22T16:30:00.000Z",
-        "end": "2026-08-22T17:00:00.000Z"
-      },
       {
         "title": "Studio sport voetbal",
         "start": "2026-08-22T17:00:00.000Z",
@@ -21,20 +16,15 @@
       {
         "title": "Beestenboel",
         "start": "2026-08-22T18:25:00.000Z",
-        "end": "2026-08-22T18:30:00.000Z"
+        "end": "2026-08-22T19:15:00.000Z"
       },
       {
-        "title": "Dit was het nieuws",
-        "start": "2026-08-22T18:30:00.000Z",
-        "end": "2026-08-22T19:15:00.000Z"
+        "title": "Tussen kunst en kitsch",
+        "start": "2026-08-22T19:15:00.000Z",
+        "end": "2026-08-22T20:10:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Ik mis je",
-        "start": "2026-08-22T16:35:00.000Z",
-        "end": "2026-08-22T17:00:00.000Z"
-      },
       {
         "title": "Into the Congo with Ben Fogle",
         "start": "2026-08-22T17:00:00.000Z",
@@ -59,14 +49,14 @@
         "title": "Andere tijden presenteert: Door vrouwenogen",
         "start": "2026-08-22T18:25:00.000Z",
         "end": "2026-08-22T19:15:00.000Z"
+      },
+      {
+        "title": "Prinsengrachtconcert 2026",
+        "start": "2026-08-22T19:15:00.000Z",
+        "end": "2026-08-22T20:30:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Welkom in de 80-jarige Oorlog",
-        "start": "2026-08-22T16:35:00.000Z",
-        "end": "2026-08-22T17:00:00.000Z"
-      },
       {
         "title": "Jeugdjournaal",
         "start": "2026-08-22T17:00:00.000Z",
@@ -128,14 +118,14 @@
         "title": "Postcode Loterij Eén tegen 100",
         "start": "2026-08-22T18:07:00.000Z",
         "end": "2026-08-22T19:04:00.000Z"
+      },
+      {
+        "title": "Los het op!",
+        "start": "2026-08-22T19:04:00.000Z",
+        "end": "2026-08-22T19:40:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Meldkamer Utrecht Centraal",
-        "start": "2026-08-22T16:36:00.000Z",
-        "end": "2026-08-22T17:01:00.000Z"
-      },
       {
         "title": "Helden van hier: Op interventie",
         "start": "2026-08-22T17:01:00.000Z",
@@ -150,19 +140,14 @@
         "title": "Het interventie team",
         "start": "2026-08-22T18:03:00.000Z",
         "end": "2026-08-22T18:57:00.000Z"
+      },
+      {
+        "title": "Het interventie team",
+        "start": "2026-08-22T18:57:00.000Z",
+        "end": "2026-08-22T19:25:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Border security Canada",
-        "start": "2026-08-22T16:35:00.000Z",
-        "end": "2026-08-22T17:01:00.000Z"
-      },
-      {
-        "title": "Border Patrol USA",
-        "start": "2026-08-22T17:01:00.000Z",
-        "end": "2026-08-22T17:02:00.000Z"
-      },
       {
         "title": "Border security Canada",
         "start": "2026-08-22T17:02:00.000Z",
@@ -181,11 +166,6 @@
     ],
     "RTL 8": [
       {
-        "title": "De Verraders UK",
-        "start": "2026-08-22T16:35:00.000Z",
-        "end": "2026-08-22T16:53:00.000Z"
-      },
-      {
         "title": "Lego masters Australië",
         "start": "2026-08-22T16:53:00.000Z",
         "end": "2026-08-22T18:00:00.000Z"
@@ -197,11 +177,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Lachen om home video's",
-        "start": "2026-08-22T16:36:00.000Z",
-        "end": "2026-08-22T17:00:00.000Z"
-      },
       {
         "title": "vtwonen weer verliefd op je huis",
         "start": "2026-08-22T17:00:00.000Z",
@@ -226,16 +201,6 @@
     "NET 5": [
       {
         "title": "Een dag in de dierenkliniek",
-        "start": "2026-08-22T16:02:00.000Z",
-        "end": "2026-08-22T16:58:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-08-22T16:58:00.000Z",
-        "end": "2026-08-22T16:59:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierenkliniek",
         "start": "2026-08-22T16:59:00.000Z",
         "end": "2026-08-22T18:00:00.000Z"
       },
@@ -243,19 +208,14 @@
         "title": "Six Days Seven Nights\n                        Romantische komedie",
         "start": "2026-08-22T18:00:00.000Z",
         "end": "2026-08-22T18:58:00.000Z"
+      },
+      {
+        "title": "NCIS",
+        "start": "2026-08-22T18:58:00.000Z",
+        "end": "2026-08-22T19:56:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Border security: Nieuw-Zeeland",
-        "start": "2026-08-22T16:33:00.000Z",
-        "end": "2026-08-22T17:03:00.000Z"
-      },
-      {
-        "title": "Airport security: Amerika",
-        "start": "2026-08-22T17:03:00.000Z",
-        "end": "2026-08-22T17:04:00.000Z"
-      },
       {
         "title": "Zeepkistenrace",
         "start": "2026-08-22T17:04:00.000Z",
@@ -270,14 +230,14 @@
         "title": "Alert: Missing persons unit",
         "start": "2026-08-22T18:00:00.000Z",
         "end": "2026-08-22T18:56:00.000Z"
+      },
+      {
+        "title": "Alert: Missing persons unit",
+        "start": "2026-08-22T18:56:00.000Z",
+        "end": "2026-08-22T19:32:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-22T16:00:00.000Z",
-        "end": "2026-08-22T17:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-22T17:00:00.000Z",
@@ -297,14 +257,14 @@
         "title": "The Engineers",
         "start": "2026-08-22T18:30:00.000Z",
         "end": "2026-08-22T19:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-22T19:00:00.000Z",
+        "end": "2026-08-22T19:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Inside Africa",
-        "start": "2026-08-22T16:30:00.000Z",
-        "end": "2026-08-22T17:00:00.000Z"
-      },
       {
         "title": "African Voices",
         "start": "2026-08-22T17:00:00.000Z",
@@ -324,6 +284,11 @@
         "title": "CNN Newsroom",
         "start": "2026-08-22T18:00:00.000Z",
         "end": "2026-08-22T19:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-22T19:00:00.000Z",
+        "end": "2026-08-22T20:00:00.000Z"
       }
     ]
   }
