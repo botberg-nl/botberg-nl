@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-22T22:18:08.211Z",
+  "generated": "2026-08-22T22:46:46.629Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-22T22:15:00.000Z",
-        "end": "2026-08-22T22:35:00.000Z"
-      },
-      {
-        "title": "Van onschatbare waarde",
-        "start": "2026-08-22T22:35:00.000Z",
-        "end": "2026-08-22T22:40:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-22T22:40:00.000Z",
@@ -62,19 +52,14 @@
         "title": "NOS Journaal",
         "start": "2026-08-23T00:15:00.000Z",
         "end": "2026-08-23T00:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-23T00:20:00.000Z",
+        "end": "2026-08-23T03:50:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De nachtzoen",
-        "start": "2026-08-22T22:05:00.000Z",
-        "end": "2026-08-22T22:20:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-22T22:20:00.000Z",
-        "end": "2026-08-22T22:27:00.000Z"
-      },
       {
         "title": "Tekst-tv",
         "start": "2026-08-22T22:27:00.000Z",
@@ -189,11 +174,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Pawn stars",
-        "start": "2026-08-22T22:10:00.000Z",
-        "end": "2026-08-22T22:33:00.000Z"
-      },
-      {
         "title": "Pawn stars hit the road",
         "start": "2026-08-22T22:33:00.000Z",
         "end": "2026-08-22T22:49:00.000Z"
@@ -226,11 +206,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Crime scene investigation",
-        "start": "2026-08-22T22:18:00.000Z",
-        "end": "2026-08-22T22:39:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-22T22:39:00.000Z",
         "end": "2026-08-22T23:13:00.000Z"
@@ -247,11 +222,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "I've got the music in me",
-        "start": "2026-08-22T21:49:00.000Z",
-        "end": "2026-08-22T22:40:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-22T22:40:00.000Z",
@@ -285,11 +255,6 @@
     ],
     "NET 5": [
       {
-        "title": "The resident",
-        "start": "2026-08-22T21:57:00.000Z",
-        "end": "2026-08-22T22:27:00.000Z"
-      },
-      {
         "title": "Ordinary Joe",
         "start": "2026-08-22T22:27:00.000Z",
         "end": "2026-08-22T22:56:00.000Z"
@@ -316,16 +281,6 @@
       }
     ],
     "Veronica": [
-      {
-        "title": "FBI: Most wanted",
-        "start": "2026-08-22T21:43:00.000Z",
-        "end": "2026-08-22T22:20:00.000Z"
-      },
-      {
-        "title": "911 crisis center",
-        "start": "2026-08-22T22:20:00.000Z",
-        "end": "2026-08-22T22:38:00.000Z"
-      },
       {
         "title": "Chopper cops",
         "start": "2026-08-22T22:38:00.000Z",
@@ -364,11 +319,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC World News America",
-        "start": "2026-08-22T22:00:00.000Z",
-        "end": "2026-08-22T22:30:00.000Z"
-      },
-      {
         "title": "Streets of Gold: Mumbai",
         "start": "2026-08-22T22:30:00.000Z",
         "end": "2026-08-22T23:00:00.000Z"
@@ -387,6 +337,11 @@
         "title": "BBC news",
         "start": "2026-08-23T00:00:00.000Z",
         "end": "2026-08-23T00:30:00.000Z"
+      },
+      {
+        "title": "Talking Business",
+        "start": "2026-08-23T00:30:00.000Z",
+        "end": "2026-08-23T01:00:00.000Z"
       }
     ],
     "CNN": [
