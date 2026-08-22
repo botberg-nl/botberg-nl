@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T19:24:25.520Z",
+  "generated": "2026-08-22T19:45:19.731Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -27,6 +27,16 @@
         "title": "MAX Vakantieman",
         "start": "2026-08-22T21:20:00.000Z",
         "end": "2026-08-22T21:30:00.000Z"
+      },
+      {
+        "title": "Studio sport",
+        "start": "2026-08-22T21:30:00.000Z",
+        "end": "2026-08-22T21:45:00.000Z"
+      },
+      {
+        "title": "Triviant",
+        "start": "2026-08-22T21:45:00.000Z",
+        "end": "2026-08-22T22:05:00.000Z"
       }
     ],
     "NPO 2": [
@@ -49,6 +59,11 @@
         "title": "Silent witness",
         "start": "2026-08-22T21:10:00.000Z",
         "end": "2026-08-22T21:25:00.000Z"
+      },
+      {
+        "title": "Mirakel n°71",
+        "start": "2026-08-22T21:25:00.000Z",
+        "end": "2026-08-22T22:00:00.000Z"
       }
     ],
     "NPO 3": [
@@ -69,11 +84,6 @@
       }
     ],
     "RTL 4": [
-      {
-        "title": "Los het op!",
-        "start": "2026-08-22T19:04:00.000Z",
-        "end": "2026-08-22T19:40:00.000Z"
-      },
       {
         "title": "Ons kent ons",
         "start": "2026-08-22T19:40:00.000Z",
@@ -108,14 +118,24 @@
         "title": "RTL Nieuws",
         "start": "2026-08-22T21:19:00.000Z",
         "end": "2026-08-22T21:27:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-22T21:27:00.000Z",
+        "end": "2026-08-22T21:33:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-22T21:33:00.000Z",
+        "end": "2026-08-22T21:37:00.000Z"
+      },
+      {
+        "title": "Beste kijkers",
+        "start": "2026-08-22T21:37:00.000Z",
+        "end": "2026-08-22T22:07:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Het interventie team",
-        "start": "2026-08-22T18:57:00.000Z",
-        "end": "2026-08-22T19:25:00.000Z"
-      },
       {
         "title": "Kees van der Spek ontmaskert",
         "start": "2026-08-22T19:25:00.000Z",
@@ -130,6 +150,11 @@
         "title": "St. Willebrord: Het mirakel van Brabant",
         "start": "2026-08-22T20:52:00.000Z",
         "end": "2026-08-22T21:39:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-22T21:39:00.000Z",
+        "end": "2026-08-22T21:51:00.000Z"
       }
     ],
     "RTL 7": [
@@ -174,14 +199,24 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-22T20:44:00.000Z",
         "end": "2026-08-22T21:26:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-22T21:26:00.000Z",
+        "end": "2026-08-22T21:36:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-22T21:36:00.000Z",
+        "end": "2026-08-22T21:37:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-22T21:37:00.000Z",
+        "end": "2026-08-22T22:18:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Het jachtseizoen",
-        "start": "2026-08-22T18:30:00.000Z",
-        "end": "2026-08-22T19:25:00.000Z"
-      },
       {
         "title": "Mi dushi: Wat is dan liefde?",
         "start": "2026-08-22T19:25:00.000Z",
@@ -206,6 +241,11 @@
         "title": "Shownieuws",
         "start": "2026-08-22T20:54:00.000Z",
         "end": "2026-08-22T21:45:00.000Z"
+      },
+      {
+        "title": "De Hanslers: Van de piste naar de playa",
+        "start": "2026-08-22T21:45:00.000Z",
+        "end": "2026-08-22T21:49:00.000Z"
       }
     ],
     "NET 5": [
@@ -237,11 +277,6 @@
     ],
     "Veronica": [
       {
-        "title": "Alert: Missing persons unit",
-        "start": "2026-08-22T18:56:00.000Z",
-        "end": "2026-08-22T19:32:00.000Z"
-      },
-      {
         "title": "Baywatch remastered",
         "start": "2026-08-22T19:32:00.000Z",
         "end": "2026-08-22T19:54:00.000Z"
@@ -265,14 +300,14 @@
         "title": "Baywatch remastered",
         "start": "2026-08-22T21:24:00.000Z",
         "end": "2026-08-22T21:43:00.000Z"
+      },
+      {
+        "title": "FBI: Most wanted",
+        "start": "2026-08-22T21:43:00.000Z",
+        "end": "2026-08-22T22:16:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-22T19:00:00.000Z",
-        "end": "2026-08-22T19:30:00.000Z"
-      },
       {
         "title": "World's Ultimate Adventures",
         "start": "2026-08-22T19:30:00.000Z",
@@ -287,6 +322,11 @@
         "title": "BBC news",
         "start": "2026-08-22T21:00:00.000Z",
         "end": "2026-08-22T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-22T21:30:00.000Z",
+        "end": "2026-08-22T22:00:00.000Z"
       }
     ],
     "CNN": [
@@ -304,6 +344,11 @@
         "title": "World Sport",
         "start": "2026-08-22T21:00:00.000Z",
         "end": "2026-08-22T21:30:00.000Z"
+      },
+      {
+        "title": "Quest's World of Wonder",
+        "start": "2026-08-22T21:30:00.000Z",
+        "end": "2026-08-22T22:00:00.000Z"
       }
     ]
   }
