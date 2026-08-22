@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-22T18:57:35.165Z",
+  "generated": "2026-08-22T19:24:25.520Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Dit was het nieuws",
-        "start": "2026-08-22T18:30:00.000Z",
-        "end": "2026-08-22T19:15:00.000Z"
-      },
-      {
-        "title": "Tussen kunst en kitsch",
-        "start": "2026-08-22T19:15:00.000Z",
-        "end": "2026-08-22T19:20:00.000Z"
-      },
       {
         "title": "Paul & vrienden 2025",
         "start": "2026-08-22T19:20:00.000Z",
@@ -27,14 +17,19 @@
         "title": "Studio sport voetbal",
         "start": "2026-08-22T20:45:00.000Z",
         "end": "2026-08-22T21:05:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-22T21:05:00.000Z",
+        "end": "2026-08-22T21:20:00.000Z"
+      },
+      {
+        "title": "MAX Vakantieman",
+        "start": "2026-08-22T21:20:00.000Z",
+        "end": "2026-08-22T21:30:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Andere tijden presenteert: Door vrouwenogen",
-        "start": "2026-08-22T18:25:00.000Z",
-        "end": "2026-08-22T19:15:00.000Z"
-      },
       {
         "title": "Prinsengrachtconcert 2026",
         "start": "2026-08-22T19:15:00.000Z",
@@ -49,6 +44,11 @@
         "title": "Midsomer murders",
         "start": "2026-08-22T20:40:00.000Z",
         "end": "2026-08-22T21:10:00.000Z"
+      },
+      {
+        "title": "Silent witness",
+        "start": "2026-08-22T21:10:00.000Z",
+        "end": "2026-08-22T21:25:00.000Z"
       }
     ],
     "NPO 3": [
@@ -61,14 +61,14 @@
         "title": "Lowlands",
         "start": "2026-08-22T19:55:00.000Z",
         "end": "2026-08-22T21:10:00.000Z"
+      },
+      {
+        "title": "Lowlands",
+        "start": "2026-08-22T21:10:00.000Z",
+        "end": "2026-08-23T01:05:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Postcode Loterij Eén tegen 100",
-        "start": "2026-08-22T18:07:00.000Z",
-        "end": "2026-08-22T19:04:00.000Z"
-      },
       {
         "title": "Los het op!",
         "start": "2026-08-22T19:04:00.000Z",
@@ -93,6 +93,21 @@
         "title": "RTL Nieuws",
         "start": "2026-08-22T20:49:00.000Z",
         "end": "2026-08-22T21:08:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-22T21:08:00.000Z",
+        "end": "2026-08-22T21:11:00.000Z"
+      },
+      {
+        "title": "Vals spel",
+        "start": "2026-08-22T21:11:00.000Z",
+        "end": "2026-08-22T21:19:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-22T21:19:00.000Z",
+        "end": "2026-08-22T21:27:00.000Z"
       }
     ],
     "RTL 5": [
@@ -195,11 +210,6 @@
     ],
     "NET 5": [
       {
-        "title": "Six Days Seven Nights\n                        Romantische komedie",
-        "start": "2026-08-22T18:00:00.000Z",
-        "end": "2026-08-22T18:58:00.000Z"
-      },
-      {
         "title": "NCIS",
         "start": "2026-08-22T18:58:00.000Z",
         "end": "2026-08-22T19:56:00.000Z"
@@ -218,6 +228,11 @@
         "title": "Soko Köln",
         "start": "2026-08-22T20:57:00.000Z",
         "end": "2026-08-22T21:22:00.000Z"
+      },
+      {
+        "title": "Chicago fire",
+        "start": "2026-08-22T21:22:00.000Z",
+        "end": "2026-08-22T21:57:00.000Z"
       }
     ],
     "Veronica": [
@@ -245,14 +260,14 @@
         "title": "FBI: Most wanted",
         "start": "2026-08-22T20:49:00.000Z",
         "end": "2026-08-22T21:24:00.000Z"
+      },
+      {
+        "title": "Baywatch remastered",
+        "start": "2026-08-22T21:24:00.000Z",
+        "end": "2026-08-22T21:43:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Engineers",
-        "start": "2026-08-22T18:30:00.000Z",
-        "end": "2026-08-22T19:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-22T19:00:00.000Z",
@@ -267,14 +282,14 @@
         "title": "BBC news",
         "start": "2026-08-22T20:00:00.000Z",
         "end": "2026-08-22T21:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-22T21:00:00.000Z",
+        "end": "2026-08-22T21:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-22T18:00:00.000Z",
-        "end": "2026-08-22T19:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-22T19:00:00.000Z",
@@ -284,6 +299,11 @@
         "title": "CNN Newsroom",
         "start": "2026-08-22T20:00:00.000Z",
         "end": "2026-08-22T21:00:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-08-22T21:00:00.000Z",
+        "end": "2026-08-22T21:30:00.000Z"
       }
     ]
   }
