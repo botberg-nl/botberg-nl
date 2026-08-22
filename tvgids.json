@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-22T06:34:45.747Z",
+  "generated": "2026-08-22T07:28:52.964Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Bloemencorso",
-        "start": "2026-08-22T06:30:00.000Z",
-        "end": "2026-08-22T06:50:00.000Z"
-      },
-      {
-        "title": "Het mooiste meisje van de klas",
-        "start": "2026-08-22T06:50:00.000Z",
-        "end": "2026-08-22T07:20:00.000Z"
-      },
       {
         "title": "Van onschatbare waarde",
         "start": "2026-08-22T07:20:00.000Z",
@@ -27,24 +17,24 @@
         "title": "Bed & breakfast",
         "start": "2026-08-22T08:10:00.000Z",
         "end": "2026-08-22T08:35:00.000Z"
+      },
+      {
+        "title": "Het familiediner",
+        "start": "2026-08-22T08:35:00.000Z",
+        "end": "2026-08-22T09:10:00.000Z"
+      },
+      {
+        "title": "Zussen",
+        "start": "2026-08-22T09:10:00.000Z",
+        "end": "2026-08-22T09:25:00.000Z"
+      },
+      {
+        "title": "We zijn er bijna!",
+        "start": "2026-08-22T09:25:00.000Z",
+        "end": "2026-08-22T10:00:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De verwondering",
-        "start": "2026-08-22T06:30:00.000Z",
-        "end": "2026-08-22T06:55:00.000Z"
-      },
-      {
-        "title": "Mocronado's",
-        "start": "2026-08-22T06:55:00.000Z",
-        "end": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Ik mis je",
-        "start": "2026-08-22T07:00:00.000Z",
-        "end": "2026-08-22T07:20:00.000Z"
-      },
       {
         "title": "Nederland zingt",
         "start": "2026-08-22T07:20:00.000Z",
@@ -64,39 +54,24 @@
         "title": "Eucharistieviering",
         "start": "2026-08-22T08:00:00.000Z",
         "end": "2026-08-22T08:45:00.000Z"
+      },
+      {
+        "title": "Krabbé zoekt Chagall",
+        "start": "2026-08-22T08:45:00.000Z",
+        "end": "2026-08-22T09:05:00.000Z"
+      },
+      {
+        "title": "Nederland zingt op zondag",
+        "start": "2026-08-22T09:05:00.000Z",
+        "end": "2026-08-22T09:25:00.000Z"
+      },
+      {
+        "title": "Nu te zien!",
+        "start": "2026-08-22T09:25:00.000Z",
+        "end": "2026-08-22T09:30:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "De magische auto",
-        "start": "2026-08-22T06:30:00.000Z",
-        "end": "2026-08-22T06:40:00.000Z"
-      },
-      {
-        "title": "Kindertijd",
-        "start": "2026-08-22T06:40:00.000Z",
-        "end": "2026-08-22T06:45:00.000Z"
-      },
-      {
-        "title": "Beestenbrigade missie",
-        "start": "2026-08-22T06:45:00.000Z",
-        "end": "2026-08-22T06:50:00.000Z"
-      },
-      {
-        "title": "Beestenbrigade missie",
-        "start": "2026-08-22T06:50:00.000Z",
-        "end": "2026-08-22T07:05:00.000Z"
-      },
-      {
-        "title": "BabyBeestenBoel",
-        "start": "2026-08-22T07:05:00.000Z",
-        "end": "2026-08-22T07:15:00.000Z"
-      },
-      {
-        "title": "Het betoverde dorp van Pinokkio",
-        "start": "2026-08-22T07:15:00.000Z",
-        "end": "2026-08-22T07:25:00.000Z"
-      },
       {
         "title": "Zo is Joey!",
         "start": "2026-08-22T07:25:00.000Z",
@@ -136,19 +111,39 @@
         "title": "Zin in Zappelin",
         "start": "2026-08-22T08:25:00.000Z",
         "end": "2026-08-22T08:40:00.000Z"
+      },
+      {
+        "title": "Splat & Seymour",
+        "start": "2026-08-22T08:40:00.000Z",
+        "end": "2026-08-22T08:45:00.000Z"
+      },
+      {
+        "title": "Splat & Seymour",
+        "start": "2026-08-22T08:45:00.000Z",
+        "end": "2026-08-22T08:50:00.000Z"
+      },
+      {
+        "title": "Wickie de Viking",
+        "start": "2026-08-22T08:50:00.000Z",
+        "end": "2026-08-22T08:55:00.000Z"
+      },
+      {
+        "title": "Wickie de Viking",
+        "start": "2026-08-22T08:55:00.000Z",
+        "end": "2026-08-22T09:05:00.000Z"
+      },
+      {
+        "title": "Zappbios: Superworm\n                        Korte film",
+        "start": "2026-08-22T09:05:00.000Z",
+        "end": "2026-08-22T09:15:00.000Z"
+      },
+      {
+        "title": "Pol de piratenmuis",
+        "start": "2026-08-22T09:15:00.000Z",
+        "end": "2026-08-22T09:30:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-22T06:31:00.000Z",
-        "end": "2026-08-22T06:46:00.000Z"
-      },
-      {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-08-22T06:46:00.000Z",
-        "end": "2026-08-22T07:00:00.000Z"
-      },
       {
         "title": "Ronreizen",
         "start": "2026-08-22T07:00:00.000Z",
@@ -168,14 +163,19 @@
         "title": "Let's visit",
         "start": "2026-08-22T08:29:00.000Z",
         "end": "2026-08-22T08:58:00.000Z"
+      },
+      {
+        "title": "Huis gezocht",
+        "start": "2026-08-22T08:58:00.000Z",
+        "end": "2026-08-22T09:27:00.000Z"
+      },
+      {
+        "title": "De mooiste wegen",
+        "start": "2026-08-22T09:27:00.000Z",
+        "end": "2026-08-22T09:59:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Hour of power",
-        "start": "2026-08-22T06:00:00.000Z",
-        "end": "2026-08-22T06:59:00.000Z"
-      },
       {
         "title": "Hour of power",
         "start": "2026-08-22T06:59:00.000Z",
@@ -207,6 +207,11 @@
         "title": "Stop! Politie",
         "start": "2026-08-22T08:25:00.000Z",
         "end": "2026-08-22T09:22:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-22T09:22:00.000Z",
+        "end": "2026-08-22T09:33:00.000Z"
       }
     ],
     "RTL 8": [
@@ -217,21 +222,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-22T06:30:00.000Z",
-        "end": "2026-08-22T06:45:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-22T06:45:00.000Z",
-        "end": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-22T07:00:00.000Z",
-        "end": "2026-08-22T07:15:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-22T07:15:00.000Z",
@@ -256,14 +246,19 @@
         "title": "De grote verbouwing",
         "start": "2026-08-22T08:05:00.000Z",
         "end": "2026-08-22T09:03:00.000Z"
+      },
+      {
+        "title": "De grote verbouwing Nieuw-Zeeland",
+        "start": "2026-08-22T09:03:00.000Z",
+        "end": "2026-08-22T09:25:00.000Z"
+      },
+      {
+        "title": "Man bijt hond",
+        "start": "2026-08-22T09:25:00.000Z",
+        "end": "2026-08-22T09:45:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Signed, sealed, delivered",
-        "start": "2026-08-22T06:12:00.000Z",
-        "end": "2026-08-22T06:53:00.000Z"
-      },
       {
         "title": "MasterChef Australië",
         "start": "2026-08-22T06:53:00.000Z",
@@ -283,6 +278,21 @@
         "title": "Home and away",
         "start": "2026-08-22T08:28:00.000Z",
         "end": "2026-08-22T08:51:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-22T08:51:00.000Z",
+        "end": "2026-08-22T08:56:00.000Z"
+      },
+      {
+        "title": "Home and away",
+        "start": "2026-08-22T08:56:00.000Z",
+        "end": "2026-08-22T09:24:00.000Z"
+      },
+      {
+        "title": "Home and away",
+        "start": "2026-08-22T09:24:00.000Z",
+        "end": "2026-08-22T09:51:00.000Z"
       }
     ],
     "Veronica": [
@@ -293,11 +303,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "The travel show",
-        "start": "2026-08-22T06:30:00.000Z",
-        "end": "2026-08-22T07:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-22T07:00:00.000Z",
@@ -312,19 +317,14 @@
         "title": "BBC news",
         "start": "2026-08-22T08:00:00.000Z",
         "end": "2026-08-22T09:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-22T09:00:00.000Z",
+        "end": "2026-08-22T09:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Marketplace Africa",
-        "start": "2026-08-22T06:30:00.000Z",
-        "end": "2026-08-22T06:45:00.000Z"
-      },
-      {
-        "title": "CNN Marketplace Europe",
-        "start": "2026-08-22T06:45:00.000Z",
-        "end": "2026-08-22T07:00:00.000Z"
-      },
       {
         "title": "CNN Newsroom",
         "start": "2026-08-22T07:00:00.000Z",
@@ -344,6 +344,11 @@
         "title": "CNN Creators",
         "start": "2026-08-22T08:30:00.000Z",
         "end": "2026-08-22T09:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-08-22T09:00:00.000Z",
+        "end": "2026-08-22T10:00:00.000Z"
       }
     ]
   }
