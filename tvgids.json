@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-22T07:28:52.964Z",
+  "generated": "2026-08-22T07:56:12.856Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Van onschatbare waarde",
-        "start": "2026-08-22T07:20:00.000Z",
-        "end": "2026-08-22T07:45:00.000Z"
-      },
       {
         "title": "MAX Vakantieman",
         "start": "2026-08-22T07:45:00.000Z",
@@ -36,16 +31,6 @@
     ],
     "NPO 2": [
       {
-        "title": "Nederland zingt",
-        "start": "2026-08-22T07:20:00.000Z",
-        "end": "2026-08-22T07:40:00.000Z"
-      },
-      {
-        "title": "Generatie gebed - Wat bezielt GenZ",
-        "start": "2026-08-22T07:40:00.000Z",
-        "end": "2026-08-22T07:45:00.000Z"
-      },
-      {
         "title": "Geloofsgesprek",
         "start": "2026-08-22T07:45:00.000Z",
         "end": "2026-08-22T08:00:00.000Z"
@@ -69,19 +54,19 @@
         "title": "Nu te zien!",
         "start": "2026-08-22T09:25:00.000Z",
         "end": "2026-08-22T09:30:00.000Z"
+      },
+      {
+        "title": "EO Metterdaad",
+        "start": "2026-08-22T09:30:00.000Z",
+        "end": "2026-08-22T09:40:00.000Z"
+      },
+      {
+        "title": "De verandering",
+        "start": "2026-08-22T09:40:00.000Z",
+        "end": "2026-08-22T09:57:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Zo is Joey!",
-        "start": "2026-08-22T07:25:00.000Z",
-        "end": "2026-08-22T07:35:00.000Z"
-      },
-      {
-        "title": "De smurfen",
-        "start": "2026-08-22T07:35:00.000Z",
-        "end": "2026-08-22T07:50:00.000Z"
-      },
       {
         "title": "SamSam",
         "start": "2026-08-22T07:50:00.000Z",
@@ -141,14 +126,24 @@
         "title": "Pol de piratenmuis",
         "start": "2026-08-22T09:15:00.000Z",
         "end": "2026-08-22T09:30:00.000Z"
+      },
+      {
+        "title": "Zappbios: Helemaal de baas\n                        Jeugd",
+        "start": "2026-08-22T09:30:00.000Z",
+        "end": "2026-08-22T09:40:00.000Z"
+      },
+      {
+        "title": "Grizzy en de lemmingen",
+        "start": "2026-08-22T09:40:00.000Z",
+        "end": "2026-08-22T09:45:00.000Z"
+      },
+      {
+        "title": "Molmans",
+        "start": "2026-08-22T09:45:00.000Z",
+        "end": "2026-08-22T10:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ronreizen",
-        "start": "2026-08-22T07:00:00.000Z",
-        "end": "2026-08-22T07:31:00.000Z"
-      },
       {
         "title": "Ambassadeur voor 1 dag",
         "start": "2026-08-22T07:31:00.000Z",
@@ -189,11 +184,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Teleshop 7: Telvero",
-        "start": "2026-08-22T04:00:00.000Z",
-        "end": "2026-08-22T07:30:00.000Z"
-      },
-      {
         "title": "Vis tv",
         "start": "2026-08-22T07:30:00.000Z",
         "end": "2026-08-22T07:58:00.000Z"
@@ -212,6 +202,11 @@
         "title": "Idioten op de weg",
         "start": "2026-08-22T09:22:00.000Z",
         "end": "2026-08-22T09:33:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-22T09:33:00.000Z",
+        "end": "2026-08-22T10:04:00.000Z"
       }
     ],
     "RTL 8": [
@@ -222,16 +217,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-22T07:15:00.000Z",
-        "end": "2026-08-22T07:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-22T07:30:00.000Z",
-        "end": "2026-08-22T07:45:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-22T07:45:00.000Z",
@@ -256,14 +241,14 @@
         "title": "Man bijt hond",
         "start": "2026-08-22T09:25:00.000Z",
         "end": "2026-08-22T09:45:00.000Z"
+      },
+      {
+        "title": "Secret life of the zoo",
+        "start": "2026-08-22T09:45:00.000Z",
+        "end": "2026-08-22T10:00:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-22T06:53:00.000Z",
-        "end": "2026-08-22T07:52:00.000Z"
-      },
       {
         "title": "MasterChef Australië",
         "start": "2026-08-22T07:52:00.000Z",
@@ -293,6 +278,16 @@
         "title": "Home and away",
         "start": "2026-08-22T09:24:00.000Z",
         "end": "2026-08-22T09:51:00.000Z"
+      },
+      {
+        "title": "MasterChef Australië",
+        "start": "2026-08-22T09:51:00.000Z",
+        "end": "2026-08-22T09:53:00.000Z"
+      },
+      {
+        "title": "Home and away",
+        "start": "2026-08-22T09:53:00.000Z",
+        "end": "2026-08-22T10:21:00.000Z"
       }
     ],
     "Veronica": [
@@ -303,11 +298,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-22T07:00:00.000Z",
-        "end": "2026-08-22T07:30:00.000Z"
-      },
       {
         "title": "World's Ultimate Adventures",
         "start": "2026-08-22T07:30:00.000Z",
@@ -322,14 +312,14 @@
         "title": "BBC news",
         "start": "2026-08-22T09:00:00.000Z",
         "end": "2026-08-22T09:30:00.000Z"
+      },
+      {
+        "title": "The Engineers",
+        "start": "2026-08-22T09:30:00.000Z",
+        "end": "2026-08-22T10:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-22T07:00:00.000Z",
-        "end": "2026-08-22T07:30:00.000Z"
-      },
       {
         "title": "Seasons",
         "start": "2026-08-22T07:30:00.000Z",
