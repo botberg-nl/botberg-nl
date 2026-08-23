@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-23T18:24:32.591Z",
+  "generated": "2026-08-23T18:56:33.379Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T18:25:00.000Z"
-      },
-      {
-        "title": "Beestenboel",
-        "start": "2026-08-23T18:25:00.000Z",
-        "end": "2026-08-23T18:35:00.000Z"
-      },
       {
         "title": "MAX Vakantieman",
         "start": "2026-08-23T18:35:00.000Z",
@@ -41,11 +31,6 @@
     ],
     "NPO 2": [
       {
-        "title": "Zomergasten",
-        "start": "2026-08-23T18:20:00.000Z",
-        "end": "2026-08-23T18:25:00.000Z"
-      },
-      {
         "title": "After the flood",
         "start": "2026-08-23T18:25:00.000Z",
         "end": "2026-08-23T19:20:00.000Z"
@@ -59,14 +44,14 @@
         "title": "Nieuwsuur",
         "start": "2026-08-23T20:00:00.000Z",
         "end": "2026-08-23T20:40:00.000Z"
+      },
+      {
+        "title": "Close up",
+        "start": "2026-08-23T20:40:00.000Z",
+        "end": "2026-08-23T21:10:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Verliefd op Cuba\n                        Romantische komedie",
-        "start": "2026-08-23T18:20:00.000Z",
-        "end": "2026-08-23T18:25:00.000Z"
-      },
       {
         "title": "Lowlands",
         "start": "2026-08-23T18:25:00.000Z",
@@ -84,11 +69,6 @@
       }
     ],
     "RTL 4": [
-      {
-        "title": "Postcode Loterij Eén tegen 100",
-        "start": "2026-08-23T18:07:00.000Z",
-        "end": "2026-08-23T18:54:00.000Z"
-      },
       {
         "title": "B&B vol liefde",
         "start": "2026-08-23T18:54:00.000Z",
@@ -108,14 +88,14 @@
         "title": "Nederland met vakantie",
         "start": "2026-08-23T20:18:00.000Z",
         "end": "2026-08-23T20:49:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-23T20:49:00.000Z",
+        "end": "2026-08-23T21:06:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Scam alert: Trap er niet in!",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T18:30:00.000Z"
-      },
       {
         "title": "Kees van der Spek ontmaskert",
         "start": "2026-08-23T18:30:00.000Z",
@@ -135,14 +115,19 @@
         "title": "RTL Weer",
         "start": "2026-08-23T20:22:00.000Z",
         "end": "2026-08-23T20:33:00.000Z"
+      },
+      {
+        "title": "24 uur in de ER",
+        "start": "2026-08-23T20:33:00.000Z",
+        "end": "2026-08-23T20:52:00.000Z"
+      },
+      {
+        "title": "St. Willebrord: Het mirakel van Brabant",
+        "start": "2026-08-23T20:52:00.000Z",
+        "end": "2026-08-23T21:39:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Only the Brave\n                        Drama",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T18:27:00.000Z"
-      },
       {
         "title": "Way Down\n                        Actie",
         "start": "2026-08-23T18:27:00.000Z",
@@ -152,14 +137,19 @@
         "title": "Hell or High Water\n                        Misdaad",
         "start": "2026-08-23T20:10:00.000Z",
         "end": "2026-08-23T20:43:00.000Z"
+      },
+      {
+        "title": "Wake of Death\n                        Actie",
+        "start": "2026-08-23T20:43:00.000Z",
+        "end": "2026-08-23T20:52:00.000Z"
+      },
+      {
+        "title": "The Hurricane Heist\n                        Actie",
+        "start": "2026-08-23T20:52:00.000Z",
+        "end": "2026-08-23T22:10:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "America's got talent",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T18:25:00.000Z"
-      },
       {
         "title": "Flikken Gent",
         "start": "2026-08-23T18:25:00.000Z",
@@ -174,6 +164,16 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-23T19:50:00.000Z",
         "end": "2026-08-23T20:31:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-23T20:31:00.000Z",
+        "end": "2026-08-23T20:43:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-23T20:43:00.000Z",
+        "end": "2026-08-23T21:25:00.000Z"
       }
     ],
     "SBS 6": [
@@ -191,14 +191,19 @@
         "title": "Mi dushi: Wat is dan liefde?",
         "start": "2026-08-23T19:25:00.000Z",
         "end": "2026-08-23T20:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-23T20:30:00.000Z",
+        "end": "2026-08-23T20:50:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-23T20:50:00.000Z",
+        "end": "2026-08-23T21:45:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Six Days Seven Nights\n                        Romantische komedie",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T18:30:00.000Z"
-      },
       {
         "title": "As Good as It Gets\n                        Tragikomedie",
         "start": "2026-08-23T18:30:00.000Z",
@@ -212,16 +217,6 @@
     ],
     "Veronica": [
       {
-        "title": "The big bang theory",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T18:30:00.000Z"
-      },
-      {
-        "title": "Man of Steel\n                        Actie",
-        "start": "2026-08-23T18:30:00.000Z",
-        "end": "2026-08-23T18:56:00.000Z"
-      },
-      {
         "title": "Alert: Missing persons unit",
         "start": "2026-08-23T18:56:00.000Z",
         "end": "2026-08-23T19:54:00.000Z"
@@ -230,19 +225,14 @@
         "title": "FBI",
         "start": "2026-08-23T19:54:00.000Z",
         "end": "2026-08-23T20:49:00.000Z"
+      },
+      {
+        "title": "FBI: Most wanted",
+        "start": "2026-08-23T20:49:00.000Z",
+        "end": "2026-08-23T21:15:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T18:30:00.000Z"
-      },
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-23T18:30:00.000Z",
-        "end": "2026-08-23T18:55:00.000Z"
-      },
       {
         "title": "Tech Now",
         "start": "2026-08-23T18:55:00.000Z",
@@ -262,6 +252,16 @@
         "title": "The Context with Christian Fraser",
         "start": "2026-08-23T20:00:00.000Z",
         "end": "2026-08-23T20:30:00.000Z"
+      },
+      {
+        "title": "The Context with Christian Fraser",
+        "start": "2026-08-23T20:30:00.000Z",
+        "end": "2026-08-23T20:55:00.000Z"
+      },
+      {
+        "title": "A Taste of the City",
+        "start": "2026-08-23T20:55:00.000Z",
+        "end": "2026-08-23T21:00:00.000Z"
       }
     ],
     "CNN": [
