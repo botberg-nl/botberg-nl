@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-23T16:50:23.337Z",
+  "generated": "2026-08-23T17:17:45.609Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Sport - WK hockey (m): Tweede groepsfase",
-        "start": "2026-08-23T16:45:00.000Z",
-        "end": "2026-08-23T17:00:00.000Z"
-      },
       {
         "title": "Studio sport voetbal",
         "start": "2026-08-23T17:00:00.000Z",
@@ -27,14 +22,14 @@
         "title": "MAX Vakantieman",
         "start": "2026-08-23T18:35:00.000Z",
         "end": "2026-08-23T19:15:00.000Z"
+      },
+      {
+        "title": "Tussen kunst en kitsch",
+        "start": "2026-08-23T19:15:00.000Z",
+        "end": "2026-08-23T19:25:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-23T16:30:00.000Z",
-        "end": "2026-08-23T17:05:00.000Z"
-      },
       {
         "title": "Boeddha in de polder",
         "start": "2026-08-23T17:05:00.000Z",
@@ -62,11 +57,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Het klokhuis",
-        "start": "2026-08-23T16:45:00.000Z",
-        "end": "2026-08-23T17:00:00.000Z"
-      },
       {
         "title": "Jeugdjournaal",
         "start": "2026-08-23T17:00:00.000Z",
@@ -133,14 +123,19 @@
         "title": "Postcode Loterij Eén tegen 100",
         "start": "2026-08-23T18:07:00.000Z",
         "end": "2026-08-23T18:54:00.000Z"
+      },
+      {
+        "title": "B&B vol liefde",
+        "start": "2026-08-23T18:54:00.000Z",
+        "end": "2026-08-23T19:04:00.000Z"
+      },
+      {
+        "title": "Los het op!",
+        "start": "2026-08-23T19:04:00.000Z",
+        "end": "2026-08-23T19:52:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "Meldkamer Utrecht Centraal",
-        "start": "2026-08-23T16:36:00.000Z",
-        "end": "2026-08-23T17:05:00.000Z"
-      },
       {
         "title": "De Pfaff's",
         "start": "2026-08-23T17:05:00.000Z",
@@ -163,11 +158,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-23T16:35:00.000Z",
-        "end": "2026-08-23T17:01:00.000Z"
-      },
       {
         "title": "Border Patrol USA",
         "start": "2026-08-23T17:01:00.000Z",
@@ -192,16 +182,6 @@
     "RTL 8": [
       {
         "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-23T16:37:00.000Z",
-        "end": "2026-08-23T16:53:00.000Z"
-      },
-      {
-        "title": "Lego masters Australië",
-        "start": "2026-08-23T16:53:00.000Z",
-        "end": "2026-08-23T17:03:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful - The beginning",
         "start": "2026-08-23T17:03:00.000Z",
         "end": "2026-08-23T17:30:00.000Z"
       },
@@ -223,11 +203,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Nieuws van de dag",
-        "start": "2026-08-23T16:05:00.000Z",
-        "end": "2026-08-23T17:00:00.000Z"
-      },
-      {
         "title": "Overtreders",
         "start": "2026-08-23T17:00:00.000Z",
         "end": "2026-08-23T18:00:00.000Z"
@@ -244,11 +219,6 @@
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-23T16:23:00.000Z",
-        "end": "2026-08-23T16:58:00.000Z"
-      },
       {
         "title": "Een dag in de dierentuin",
         "start": "2026-08-23T16:58:00.000Z",
@@ -273,16 +243,6 @@
     "Veronica": [
       {
         "title": "Two and a half men",
-        "start": "2026-08-23T16:40:00.000Z",
-        "end": "2026-08-23T17:03:00.000Z"
-      },
-      {
-        "title": "Airport security: Amerika",
-        "start": "2026-08-23T17:03:00.000Z",
-        "end": "2026-08-23T17:10:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
         "start": "2026-08-23T17:10:00.000Z",
         "end": "2026-08-23T17:35:00.000Z"
       },
@@ -300,14 +260,14 @@
         "title": "Man of Steel\n                        Actie",
         "start": "2026-08-23T18:30:00.000Z",
         "end": "2026-08-23T18:56:00.000Z"
+      },
+      {
+        "title": "Alert: Missing persons unit",
+        "start": "2026-08-23T18:56:00.000Z",
+        "end": "2026-08-23T19:54:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "BBC Focus on Africa",
-        "start": "2026-08-23T16:30:00.000Z",
-        "end": "2026-08-23T17:00:00.000Z"
-      },
       {
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-23T17:00:00.000Z",
@@ -327,14 +287,19 @@
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-23T18:30:00.000Z",
         "end": "2026-08-23T18:55:00.000Z"
+      },
+      {
+        "title": "Tech Now",
+        "start": "2026-08-23T18:55:00.000Z",
+        "end": "2026-08-23T19:00:00.000Z"
+      },
+      {
+        "title": "The Context USA",
+        "start": "2026-08-23T19:00:00.000Z",
+        "end": "2026-08-23T19:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "African Voices",
-        "start": "2026-08-23T16:45:00.000Z",
-        "end": "2026-08-23T17:00:00.000Z"
-      },
       {
         "title": "Amanpour",
         "start": "2026-08-23T17:00:00.000Z",
@@ -354,6 +319,11 @@
         "title": "Isa Soares Tonight",
         "start": "2026-08-23T18:00:00.000Z",
         "end": "2026-08-23T19:00:00.000Z"
+      },
+      {
+        "title": "What We Know with Max Foster",
+        "start": "2026-08-23T19:00:00.000Z",
+        "end": "2026-08-23T20:00:00.000Z"
       }
     ]
   }
