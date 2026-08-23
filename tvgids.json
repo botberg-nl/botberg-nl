@@ -1,28 +1,8 @@
 {
-  "generated": "2026-08-23T08:56:45.167Z",
+  "generated": "2026-08-23T09:28:51.371Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-23T08:45:00.000Z",
-        "end": "2026-08-23T09:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-23T09:00:00.000Z",
-        "end": "2026-08-23T09:10:00.000Z"
-      },
-      {
-        "title": "Zussen",
-        "start": "2026-08-23T09:10:00.000Z",
-        "end": "2026-08-23T09:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-23T09:15:00.000Z",
-        "end": "2026-08-23T09:25:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-23T09:25:00.000Z",
@@ -67,24 +47,24 @@
         "title": "Kook mee met MAX",
         "start": "2026-08-23T10:50:00.000Z",
         "end": "2026-08-23T11:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-23T11:00:00.000Z",
+        "end": "2026-08-23T11:10:00.000Z"
+      },
+      {
+        "title": "Studio sport live",
+        "start": "2026-08-23T11:10:00.000Z",
+        "end": "2026-08-23T11:25:00.000Z"
+      },
+      {
+        "title": "Kook mee met MAX",
+        "start": "2026-08-23T11:25:00.000Z",
+        "end": "2026-08-23T11:35:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "De kist",
-        "start": "2026-08-23T08:45:00.000Z",
-        "end": "2026-08-23T09:05:00.000Z"
-      },
-      {
-        "title": "Nederland zingt op zondag",
-        "start": "2026-08-23T09:05:00.000Z",
-        "end": "2026-08-23T09:15:00.000Z"
-      },
-      {
-        "title": "MAX Maakt Mogelijk helpt",
-        "start": "2026-08-23T09:15:00.000Z",
-        "end": "2026-08-23T09:25:00.000Z"
-      },
       {
         "title": "Meldpunt actueel",
         "start": "2026-08-23T09:25:00.000Z",
@@ -124,34 +104,19 @@
         "title": "Andere tijden kort",
         "start": "2026-08-23T10:45:00.000Z",
         "end": "2026-08-23T11:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-23T11:00:00.000Z",
+        "end": "2026-08-23T11:20:00.000Z"
+      },
+      {
+        "title": "De ongelooflijke podcast",
+        "start": "2026-08-23T11:20:00.000Z",
+        "end": "2026-08-23T11:55:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Lena's dieren",
-        "start": "2026-08-23T08:55:00.000Z",
-        "end": "2026-08-23T09:00:00.000Z"
-      },
-      {
-        "title": "Sesamstraat: 10 voor ...",
-        "start": "2026-08-23T09:00:00.000Z",
-        "end": "2026-08-23T09:05:00.000Z"
-      },
-      {
-        "title": "Zappbios: Superworm\n                        Korte film",
-        "start": "2026-08-23T09:05:00.000Z",
-        "end": "2026-08-23T09:10:00.000Z"
-      },
-      {
-        "title": "Lief monster",
-        "start": "2026-08-23T09:10:00.000Z",
-        "end": "2026-08-23T09:15:00.000Z"
-      },
-      {
-        "title": "Pop papierstad",
-        "start": "2026-08-23T09:15:00.000Z",
-        "end": "2026-08-23T09:25:00.000Z"
-      },
       {
         "title": "Zin in Zappelin",
         "start": "2026-08-23T09:25:00.000Z",
@@ -211,19 +176,34 @@
         "title": "Jojo & Ouma",
         "start": "2026-08-23T10:55:00.000Z",
         "end": "2026-08-23T11:06:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-23T11:06:00.000Z",
+        "end": "2026-08-23T11:10:00.000Z"
+      },
+      {
+        "title": "Pip & Posy",
+        "start": "2026-08-23T11:10:00.000Z",
+        "end": "2026-08-23T11:16:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-23T11:16:00.000Z",
+        "end": "2026-08-23T11:20:00.000Z"
+      },
+      {
+        "title": "Kindertijd",
+        "start": "2026-08-23T11:20:00.000Z",
+        "end": "2026-08-23T11:27:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-08-23T11:27:00.000Z",
+        "end": "2026-08-23T11:30:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Eigen huis & tuin: Lekker leven",
-        "start": "2026-08-23T08:44:00.000Z",
-        "end": "2026-08-23T08:58:00.000Z"
-      },
-      {
-        "title": "Huis gezocht",
-        "start": "2026-08-23T08:58:00.000Z",
-        "end": "2026-08-23T09:27:00.000Z"
-      },
       {
         "title": "De mooiste wegen",
         "start": "2026-08-23T09:27:00.000Z",
@@ -248,6 +228,16 @@
         "title": "The bold and the beautiful",
         "start": "2026-08-23T10:40:00.000Z",
         "end": "2026-08-23T11:02:00.000Z"
+      },
+      {
+        "title": "Way of living",
+        "start": "2026-08-23T11:02:00.000Z",
+        "end": "2026-08-23T11:10:00.000Z"
+      },
+      {
+        "title": "You May Kiss the Bridesmaid\n                        Komedie",
+        "start": "2026-08-23T11:10:00.000Z",
+        "end": "2026-08-23T11:31:00.000Z"
       }
     ],
     "RTL 5": [
@@ -263,16 +253,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Stop! Politie",
-        "start": "2026-08-23T08:27:00.000Z",
-        "end": "2026-08-23T09:22:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-23T09:22:00.000Z",
-        "end": "2026-08-23T09:25:00.000Z"
-      },
       {
         "title": "Idioten op de weg",
         "start": "2026-08-23T09:25:00.000Z",
@@ -307,6 +287,16 @@
         "title": "Idioten op de weg",
         "start": "2026-08-23T10:36:00.000Z",
         "end": "2026-08-23T11:05:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-23T11:05:00.000Z",
+        "end": "2026-08-23T11:06:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-08-23T11:06:00.000Z",
+        "end": "2026-08-23T11:35:00.000Z"
       }
     ],
     "RTL 8": [
@@ -319,19 +309,14 @@
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-23T09:30:00.000Z",
         "end": "2026-08-23T11:00:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-23T11:00:00.000Z",
+        "end": "2026-08-23T15:14:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-23T08:30:00.000Z",
-        "end": "2026-08-23T09:20:00.000Z"
-      },
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-08-23T09:20:00.000Z",
-        "end": "2026-08-23T09:25:00.000Z"
-      },
       {
         "title": "Man bijt hond",
         "start": "2026-08-23T09:25:00.000Z",
@@ -356,14 +341,14 @@
         "title": "De Oranjezomer",
         "start": "2026-08-23T10:40:00.000Z",
         "end": "2026-08-23T11:15:00.000Z"
+      },
+      {
+        "title": "De grote verbouwing Nieuw-Zeeland",
+        "start": "2026-08-23T11:15:00.000Z",
+        "end": "2026-08-23T11:40:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-23T08:51:00.000Z",
-        "end": "2026-08-23T09:26:00.000Z"
-      },
       {
         "title": "Million dollar listing NY",
         "start": "2026-08-23T09:26:00.000Z",
@@ -383,6 +368,11 @@
         "title": "vtwonen weer verliefd op je huis",
         "start": "2026-08-23T10:52:00.000Z",
         "end": "2026-08-23T11:23:00.000Z"
+      },
+      {
+        "title": "Telvero",
+        "start": "2026-08-23T11:23:00.000Z",
+        "end": "2026-08-23T11:50:00.000Z"
       }
     ],
     "Veronica": [
@@ -393,11 +383,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "Tech Now",
-        "start": "2026-08-23T08:55:00.000Z",
-        "end": "2026-08-23T09:00:00.000Z"
-      },
       {
         "title": "BBC news",
         "start": "2026-08-23T09:00:00.000Z",
@@ -427,14 +412,14 @@
         "title": "A Taste of the City",
         "start": "2026-08-23T10:55:00.000Z",
         "end": "2026-08-23T11:00:00.000Z"
+      },
+      {
+        "title": "BBC News Now",
+        "start": "2026-08-23T11:00:00.000Z",
+        "end": "2026-08-23T11:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN Newsroom",
-        "start": "2026-08-23T08:00:00.000Z",
-        "end": "2026-08-23T09:00:00.000Z"
-      },
       {
         "title": "CNN Headline Express",
         "start": "2026-08-23T09:00:00.000Z",
@@ -444,6 +429,11 @@
         "title": "CNN This Morning",
         "start": "2026-08-23T10:00:00.000Z",
         "end": "2026-08-23T11:00:00.000Z"
+      },
+      {
+        "title": "CNN News Central",
+        "start": "2026-08-23T11:00:00.000Z",
+        "end": "2026-08-23T12:00:00.000Z"
       }
     ]
   }
