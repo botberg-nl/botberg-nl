@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-23T18:56:33.379Z",
+  "generated": "2026-08-23T19:21:36.472Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "MAX Vakantieman",
-        "start": "2026-08-23T18:35:00.000Z",
-        "end": "2026-08-23T19:15:00.000Z"
-      },
       {
         "title": "Tussen kunst en kitsch",
         "start": "2026-08-23T19:15:00.000Z",
@@ -27,14 +22,24 @@
         "title": "Goedenavond Nederland",
         "start": "2026-08-23T20:20:00.000Z",
         "end": "2026-08-23T21:05:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-23T21:05:00.000Z",
+        "end": "2026-08-23T21:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-23T21:15:00.000Z",
+        "end": "2026-08-23T21:20:00.000Z"
+      },
+      {
+        "title": "MAX Vakantieman",
+        "start": "2026-08-23T21:20:00.000Z",
+        "end": "2026-08-23T21:30:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "After the flood",
-        "start": "2026-08-23T18:25:00.000Z",
-        "end": "2026-08-23T19:20:00.000Z"
-      },
       {
         "title": "Keurmeesters",
         "start": "2026-08-23T19:20:00.000Z",
@@ -49,6 +54,11 @@
         "title": "Close up",
         "start": "2026-08-23T20:40:00.000Z",
         "end": "2026-08-23T21:10:00.000Z"
+      },
+      {
+        "title": "Silent witness",
+        "start": "2026-08-23T21:10:00.000Z",
+        "end": "2026-08-23T21:25:00.000Z"
       }
     ],
     "NPO 3": [
@@ -66,14 +76,14 @@
         "title": "Het dubbelleven van Marijn Kuipers",
         "start": "2026-08-23T20:10:00.000Z",
         "end": "2026-08-23T21:10:00.000Z"
+      },
+      {
+        "title": "Yorkshire Air 999",
+        "start": "2026-08-23T21:10:00.000Z",
+        "end": "2026-08-23T22:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-23T18:54:00.000Z",
-        "end": "2026-08-23T19:04:00.000Z"
-      },
       {
         "title": "Los het op!",
         "start": "2026-08-23T19:04:00.000Z",
@@ -93,6 +103,26 @@
         "title": "RTL Nieuws",
         "start": "2026-08-23T20:49:00.000Z",
         "end": "2026-08-23T21:06:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-23T21:06:00.000Z",
+        "end": "2026-08-23T21:08:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-23T21:08:00.000Z",
+        "end": "2026-08-23T21:11:00.000Z"
+      },
+      {
+        "title": "Vals spel",
+        "start": "2026-08-23T21:11:00.000Z",
+        "end": "2026-08-23T21:21:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-23T21:21:00.000Z",
+        "end": "2026-08-23T21:24:00.000Z"
       }
     ],
     "RTL 5": [
@@ -178,11 +208,6 @@
     ],
     "SBS 6": [
       {
-        "title": "I've got the music in me",
-        "start": "2026-08-23T18:05:00.000Z",
-        "end": "2026-08-23T19:20:00.000Z"
-      },
-      {
         "title": "Vandaag inside",
         "start": "2026-08-23T19:20:00.000Z",
         "end": "2026-08-23T19:25:00.000Z"
@@ -230,14 +255,14 @@
         "title": "FBI: Most wanted",
         "start": "2026-08-23T20:49:00.000Z",
         "end": "2026-08-23T21:15:00.000Z"
+      },
+      {
+        "title": "Batman v Superman: Dawn of Justice\n                        Actie",
+        "start": "2026-08-23T21:15:00.000Z",
+        "end": "2026-08-23T21:24:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "Tech Now",
-        "start": "2026-08-23T18:55:00.000Z",
-        "end": "2026-08-23T19:00:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-23T19:00:00.000Z",
@@ -262,14 +287,14 @@
         "title": "A Taste of the City",
         "start": "2026-08-23T20:55:00.000Z",
         "end": "2026-08-23T21:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-23T21:00:00.000Z",
+        "end": "2026-08-23T21:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Isa Soares Tonight",
-        "start": "2026-08-23T18:00:00.000Z",
-        "end": "2026-08-23T19:00:00.000Z"
-      },
       {
         "title": "What We Know with Max Foster",
         "start": "2026-08-23T19:00:00.000Z",
@@ -279,6 +304,11 @@
         "title": "Quest Means Business",
         "start": "2026-08-23T20:00:00.000Z",
         "end": "2026-08-23T21:00:00.000Z"
+      },
+      {
+        "title": "The Lead with Jake Tapper",
+        "start": "2026-08-23T21:00:00.000Z",
+        "end": "2026-08-23T21:30:00.000Z"
       }
     ]
   }
