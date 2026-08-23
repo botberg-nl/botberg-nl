@@ -1,31 +1,11 @@
 {
-  "generated": "2026-08-23T23:17:41.816Z",
+  "generated": "2026-08-23T23:44:34.761Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "EenVandaag",
-        "start": "2026-08-23T23:10:00.000Z",
-        "end": "2026-08-23T23:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-23T23:30:00.000Z",
-        "end": "2026-08-23T23:35:00.000Z"
-      },
-      {
         "title": "NOS Journaal met gebarentaal",
         "start": "2026-08-23T23:35:00.000Z",
-        "end": "2026-08-23T23:45:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-23T23:45:00.000Z",
-        "end": "2026-08-23T23:55:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-23T23:55:00.000Z",
         "end": "2026-08-24T00:00:00.000Z"
       },
       {
@@ -75,16 +55,6 @@
     ],
     "RTL 4": [
       {
-        "title": "RTL Boulevard",
-        "start": "2026-08-23T23:16:00.000Z",
-        "end": "2026-08-23T23:19:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-23T23:19:00.000Z",
-        "end": "2026-08-23T23:25:00.000Z"
-      },
-      {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-23T23:25:00.000Z",
         "end": "2026-08-23T23:54:00.000Z"
@@ -108,11 +78,6 @@
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-23T23:11:00.000Z",
-        "end": "2026-08-23T23:19:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-23T23:19:00.000Z",
         "end": "2026-08-24T00:10:00.000Z"
       },
@@ -123,21 +88,6 @@
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-23T22:55:00.000Z",
-        "end": "2026-08-23T23:25:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-23T23:25:00.000Z",
-        "end": "2026-08-23T23:31:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-23T23:31:00.000Z",
-        "end": "2026-08-23T23:44:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-08-23T23:44:00.000Z",
@@ -163,37 +113,12 @@
     ],
     "SBS 6": [
       {
-        "title": "Shownieuws",
-        "start": "2026-08-23T22:50:00.000Z",
-        "end": "2026-08-23T23:25:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-23T23:25:00.000Z",
-        "end": "2026-08-23T23:35:00.000Z"
-      },
-      {
         "title": "Hart van Nederland",
         "start": "2026-08-23T23:35:00.000Z",
         "end": "2026-08-24T04:00:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Cedar Cove",
-        "start": "2026-08-23T22:30:00.000Z",
-        "end": "2026-08-23T23:25:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-23T23:25:00.000Z",
-        "end": "2026-08-23T23:30:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-23T23:30:00.000Z",
-        "end": "2026-08-23T23:37:00.000Z"
-      },
       {
         "title": "Pitch Perfect 3\n                        Komedie",
         "start": "2026-08-23T23:37:00.000Z",
@@ -206,11 +131,6 @@
       }
     ],
     "Veronica": [
-      {
-        "title": "Fugitives caught on tape",
-        "start": "2026-08-23T23:04:00.000Z",
-        "end": "2026-08-23T23:24:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-23T23:24:00.000Z",
@@ -239,11 +159,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC news",
-        "start": "2026-08-23T23:00:00.000Z",
-        "end": "2026-08-23T23:30:00.000Z"
-      },
-      {
         "title": "Newscast",
         "start": "2026-08-23T23:30:00.000Z",
         "end": "2026-08-24T00:00:00.000Z"
@@ -262,6 +177,11 @@
         "title": "Newsday",
         "start": "2026-08-24T01:00:00.000Z",
         "end": "2026-08-24T01:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-24T01:30:00.000Z",
+        "end": "2026-08-24T01:45:00.000Z"
       }
     ],
     "CNN": [
