@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T19:26:14.607Z",
+  "generated": "2026-08-24T19:54:57.635Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -22,6 +22,16 @@
         "title": "MAX Vakantieman",
         "start": "2026-08-24T21:20:00.000Z",
         "end": "2026-08-24T21:40:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-24T21:40:00.000Z",
+        "end": "2026-08-24T21:45:00.000Z"
+      },
+      {
+        "title": "Goedenavond Nederland",
+        "start": "2026-08-24T21:45:00.000Z",
+        "end": "2026-08-24T22:15:00.000Z"
       }
     ],
     "NPO 2": [
@@ -44,6 +54,16 @@
         "title": "Mirakel n°71",
         "start": "2026-08-24T21:25:00.000Z",
         "end": "2026-08-24T21:35:00.000Z"
+      },
+      {
+        "title": "De wilde ruimte",
+        "start": "2026-08-24T21:35:00.000Z",
+        "end": "2026-08-24T21:40:00.000Z"
+      },
+      {
+        "title": "Pauscast",
+        "start": "2026-08-24T21:40:00.000Z",
+        "end": "2026-08-24T22:05:00.000Z"
       }
     ],
     "NPO 3": [
@@ -160,6 +180,16 @@
         "title": "St. Willebrord: Het mirakel van Brabant",
         "start": "2026-08-24T20:52:00.000Z",
         "end": "2026-08-24T21:35:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-24T21:35:00.000Z",
+        "end": "2026-08-24T21:39:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-24T21:39:00.000Z",
+        "end": "2026-08-24T22:00:00.000Z"
       }
     ],
     "RTL 7": [
@@ -186,11 +216,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Flikken Gent",
-        "start": "2026-08-24T19:26:00.000Z",
-        "end": "2026-08-24T19:54:00.000Z"
-      },
-      {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-24T19:54:00.000Z",
         "end": "2026-08-24T20:31:00.000Z"
@@ -209,6 +234,16 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-24T21:25:00.000Z",
         "end": "2026-08-24T21:37:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-24T21:37:00.000Z",
+        "end": "2026-08-24T21:45:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-24T21:45:00.000Z",
+        "end": "2026-08-24T22:18:00.000Z"
       }
     ],
     "SBS 6": [
@@ -236,6 +271,21 @@
         "title": "Shownieuws",
         "start": "2026-08-24T20:52:00.000Z",
         "end": "2026-08-24T21:45:00.000Z"
+      },
+      {
+        "title": "De Hanslers: Van de piste naar de playa",
+        "start": "2026-08-24T21:45:00.000Z",
+        "end": "2026-08-24T21:47:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-24T21:47:00.000Z",
+        "end": "2026-08-24T21:49:00.000Z"
+      },
+      {
+        "title": "De bondgenoten",
+        "start": "2026-08-24T21:49:00.000Z",
+        "end": "2026-08-24T22:40:00.000Z"
       }
     ],
     "NET 5": [
@@ -275,14 +325,14 @@
         "title": "Batman v Superman: Dawn of Justice\n                        Actie",
         "start": "2026-08-24T21:14:00.000Z",
         "end": "2026-08-24T21:43:00.000Z"
+      },
+      {
+        "title": "FBI: Most wanted",
+        "start": "2026-08-24T21:43:00.000Z",
+        "end": "2026-08-24T22:38:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context USA",
-        "start": "2026-08-24T19:00:00.000Z",
-        "end": "2026-08-24T19:30:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-24T19:30:00.000Z",
@@ -307,6 +357,11 @@
         "title": "BBC World News America",
         "start": "2026-08-24T21:00:00.000Z",
         "end": "2026-08-24T21:30:00.000Z"
+      },
+      {
+        "title": "Newsnight",
+        "start": "2026-08-24T21:30:00.000Z",
+        "end": "2026-08-24T22:00:00.000Z"
       }
     ],
     "CNN": [
@@ -324,6 +379,11 @@
         "title": "The Lead with Jake Tapper",
         "start": "2026-08-24T21:00:00.000Z",
         "end": "2026-08-24T21:30:00.000Z"
+      },
+      {
+        "title": "World Sport",
+        "start": "2026-08-24T21:30:00.000Z",
+        "end": "2026-08-24T22:00:00.000Z"
       }
     ]
   }
