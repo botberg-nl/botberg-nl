@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-24T18:50:17.309Z",
+  "generated": "2026-08-24T19:26:14.607Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "We zijn er bijna!",
-        "start": "2026-08-24T18:35:00.000Z",
-        "end": "2026-08-24T19:25:00.000Z"
-      },
       {
         "title": "Triviant",
         "start": "2026-08-24T19:25:00.000Z",
@@ -17,14 +12,19 @@
         "title": "Goedenavond Nederland",
         "start": "2026-08-24T20:15:00.000Z",
         "end": "2026-08-24T21:15:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-24T21:15:00.000Z",
+        "end": "2026-08-24T21:20:00.000Z"
+      },
+      {
+        "title": "MAX Vakantieman",
+        "start": "2026-08-24T21:20:00.000Z",
+        "end": "2026-08-24T21:40:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "NPO Doc: De marathonloper",
-        "start": "2026-08-24T18:25:00.000Z",
-        "end": "2026-08-24T19:20:00.000Z"
-      },
       {
         "title": "Keurmeesters",
         "start": "2026-08-24T19:20:00.000Z",
@@ -39,14 +39,14 @@
         "title": "The capture",
         "start": "2026-08-24T20:40:00.000Z",
         "end": "2026-08-24T21:25:00.000Z"
+      },
+      {
+        "title": "Mirakel n°71",
+        "start": "2026-08-24T21:25:00.000Z",
+        "end": "2026-08-24T21:35:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "A beautiful mess",
-        "start": "2026-08-24T18:20:00.000Z",
-        "end": "2026-08-24T19:15:00.000Z"
-      },
       {
         "title": "Welkom terug",
         "start": "2026-08-24T19:15:00.000Z",
@@ -61,14 +61,14 @@
         "title": "Het dubbelleven van Marijn Kuipers",
         "start": "2026-08-24T20:10:00.000Z",
         "end": "2026-08-24T21:10:00.000Z"
+      },
+      {
+        "title": "Tribe with Bruce Parry",
+        "start": "2026-08-24T21:10:00.000Z",
+        "end": "2026-08-24T22:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-24T18:01:00.000Z",
-        "end": "2026-08-24T18:54:00.000Z"
-      },
       {
         "title": "B&B vol liefde",
         "start": "2026-08-24T18:54:00.000Z",
@@ -83,6 +83,41 @@
         "title": "Nederland met vakantie",
         "start": "2026-08-24T20:21:00.000Z",
         "end": "2026-08-24T21:06:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-24T21:06:00.000Z",
+        "end": "2026-08-24T21:08:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-24T21:08:00.000Z",
+        "end": "2026-08-24T21:11:00.000Z"
+      },
+      {
+        "title": "Vals spel",
+        "start": "2026-08-24T21:11:00.000Z",
+        "end": "2026-08-24T21:21:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-24T21:21:00.000Z",
+        "end": "2026-08-24T21:22:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-24T21:22:00.000Z",
+        "end": "2026-08-24T21:24:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-24T21:24:00.000Z",
+        "end": "2026-08-24T21:26:00.000Z"
+      },
+      {
+        "title": "RTL Boulevard",
+        "start": "2026-08-24T21:26:00.000Z",
+        "end": "2026-08-24T22:10:00.000Z"
       }
     ],
     "RTL 5": [
@@ -120,6 +155,11 @@
         "title": "24 uur in de ER",
         "start": "2026-08-24T20:35:00.000Z",
         "end": "2026-08-24T20:52:00.000Z"
+      },
+      {
+        "title": "St. Willebrord: Het mirakel van Brabant",
+        "start": "2026-08-24T20:52:00.000Z",
+        "end": "2026-08-24T21:35:00.000Z"
       }
     ],
     "RTL 7": [
@@ -132,14 +172,19 @@
         "title": "Wake of Death\n                        Actie",
         "start": "2026-08-24T20:43:00.000Z",
         "end": "2026-08-24T20:52:00.000Z"
+      },
+      {
+        "title": "The Hurricane Heist\n                        Actie",
+        "start": "2026-08-24T20:52:00.000Z",
+        "end": "2026-08-24T21:00:00.000Z"
+      },
+      {
+        "title": "Bait\n                        Horror",
+        "start": "2026-08-24T21:00:00.000Z",
+        "end": "2026-08-24T22:33:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Kopen zonder kijken",
-        "start": "2026-08-24T18:27:00.000Z",
-        "end": "2026-08-24T19:26:00.000Z"
-      },
       {
         "title": "Flikken Gent",
         "start": "2026-08-24T19:26:00.000Z",
@@ -159,19 +204,14 @@
         "title": "Law & order: Special victims unit",
         "start": "2026-08-24T20:50:00.000Z",
         "end": "2026-08-24T21:25:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-24T21:25:00.000Z",
+        "end": "2026-08-24T21:37:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-24T18:01:00.000Z",
-        "end": "2026-08-24T19:19:00.000Z"
-      },
-      {
-        "title": "Vandaag inside",
-        "start": "2026-08-24T19:19:00.000Z",
-        "end": "2026-08-24T19:21:00.000Z"
-      },
       {
         "title": "Vandaag inside",
         "start": "2026-08-24T19:21:00.000Z",
@@ -191,6 +231,11 @@
         "title": "Shownieuws",
         "start": "2026-08-24T20:50:00.000Z",
         "end": "2026-08-24T20:52:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-24T20:52:00.000Z",
+        "end": "2026-08-24T21:45:00.000Z"
       }
     ],
     "NET 5": [
@@ -208,6 +253,11 @@
         "title": "You're Cordially Invited\n                        Komedie",
         "start": "2026-08-24T20:23:00.000Z",
         "end": "2026-08-24T21:22:00.000Z"
+      },
+      {
+        "title": "Sam & Kate\n                        Romantische komedie",
+        "start": "2026-08-24T21:22:00.000Z",
+        "end": "2026-08-24T22:27:00.000Z"
       }
     ],
     "Veronica": [
@@ -220,19 +270,14 @@
         "title": "Wonder Woman 1984\n                        Actie",
         "start": "2026-08-24T20:47:00.000Z",
         "end": "2026-08-24T21:14:00.000Z"
+      },
+      {
+        "title": "Batman v Superman: Dawn of Justice\n                        Actie",
+        "start": "2026-08-24T21:14:00.000Z",
+        "end": "2026-08-24T21:43:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-24T18:30:00.000Z",
-        "end": "2026-08-24T18:55:00.000Z"
-      },
-      {
-        "title": "Discover the World",
-        "start": "2026-08-24T18:55:00.000Z",
-        "end": "2026-08-24T19:00:00.000Z"
-      },
       {
         "title": "The Context USA",
         "start": "2026-08-24T19:00:00.000Z",
@@ -252,14 +297,19 @@
         "title": "The Context with Christian Fraser",
         "start": "2026-08-24T20:30:00.000Z",
         "end": "2026-08-24T20:55:00.000Z"
+      },
+      {
+        "title": "Discover the World",
+        "start": "2026-08-24T20:55:00.000Z",
+        "end": "2026-08-24T21:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-24T21:00:00.000Z",
+        "end": "2026-08-24T21:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "Isa Soares Tonight",
-        "start": "2026-08-24T18:00:00.000Z",
-        "end": "2026-08-24T19:00:00.000Z"
-      },
       {
         "title": "What We Know with Max Foster",
         "start": "2026-08-24T19:00:00.000Z",
@@ -269,6 +319,11 @@
         "title": "Quest Means Business",
         "start": "2026-08-24T20:00:00.000Z",
         "end": "2026-08-24T21:00:00.000Z"
+      },
+      {
+        "title": "The Lead with Jake Tapper",
+        "start": "2026-08-24T21:00:00.000Z",
+        "end": "2026-08-24T21:30:00.000Z"
       }
     ]
   }
