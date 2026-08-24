@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T01:06:34.763Z",
+  "generated": "2026-08-24T02:43:59.981Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -7,6 +7,36 @@
         "title": "NOS Journaal",
         "start": "2026-08-24T00:20:00.000Z",
         "end": "2026-08-24T03:50:00.000Z"
+      },
+      {
+        "title": "Nederland in beweging",
+        "start": "2026-08-24T03:50:00.000Z",
+        "end": "2026-08-24T04:05:00.000Z"
+      },
+      {
+        "title": "MAX geheugentrainer",
+        "start": "2026-08-24T04:05:00.000Z",
+        "end": "2026-08-24T04:10:00.000Z"
+      },
+      {
+        "title": "MAX geheugentrainer",
+        "start": "2026-08-24T04:10:00.000Z",
+        "end": "2026-08-24T04:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-24T04:30:00.000Z",
+        "end": "2026-08-24T04:35:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-24T04:35:00.000Z",
+        "end": "2026-08-24T04:40:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-24T04:40:00.000Z",
+        "end": "2026-08-24T04:45:00.000Z"
       }
     ],
     "NPO 2": [
@@ -19,13 +49,38 @@
     "NPO 3": [
       {
         "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-08-24T01:05:00.000Z",
-        "end": "2026-08-24T01:50:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal met gebarentaal",
         "start": "2026-08-24T01:50:00.000Z",
         "end": "2026-08-24T04:00:00.000Z"
+      },
+      {
+        "title": "Timmy tijd",
+        "start": "2026-08-24T04:00:00.000Z",
+        "end": "2026-08-24T04:01:00.000Z"
+      },
+      {
+        "title": "Timmy tijd",
+        "start": "2026-08-24T04:01:00.000Z",
+        "end": "2026-08-24T04:05:00.000Z"
+      },
+      {
+        "title": "Nijntje en vriendjes",
+        "start": "2026-08-24T04:05:00.000Z",
+        "end": "2026-08-24T04:10:00.000Z"
+      },
+      {
+        "title": "Sesamstraat",
+        "start": "2026-08-24T04:10:00.000Z",
+        "end": "2026-08-24T04:25:00.000Z"
+      },
+      {
+        "title": "Ziggy en de zootram",
+        "start": "2026-08-24T04:25:00.000Z",
+        "end": "2026-08-24T04:35:00.000Z"
+      },
+      {
+        "title": "Joe en Jack",
+        "start": "2026-08-24T04:35:00.000Z",
+        "end": "2026-08-24T04:45:00.000Z"
       }
     ],
     "RTL 4": [
@@ -33,6 +88,41 @@
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-24T00:07:00.000Z",
         "end": "2026-08-24T03:58:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-24T03:58:00.000Z",
+        "end": "2026-08-24T04:00:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-24T04:00:00.000Z",
+        "end": "2026-08-24T04:14:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-24T04:14:00.000Z",
+        "end": "2026-08-24T04:15:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-24T04:15:00.000Z",
+        "end": "2026-08-24T04:30:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-08-24T04:30:00.000Z",
+        "end": "2026-08-24T04:36:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-24T04:36:00.000Z",
+        "end": "2026-08-24T04:37:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-24T04:37:00.000Z",
+        "end": "2026-08-24T04:45:00.000Z"
       }
     ],
     "RTL 5": [
@@ -40,6 +130,16 @@
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-24T00:10:00.000Z",
         "end": "2026-08-24T03:30:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Telvero",
+        "start": "2026-08-24T03:30:00.000Z",
+        "end": "2026-08-24T03:40:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Telvero",
+        "start": "2026-08-24T03:40:00.000Z",
+        "end": "2026-08-24T05:00:00.000Z"
       }
     ],
     "RTL 7": [
@@ -47,6 +147,16 @@
         "title": "Teleshop",
         "start": "2026-08-24T00:10:00.000Z",
         "end": "2026-08-24T04:00:00.000Z"
+      },
+      {
+        "title": "Teleshop 7: Telvero",
+        "start": "2026-08-24T04:00:00.000Z",
+        "end": "2026-08-24T04:30:00.000Z"
+      },
+      {
+        "title": "Qmusic: Mattie & Marieke",
+        "start": "2026-08-24T04:30:00.000Z",
+        "end": "2026-08-24T07:30:00.000Z"
       }
     ],
     "RTL 8": [
@@ -54,6 +164,11 @@
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-24T00:01:00.000Z",
         "end": "2026-08-24T04:30:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-24T04:30:00.000Z",
+        "end": "2026-08-24T09:30:00.000Z"
       }
     ],
     "SBS 6": [
@@ -61,42 +176,32 @@
         "title": "Hart van Nederland",
         "start": "2026-08-23T23:35:00.000Z",
         "end": "2026-08-24T04:00:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-24T04:00:00.000Z",
+        "end": "2026-08-24T04:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-08-24T04:30:00.000Z",
+        "end": "2026-08-24T04:45:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Pitch Perfect 3\n                        Komedie",
-        "start": "2026-08-23T23:37:00.000Z",
-        "end": "2026-08-24T01:09:00.000Z"
-      },
-      {
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-24T01:09:00.000Z",
         "end": "2026-08-24T04:00:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-24T04:00:00.000Z",
+        "end": "2026-08-24T05:26:00.000Z"
       }
     ],
     "Veronica": [],
     "BBC News": [
-      {
-        "title": "Newsday",
-        "start": "2026-08-24T01:00:00.000Z",
-        "end": "2026-08-24T01:30:00.000Z"
-      },
-      {
-        "title": "Business Today",
-        "start": "2026-08-24T01:30:00.000Z",
-        "end": "2026-08-24T01:45:00.000Z"
-      },
-      {
-        "title": "BBC Sport",
-        "start": "2026-08-24T01:45:00.000Z",
-        "end": "2026-08-24T02:00:00.000Z"
-      },
-      {
-        "title": "Newsday",
-        "start": "2026-08-24T02:00:00.000Z",
-        "end": "2026-08-24T02:30:00.000Z"
-      },
       {
         "title": "Business Today",
         "start": "2026-08-24T02:30:00.000Z",
@@ -111,19 +216,29 @@
         "title": "Newsday",
         "start": "2026-08-24T03:00:00.000Z",
         "end": "2026-08-24T03:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-24T03:30:00.000Z",
+        "end": "2026-08-24T03:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-24T03:45:00.000Z",
+        "end": "2026-08-24T04:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-08-24T04:00:00.000Z",
+        "end": "2026-08-24T04:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-24T04:30:00.000Z",
+        "end": "2026-08-24T05:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "The Source with Kaitlan Collins",
-        "start": "2026-08-24T01:00:00.000Z",
-        "end": "2026-08-24T02:00:00.000Z"
-      },
-      {
-        "title": "CNN NewsNight",
-        "start": "2026-08-24T02:00:00.000Z",
-        "end": "2026-08-24T02:30:00.000Z"
-      },
       {
         "title": "Marketplace Africa",
         "start": "2026-08-24T02:30:00.000Z",
@@ -138,6 +253,16 @@
         "title": "Laura Coates Live",
         "start": "2026-08-24T03:00:00.000Z",
         "end": "2026-08-24T03:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-08-24T03:30:00.000Z",
+        "end": "2026-08-24T04:00:00.000Z"
+      },
+      {
+        "title": "The Story Is: With Elex Michaelson",
+        "start": "2026-08-24T04:00:00.000Z",
+        "end": "2026-08-24T05:00:00.000Z"
       }
     ]
   }
