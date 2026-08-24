@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T17:27:40.513Z",
+  "generated": "2026-08-24T17:58:39.845Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -25,16 +25,6 @@
       }
     ],
     "NPO 2": [
-      {
-        "title": "Boeddha in de polder",
-        "start": "2026-08-24T17:05:00.000Z",
-        "end": "2026-08-24T17:40:00.000Z"
-      },
-      {
-        "title": "Nu te zien!",
-        "start": "2026-08-24T17:40:00.000Z",
-        "end": "2026-08-24T17:50:00.000Z"
-      },
       {
         "title": "Met het mes op tafel",
         "start": "2026-08-24T17:50:00.000Z",
@@ -70,16 +60,6 @@
     ],
     "RTL 4": [
       {
-        "title": "RTL Boulevard",
-        "start": "2026-08-24T16:35:00.000Z",
-        "end": "2026-08-24T17:30:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-24T17:30:00.000Z",
-        "end": "2026-08-24T17:57:00.000Z"
-      },
-      {
         "title": "RTL Weer",
         "start": "2026-08-24T17:57:00.000Z",
         "end": "2026-08-24T18:01:00.000Z"
@@ -98,16 +78,6 @@
     "RTL 5": [
       {
         "title": "De Pfaff's",
-        "start": "2026-08-24T17:05:00.000Z",
-        "end": "2026-08-24T17:45:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-24T17:45:00.000Z",
-        "end": "2026-08-24T17:47:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
         "start": "2026-08-24T17:47:00.000Z",
         "end": "2026-08-24T18:30:00.000Z"
       },
@@ -115,19 +85,19 @@
         "title": "Meldkamer Utrecht Centraal",
         "start": "2026-08-24T18:30:00.000Z",
         "end": "2026-08-24T19:55:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-24T19:55:00.000Z",
+        "end": "2026-08-24T19:58:00.000Z"
+      },
+      {
+        "title": "112 vandaag",
+        "start": "2026-08-24T19:58:00.000Z",
+        "end": "2026-08-24T20:22:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-24T16:35:00.000Z",
-        "end": "2026-08-24T17:28:00.000Z"
-      },
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-24T17:28:00.000Z",
-        "end": "2026-08-24T17:29:00.000Z"
-      },
       {
         "title": "Pawn stars hit the road",
         "start": "2026-08-24T17:29:00.000Z",
@@ -140,16 +110,6 @@
       }
     ],
     "RTL 8": [
-      {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-24T17:05:00.000Z",
-        "end": "2026-08-24T17:30:00.000Z"
-      },
-      {
-        "title": "Bed & breakfast België",
-        "start": "2026-08-24T17:30:00.000Z",
-        "end": "2026-08-24T17:33:00.000Z"
-      },
       {
         "title": "Bed & breakfast België",
         "start": "2026-08-24T17:33:00.000Z",
@@ -169,6 +129,11 @@
         "title": "Flikken Gent",
         "start": "2026-08-24T19:26:00.000Z",
         "end": "2026-08-24T19:54:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-08-24T19:54:00.000Z",
+        "end": "2026-08-24T20:31:00.000Z"
       }
     ],
     "SBS 6": [
@@ -212,16 +177,6 @@
     ],
     "Veronica": [
       {
-        "title": "Two and a half men",
-        "start": "2026-08-24T17:11:00.000Z",
-        "end": "2026-08-24T17:34:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-24T17:34:00.000Z",
-        "end": "2026-08-24T17:37:00.000Z"
-      },
-      {
         "title": "The big bang theory",
         "start": "2026-08-24T17:37:00.000Z",
         "end": "2026-08-24T18:01:00.000Z"
@@ -250,11 +205,6 @@
     "BBC News": [
       {
         "title": "The World Today with Maryam Moshiri",
-        "start": "2026-08-24T17:00:00.000Z",
-        "end": "2026-08-24T17:30:00.000Z"
-      },
-      {
-        "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-24T17:30:00.000Z",
         "end": "2026-08-24T18:00:00.000Z"
       },
@@ -277,6 +227,11 @@
         "title": "The Context USA",
         "start": "2026-08-24T19:00:00.000Z",
         "end": "2026-08-24T19:30:00.000Z"
+      },
+      {
+        "title": "The Context USA",
+        "start": "2026-08-24T19:30:00.000Z",
+        "end": "2026-08-24T20:00:00.000Z"
       }
     ],
     "CNN": [
