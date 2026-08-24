@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T20:26:26.221Z",
+  "generated": "2026-08-24T20:58:40.156Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -32,14 +32,19 @@
         "title": "NOS Journaal",
         "start": "2026-08-24T22:15:00.000Z",
         "end": "2026-08-24T22:35:00.000Z"
+      },
+      {
+        "title": "Van onschatbare waarde",
+        "start": "2026-08-24T22:35:00.000Z",
+        "end": "2026-08-24T22:40:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-24T22:40:00.000Z",
+        "end": "2026-08-24T23:05:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-24T20:00:00.000Z",
-        "end": "2026-08-24T20:40:00.000Z"
-      },
       {
         "title": "The capture",
         "start": "2026-08-24T20:40:00.000Z",
@@ -69,6 +74,16 @@
         "title": "De nachtzoen",
         "start": "2026-08-24T22:20:00.000Z",
         "end": "2026-08-24T22:27:00.000Z"
+      },
+      {
+        "title": "Tekst-tv",
+        "start": "2026-08-24T22:27:00.000Z",
+        "end": "2026-08-24T22:35:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-24T22:35:00.000Z",
+        "end": "2026-08-24T23:00:00.000Z"
       }
     ],
     "NPO 3": [
@@ -91,6 +106,11 @@
         "title": "Meiden die rijden",
         "start": "2026-08-24T22:20:00.000Z",
         "end": "2026-08-24T22:55:00.000Z"
+      },
+      {
+        "title": "Het dubbelleven van Marijn Kuipers",
+        "start": "2026-08-24T22:55:00.000Z",
+        "end": "2026-08-24T23:10:00.000Z"
       }
     ],
     "RTL 4": [
@@ -148,24 +168,19 @@
         "title": "Vals spel",
         "start": "2026-08-24T22:14:00.000Z",
         "end": "2026-08-24T22:56:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-24T22:56:00.000Z",
+        "end": "2026-08-24T22:58:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-24T22:58:00.000Z",
+        "end": "2026-08-24T23:16:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-24T20:25:00.000Z",
-        "end": "2026-08-24T20:33:00.000Z"
-      },
-      {
-        "title": "24 uur in de ER",
-        "start": "2026-08-24T20:33:00.000Z",
-        "end": "2026-08-24T20:35:00.000Z"
-      },
-      {
-        "title": "24 uur in de ER",
-        "start": "2026-08-24T20:35:00.000Z",
-        "end": "2026-08-24T20:52:00.000Z"
-      },
       {
         "title": "St. Willebrord: Het mirakel van Brabant",
         "start": "2026-08-24T20:52:00.000Z",
@@ -204,16 +219,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Prometheus\n                        Sciencefiction",
-        "start": "2026-08-24T18:27:00.000Z",
-        "end": "2026-08-24T20:43:00.000Z"
-      },
-      {
-        "title": "Wake of Death\n                        Actie",
-        "start": "2026-08-24T20:43:00.000Z",
-        "end": "2026-08-24T20:52:00.000Z"
-      },
-      {
         "title": "The Hurricane Heist\n                        Actie",
         "start": "2026-08-24T20:52:00.000Z",
         "end": "2026-08-24T21:00:00.000Z"
@@ -222,19 +227,19 @@
         "title": "Bait\n                        Horror",
         "start": "2026-08-24T21:00:00.000Z",
         "end": "2026-08-24T22:33:00.000Z"
+      },
+      {
+        "title": "Pawn stars hit the road",
+        "start": "2026-08-24T22:33:00.000Z",
+        "end": "2026-08-24T22:49:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-24T22:49:00.000Z",
+        "end": "2026-08-24T23:00:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-24T19:54:00.000Z",
-        "end": "2026-08-24T20:31:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-24T20:31:00.000Z",
-        "end": "2026-08-24T20:50:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-24T20:50:00.000Z",
@@ -259,29 +264,19 @@
         "title": "Crime scene investigation",
         "start": "2026-08-24T22:18:00.000Z",
         "end": "2026-08-24T22:39:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-24T22:39:00.000Z",
+        "end": "2026-08-24T22:48:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-24T22:48:00.000Z",
+        "end": "2026-08-24T23:13:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Vandaag inside",
-        "start": "2026-08-24T19:21:00.000Z",
-        "end": "2026-08-24T20:31:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-24T20:31:00.000Z",
-        "end": "2026-08-24T20:33:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-24T20:33:00.000Z",
-        "end": "2026-08-24T20:50:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-24T20:50:00.000Z",
-        "end": "2026-08-24T20:52:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-24T20:52:00.000Z",
@@ -301,6 +296,21 @@
         "title": "De bondgenoten",
         "start": "2026-08-24T21:49:00.000Z",
         "end": "2026-08-24T22:40:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-24T22:40:00.000Z",
+        "end": "2026-08-24T22:53:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-24T22:53:00.000Z",
+        "end": "2026-08-24T22:56:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-24T22:56:00.000Z",
+        "end": "2026-08-24T23:25:00.000Z"
       }
     ],
     "NET 5": [
@@ -313,14 +323,19 @@
         "title": "Sam & Kate\n                        Romantische komedie",
         "start": "2026-08-24T21:22:00.000Z",
         "end": "2026-08-24T22:27:00.000Z"
+      },
+      {
+        "title": "Ordinary Joe",
+        "start": "2026-08-24T22:27:00.000Z",
+        "end": "2026-08-24T22:35:00.000Z"
+      },
+      {
+        "title": "Cedar Cove",
+        "start": "2026-08-24T22:35:00.000Z",
+        "end": "2026-08-24T23:25:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Man of Steel\n                        Actie",
-        "start": "2026-08-24T18:26:00.000Z",
-        "end": "2026-08-24T20:47:00.000Z"
-      },
       {
         "title": "Wonder Woman 1984\n                        Actie",
         "start": "2026-08-24T20:47:00.000Z",
@@ -335,19 +350,14 @@
         "title": "FBI: Most wanted",
         "start": "2026-08-24T21:43:00.000Z",
         "end": "2026-08-24T22:38:00.000Z"
+      },
+      {
+        "title": "Chopper cops",
+        "start": "2026-08-24T22:38:00.000Z",
+        "end": "2026-08-24T23:04:00.000Z"
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-08-24T20:00:00.000Z",
-        "end": "2026-08-24T20:30:00.000Z"
-      },
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-08-24T20:30:00.000Z",
-        "end": "2026-08-24T20:55:00.000Z"
-      },
       {
         "title": "Discover the World",
         "start": "2026-08-24T20:55:00.000Z",
@@ -367,6 +377,11 @@
         "title": "BBC World News America",
         "start": "2026-08-24T22:00:00.000Z",
         "end": "2026-08-24T22:30:00.000Z"
+      },
+      {
+        "title": "Streets of Gold: Mumbai",
+        "start": "2026-08-24T22:30:00.000Z",
+        "end": "2026-08-24T23:00:00.000Z"
       }
     ],
     "CNN": [
