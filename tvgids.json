@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T20:29:22.236Z",
+  "generated": "2026-08-25T20:57:05.421Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
@@ -22,14 +22,14 @@
         "title": "Goedenavond Nederland",
         "start": "2026-08-25T21:45:00.000Z",
         "end": "2026-08-25T22:40:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-25T22:40:00.000Z",
+        "end": "2026-08-25T23:05:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-25T20:00:00.000Z",
-        "end": "2026-08-25T20:40:00.000Z"
-      },
       {
         "title": "Het zaad van Karbaat",
         "start": "2026-08-25T20:40:00.000Z",
@@ -64,6 +64,11 @@
         "title": "De nachtzoen",
         "start": "2026-08-25T22:20:00.000Z",
         "end": "2026-08-25T22:35:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-25T22:35:00.000Z",
+        "end": "2026-08-25T23:00:00.000Z"
       }
     ],
     "NPO 3": [
@@ -91,6 +96,16 @@
         "title": "Meiden die rijden",
         "start": "2026-08-25T22:20:00.000Z",
         "end": "2026-08-25T22:40:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-25T22:40:00.000Z",
+        "end": "2026-08-25T22:55:00.000Z"
+      },
+      {
+        "title": "Het dubbelleven van Marijn Kuipers",
+        "start": "2026-08-25T22:55:00.000Z",
+        "end": "2026-08-25T23:10:00.000Z"
       }
     ],
     "RTL 4": [
@@ -148,19 +163,14 @@
         "title": "Nederland met vakantie",
         "start": "2026-08-25T22:13:00.000Z",
         "end": "2026-08-25T22:56:00.000Z"
+      },
+      {
+        "title": "EditieNL",
+        "start": "2026-08-25T22:56:00.000Z",
+        "end": "2026-08-25T22:58:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-25T20:21:00.000Z",
-        "end": "2026-08-25T20:30:00.000Z"
-      },
-      {
-        "title": "24 uur in de ER",
-        "start": "2026-08-25T20:30:00.000Z",
-        "end": "2026-08-25T20:32:00.000Z"
-      },
       {
         "title": "24 uur in de ER",
         "start": "2026-08-25T20:32:00.000Z",
@@ -209,11 +219,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Lock up\n                        Actie",
-        "start": "2026-08-25T20:25:00.000Z",
-        "end": "2026-08-25T20:52:00.000Z"
-      },
-      {
         "title": "The Hurricane Heist\n                        Actie",
         "start": "2026-08-25T20:52:00.000Z",
         "end": "2026-08-25T21:00:00.000Z"
@@ -222,19 +227,19 @@
         "title": "Bait\n                        Horror",
         "start": "2026-08-25T21:00:00.000Z",
         "end": "2026-08-25T22:35:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-25T22:35:00.000Z",
+        "end": "2026-08-25T22:49:00.000Z"
+      },
+      {
+        "title": "Pawn stars",
+        "start": "2026-08-25T22:49:00.000Z",
+        "end": "2026-08-25T23:00:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-25T19:54:00.000Z",
-        "end": "2026-08-25T20:36:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-25T20:36:00.000Z",
-        "end": "2026-08-25T20:50:00.000Z"
-      },
       {
         "title": "Law & order: Special victims unit",
         "start": "2026-08-25T20:50:00.000Z",
@@ -264,19 +269,14 @@
         "title": "Crime scene investigation",
         "start": "2026-08-25T22:23:00.000Z",
         "end": "2026-08-25T22:48:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-25T22:48:00.000Z",
+        "end": "2026-08-25T23:13:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Vandaag inside",
-        "start": "2026-08-25T19:19:00.000Z",
-        "end": "2026-08-25T20:31:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-25T20:31:00.000Z",
-        "end": "2026-08-25T20:50:00.000Z"
-      },
       {
         "title": "Shownieuws",
         "start": "2026-08-25T20:50:00.000Z",
@@ -291,6 +291,21 @@
         "title": "De bondgenoten",
         "start": "2026-08-25T21:49:00.000Z",
         "end": "2026-08-25T22:53:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-25T22:53:00.000Z",
+        "end": "2026-08-25T22:54:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-25T22:54:00.000Z",
+        "end": "2026-08-25T22:56:00.000Z"
+      },
+      {
+        "title": "Shownieuws",
+        "start": "2026-08-25T22:56:00.000Z",
+        "end": "2026-08-25T23:39:00.000Z"
       }
     ],
     "NET 5": [
@@ -313,14 +328,14 @@
         "title": "House rules Australië",
         "start": "2026-08-25T22:13:00.000Z",
         "end": "2026-08-25T22:35:00.000Z"
+      },
+      {
+        "title": "Cedar Cove",
+        "start": "2026-08-25T22:35:00.000Z",
+        "end": "2026-08-25T23:14:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "Interstellar\n                        Sf",
-        "start": "2026-08-25T18:30:00.000Z",
-        "end": "2026-08-25T20:47:00.000Z"
-      },
       {
         "title": "Wonder Woman 1984\n                        Actie",
         "start": "2026-08-25T20:47:00.000Z",
@@ -338,16 +353,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-08-25T20:00:00.000Z",
-        "end": "2026-08-25T20:30:00.000Z"
-      },
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-08-25T20:30:00.000Z",
-        "end": "2026-08-25T20:55:00.000Z"
-      },
       {
         "title": "Tech Now",
         "start": "2026-08-25T20:55:00.000Z",
