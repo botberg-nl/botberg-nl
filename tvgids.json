@@ -1,18 +1,8 @@
 {
-  "generated": "2026-08-25T16:33:27.577Z",
+  "generated": "2026-08-25T17:28:27.454Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-25T16:30:00.000Z",
-        "end": "2026-08-25T17:00:00.000Z"
-      },
-      {
-        "title": "Bed & breakfast",
-        "start": "2026-08-25T17:00:00.000Z",
-        "end": "2026-08-25T17:05:00.000Z"
-      },
       {
         "title": "Het familiediner",
         "start": "2026-08-25T17:05:00.000Z",
@@ -22,19 +12,19 @@
         "title": "NOS Journaal",
         "start": "2026-08-25T18:00:00.000Z",
         "end": "2026-08-25T18:35:00.000Z"
+      },
+      {
+        "title": "Van onschatbare waarde",
+        "start": "2026-08-25T18:35:00.000Z",
+        "end": "2026-08-25T19:25:00.000Z"
+      },
+      {
+        "title": "Triviant",
+        "start": "2026-08-25T19:25:00.000Z",
+        "end": "2026-08-25T19:30:00.000Z"
       }
     ],
     "NPO 2": [
-      {
-        "title": "Noord-Zuid-Oost-West",
-        "start": "2026-08-25T16:30:00.000Z",
-        "end": "2026-08-25T17:05:00.000Z"
-      },
-      {
-        "title": "Boeddha in de polder",
-        "start": "2026-08-25T17:05:00.000Z",
-        "end": "2026-08-25T17:10:00.000Z"
-      },
       {
         "title": "Boeddha in de polder",
         "start": "2026-08-25T17:10:00.000Z",
@@ -59,29 +49,14 @@
         "title": "Poorten van Europa",
         "start": "2026-08-25T18:30:00.000Z",
         "end": "2026-08-25T19:25:00.000Z"
+      },
+      {
+        "title": "Dit is de kwestie",
+        "start": "2026-08-25T19:25:00.000Z",
+        "end": "2026-08-25T20:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "De faker op vakantie",
-        "start": "2026-08-25T16:25:00.000Z",
-        "end": "2026-08-25T16:40:00.000Z"
-      },
-      {
-        "title": "Het klokhuis",
-        "start": "2026-08-25T16:40:00.000Z",
-        "end": "2026-08-25T16:45:00.000Z"
-      },
-      {
-        "title": "Het klokhuis",
-        "start": "2026-08-25T16:45:00.000Z",
-        "end": "2026-08-25T17:00:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal",
-        "start": "2026-08-25T17:00:00.000Z",
-        "end": "2026-08-25T17:25:00.000Z"
-      },
       {
         "title": "Meiden die rijden",
         "start": "2026-08-25T17:25:00.000Z",
@@ -91,14 +66,14 @@
         "title": "Muziekfeest van het jaar 2024",
         "start": "2026-08-25T18:20:00.000Z",
         "end": "2026-08-25T19:15:00.000Z"
+      },
+      {
+        "title": "Welkom terug",
+        "start": "2026-08-25T19:15:00.000Z",
+        "end": "2026-08-25T20:05:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-25T16:33:00.000Z",
-        "end": "2026-08-25T16:35:00.000Z"
-      },
       {
         "title": "RTL Boulevard",
         "start": "2026-08-25T16:35:00.000Z",
@@ -107,43 +82,28 @@
       {
         "title": "RTL Nieuws",
         "start": "2026-08-25T17:30:00.000Z",
-        "end": "2026-08-25T17:55:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-25T17:55:00.000Z",
         "end": "2026-08-25T17:57:00.000Z"
       },
       {
         "title": "RTL Weer",
         "start": "2026-08-25T17:57:00.000Z",
-        "end": "2026-08-25T18:00:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-25T18:00:00.000Z",
         "end": "2026-08-25T18:01:00.000Z"
       },
       {
         "title": "Ik weet er alles van!",
         "start": "2026-08-25T18:01:00.000Z",
         "end": "2026-08-25T18:54:00.000Z"
+      },
+      {
+        "title": "B&B vol liefde",
+        "start": "2026-08-25T18:54:00.000Z",
+        "end": "2026-08-25T20:21:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Kees van der Spek ontmaskert",
-        "start": "2026-08-25T15:39:00.000Z",
-        "end": "2026-08-25T17:05:00.000Z"
-      },
-      {
         "title": "De Pfaff's",
         "start": "2026-08-25T17:05:00.000Z",
-        "end": "2026-08-25T17:45:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-25T17:45:00.000Z",
         "end": "2026-08-25T17:47:00.000Z"
       },
       {
@@ -159,57 +119,27 @@
       {
         "title": "Scam alert: Trap er niet in!",
         "start": "2026-08-25T18:30:00.000Z",
-        "end": "2026-08-25T19:55:00.000Z"
+        "end": "2026-08-25T19:56:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Pawn stars",
-        "start": "2026-08-25T16:30:00.000Z",
-        "end": "2026-08-25T16:34:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-25T16:34:00.000Z",
-        "end": "2026-08-25T17:28:00.000Z"
-      },
-      {
         "title": "Pawn stars hit the road",
         "start": "2026-08-25T17:28:00.000Z",
-        "end": "2026-08-25T17:30:00.000Z"
-      },
-      {
-        "title": "Pawn stars hit the road",
-        "start": "2026-08-25T17:30:00.000Z",
-        "end": "2026-08-25T18:27:00.000Z"
+        "end": "2026-08-25T18:26:00.000Z"
       },
       {
         "title": "Bloodsport\n                        Actie",
+        "start": "2026-08-25T18:26:00.000Z",
+        "end": "2026-08-25T18:27:00.000Z"
+      },
+      {
+        "title": "Prometheus\n                        Sciencefiction",
         "start": "2026-08-25T18:27:00.000Z",
         "end": "2026-08-25T20:25:00.000Z"
       }
     ],
     "RTL 8": [
-      {
-        "title": "The bold and the beautiful",
-        "start": "2026-08-25T16:09:00.000Z",
-        "end": "2026-08-25T16:36:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-25T16:36:00.000Z",
-        "end": "2026-08-25T16:37:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-25T16:37:00.000Z",
-        "end": "2026-08-25T17:04:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful - The beginning",
-        "start": "2026-08-25T17:04:00.000Z",
-        "end": "2026-08-25T17:05:00.000Z"
-      },
       {
         "title": "The bold and the beautiful - The beginning",
         "start": "2026-08-25T17:05:00.000Z",
@@ -238,16 +168,6 @@
     ],
     "SBS 6": [
       {
-        "title": "Nieuws van de dag",
-        "start": "2026-08-25T16:05:00.000Z",
-        "end": "2026-08-25T16:59:00.000Z"
-      },
-      {
-        "title": "Overtreders",
-        "start": "2026-08-25T16:59:00.000Z",
-        "end": "2026-08-25T17:00:00.000Z"
-      },
-      {
         "title": "Overtreders",
         "start": "2026-08-25T17:00:00.000Z",
         "end": "2026-08-25T18:00:00.000Z"
@@ -261,14 +181,14 @@
         "title": "De bondgenoten",
         "start": "2026-08-25T18:01:00.000Z",
         "end": "2026-08-25T19:19:00.000Z"
+      },
+      {
+        "title": "Vandaag inside",
+        "start": "2026-08-25T19:19:00.000Z",
+        "end": "2026-08-25T20:31:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "MasterChef Australië",
-        "start": "2026-08-25T16:25:00.000Z",
-        "end": "2026-08-25T17:27:00.000Z"
-      },
       {
         "title": "Love it or list it Australië",
         "start": "2026-08-25T17:27:00.000Z",
@@ -281,26 +201,6 @@
       }
     ],
     "Veronica": [
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-25T16:16:00.000Z",
-        "end": "2026-08-25T16:40:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-25T16:40:00.000Z",
-        "end": "2026-08-25T16:41:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-25T16:41:00.000Z",
-        "end": "2026-08-25T17:05:00.000Z"
-      },
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-25T17:05:00.000Z",
-        "end": "2026-08-25T17:09:00.000Z"
-      },
       {
         "title": "Two and a half men",
         "start": "2026-08-25T17:09:00.000Z",
@@ -339,11 +239,6 @@
     ],
     "BBC News": [
       {
-        "title": "BBC Focus on Africa",
-        "start": "2026-08-25T16:30:00.000Z",
-        "end": "2026-08-25T17:00:00.000Z"
-      },
-      {
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-25T17:00:00.000Z",
         "end": "2026-08-25T17:30:00.000Z"
@@ -362,19 +257,19 @@
         "title": "The World Today with Maryam Moshiri",
         "start": "2026-08-25T18:30:00.000Z",
         "end": "2026-08-25T18:55:00.000Z"
+      },
+      {
+        "title": "Tech Now",
+        "start": "2026-08-25T18:55:00.000Z",
+        "end": "2026-08-25T19:00:00.000Z"
+      },
+      {
+        "title": "The Context USA",
+        "start": "2026-08-25T19:00:00.000Z",
+        "end": "2026-08-25T19:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "One World",
-        "start": "2026-08-25T16:00:00.000Z",
-        "end": "2026-08-25T16:45:00.000Z"
-      },
-      {
-        "title": "African Voices",
-        "start": "2026-08-25T16:45:00.000Z",
-        "end": "2026-08-25T17:00:00.000Z"
-      },
       {
         "title": "Amanpour",
         "start": "2026-08-25T17:00:00.000Z",
@@ -384,6 +279,11 @@
         "title": "Isa Soares Tonight",
         "start": "2026-08-25T18:00:00.000Z",
         "end": "2026-08-25T19:00:00.000Z"
+      },
+      {
+        "title": "What We Know with Max Foster",
+        "start": "2026-08-25T19:00:00.000Z",
+        "end": "2026-08-25T20:00:00.000Z"
       }
     ]
   }
