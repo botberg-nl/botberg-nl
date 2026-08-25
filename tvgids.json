@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-25T22:23:13.788Z",
+  "generated": "2026-08-25T22:54:33.405Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Goedenavond Nederland",
-        "start": "2026-08-25T21:45:00.000Z",
-        "end": "2026-08-25T22:40:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-25T22:40:00.000Z",
@@ -46,16 +41,6 @@
     ],
     "NPO 2": [
       {
-        "title": "De nachtzoen",
-        "start": "2026-08-25T22:20:00.000Z",
-        "end": "2026-08-25T22:25:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-25T22:25:00.000Z",
-        "end": "2026-08-25T22:35:00.000Z"
-      },
-      {
         "title": "Nieuwsuur",
         "start": "2026-08-25T22:35:00.000Z",
         "end": "2026-08-25T23:05:00.000Z"
@@ -72,16 +57,6 @@
       }
     ],
     "NPO 3": [
-      {
-        "title": "Meiden die rijden",
-        "start": "2026-08-25T22:20:00.000Z",
-        "end": "2026-08-25T22:40:00.000Z"
-      },
-      {
-        "title": "Meiden die rijden",
-        "start": "2026-08-25T22:40:00.000Z",
-        "end": "2026-08-25T22:50:00.000Z"
-      },
       {
         "title": "Rutger en de buitenlanders",
         "start": "2026-08-25T22:50:00.000Z",
@@ -106,6 +81,11 @@
         "title": "Welkom terug",
         "start": "2026-08-26T00:05:00.000Z",
         "end": "2026-08-26T00:25:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-26T00:25:00.000Z",
+        "end": "2026-08-26T00:55:00.000Z"
       }
     ],
     "RTL 4": [
@@ -189,16 +169,6 @@
     ],
     "RTL 7": [
       {
-        "title": "Bait\n                        Horror",
-        "start": "2026-08-25T21:00:00.000Z",
-        "end": "2026-08-25T22:35:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-25T22:35:00.000Z",
-        "end": "2026-08-25T22:43:00.000Z"
-      },
-      {
         "title": "Pawn stars",
         "start": "2026-08-25T22:43:00.000Z",
         "end": "2026-08-25T23:00:00.000Z"
@@ -231,11 +201,6 @@
     ],
     "RTL 8": [
       {
-        "title": "Crime scene investigation",
-        "start": "2026-08-25T22:23:00.000Z",
-        "end": "2026-08-25T22:48:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
         "start": "2026-08-25T22:48:00.000Z",
         "end": "2026-08-25T23:10:00.000Z"
@@ -263,21 +228,6 @@
     ],
     "SBS 6": [
       {
-        "title": "De bondgenoten",
-        "start": "2026-08-25T21:47:00.000Z",
-        "end": "2026-08-25T22:50:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-25T22:50:00.000Z",
-        "end": "2026-08-25T22:53:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-25T22:53:00.000Z",
-        "end": "2026-08-25T22:54:00.000Z"
-      },
-      {
         "title": "Shownieuws",
         "start": "2026-08-25T22:54:00.000Z",
         "end": "2026-08-25T23:35:00.000Z"
@@ -294,11 +244,6 @@
       }
     ],
     "NET 5": [
-      {
-        "title": "House rules Australië",
-        "start": "2026-08-25T22:13:00.000Z",
-        "end": "2026-08-25T22:35:00.000Z"
-      },
       {
         "title": "Cedar Cove",
         "start": "2026-08-25T22:35:00.000Z",
@@ -350,6 +295,11 @@
         "title": "Hart van Nederland",
         "start": "2026-08-26T00:20:00.000Z",
         "end": "2026-08-26T00:39:00.000Z"
+      },
+      {
+        "title": "Pause",
+        "start": "2026-08-26T00:39:00.000Z",
+        "end": "2026-08-26T01:09:00.000Z"
       }
     ],
     "BBC News": [
@@ -372,6 +322,11 @@
         "title": "BBC news",
         "start": "2026-08-26T00:00:00.000Z",
         "end": "2026-08-26T00:30:00.000Z"
+      },
+      {
+        "title": "Tech Now",
+        "start": "2026-08-26T00:30:00.000Z",
+        "end": "2026-08-26T01:00:00.000Z"
       }
     ],
     "CNN": [
