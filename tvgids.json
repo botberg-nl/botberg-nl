@@ -1,13 +1,8 @@
 {
-  "generated": "2026-08-25T19:56:37.010Z",
+  "generated": "2026-08-25T20:29:22.236Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Triviant",
-        "start": "2026-08-25T19:30:00.000Z",
-        "end": "2026-08-25T20:15:00.000Z"
-      },
       {
         "title": "Goedenavond Nederland",
         "start": "2026-08-25T20:15:00.000Z",
@@ -30,11 +25,6 @@
       }
     ],
     "NPO 2": [
-      {
-        "title": "Dit is de kwestie",
-        "start": "2026-08-25T19:25:00.000Z",
-        "end": "2026-08-25T20:00:00.000Z"
-      },
       {
         "title": "Nieuwsuur",
         "start": "2026-08-25T20:00:00.000Z",
@@ -59,14 +49,24 @@
         "title": "Nieuwsuur",
         "start": "2026-08-25T21:40:00.000Z",
         "end": "2026-08-25T22:05:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-08-25T22:05:00.000Z",
+        "end": "2026-08-25T22:15:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-08-25T22:15:00.000Z",
+        "end": "2026-08-25T22:20:00.000Z"
+      },
+      {
+        "title": "De nachtzoen",
+        "start": "2026-08-25T22:20:00.000Z",
+        "end": "2026-08-25T22:35:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Welkom terug",
-        "start": "2026-08-25T19:15:00.000Z",
-        "end": "2026-08-25T20:05:00.000Z"
-      },
       {
         "title": "Generatie gebed - Wat bezielt GenZ",
         "start": "2026-08-25T20:05:00.000Z",
@@ -76,19 +76,24 @@
         "title": "A beautiful mess",
         "start": "2026-08-25T21:10:00.000Z",
         "end": "2026-08-25T22:00:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-25T22:00:00.000Z",
+        "end": "2026-08-25T22:05:00.000Z"
+      },
+      {
+        "title": "3 op reis",
+        "start": "2026-08-25T22:05:00.000Z",
+        "end": "2026-08-25T22:20:00.000Z"
+      },
+      {
+        "title": "Meiden die rijden",
+        "start": "2026-08-25T22:20:00.000Z",
+        "end": "2026-08-25T22:40:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "B&B vol liefde",
-        "start": "2026-08-25T18:54:00.000Z",
-        "end": "2026-08-25T20:21:00.000Z"
-      },
-      {
-        "title": "Nederland met vakantie",
-        "start": "2026-08-25T20:21:00.000Z",
-        "end": "2026-08-25T20:22:00.000Z"
-      },
       {
         "title": "Nederland met vakantie",
         "start": "2026-08-25T20:22:00.000Z",
@@ -128,24 +133,24 @@
         "title": "RTL Boulevard",
         "start": "2026-08-25T21:27:00.000Z",
         "end": "2026-08-25T22:10:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-25T22:10:00.000Z",
+        "end": "2026-08-25T22:12:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-25T22:12:00.000Z",
+        "end": "2026-08-25T22:13:00.000Z"
+      },
+      {
+        "title": "Nederland met vakantie",
+        "start": "2026-08-25T22:13:00.000Z",
+        "end": "2026-08-25T22:56:00.000Z"
       }
     ],
     "RTL 5": [
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-25T19:56:00.000Z",
-        "end": "2026-08-25T19:58:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-25T19:58:00.000Z",
-        "end": "2026-08-25T20:19:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-25T20:19:00.000Z",
-        "end": "2026-08-25T20:21:00.000Z"
-      },
       {
         "title": "RTL Weer",
         "start": "2026-08-25T20:21:00.000Z",
@@ -175,14 +180,34 @@
         "title": "112 vandaag",
         "start": "2026-08-25T21:40:00.000Z",
         "end": "2026-08-25T22:00:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-25T22:00:00.000Z",
+        "end": "2026-08-25T22:02:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-25T22:02:00.000Z",
+        "end": "2026-08-25T22:03:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-08-25T22:03:00.000Z",
+        "end": "2026-08-25T22:05:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-25T22:05:00.000Z",
+        "end": "2026-08-25T22:06:00.000Z"
+      },
+      {
+        "title": "Stop! Politie UK",
+        "start": "2026-08-25T22:06:00.000Z",
+        "end": "2026-08-25T23:08:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Prometheus\n                        Sciencefiction",
-        "start": "2026-08-25T18:27:00.000Z",
-        "end": "2026-08-25T20:25:00.000Z"
-      },
       {
         "title": "Lock up\n                        Actie",
         "start": "2026-08-25T20:25:00.000Z",
@@ -229,6 +254,16 @@
         "title": "Crime scene investigation",
         "start": "2026-08-25T21:45:00.000Z",
         "end": "2026-08-25T22:18:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-25T22:18:00.000Z",
+        "end": "2026-08-25T22:23:00.000Z"
+      },
+      {
+        "title": "Crime scene investigation",
+        "start": "2026-08-25T22:23:00.000Z",
+        "end": "2026-08-25T22:48:00.000Z"
       }
     ],
     "SBS 6": [
@@ -261,16 +296,6 @@
     "NET 5": [
       {
         "title": "Sullivan's Crossing",
-        "start": "2026-08-25T19:29:00.000Z",
-        "end": "2026-08-25T20:23:00.000Z"
-      },
-      {
-        "title": "You're Cordially Invited\n                        Komedie",
-        "start": "2026-08-25T20:23:00.000Z",
-        "end": "2026-08-25T20:28:00.000Z"
-      },
-      {
-        "title": "Sullivan's Crossing",
         "start": "2026-08-25T20:28:00.000Z",
         "end": "2026-08-25T21:22:00.000Z"
       },
@@ -283,6 +308,11 @@
         "title": "Chicago fire",
         "start": "2026-08-25T21:26:00.000Z",
         "end": "2026-08-25T22:13:00.000Z"
+      },
+      {
+        "title": "House rules Australië",
+        "start": "2026-08-25T22:13:00.000Z",
+        "end": "2026-08-25T22:35:00.000Z"
       }
     ],
     "Veronica": [
@@ -309,11 +339,6 @@
     ],
     "BBC News": [
       {
-        "title": "The Context USA",
-        "start": "2026-08-25T19:30:00.000Z",
-        "end": "2026-08-25T20:00:00.000Z"
-      },
-      {
         "title": "The Context with Christian Fraser",
         "start": "2026-08-25T20:00:00.000Z",
         "end": "2026-08-25T20:30:00.000Z"
@@ -337,14 +362,14 @@
         "title": "Newsnight",
         "start": "2026-08-25T21:30:00.000Z",
         "end": "2026-08-25T22:00:00.000Z"
+      },
+      {
+        "title": "BBC World News America",
+        "start": "2026-08-25T22:00:00.000Z",
+        "end": "2026-08-25T23:00:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "What We Know with Max Foster",
-        "start": "2026-08-25T19:00:00.000Z",
-        "end": "2026-08-25T20:00:00.000Z"
-      },
       {
         "title": "Quest Means Business",
         "start": "2026-08-25T20:00:00.000Z",
@@ -359,6 +384,11 @@
         "title": "World Sport",
         "start": "2026-08-25T21:30:00.000Z",
         "end": "2026-08-25T22:00:00.000Z"
+      },
+      {
+        "title": "The Brief with Jim Sciutto",
+        "start": "2026-08-25T22:00:00.000Z",
+        "end": "2026-08-25T23:00:00.000Z"
       }
     ]
   }
