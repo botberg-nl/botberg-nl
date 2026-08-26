@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-26T10:32:14.418Z",
+  "generated": "2026-08-26T11:26:34.623Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-26T10:30:00.000Z",
-        "end": "2026-08-26T10:40:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-26T10:40:00.000Z",
-        "end": "2026-08-26T11:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-26T11:00:00.000Z",
-        "end": "2026-08-26T11:20:00.000Z"
-      },
       {
         "title": "Kook mee met MAX",
         "start": "2026-08-26T11:20:00.000Z",
@@ -42,24 +27,34 @@
         "title": "NOS Journaal",
         "start": "2026-08-26T12:30:00.000Z",
         "end": "2026-08-26T12:40:00.000Z"
-      }
-    ],
-    "NPO 2": [
-      {
-        "title": "Andere tijden kort",
-        "start": "2026-08-26T10:30:00.000Z",
-        "end": "2026-08-26T10:40:00.000Z"
-      },
-      {
-        "title": "Andere tijden kort",
-        "start": "2026-08-26T10:40:00.000Z",
-        "end": "2026-08-26T11:00:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-08-26T11:00:00.000Z",
-        "end": "2026-08-26T11:20:00.000Z"
+        "start": "2026-08-26T12:40:00.000Z",
+        "end": "2026-08-26T13:00:00.000Z"
       },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-08-26T13:00:00.000Z",
+        "end": "2026-08-26T13:15:00.000Z"
+      },
+      {
+        "title": "Politieke partijen",
+        "start": "2026-08-26T13:15:00.000Z",
+        "end": "2026-08-26T13:17:00.000Z"
+      },
+      {
+        "title": "Politieke partijen",
+        "start": "2026-08-26T13:17:00.000Z",
+        "end": "2026-08-26T13:25:00.000Z"
+      },
+      {
+        "title": "Sport: WK roeien",
+        "start": "2026-08-26T13:25:00.000Z",
+        "end": "2026-08-26T13:30:00.000Z"
+      }
+    ],
+    "NPO 2": [
       {
         "title": "De kist",
         "start": "2026-08-26T11:20:00.000Z",
@@ -79,79 +74,29 @@
         "title": "De verwondering",
         "start": "2026-08-26T12:30:00.000Z",
         "end": "2026-08-26T13:00:00.000Z"
+      },
+      {
+        "title": "Nu te zien!",
+        "start": "2026-08-26T13:00:00.000Z",
+        "end": "2026-08-26T13:05:00.000Z"
+      },
+      {
+        "title": "In de voetsporen van de jaren 80",
+        "start": "2026-08-26T13:05:00.000Z",
+        "end": "2026-08-26T13:15:00.000Z"
+      },
+      {
+        "title": "Nu te zien!",
+        "start": "2026-08-26T13:15:00.000Z",
+        "end": "2026-08-26T13:20:00.000Z"
+      },
+      {
+        "title": "Keurmeesters",
+        "start": "2026-08-26T13:20:00.000Z",
+        "end": "2026-08-26T14:00:00.000Z"
       }
     ],
     "NPO 3": [
-      {
-        "title": "Samson & Marie, ijsjestijd",
-        "start": "2026-08-26T10:30:00.000Z",
-        "end": "2026-08-26T10:40:00.000Z"
-      },
-      {
-        "title": "Samson & Marie, ijsjestijd",
-        "start": "2026-08-26T10:40:00.000Z",
-        "end": "2026-08-26T10:45:00.000Z"
-      },
-      {
-        "title": "Maya de Bij",
-        "start": "2026-08-26T10:45:00.000Z",
-        "end": "2026-08-26T10:52:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-26T10:52:00.000Z",
-        "end": "2026-08-26T10:56:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-26T10:56:00.000Z",
-        "end": "2026-08-26T10:59:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-26T10:59:00.000Z",
-        "end": "2026-08-26T11:00:00.000Z"
-      },
-      {
-        "title": "Jojo & Ouma",
-        "start": "2026-08-26T11:00:00.000Z",
-        "end": "2026-08-26T11:02:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-26T11:02:00.000Z",
-        "end": "2026-08-26T11:05:00.000Z"
-      },
-      {
-        "title": "Jojo & Ouma",
-        "start": "2026-08-26T11:05:00.000Z",
-        "end": "2026-08-26T11:08:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-26T11:08:00.000Z",
-        "end": "2026-08-26T11:10:00.000Z"
-      },
-      {
-        "title": "Pip & Posy",
-        "start": "2026-08-26T11:10:00.000Z",
-        "end": "2026-08-26T11:15:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-26T11:15:00.000Z",
-        "end": "2026-08-26T11:17:00.000Z"
-      },
-      {
-        "title": "Zin in Zappelin",
-        "start": "2026-08-26T11:17:00.000Z",
-        "end": "2026-08-26T11:20:00.000Z"
-      },
-      {
-        "title": "Pip & Posy",
-        "start": "2026-08-26T11:20:00.000Z",
-        "end": "2026-08-26T11:25:00.000Z"
-      },
       {
         "title": "Zin in Zappelin",
         "start": "2026-08-26T11:25:00.000Z",
@@ -226,24 +171,44 @@
         "title": "SamSam",
         "start": "2026-08-26T12:30:00.000Z",
         "end": "2026-08-26T12:35:00.000Z"
+      },
+      {
+        "title": "Zo is Joey!",
+        "start": "2026-08-26T12:35:00.000Z",
+        "end": "2026-08-26T12:40:00.000Z"
+      },
+      {
+        "title": "Zo is Joey!",
+        "start": "2026-08-26T12:40:00.000Z",
+        "end": "2026-08-26T12:45:00.000Z"
+      },
+      {
+        "title": "Herrie op zolder",
+        "start": "2026-08-26T12:45:00.000Z",
+        "end": "2026-08-26T12:50:00.000Z"
+      },
+      {
+        "title": "Herrie op zolder",
+        "start": "2026-08-26T12:50:00.000Z",
+        "end": "2026-08-26T12:55:00.000Z"
+      },
+      {
+        "title": "Zappbios: De vliegende klas\n                        Komedie",
+        "start": "2026-08-26T12:55:00.000Z",
+        "end": "2026-08-26T13:05:00.000Z"
+      },
+      {
+        "title": "Grizzy en de lemmingen",
+        "start": "2026-08-26T13:05:00.000Z",
+        "end": "2026-08-26T13:10:00.000Z"
+      },
+      {
+        "title": "Zappbios: De piraten van hiernaast - De ninja's van de overkant\n                        Familie",
+        "start": "2026-08-26T13:10:00.000Z",
+        "end": "2026-08-26T14:15:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-26T09:47:00.000Z",
-        "end": "2026-08-26T10:45:00.000Z"
-      },
-      {
-        "title": "The bold and the beautiful",
-        "start": "2026-08-26T10:45:00.000Z",
-        "end": "2026-08-26T11:20:00.000Z"
-      },
-      {
-        "title": "Wedding of Dreams\n                        Komedie",
-        "start": "2026-08-26T11:20:00.000Z",
-        "end": "2026-08-26T11:25:00.000Z"
-      },
       {
         "title": "A Love Yarn\n                        Komedie",
         "start": "2026-08-26T11:25:00.000Z",
@@ -253,11 +218,6 @@
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-26T10:30:00.000Z",
-        "end": "2026-08-26T10:40:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-26T10:40:00.000Z",
         "end": "2026-08-26T12:30:00.000Z"
       },
@@ -265,34 +225,14 @@
         "title": "Teleshop 5: Telvero",
         "start": "2026-08-26T12:30:00.000Z",
         "end": "2026-08-26T12:40:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Telvero",
+        "start": "2026-08-26T12:40:00.000Z",
+        "end": "2026-08-26T14:30:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-26T10:22:00.000Z",
-        "end": "2026-08-26T10:34:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-26T10:34:00.000Z",
-        "end": "2026-08-26T10:46:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-26T10:46:00.000Z",
-        "end": "2026-08-26T10:54:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-26T10:54:00.000Z",
-        "end": "2026-08-26T11:17:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-08-26T11:17:00.000Z",
-        "end": "2026-08-26T11:24:00.000Z"
-      },
       {
         "title": "De sterkste man van Nederland",
         "start": "2026-08-26T11:24:00.000Z",
@@ -307,6 +247,26 @@
         "title": "Flodder",
         "start": "2026-08-26T12:25:00.000Z",
         "end": "2026-08-26T12:46:00.000Z"
+      },
+      {
+        "title": "Flodder",
+        "start": "2026-08-26T12:46:00.000Z",
+        "end": "2026-08-26T12:56:00.000Z"
+      },
+      {
+        "title": "Flodder",
+        "start": "2026-08-26T12:56:00.000Z",
+        "end": "2026-08-26T13:17:00.000Z"
+      },
+      {
+        "title": "Flodder",
+        "start": "2026-08-26T13:17:00.000Z",
+        "end": "2026-08-26T13:26:00.000Z"
+      },
+      {
+        "title": "Flodder",
+        "start": "2026-08-26T13:26:00.000Z",
+        "end": "2026-08-26T13:48:00.000Z"
       }
     ],
     "RTL 8": [
@@ -317,16 +277,6 @@
       }
     ],
     "SBS 6": [
-      {
-        "title": "Man bijt hond",
-        "start": "2026-08-26T10:25:00.000Z",
-        "end": "2026-08-26T10:38:00.000Z"
-      },
-      {
-        "title": "De grote huisverbouwing",
-        "start": "2026-08-26T10:38:00.000Z",
-        "end": "2026-08-26T10:45:00.000Z"
-      },
       {
         "title": "Mr. Frank Visser doet uitspraak",
         "start": "2026-08-26T10:45:00.000Z",
@@ -341,19 +291,19 @@
         "title": "De bondgenoten",
         "start": "2026-08-26T11:40:00.000Z",
         "end": "2026-08-26T12:40:00.000Z"
+      },
+      {
+        "title": "Droomhuis op het platteland",
+        "start": "2026-08-26T12:40:00.000Z",
+        "end": "2026-08-26T12:45:00.000Z"
+      },
+      {
+        "title": "De grote verbouwing Australië",
+        "start": "2026-08-26T12:45:00.000Z",
+        "end": "2026-08-26T13:39:00.000Z"
       }
     ],
     "NET 5": [
-      {
-        "title": "Million dollar listing NY",
-        "start": "2026-08-26T10:30:00.000Z",
-        "end": "2026-08-26T11:25:00.000Z"
-      },
-      {
-        "title": "Telvero",
-        "start": "2026-08-26T11:25:00.000Z",
-        "end": "2026-08-26T11:26:00.000Z"
-      },
       {
         "title": "Telvero",
         "start": "2026-08-26T11:26:00.000Z",
@@ -373,6 +323,16 @@
         "title": "Een plek onder de zon",
         "start": "2026-08-26T12:26:00.000Z",
         "end": "2026-08-26T12:35:00.000Z"
+      },
+      {
+        "title": "Een plek onder de zon",
+        "start": "2026-08-26T12:35:00.000Z",
+        "end": "2026-08-26T13:25:00.000Z"
+      },
+      {
+        "title": "Neighbours",
+        "start": "2026-08-26T13:25:00.000Z",
+        "end": "2026-08-26T13:30:00.000Z"
       }
     ],
     "Veronica": [
@@ -383,21 +343,6 @@
       }
     ],
     "BBC News": [
-      {
-        "title": "Business Today",
-        "start": "2026-08-26T10:30:00.000Z",
-        "end": "2026-08-26T10:45:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-26T10:45:00.000Z",
-        "end": "2026-08-26T10:55:00.000Z"
-      },
-      {
-        "title": "Talking Movies",
-        "start": "2026-08-26T10:55:00.000Z",
-        "end": "2026-08-26T11:00:00.000Z"
-      },
       {
         "title": "BBC News Now",
         "start": "2026-08-26T11:00:00.000Z",
@@ -417,14 +362,19 @@
         "title": "BBC News Now",
         "start": "2026-08-26T12:30:00.000Z",
         "end": "2026-08-26T12:55:00.000Z"
+      },
+      {
+        "title": "Talking Movies",
+        "start": "2026-08-26T12:55:00.000Z",
+        "end": "2026-08-26T13:00:00.000Z"
+      },
+      {
+        "title": "BBC News Now",
+        "start": "2026-08-26T13:00:00.000Z",
+        "end": "2026-08-26T13:30:00.000Z"
       }
     ],
     "CNN": [
-      {
-        "title": "CNN This Morning",
-        "start": "2026-08-26T10:00:00.000Z",
-        "end": "2026-08-26T11:00:00.000Z"
-      },
       {
         "title": "CNN News Central",
         "start": "2026-08-26T11:00:00.000Z",
@@ -439,6 +389,11 @@
         "title": "World Sport",
         "start": "2026-08-26T12:30:00.000Z",
         "end": "2026-08-26T13:00:00.000Z"
+      },
+      {
+        "title": "Connect the World",
+        "start": "2026-08-26T13:00:00.000Z",
+        "end": "2026-08-26T13:45:00.000Z"
       }
     ]
   }
