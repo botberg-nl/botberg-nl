@@ -1,344 +1,163 @@
 {
-  "generated": "2026-08-28T17:35:33.967Z",
+  "generated": "2026-08-29T01:26:46.533Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Bij ons op de hondenacademie",
-        "start": "2026-08-28T17:05:00.000Z",
-        "end": "2026-08-28T18:00:00.000Z"
-      },
-      {
         "title": "NOS Journaal",
-        "start": "2026-08-28T18:00:00.000Z",
-        "end": "2026-08-28T18:30:00.000Z"
-      },
-      {
-        "title": "Wolven",
-        "start": "2026-08-28T18:30:00.000Z",
-        "end": "2026-08-28T18:35:00.000Z"
-      },
-      {
-        "title": "De Bauers, een nieuwe fase",
-        "start": "2026-08-28T18:35:00.000Z",
-        "end": "2026-08-28T19:20:00.000Z"
-      },
-      {
-        "title": "Beste zangers",
-        "start": "2026-08-28T19:20:00.000Z",
-        "end": "2026-08-28T20:10:00.000Z"
+        "start": "2026-08-29T01:00:00.000Z",
+        "end": "2026-08-29T03:35:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Boeddha in de polder",
-        "start": "2026-08-28T17:05:00.000Z",
-        "end": "2026-08-28T17:50:00.000Z"
-      },
-      {
-        "title": "Wildernis onder water",
-        "start": "2026-08-28T17:50:00.000Z",
-        "end": "2026-08-28T17:55:00.000Z"
-      },
-      {
-        "title": "Blauw bloed",
-        "start": "2026-08-28T17:55:00.000Z",
-        "end": "2026-08-28T18:30:00.000Z"
-      },
-      {
-        "title": "Andere tijden presenteert: Door vrouwenogen",
-        "start": "2026-08-28T18:30:00.000Z",
-        "end": "2026-08-28T19:20:00.000Z"
-      },
-      {
-        "title": "Zinzoekers",
-        "start": "2026-08-28T19:20:00.000Z",
-        "end": "2026-08-28T19:35:00.000Z"
-      },
-      {
-        "title": "Vuurtorenverhalen",
-        "start": "2026-08-28T19:35:00.000Z",
-        "end": "2026-08-28T20:00:00.000Z"
+        "title": "Nieuwsuur",
+        "start": "2026-08-28T23:35:00.000Z",
+        "end": "2026-08-29T06:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
+        "title": "90's dance",
+        "start": "2026-08-29T01:25:00.000Z",
+        "end": "2026-08-29T01:35:00.000Z"
+      },
+      {
         "title": "Meiden die rijden",
-        "start": "2026-08-28T17:25:00.000Z",
-        "end": "2026-08-28T17:45:00.000Z"
+        "start": "2026-08-29T01:35:00.000Z",
+        "end": "2026-08-29T02:10:00.000Z"
       },
       {
-        "title": "Zapp recordbrekers",
-        "start": "2026-08-28T17:45:00.000Z",
-        "end": "2026-08-28T18:15:00.000Z"
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-29T02:10:00.000Z",
+        "end": "2026-08-29T02:25:00.000Z"
       },
       {
-        "title": "Socutera",
-        "start": "2026-08-28T18:15:00.000Z",
-        "end": "2026-08-28T18:20:00.000Z"
+        "title": "Meiden die rijden",
+        "start": "2026-08-29T02:25:00.000Z",
+        "end": "2026-08-29T02:33:00.000Z"
       },
       {
-        "title": "Reizen Waes: Terug naar Oekraïne",
-        "start": "2026-08-28T18:20:00.000Z",
-        "end": "2026-08-28T18:25:00.000Z"
+        "title": "Tekst-tv",
+        "start": "2026-08-29T02:33:00.000Z",
+        "end": "2026-08-29T03:10:00.000Z"
       },
       {
-        "title": "The Sommerdahl murders",
-        "start": "2026-08-28T18:25:00.000Z",
-        "end": "2026-08-28T19:10:00.000Z"
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-29T03:10:00.000Z",
+        "end": "2026-08-29T03:16:00.000Z"
       },
       {
-        "title": "De witte man",
-        "start": "2026-08-28T19:10:00.000Z",
-        "end": "2026-08-28T19:15:00.000Z"
-      },
-      {
-        "title": "The Sommerdahl murders",
-        "start": "2026-08-28T19:15:00.000Z",
-        "end": "2026-08-28T19:55:00.000Z"
+        "title": "Tekst-tv",
+        "start": "2026-08-29T03:16:00.000Z",
+        "end": "2026-08-29T03:32:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "RTL Nieuws",
-        "start": "2026-08-28T17:30:00.000Z",
-        "end": "2026-08-28T17:57:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-28T17:57:00.000Z",
-        "end": "2026-08-28T18:03:00.000Z"
-      },
-      {
-        "title": "Ik weet er alles van!",
-        "start": "2026-08-28T18:03:00.000Z",
-        "end": "2026-08-28T18:07:00.000Z"
-      },
-      {
-        "title": "Make up your mind",
-        "start": "2026-08-28T18:07:00.000Z",
-        "end": "2026-08-28T18:55:00.000Z"
-      },
-      {
-        "title": "Secret duets",
-        "start": "2026-08-28T18:55:00.000Z",
-        "end": "2026-08-28T19:47:00.000Z"
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-08-29T00:04:00.000Z",
+        "end": "2026-08-29T03:59:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Helden van hier: Op interventie",
-        "start": "2026-08-28T17:08:00.000Z",
-        "end": "2026-08-28T17:47:00.000Z"
-      },
-      {
-        "title": "De Pfaff's",
-        "start": "2026-08-28T17:47:00.000Z",
-        "end": "2026-08-28T18:03:00.000Z"
-      },
-      {
-        "title": "Het interventie team",
-        "start": "2026-08-28T18:03:00.000Z",
-        "end": "2026-08-28T18:30:00.000Z"
-      },
-      {
-        "title": "Andy & Melisa",
-        "start": "2026-08-28T18:30:00.000Z",
-        "end": "2026-08-28T18:56:00.000Z"
-      },
-      {
-        "title": "Het interventie team",
-        "start": "2026-08-28T18:56:00.000Z",
-        "end": "2026-08-28T19:15:00.000Z"
-      },
-      {
-        "title": "Andy & Melisa",
-        "start": "2026-08-28T19:15:00.000Z",
-        "end": "2026-08-28T19:50:00.000Z"
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-08-29T00:10:00.000Z",
+        "end": "2026-08-29T05:04:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Border security Canada",
-        "start": "2026-08-28T17:30:00.000Z",
-        "end": "2026-08-28T18:00:00.000Z"
-      },
-      {
-        "title": "One Shot\n                        Actie",
-        "start": "2026-08-28T18:00:00.000Z",
-        "end": "2026-08-28T18:26:00.000Z"
-      },
-      {
-        "title": "Red Heat\n                        Actiekomedie",
-        "start": "2026-08-28T18:26:00.000Z",
-        "end": "2026-08-28T20:02:00.000Z"
+        "title": "Teleshop",
+        "start": "2026-08-29T00:10:00.000Z",
+        "end": "2026-08-29T04:00:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Bed & breakfast België",
-        "start": "2026-08-28T17:30:00.000Z",
-        "end": "2026-08-28T18:00:00.000Z"
-      },
-      {
-        "title": "Aspe",
-        "start": "2026-08-28T18:00:00.000Z",
-        "end": "2026-08-28T18:25:00.000Z"
-      },
-      {
-        "title": "Poirot",
-        "start": "2026-08-28T18:25:00.000Z",
-        "end": "2026-08-28T19:06:00.000Z"
-      },
-      {
-        "title": "Aspe",
-        "start": "2026-08-28T19:06:00.000Z",
-        "end": "2026-08-28T19:30:00.000Z"
-      },
-      {
-        "title": "Poirot",
-        "start": "2026-08-28T19:30:00.000Z",
-        "end": "2026-08-28T20:11:00.000Z"
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-08-29T00:02:00.000Z",
+        "end": "2026-08-29T04:15:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "De Hanslers: Van de piste naar de playa",
-        "start": "2026-08-28T17:32:00.000Z",
-        "end": "2026-08-28T18:00:00.000Z"
-      },
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-28T18:00:00.000Z",
-        "end": "2026-08-28T18:30:00.000Z"
-      },
-      {
-        "title": "Het jachtseizoen",
-        "start": "2026-08-28T18:30:00.000Z",
-        "end": "2026-08-28T19:21:00.000Z"
-      },
-      {
-        "title": "Vandaag inside",
-        "start": "2026-08-28T19:21:00.000Z",
-        "end": "2026-08-28T19:27:00.000Z"
-      },
-      {
-        "title": "Postcode Loterij In de ring",
-        "start": "2026-08-28T19:27:00.000Z",
-        "end": "2026-08-28T20:33:00.000Z"
+        "title": "Hart van Nederland",
+        "start": "2026-08-28T23:51:00.000Z",
+        "end": "2026-08-29T04:00:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Love it or list it Australië",
-        "start": "2026-08-28T17:27:00.000Z",
-        "end": "2026-08-28T18:00:00.000Z"
-      },
-      {
-        "title": "NCIS: Sydney",
-        "start": "2026-08-28T18:00:00.000Z",
-        "end": "2026-08-28T18:30:00.000Z"
-      },
-      {
-        "title": "Fire country",
-        "start": "2026-08-28T18:30:00.000Z",
-        "end": "2026-08-28T18:57:00.000Z"
-      },
-      {
-        "title": "NCIS",
-        "start": "2026-08-28T18:57:00.000Z",
-        "end": "2026-08-28T19:28:00.000Z"
-      },
-      {
-        "title": "Sheriff Country",
-        "start": "2026-08-28T19:28:00.000Z",
-        "end": "2026-08-28T19:55:00.000Z"
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-29T00:09:00.000Z",
+        "end": "2026-08-29T03:53:00.000Z"
       }
     ],
-    "Veronica": [
-      {
-        "title": "Two and a half men",
-        "start": "2026-08-28T17:10:00.000Z",
-        "end": "2026-08-28T17:36:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-28T17:36:00.000Z",
-        "end": "2026-08-28T17:58:00.000Z"
-      },
-      {
-        "title": "Red Bull stalen ros België",
-        "start": "2026-08-28T17:58:00.000Z",
-        "end": "2026-08-28T18:02:00.000Z"
-      },
-      {
-        "title": "The big bang theory",
-        "start": "2026-08-28T18:02:00.000Z",
-        "end": "2026-08-28T18:26:00.000Z"
-      },
-      {
-        "title": "Payback: Hoe ver zou jij gaan?",
-        "start": "2026-08-28T18:26:00.000Z",
-        "end": "2026-08-28T19:25:00.000Z"
-      },
-      {
-        "title": "Het jachtseizoen",
-        "start": "2026-08-28T19:25:00.000Z",
-        "end": "2026-08-28T19:29:00.000Z"
-      },
-      {
-        "title": "Baywatch remastered",
-        "start": "2026-08-28T19:29:00.000Z",
-        "end": "2026-08-28T20:22:00.000Z"
-      }
-    ],
+    "Veronica": [],
     "BBC News": [
       {
-        "title": "Focus on Africa: The Conversation",
-        "start": "2026-08-28T17:30:00.000Z",
-        "end": "2026-08-28T18:00:00.000Z"
+        "title": "Newsday",
+        "start": "2026-08-29T01:00:00.000Z",
+        "end": "2026-08-29T01:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-29T01:30:00.000Z",
+        "end": "2026-08-29T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-29T01:45:00.000Z",
+        "end": "2026-08-29T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-29T02:00:00.000Z",
+        "end": "2026-08-29T02:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-29T02:30:00.000Z",
+        "end": "2026-08-29T02:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-29T02:45:00.000Z",
+        "end": "2026-08-29T03:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-08-28T18:00:00.000Z",
-        "end": "2026-08-28T18:30:00.000Z"
-      },
-      {
-        "title": "Tech Now",
-        "start": "2026-08-28T18:30:00.000Z",
-        "end": "2026-08-28T18:55:00.000Z"
-      },
-      {
-        "title": "The travel show",
-        "start": "2026-08-28T18:55:00.000Z",
-        "end": "2026-08-28T19:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-28T19:00:00.000Z",
-        "end": "2026-08-28T19:30:00.000Z"
-      },
-      {
-        "title": "The travel show",
-        "start": "2026-08-28T19:30:00.000Z",
-        "end": "2026-08-28T20:00:00.000Z"
+        "start": "2026-08-29T03:00:00.000Z",
+        "end": "2026-08-29T03:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Smerconish",
-        "start": "2026-08-28T17:00:00.000Z",
-        "end": "2026-08-28T18:00:00.000Z"
+        "title": "The Imperial Presidency: A Fareed Zakaria Special",
+        "start": "2026-08-29T01:00:00.000Z",
+        "end": "2026-08-29T01:30:00.000Z"
       },
       {
-        "title": "CNN Newsroom",
-        "start": "2026-08-28T18:00:00.000Z",
-        "end": "2026-08-28T19:00:00.000Z"
+        "title": "Quest's World of Wonder",
+        "start": "2026-08-29T01:30:00.000Z",
+        "end": "2026-08-29T02:00:00.000Z"
       },
       {
-        "title": "CNN Newsroom",
-        "start": "2026-08-28T19:00:00.000Z",
-        "end": "2026-08-28T20:00:00.000Z"
+        "title": "African Voices",
+        "start": "2026-08-29T02:00:00.000Z",
+        "end": "2026-08-29T02:30:00.000Z"
+      },
+      {
+        "title": "Africa Inc.",
+        "start": "2026-08-29T02:30:00.000Z",
+        "end": "2026-08-29T03:00:00.000Z"
+      },
+      {
+        "title": "Africa Inc.",
+        "start": "2026-08-29T03:00:00.000Z",
+        "end": "2026-08-29T03:30:00.000Z"
       }
     ]
   }
