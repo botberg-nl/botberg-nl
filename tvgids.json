@@ -1,53 +1,8 @@
 {
-  "generated": "2026-08-30T23:08:39.072Z",
+  "generated": "2026-08-31T01:27:14.948Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Pauw & De Wit",
-        "start": "2026-08-30T23:00:00.000Z",
-        "end": "2026-08-30T23:45:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-30T23:45:00.000Z",
-        "end": "2026-08-30T23:50:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-08-30T23:50:00.000Z",
-        "end": "2026-08-31T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-31T00:15:00.000Z",
-        "end": "2026-08-31T00:35:00.000Z"
-      },
-      {
-        "title": "NOS Journaal met gebarentaal",
-        "start": "2026-08-31T00:35:00.000Z",
-        "end": "2026-08-31T00:40:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-31T00:40:00.000Z",
-        "end": "2026-08-31T00:45:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-31T00:45:00.000Z",
-        "end": "2026-08-31T00:50:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-31T00:50:00.000Z",
-        "end": "2026-08-31T01:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-31T01:00:00.000Z",
-        "end": "2026-08-31T01:05:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-08-31T01:05:00.000Z",
@@ -57,83 +12,48 @@
     "NPO 2": [
       {
         "title": "Nieuwsuur",
-        "start": "2026-08-30T23:05:00.000Z",
-        "end": "2026-08-30T23:10:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
         "start": "2026-08-30T23:10:00.000Z",
         "end": "2026-08-31T05:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "De grannies van Amsterdam",
-        "start": "2026-08-30T22:35:00.000Z",
-        "end": "2026-08-30T23:30:00.000Z"
-      },
-      {
-        "title": "NPO Doc: Tammie zoekt een vriendje",
-        "start": "2026-08-30T23:30:00.000Z",
-        "end": "2026-08-30T23:35:00.000Z"
-      },
-      {
-        "title": "A beautiful mess",
-        "start": "2026-08-30T23:35:00.000Z",
-        "end": "2026-08-30T23:40:00.000Z"
-      },
-      {
-        "title": "Studio sport voetbal",
-        "start": "2026-08-30T23:40:00.000Z",
-        "end": "2026-08-31T00:25:00.000Z"
+        "title": "Eva",
+        "start": "2026-08-31T01:20:00.000Z",
+        "end": "2026-08-31T02:10:00.000Z"
       },
       {
         "title": "Eva",
-        "start": "2026-08-31T00:25:00.000Z",
-        "end": "2026-08-31T00:30:00.000Z"
+        "start": "2026-08-31T02:10:00.000Z",
+        "end": "2026-08-31T02:15:00.000Z"
       },
       {
-        "title": "Welkom terug",
-        "start": "2026-08-31T00:30:00.000Z",
-        "end": "2026-08-31T00:40:00.000Z"
+        "title": "Eva",
+        "start": "2026-08-31T02:15:00.000Z",
+        "end": "2026-08-31T03:00:00.000Z"
       },
       {
         "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-08-31T00:40:00.000Z",
-        "end": "2026-08-31T01:15:00.000Z"
+        "start": "2026-08-31T03:00:00.000Z",
+        "end": "2026-08-31T03:05:00.000Z"
+      },
+      {
+        "title": "Jeugdjournaal met gebarentaal",
+        "start": "2026-08-31T03:05:00.000Z",
+        "end": "2026-08-31T03:21:00.000Z"
+      },
+      {
+        "title": "Tekst-tv",
+        "start": "2026-08-31T03:21:00.000Z",
+        "end": "2026-08-31T03:25:00.000Z"
+      },
+      {
+        "title": "Tekst-tv",
+        "start": "2026-08-31T03:25:00.000Z",
+        "end": "2026-08-31T04:00:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "EditieNL",
-        "start": "2026-08-30T23:02:00.000Z",
-        "end": "2026-08-30T23:20:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-30T23:20:00.000Z",
-        "end": "2026-08-30T23:26:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-30T23:26:00.000Z",
-        "end": "2026-08-30T23:31:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-30T23:31:00.000Z",
-        "end": "2026-08-31T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-31T00:02:00.000Z",
-        "end": "2026-08-31T00:06:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-08-31T00:06:00.000Z",
-        "end": "2026-08-31T00:15:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-08-31T00:15:00.000Z",
@@ -142,57 +62,12 @@
     ],
     "RTL 5": [
       {
-        "title": "Politie in het holst van de nacht",
-        "start": "2026-08-30T22:14:00.000Z",
-        "end": "2026-08-30T23:10:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-30T23:10:00.000Z",
-        "end": "2026-08-30T23:11:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-30T23:11:00.000Z",
-        "end": "2026-08-30T23:20:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-08-30T23:20:00.000Z",
-        "end": "2026-08-31T00:10:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-08-31T00:10:00.000Z",
         "end": "2026-08-31T03:30:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-30T22:40:00.000Z",
-        "end": "2026-08-30T23:18:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-30T23:18:00.000Z",
-        "end": "2026-08-30T23:40:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-30T23:40:00.000Z",
-        "end": "2026-08-30T23:48:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-30T23:48:00.000Z",
-        "end": "2026-08-31T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-08-31T00:01:00.000Z",
-        "end": "2026-08-31T00:10:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-08-31T00:10:00.000Z",
@@ -202,41 +77,11 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-08-30T22:50:00.000Z",
-        "end": "2026-08-30T23:24:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-30T23:24:00.000Z",
-        "end": "2026-08-31T00:00:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-31T00:00:00.000Z",
-        "end": "2026-08-31T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-08-31T00:02:00.000Z",
         "end": "2026-08-31T04:30:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-30T22:55:00.000Z",
-        "end": "2026-08-30T23:30:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-30T23:30:00.000Z",
-        "end": "2026-08-30T23:40:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-30T23:40:00.000Z",
-        "end": "2026-08-30T23:41:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-08-30T23:41:00.000Z",
@@ -245,105 +90,69 @@
     ],
     "NET 5": [
       {
-        "title": "13 Going on 30\n                        Komedie",
-        "start": "2026-08-30T22:48:00.000Z",
-        "end": "2026-08-30T23:36:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-30T23:36:00.000Z",
-        "end": "2026-08-30T23:40:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-08-30T23:40:00.000Z",
-        "end": "2026-08-31T00:34:00.000Z"
-      },
-      {
         "title": "Loop: Hart van Nederland",
         "start": "2026-08-31T00:34:00.000Z",
         "end": "2026-08-31T04:00:00.000Z"
       }
     ],
-    "Veronica": [
-      {
-        "title": "Fugitives caught on tape",
-        "start": "2026-08-30T23:02:00.000Z",
-        "end": "2026-08-30T23:10:00.000Z"
-      },
-      {
-        "title": "Kevin Hart's muscle car crew",
-        "start": "2026-08-30T23:10:00.000Z",
-        "end": "2026-08-30T23:19:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-30T23:19:00.000Z",
-        "end": "2026-08-30T23:22:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-30T23:22:00.000Z",
-        "end": "2026-08-30T23:41:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-08-30T23:41:00.000Z",
-        "end": "2026-08-30T23:50:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-08-30T23:50:00.000Z",
-        "end": "2026-08-31T00:09:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-08-31T00:09:00.000Z",
-        "end": "2026-08-31T00:39:00.000Z"
-      }
-    ],
+    "Veronica": [],
     "BBC News": [
-      {
-        "title": "BBC news",
-        "start": "2026-08-30T23:00:00.000Z",
-        "end": "2026-08-30T23:30:00.000Z"
-      },
-      {
-        "title": "Newscast",
-        "start": "2026-08-30T23:30:00.000Z",
-        "end": "2026-08-31T00:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-08-31T00:00:00.000Z",
-        "end": "2026-08-31T00:30:00.000Z"
-      },
-      {
-        "title": "Witness: Fergal Keane's Journey of Hope",
-        "start": "2026-08-31T00:30:00.000Z",
-        "end": "2026-08-31T01:00:00.000Z"
-      },
       {
         "title": "Newsday",
         "start": "2026-08-31T01:00:00.000Z",
         "end": "2026-08-31T01:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-31T01:30:00.000Z",
+        "end": "2026-08-31T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-08-31T01:45:00.000Z",
+        "end": "2026-08-31T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-31T02:00:00.000Z",
+        "end": "2026-08-31T02:30:00.000Z"
+      },
+      {
+        "title": "Business Today",
+        "start": "2026-08-31T02:30:00.000Z",
+        "end": "2026-08-31T02:45:00.000Z"
+      },
+      {
+        "title": "Asia Specific",
+        "start": "2026-08-31T02:45:00.000Z",
+        "end": "2026-08-31T03:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-08-31T03:00:00.000Z",
+        "end": "2026-08-31T03:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Erin Burnett OutFront",
-        "start": "2026-08-30T23:00:00.000Z",
-        "end": "2026-08-31T00:00:00.000Z"
-      },
-      {
-        "title": "Anderson Cooper 360",
-        "start": "2026-08-31T00:00:00.000Z",
-        "end": "2026-08-31T01:00:00.000Z"
-      },
-      {
         "title": "The Source with Kaitlan Collins",
         "start": "2026-08-31T01:00:00.000Z",
         "end": "2026-08-31T02:00:00.000Z"
+      },
+      {
+        "title": "CNN NewsNight",
+        "start": "2026-08-31T02:00:00.000Z",
+        "end": "2026-08-31T02:30:00.000Z"
+      },
+      {
+        "title": "Africa Inc.",
+        "start": "2026-08-31T02:30:00.000Z",
+        "end": "2026-08-31T03:00:00.000Z"
+      },
+      {
+        "title": "Laura Coates Live",
+        "start": "2026-08-31T03:00:00.000Z",
+        "end": "2026-08-31T03:30:00.000Z"
       }
     ]
   }
