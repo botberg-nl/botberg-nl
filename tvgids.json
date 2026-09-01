@@ -1,409 +1,184 @@
 {
-  "generated": "2026-08-31T20:56:59.314Z",
+  "generated": "2026-09-01T00:26:11.505Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Pauw & De Wit",
-        "start": "2026-08-31T20:20:00.000Z",
-        "end": "2026-08-31T21:10:00.000Z"
+        "title": "NOS Journaal met gebarentaal",
+        "start": "2026-09-01T00:15:00.000Z",
+        "end": "2026-09-01T00:40:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-08-31T21:10:00.000Z",
-        "end": "2026-08-31T21:15:00.000Z"
+        "start": "2026-09-01T00:40:00.000Z",
+        "end": "2026-09-01T01:00:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-08-31T21:15:00.000Z",
-        "end": "2026-08-31T21:36:00.000Z"
-      },
-      {
-        "title": "Opsporing verzocht in 1 minuut",
-        "start": "2026-08-31T21:36:00.000Z",
-        "end": "2026-08-31T21:40:00.000Z"
-      },
-      {
-        "title": "Eva",
-        "start": "2026-08-31T21:40:00.000Z",
-        "end": "2026-08-31T21:45:00.000Z"
-      },
-      {
-        "title": "Eva",
-        "start": "2026-08-31T21:45:00.000Z",
-        "end": "2026-08-31T21:50:00.000Z"
-      },
-      {
-        "title": "De Bauers, een nieuwe fase",
-        "start": "2026-08-31T21:50:00.000Z",
-        "end": "2026-08-31T22:35:00.000Z"
+        "start": "2026-09-01T01:00:00.000Z",
+        "end": "2026-09-01T01:05:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-08-31T22:35:00.000Z",
-        "end": "2026-08-31T22:40:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-08-31T22:40:00.000Z",
-        "end": "2026-08-31T22:55:00.000Z"
-      },
-      {
-        "title": "Van onschatbare waarde",
-        "start": "2026-08-31T22:55:00.000Z",
-        "end": "2026-08-31T23:00:00.000Z"
+        "start": "2026-09-01T01:05:00.000Z",
+        "end": "2026-09-01T03:50:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Medialogica ontleedt",
-        "start": "2026-08-31T20:45:00.000Z",
-        "end": "2026-08-31T21:25:00.000Z"
-      },
-      {
-        "title": "De dierenarts van Yorkshire",
-        "start": "2026-08-31T21:25:00.000Z",
-        "end": "2026-08-31T21:35:00.000Z"
-      },
-      {
-        "title": "Mirakel n°71",
-        "start": "2026-08-31T21:35:00.000Z",
-        "end": "2026-08-31T21:50:00.000Z"
-      },
-      {
-        "title": "Pauscast",
-        "start": "2026-08-31T21:50:00.000Z",
-        "end": "2026-08-31T22:10:00.000Z"
-      },
-      {
-        "title": "De nachtzoen",
-        "start": "2026-08-31T22:10:00.000Z",
-        "end": "2026-08-31T22:15:00.000Z"
-      },
-      {
-        "title": "De nachtzoen",
-        "start": "2026-08-31T22:15:00.000Z",
-        "end": "2026-08-31T22:20:00.000Z"
-      },
-      {
         "title": "Nieuwsuur",
-        "start": "2026-08-31T22:20:00.000Z",
-        "end": "2026-08-31T22:25:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-08-31T22:25:00.000Z",
-        "end": "2026-08-31T22:30:00.000Z"
-      },
-      {
-        "title": "Buitenhof",
-        "start": "2026-08-31T22:30:00.000Z",
-        "end": "2026-08-31T23:05:00.000Z"
+        "start": "2026-08-31T23:10:00.000Z",
+        "end": "2026-09-01T05:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "NPO Doc: Tammie zoekt een vriendje",
-        "start": "2026-08-31T20:25:00.000Z",
-        "end": "2026-08-31T21:10:00.000Z"
+        "title": "Eva",
+        "start": "2026-09-01T00:25:00.000Z",
+        "end": "2026-09-01T00:30:00.000Z"
       },
       {
-        "title": "The making of De Jeugd van Tegenwoordig",
-        "start": "2026-08-31T21:10:00.000Z",
-        "end": "2026-08-31T21:20:00.000Z"
+        "title": "Welkom terug",
+        "start": "2026-09-01T00:30:00.000Z",
+        "end": "2026-09-01T00:55:00.000Z"
       },
       {
-        "title": "Sergio over de grens",
-        "start": "2026-08-31T21:20:00.000Z",
-        "end": "2026-08-31T21:30:00.000Z"
+        "title": "Eva",
+        "start": "2026-09-01T00:55:00.000Z",
+        "end": "2026-09-01T01:15:00.000Z"
       },
       {
-        "title": "De mosterd van Meus",
-        "start": "2026-08-31T21:30:00.000Z",
-        "end": "2026-08-31T22:25:00.000Z"
+        "title": "Eva",
+        "start": "2026-09-01T01:15:00.000Z",
+        "end": "2026-09-01T01:20:00.000Z"
       },
       {
-        "title": "De grannies van Amsterdam",
-        "start": "2026-08-31T22:25:00.000Z",
-        "end": "2026-08-31T22:30:00.000Z"
+        "title": "Eva",
+        "start": "2026-09-01T01:20:00.000Z",
+        "end": "2026-09-01T01:40:00.000Z"
       },
       {
-        "title": "De Opening 2026 live",
-        "start": "2026-08-31T22:30:00.000Z",
-        "end": "2026-08-31T22:35:00.000Z"
+        "title": "Eva",
+        "start": "2026-09-01T01:40:00.000Z",
+        "end": "2026-09-01T02:10:00.000Z"
       },
       {
-        "title": "De grannies van Amsterdam",
-        "start": "2026-08-31T22:35:00.000Z",
-        "end": "2026-08-31T23:30:00.000Z"
+        "title": "Eva",
+        "start": "2026-09-01T02:10:00.000Z",
+        "end": "2026-09-01T02:15:00.000Z"
+      },
+      {
+        "title": "Eva",
+        "start": "2026-09-01T02:15:00.000Z",
+        "end": "2026-09-01T02:30:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "Lubach",
-        "start": "2026-08-31T20:55:00.000Z",
-        "end": "2026-08-31T21:28:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-08-31T21:28:00.000Z",
-        "end": "2026-08-31T21:46:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-31T21:46:00.000Z",
-        "end": "2026-08-31T21:53:00.000Z"
-      },
-      {
-        "title": "Renze",
-        "start": "2026-08-31T21:53:00.000Z",
-        "end": "2026-08-31T21:54:00.000Z"
-      },
-      {
-        "title": "Renze",
-        "start": "2026-08-31T21:54:00.000Z",
-        "end": "2026-08-31T21:59:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-31T21:59:00.000Z",
-        "end": "2026-08-31T22:10:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-08-31T22:10:00.000Z",
-        "end": "2026-08-31T22:58:00.000Z"
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-09-01T00:17:00.000Z",
+        "end": "2026-09-01T03:58:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "St. Willebrord: Het mirakel van Brabant",
-        "start": "2026-08-31T20:54:00.000Z",
-        "end": "2026-08-31T21:36:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-31T21:36:00.000Z",
-        "end": "2026-08-31T21:38:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-08-31T21:38:00.000Z",
-        "end": "2026-08-31T21:59:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-31T21:59:00.000Z",
-        "end": "2026-08-31T22:01:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-08-31T22:01:00.000Z",
-        "end": "2026-08-31T22:03:00.000Z"
-      },
-      {
-        "title": "Politie in het holst van de nacht",
-        "start": "2026-08-31T22:03:00.000Z",
-        "end": "2026-08-31T22:05:00.000Z"
-      },
-      {
-        "title": "Politie in het holst van de nacht",
-        "start": "2026-08-31T22:05:00.000Z",
-        "end": "2026-08-31T22:14:00.000Z"
-      },
-      {
-        "title": "Politie in het holst van de nacht",
-        "start": "2026-08-31T22:14:00.000Z",
-        "end": "2026-08-31T23:10:00.000Z"
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-09-01T00:10:00.000Z",
+        "end": "2026-09-01T03:30:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Overboard\n                        Romantische komedie",
-        "start": "2026-08-31T20:54:00.000Z",
-        "end": "2026-08-31T21:57:00.000Z"
-      },
-      {
-        "title": "The Mexican Mafia\n                        Actie",
-        "start": "2026-08-31T21:57:00.000Z",
-        "end": "2026-08-31T22:40:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-08-31T22:40:00.000Z",
-        "end": "2026-08-31T23:18:00.000Z"
+        "title": "Teleshop",
+        "start": "2026-09-01T00:10:00.000Z",
+        "end": "2026-09-01T03:59:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-31T20:47:00.000Z",
-        "end": "2026-08-31T21:29:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-08-31T21:29:00.000Z",
-        "end": "2026-08-31T21:39:00.000Z"
-      },
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-08-31T21:39:00.000Z",
-        "end": "2026-08-31T21:41:00.000Z"
-      },
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-08-31T21:41:00.000Z",
-        "end": "2026-08-31T22:22:00.000Z"
-      },
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-08-31T22:22:00.000Z",
-        "end": "2026-08-31T22:42:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-08-31T22:42:00.000Z",
-        "end": "2026-08-31T22:43:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-08-31T22:43:00.000Z",
-        "end": "2026-08-31T23:24:00.000Z"
+        "start": "2026-09-01T00:02:00.000Z",
+        "end": "2026-09-01T04:30:00.000Z"
       }
     ],
     "SBS 6": [
       {
         "title": "Hart van Nederland",
-        "start": "2026-08-31T20:42:00.000Z",
-        "end": "2026-08-31T21:00:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-31T21:00:00.000Z",
-        "end": "2026-08-31T21:01:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-31T21:01:00.000Z",
-        "end": "2026-08-31T21:50:00.000Z"
-      },
-      {
-        "title": "De Hanslers: Van de piste naar de playa",
-        "start": "2026-08-31T21:50:00.000Z",
-        "end": "2026-08-31T21:55:00.000Z"
-      },
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-31T21:55:00.000Z",
-        "end": "2026-08-31T21:58:00.000Z"
-      },
-      {
-        "title": "De bondgenoten",
-        "start": "2026-08-31T21:58:00.000Z",
-        "end": "2026-08-31T22:45:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-31T22:45:00.000Z",
-        "end": "2026-08-31T22:54:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-31T22:54:00.000Z",
-        "end": "2026-08-31T22:55:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-08-31T22:55:00.000Z",
-        "end": "2026-08-31T23:30:00.000Z"
+        "start": "2026-08-31T23:40:00.000Z",
+        "end": "2026-09-01T04:00:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Shotgun Wedding\n                        Romantische komedie",
-        "start": "2026-08-31T20:44:00.000Z",
-        "end": "2026-08-31T22:38:00.000Z"
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-08-31T23:50:00.000Z",
+        "end": "2026-09-01T00:34:00.000Z"
       },
       {
-        "title": "Ordinary Joe",
-        "start": "2026-08-31T22:38:00.000Z",
-        "end": "2026-08-31T22:48:00.000Z"
-      },
-      {
-        "title": "Cedar Cove",
-        "start": "2026-08-31T22:48:00.000Z",
-        "end": "2026-08-31T23:36:00.000Z"
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-09-01T00:34:00.000Z",
+        "end": "2026-09-01T03:43:00.000Z"
       }
     ],
     "Veronica": [
       {
-        "title": "The Thomas Crown Affair\n                        Misdaad",
-        "start": "2026-08-31T20:47:00.000Z",
-        "end": "2026-08-31T21:03:00.000Z"
+        "title": "Hart van Nederland",
+        "start": "2026-09-01T00:20:00.000Z",
+        "end": "2026-09-01T00:39:00.000Z"
       },
       {
-        "title": "Heist\n                        Thriller",
-        "start": "2026-08-31T21:03:00.000Z",
-        "end": "2026-08-31T21:41:00.000Z"
-      },
-      {
-        "title": "FBI: Most wanted",
-        "start": "2026-08-31T21:41:00.000Z",
-        "end": "2026-08-31T22:36:00.000Z"
-      },
-      {
-        "title": "Chopper cops",
-        "start": "2026-08-31T22:36:00.000Z",
-        "end": "2026-08-31T22:59:00.000Z"
+        "title": "Pause",
+        "start": "2026-09-01T00:39:00.000Z",
+        "end": "2026-09-01T01:09:00.000Z"
       }
     ],
     "BBC News": [
       {
-        "title": "Discover the World",
-        "start": "2026-08-31T20:55:00.000Z",
-        "end": "2026-08-31T21:00:00.000Z"
+        "title": "BBC news",
+        "start": "2026-09-01T00:00:00.000Z",
+        "end": "2026-09-01T00:30:00.000Z"
       },
       {
-        "title": "BBC World News America",
-        "start": "2026-08-31T21:00:00.000Z",
-        "end": "2026-08-31T21:30:00.000Z"
+        "title": "The Climate Question",
+        "start": "2026-09-01T00:30:00.000Z",
+        "end": "2026-09-01T01:00:00.000Z"
       },
       {
-        "title": "Newsnight",
-        "start": "2026-08-31T21:30:00.000Z",
-        "end": "2026-08-31T22:00:00.000Z"
+        "title": "Newsday",
+        "start": "2026-09-01T01:00:00.000Z",
+        "end": "2026-09-01T01:30:00.000Z"
       },
       {
-        "title": "BBC World News America",
-        "start": "2026-08-31T22:00:00.000Z",
-        "end": "2026-08-31T22:30:00.000Z"
+        "title": "Business Today",
+        "start": "2026-09-01T01:30:00.000Z",
+        "end": "2026-09-01T01:45:00.000Z"
       },
       {
-        "title": "Streets of Gold: Mumbai",
-        "start": "2026-08-31T22:30:00.000Z",
-        "end": "2026-08-31T23:00:00.000Z"
+        "title": "BBC Sport",
+        "start": "2026-09-01T01:45:00.000Z",
+        "end": "2026-09-01T02:00:00.000Z"
+      },
+      {
+        "title": "Newsday",
+        "start": "2026-09-01T02:00:00.000Z",
+        "end": "2026-09-01T02:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Quest's World of Wonder",
-        "start": "2026-08-31T20:45:00.000Z",
-        "end": "2026-08-31T21:00:00.000Z"
+        "title": "Anderson Cooper 360",
+        "start": "2026-09-01T00:00:00.000Z",
+        "end": "2026-09-01T01:00:00.000Z"
       },
       {
-        "title": "The Lead with Jake Tapper",
-        "start": "2026-08-31T21:00:00.000Z",
-        "end": "2026-08-31T21:30:00.000Z"
+        "title": "The Source with Kaitlan Collins",
+        "start": "2026-09-01T01:00:00.000Z",
+        "end": "2026-09-01T02:00:00.000Z"
       },
       {
-        "title": "World Sport",
-        "start": "2026-08-31T21:30:00.000Z",
-        "end": "2026-08-31T22:00:00.000Z"
-      },
-      {
-        "title": "The Brief with Jim Sciutto",
-        "start": "2026-08-31T22:00:00.000Z",
-        "end": "2026-08-31T23:00:00.000Z"
+        "title": "CNN NewsNight",
+        "start": "2026-09-01T02:00:00.000Z",
+        "end": "2026-09-01T03:00:00.000Z"
       }
     ]
   }
