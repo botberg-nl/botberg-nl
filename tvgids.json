@@ -1,394 +1,309 @@
 {
-  "generated": "2026-09-05T15:25:37.940Z",
+  "generated": "2026-09-05T17:27:41.275Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Keuringsdienst van waarde",
-        "start": "2026-09-05T15:25:00.000Z",
-        "end": "2026-09-05T15:56:00.000Z"
-      },
-      {
-        "title": "Socutera",
-        "start": "2026-09-05T15:56:00.000Z",
-        "end": "2026-09-05T16:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-09-05T16:00:00.000Z",
-        "end": "2026-09-05T16:10:00.000Z"
-      },
-      {
-        "title": "Studio sport",
-        "start": "2026-09-05T16:10:00.000Z",
-        "end": "2026-09-05T16:15:00.000Z"
-      },
-      {
-        "title": "Sportjournaal",
-        "start": "2026-09-05T16:15:00.000Z",
-        "end": "2026-09-05T16:30:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-09-05T16:30:00.000Z",
-        "end": "2026-09-05T17:00:00.000Z"
-      },
-      {
-        "title": "Studio sport voetbal",
-        "start": "2026-09-05T17:00:00.000Z",
-        "end": "2026-09-05T17:05:00.000Z"
-      },
-      {
         "title": "Bij ons op de hondenacademie",
         "start": "2026-09-05T17:05:00.000Z",
         "end": "2026-09-05T18:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-09-05T18:00:00.000Z",
+        "end": "2026-09-05T18:25:00.000Z"
+      },
+      {
+        "title": "Beestenboel",
+        "start": "2026-09-05T18:25:00.000Z",
+        "end": "2026-09-05T18:30:00.000Z"
+      },
+      {
+        "title": "Wolven",
+        "start": "2026-09-05T18:30:00.000Z",
+        "end": "2026-09-05T19:15:00.000Z"
+      },
+      {
+        "title": "Tussen kunst en kitsch",
+        "start": "2026-09-05T19:15:00.000Z",
+        "end": "2026-09-05T19:25:00.000Z"
+      },
+      {
+        "title": "Beste zangers",
+        "start": "2026-09-05T19:25:00.000Z",
+        "end": "2026-09-05T20:10:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Pauscast",
-        "start": "2026-09-05T15:10:00.000Z",
-        "end": "2026-09-05T15:35:00.000Z"
-      },
-      {
-        "title": "Verloren in het Lake District",
-        "start": "2026-09-05T15:35:00.000Z",
-        "end": "2026-09-05T15:55:00.000Z"
-      },
-      {
-        "title": "EO Metterdaad",
-        "start": "2026-09-05T15:55:00.000Z",
-        "end": "2026-09-05T16:10:00.000Z"
-      },
-      {
-        "title": "Nederland zingt",
-        "start": "2026-09-05T16:10:00.000Z",
-        "end": "2026-09-05T16:15:00.000Z"
-      },
-      {
-        "title": "Podium klassiek masterclass",
-        "start": "2026-09-05T16:15:00.000Z",
-        "end": "2026-09-05T16:35:00.000Z"
-      },
-      {
-        "title": "Ik mis je",
-        "start": "2026-09-05T16:35:00.000Z",
-        "end": "2026-09-05T17:00:00.000Z"
-      },
-      {
-        "title": "Kassa",
-        "start": "2026-09-05T17:00:00.000Z",
-        "end": "2026-09-05T17:25:00.000Z"
-      },
-      {
         "title": "Vroege vogels",
         "start": "2026-09-05T17:25:00.000Z",
         "end": "2026-09-05T17:55:00.000Z"
+      },
+      {
+        "title": "Blauw bloed",
+        "start": "2026-09-05T17:55:00.000Z",
+        "end": "2026-09-05T18:20:00.000Z"
+      },
+      {
+        "title": "Onze vrouw in Rio",
+        "start": "2026-09-05T18:20:00.000Z",
+        "end": "2026-09-05T18:30:00.000Z"
+      },
+      {
+        "title": "Andere tijden presenteert: Door vrouwenogen",
+        "start": "2026-09-05T18:30:00.000Z",
+        "end": "2026-09-05T19:00:00.000Z"
+      },
+      {
+        "title": "Metropolis",
+        "start": "2026-09-05T19:00:00.000Z",
+        "end": "2026-09-05T19:15:00.000Z"
+      },
+      {
+        "title": "Maarten & Philip op het spoor",
+        "start": "2026-09-05T19:15:00.000Z",
+        "end": "2026-09-05T19:25:00.000Z"
+      },
+      {
+        "title": "Bureau buitenland",
+        "start": "2026-09-05T19:25:00.000Z",
+        "end": "2026-09-05T20:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Zenith II",
-        "start": "2026-09-05T15:15:00.000Z",
-        "end": "2026-09-05T15:31:00.000Z"
-      },
-      {
-        "title": "Junior Songfestival presents: Finalisten",
-        "start": "2026-09-05T15:31:00.000Z",
-        "end": "2026-09-05T15:35:00.000Z"
-      },
-      {
-        "title": "Taakstraf",
-        "start": "2026-09-05T15:35:00.000Z",
-        "end": "2026-09-05T15:45:00.000Z"
-      },
-      {
-        "title": "Dierendokter in het wild",
-        "start": "2026-09-05T15:45:00.000Z",
-        "end": "2026-09-05T15:46:00.000Z"
-      },
-      {
-        "title": "Junior Eurovisie Songfestival 2026: The Postcards",
-        "start": "2026-09-05T15:46:00.000Z",
-        "end": "2026-09-05T15:50:00.000Z"
-      },
-      {
-        "title": "Summer break",
-        "start": "2026-09-05T15:50:00.000Z",
-        "end": "2026-09-05T16:00:00.000Z"
-      },
-      {
-        "title": "Topdoks",
-        "start": "2026-09-05T16:00:00.000Z",
-        "end": "2026-09-05T16:05:00.000Z"
-      },
-      {
-        "title": "De eerste keer",
-        "start": "2026-09-05T16:05:00.000Z",
-        "end": "2026-09-05T16:20:00.000Z"
-      },
-      {
-        "title": "Wilde buren",
-        "start": "2026-09-05T16:20:00.000Z",
-        "end": "2026-09-05T16:35:00.000Z"
-      },
-      {
-        "title": "Welkom in de 80-jarige Oorlog",
-        "start": "2026-09-05T16:35:00.000Z",
-        "end": "2026-09-05T17:00:00.000Z"
-      },
-      {
-        "title": "Jeugdjournaal",
-        "start": "2026-09-05T17:00:00.000Z",
-        "end": "2026-09-05T17:20:00.000Z"
-      },
-      {
         "title": "ZappDoc: I am - Investigation art mysteries",
         "start": "2026-09-05T17:20:00.000Z",
         "end": "2026-09-05T17:45:00.000Z"
+      },
+      {
+        "title": "3 op reis",
+        "start": "2026-09-05T17:45:00.000Z",
+        "end": "2026-09-05T18:14:00.000Z"
+      },
+      {
+        "title": "Socutera",
+        "start": "2026-09-05T18:14:00.000Z",
+        "end": "2026-09-05T18:25:00.000Z"
+      },
+      {
+        "title": "De verloskundigen",
+        "start": "2026-09-05T18:25:00.000Z",
+        "end": "2026-09-05T19:10:00.000Z"
+      },
+      {
+        "title": "The Sommerdahl murders",
+        "start": "2026-09-05T19:10:00.000Z",
+        "end": "2026-09-05T19:25:00.000Z"
+      },
+      {
+        "title": "Tropenjaren",
+        "start": "2026-09-05T19:25:00.000Z",
+        "end": "2026-09-05T19:55:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "Campingtijd",
-        "start": "2026-09-05T14:58:00.000Z",
-        "end": "2026-09-05T15:28:00.000Z"
-      },
-      {
-        "title": "Van woonvilla naar droomvilla",
-        "start": "2026-09-05T15:28:00.000Z",
-        "end": "2026-09-05T16:00:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-09-05T16:00:00.000Z",
-        "end": "2026-09-05T16:17:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-09-05T16:17:00.000Z",
-        "end": "2026-09-05T16:33:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-09-05T16:33:00.000Z",
-        "end": "2026-09-05T16:35:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-09-05T16:35:00.000Z",
-        "end": "2026-09-05T17:21:00.000Z"
-      },
-      {
         "title": "VriendenLoterij: De winnaars",
         "start": "2026-09-05T17:21:00.000Z",
         "end": "2026-09-05T17:30:00.000Z"
+      },
+      {
+        "title": "RTL Nieuws",
+        "start": "2026-09-05T17:30:00.000Z",
+        "end": "2026-09-05T17:56:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-09-05T17:56:00.000Z",
+        "end": "2026-09-05T17:57:00.000Z"
+      },
+      {
+        "title": "RTL Weer",
+        "start": "2026-09-05T17:57:00.000Z",
+        "end": "2026-09-05T18:01:00.000Z"
+      },
+      {
+        "title": "Bestemming X",
+        "start": "2026-09-05T18:01:00.000Z",
+        "end": "2026-09-05T18:07:00.000Z"
+      },
+      {
+        "title": "Make up your mind",
+        "start": "2026-09-05T18:07:00.000Z",
+        "end": "2026-09-05T19:36:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Politie in het holst van de nacht",
-        "start": "2026-09-05T15:00:00.000Z",
-        "end": "2026-09-05T15:33:00.000Z"
-      },
-      {
-        "title": "Politie in het holst van de nacht",
-        "start": "2026-09-05T15:33:00.000Z",
-        "end": "2026-09-05T15:59:00.000Z"
-      },
-      {
-        "title": "Got talent",
-        "start": "2026-09-05T15:59:00.000Z",
-        "end": "2026-09-05T16:33:00.000Z"
-      },
-      {
         "title": "Over de A4",
         "start": "2026-09-05T16:33:00.000Z",
         "end": "2026-09-05T17:59:00.000Z"
+      },
+      {
+        "title": "Het interventie team",
+        "start": "2026-09-05T17:59:00.000Z",
+        "end": "2026-09-05T18:00:00.000Z"
+      },
+      {
+        "title": "Ewout:",
+        "start": "2026-09-05T18:00:00.000Z",
+        "end": "2026-09-05T18:53:00.000Z"
+      },
+      {
+        "title": "Het interventie team",
+        "start": "2026-09-05T18:53:00.000Z",
+        "end": "2026-09-05T19:27:00.000Z"
+      },
+      {
+        "title": "Ontvoerd",
+        "start": "2026-09-05T19:27:00.000Z",
+        "end": "2026-09-05T19:50:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Idioten op de weg",
-        "start": "2026-09-05T15:01:00.000Z",
-        "end": "2026-09-05T15:31:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-09-05T15:31:00.000Z",
-        "end": "2026-09-05T16:03:00.000Z"
-      },
-      {
-        "title": "Border Patrol USA",
-        "start": "2026-09-05T16:03:00.000Z",
-        "end": "2026-09-05T16:32:00.000Z"
-      },
-      {
-        "title": "Border security Canada",
-        "start": "2026-09-05T16:32:00.000Z",
-        "end": "2026-09-05T17:01:00.000Z"
-      },
-      {
         "title": "Border Patrol USA",
         "start": "2026-09-05T17:01:00.000Z",
         "end": "2026-09-05T17:30:00.000Z"
+      },
+      {
+        "title": "Border security Canada",
+        "start": "2026-09-05T17:30:00.000Z",
+        "end": "2026-09-05T18:00:00.000Z"
+      },
+      {
+        "title": "Under Siege 2: Dark Territory\n                        Actie",
+        "start": "2026-09-05T18:00:00.000Z",
+        "end": "2026-09-05T20:05:00.000Z"
       }
     ],
     "RTL 8": [
       {
         "title": "Lego masters Australië",
-        "start": "2026-09-05T15:20:00.000Z",
-        "end": "2026-09-05T15:35:00.000Z"
-      },
-      {
-        "title": "Cruise rond de wereld",
-        "start": "2026-09-05T15:35:00.000Z",
-        "end": "2026-09-05T16:37:00.000Z"
-      },
-      {
-        "title": "De Verraders UK",
-        "start": "2026-09-05T16:37:00.000Z",
-        "end": "2026-09-05T16:53:00.000Z"
-      },
-      {
-        "title": "Lego masters Australië",
         "start": "2026-09-05T16:53:00.000Z",
         "end": "2026-09-05T18:00:00.000Z"
+      },
+      {
+        "title": "Aspe",
+        "start": "2026-09-05T18:00:00.000Z",
+        "end": "2026-09-05T18:01:00.000Z"
+      },
+      {
+        "title": "America's got talent",
+        "start": "2026-09-05T18:01:00.000Z",
+        "end": "2026-09-05T19:02:00.000Z"
+      },
+      {
+        "title": "Aspe",
+        "start": "2026-09-05T19:02:00.000Z",
+        "end": "2026-09-05T19:52:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "De grote tuinverbouwing",
-        "start": "2026-09-05T15:01:00.000Z",
-        "end": "2026-09-05T15:58:00.000Z"
+        "title": "De bondgenoten",
+        "start": "2026-09-05T17:27:00.000Z",
+        "end": "2026-09-05T17:57:00.000Z"
       },
       {
-        "title": "De grote verbouwing",
-        "start": "2026-09-05T15:58:00.000Z",
-        "end": "2026-09-05T16:28:00.000Z"
+        "title": "Miljoenenjacht",
+        "start": "2026-09-05T17:57:00.000Z",
+        "end": "2026-09-05T18:01:00.000Z"
       },
       {
-        "title": "Lachen om home video's",
-        "start": "2026-09-05T16:28:00.000Z",
-        "end": "2026-09-05T16:56:00.000Z"
-      },
-      {
-        "title": "vtwonen weer verliefd op je huis",
-        "start": "2026-09-05T16:56:00.000Z",
-        "end": "2026-09-05T17:27:00.000Z"
+        "title": "De Staatsloterij show",
+        "start": "2026-09-05T18:01:00.000Z",
+        "end": "2026-09-05T19:31:00.000Z"
       }
     ],
     "NET 5": [
       {
         "title": "Een dag in de dierenkliniek",
-        "start": "2026-09-05T15:07:00.000Z",
-        "end": "2026-09-05T15:26:00.000Z"
-      },
-      {
-        "title": "One zoo three",
-        "start": "2026-09-05T15:26:00.000Z",
-        "end": "2026-09-05T15:57:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-09-05T15:57:00.000Z",
-        "end": "2026-09-05T16:06:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-09-05T16:06:00.000Z",
-        "end": "2026-09-05T16:58:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-09-05T16:58:00.000Z",
-        "end": "2026-09-05T17:02:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierenkliniek",
         "start": "2026-09-05T17:02:00.000Z",
         "end": "2026-09-05T18:00:00.000Z"
+      },
+      {
+        "title": "The Bodyguard\n                        Romantiek",
+        "start": "2026-09-05T18:00:00.000Z",
+        "end": "2026-09-05T18:58:00.000Z"
+      },
+      {
+        "title": "NCIS",
+        "start": "2026-09-05T18:58:00.000Z",
+        "end": "2026-09-05T19:57:00.000Z"
       }
     ],
     "Veronica": [
       {
-        "title": "Veronica film: Top 3",
-        "start": "2026-09-05T16:00:00.000Z",
-        "end": "2026-09-05T16:03:00.000Z"
-      },
-      {
-        "title": "Border security: Nieuw-Zeeland",
-        "start": "2026-09-05T16:03:00.000Z",
-        "end": "2026-09-05T16:09:00.000Z"
-      },
-      {
-        "title": "Almost paradise",
-        "start": "2026-09-05T16:09:00.000Z",
-        "end": "2026-09-05T16:33:00.000Z"
-      },
-      {
-        "title": "Border security: Nieuw-Zeeland",
-        "start": "2026-09-05T16:33:00.000Z",
-        "end": "2026-09-05T17:02:00.000Z"
-      },
-      {
-        "title": "Airport security: Amerika",
-        "start": "2026-09-05T17:02:00.000Z",
-        "end": "2026-09-05T17:06:00.000Z"
-      },
-      {
         "title": "Almost paradise",
         "start": "2026-09-05T17:06:00.000Z",
         "end": "2026-09-05T18:01:00.000Z"
+      },
+      {
+        "title": "Alert: Missing persons unit",
+        "start": "2026-09-05T18:01:00.000Z",
+        "end": "2026-09-05T19:00:00.000Z"
+      },
+      {
+        "title": "Alert: Missing persons unit",
+        "start": "2026-09-05T19:00:00.000Z",
+        "end": "2026-09-05T19:01:00.000Z"
+      },
+      {
+        "title": "Top Gear",
+        "start": "2026-09-05T19:01:00.000Z",
+        "end": "2026-09-05T19:59:00.000Z"
       }
     ],
     "BBC News": [
       {
         "title": "BBC news",
-        "start": "2026-09-05T15:00:00.000Z",
-        "end": "2026-09-05T15:30:00.000Z"
-      },
-      {
-        "title": "Fighting For Freedom: Bilal Fawaz",
-        "start": "2026-09-05T15:30:00.000Z",
-        "end": "2026-09-05T16:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-09-05T16:00:00.000Z",
-        "end": "2026-09-05T17:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
         "start": "2026-09-05T17:00:00.000Z",
         "end": "2026-09-05T17:30:00.000Z"
+      },
+      {
+        "title": "Talking Business",
+        "start": "2026-09-05T17:30:00.000Z",
+        "end": "2026-09-05T18:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-09-05T18:00:00.000Z",
+        "end": "2026-09-05T18:30:00.000Z"
+      },
+      {
+        "title": "BBC Africa Eye",
+        "start": "2026-09-05T18:30:00.000Z",
+        "end": "2026-09-05T19:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-09-05T19:00:00.000Z",
+        "end": "2026-09-05T19:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Inside Politics",
-        "start": "2026-09-05T15:00:00.000Z",
-        "end": "2026-09-05T16:00:00.000Z"
-      },
-      {
-        "title": "World Sport",
-        "start": "2026-09-05T16:00:00.000Z",
-        "end": "2026-09-05T16:30:00.000Z"
-      },
-      {
-        "title": "Inside Africa",
-        "start": "2026-09-05T16:30:00.000Z",
-        "end": "2026-09-05T16:45:00.000Z"
-      },
-      {
-        "title": "Marketplace Africa",
-        "start": "2026-09-05T16:45:00.000Z",
-        "end": "2026-09-05T17:00:00.000Z"
-      },
-      {
         "title": "African Voices: My Drive",
         "start": "2026-09-05T17:00:00.000Z",
         "end": "2026-09-05T17:30:00.000Z"
+      },
+      {
+        "title": "Detours",
+        "start": "2026-09-05T17:30:00.000Z",
+        "end": "2026-09-05T18:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-09-05T18:00:00.000Z",
+        "end": "2026-09-05T19:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-09-05T19:00:00.000Z",
+        "end": "2026-09-05T20:00:00.000Z"
       }
     ]
   }
