@@ -1,174 +1,389 @@
 {
-  "generated": "2026-09-26T01:10:14.893Z",
+  "generated": "2026-09-26T06:23:14.764Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "NOS Journaal",
-        "start": "2026-09-26T01:05:00.000Z",
-        "end": "2026-09-26T04:10:00.000Z"
+        "title": "Dit was het nieuws",
+        "start": "2026-09-26T06:10:00.000Z",
+        "end": "2026-09-26T06:25:00.000Z"
+      },
+      {
+        "title": "Tussen kunst en kitsch",
+        "start": "2026-09-26T06:25:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
+      },
+      {
+        "title": "Beste zangers",
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T07:15:00.000Z"
+      },
+      {
+        "title": "Een vergetelijk mooie reis",
+        "start": "2026-09-26T07:15:00.000Z",
+        "end": "2026-09-26T08:00:00.000Z"
+      },
+      {
+        "title": "WNL op zondag",
+        "start": "2026-09-26T08:00:00.000Z",
+        "end": "2026-09-26T08:10:00.000Z"
+      },
+      {
+        "title": "Beestenboel",
+        "start": "2026-09-26T08:10:00.000Z",
+        "end": "2026-09-26T09:00:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Nieuwsuur",
-        "start": "2026-09-26T00:50:00.000Z",
-        "end": "2026-09-26T06:00:00.000Z"
+        "title": "Petrus in het land",
+        "start": "2026-09-26T06:00:00.000Z",
+        "end": "2026-09-26T06:30:00.000Z"
+      },
+      {
+        "title": "De verwondering",
+        "start": "2026-09-26T06:30:00.000Z",
+        "end": "2026-09-26T06:50:00.000Z"
+      },
+      {
+        "title": "Kassa",
+        "start": "2026-09-26T06:50:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
+      },
+      {
+        "title": "Ik mis je",
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T07:20:00.000Z"
+      },
+      {
+        "title": "Nederland zingt",
+        "start": "2026-09-26T07:20:00.000Z",
+        "end": "2026-09-26T07:45:00.000Z"
+      },
+      {
+        "title": "Geloofsgesprek",
+        "start": "2026-09-26T07:45:00.000Z",
+        "end": "2026-09-26T08:00:00.000Z"
+      },
+      {
+        "title": "Eucharistieviering",
+        "start": "2026-09-26T08:00:00.000Z",
+        "end": "2026-09-26T08:35:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Tekst-tv",
-        "start": "2026-09-26T00:40:00.000Z",
-        "end": "2026-09-26T01:15:00.000Z"
+        "title": "Beestenbrigade bingo",
+        "start": "2026-09-26T06:20:00.000Z",
+        "end": "2026-09-26T06:25:00.000Z"
       },
       {
-        "title": "De verloskundigen",
-        "start": "2026-09-26T01:15:00.000Z",
-        "end": "2026-09-26T01:35:00.000Z"
+        "title": "Het landje van Tim",
+        "start": "2026-09-26T06:25:00.000Z",
+        "end": "2026-09-26T06:35:00.000Z"
       },
       {
-        "title": "De slimste mens",
-        "start": "2026-09-26T01:35:00.000Z",
-        "end": "2026-09-26T02:10:00.000Z"
+        "title": "De magische auto",
+        "start": "2026-09-26T06:35:00.000Z",
+        "end": "2026-09-26T06:40:00.000Z"
       },
       {
-        "title": "De verloskundigen",
-        "start": "2026-09-26T02:10:00.000Z",
-        "end": "2026-09-26T02:15:00.000Z"
+        "title": "BabyBeestenBoel",
+        "start": "2026-09-26T06:40:00.000Z",
+        "end": "2026-09-26T06:45:00.000Z"
       },
       {
-        "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-09-26T02:15:00.000Z",
-        "end": "2026-09-26T02:36:00.000Z"
+        "title": "BabyBeestenBoel",
+        "start": "2026-09-26T06:45:00.000Z",
+        "end": "2026-09-26T06:50:00.000Z"
       },
       {
-        "title": "Tekst-tv",
-        "start": "2026-09-26T02:36:00.000Z",
-        "end": "2026-09-26T03:00:00.000Z"
+        "title": "Samson & Marie, ijsjestijd",
+        "start": "2026-09-26T06:50:00.000Z",
+        "end": "2026-09-26T06:55:00.000Z"
       },
       {
-        "title": "Jeugdjournaal met gebarentaal",
-        "start": "2026-09-26T03:00:00.000Z",
-        "end": "2026-09-26T03:20:00.000Z"
+        "title": "Samson & Marie, ijsjestijd",
+        "start": "2026-09-26T06:55:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
+      },
+      {
+        "title": "Pop papierstad",
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T07:10:00.000Z"
+      },
+      {
+        "title": "Het betoverde dorp van Pinokkio",
+        "start": "2026-09-26T07:10:00.000Z",
+        "end": "2026-09-26T07:20:00.000Z"
+      },
+      {
+        "title": "Zo is Joey!",
+        "start": "2026-09-26T07:20:00.000Z",
+        "end": "2026-09-26T07:25:00.000Z"
+      },
+      {
+        "title": "Zo is Joey!",
+        "start": "2026-09-26T07:25:00.000Z",
+        "end": "2026-09-26T07:30:00.000Z"
+      },
+      {
+        "title": "De smurfen",
+        "start": "2026-09-26T07:30:00.000Z",
+        "end": "2026-09-26T07:35:00.000Z"
+      },
+      {
+        "title": "De smurfen",
+        "start": "2026-09-26T07:35:00.000Z",
+        "end": "2026-09-26T07:45:00.000Z"
+      },
+      {
+        "title": "SamSam",
+        "start": "2026-09-26T07:45:00.000Z",
+        "end": "2026-09-26T07:55:00.000Z"
+      },
+      {
+        "title": "Masha en de beer",
+        "start": "2026-09-26T07:55:00.000Z",
+        "end": "2026-09-26T08:00:00.000Z"
+      },
+      {
+        "title": "Masha en de beer",
+        "start": "2026-09-26T08:00:00.000Z",
+        "end": "2026-09-26T08:05:00.000Z"
+      },
+      {
+        "title": "Shaun het schaap",
+        "start": "2026-09-26T08:05:00.000Z",
+        "end": "2026-09-26T08:10:00.000Z"
+      },
+      {
+        "title": "Zin in Zappelin",
+        "start": "2026-09-26T08:10:00.000Z",
+        "end": "2026-09-26T08:30:00.000Z"
       }
     ],
     "RTL 4": [
       {
+        "title": "Fien & Teun",
+        "start": "2026-09-26T06:22:00.000Z",
+        "end": "2026-09-26T06:30:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-09-26T06:30:00.000Z",
+        "end": "2026-09-26T06:45:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-09-26T06:45:00.000Z",
+        "end": "2026-09-26T06:46:00.000Z"
+      },
+      {
+        "title": "Ernst, Bobbie en de rest",
+        "start": "2026-09-26T06:46:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
+      },
+      {
+        "title": "De groene schatkamer van Nederland",
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T07:30:00.000Z"
+      },
+      {
+        "title": "Margreet Dolman begrijpt 't",
+        "start": "2026-09-26T07:30:00.000Z",
+        "end": "2026-09-26T08:00:00.000Z"
+      },
+      {
         "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-09-26T00:21:00.000Z",
-        "end": "2026-09-26T03:59:00.000Z"
+        "start": "2026-09-26T08:00:00.000Z",
+        "end": "2026-09-26T08:30:00.000Z"
       }
     ],
     "RTL 5": [
       {
+        "title": "Hour of power",
+        "start": "2026-09-26T06:00:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
+      },
+      {
+        "title": "Hour of power",
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T08:05:00.000Z"
+      },
+      {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-09-26T00:10:00.000Z",
-        "end": "2026-09-26T05:00:00.000Z"
+        "start": "2026-09-26T08:05:00.000Z",
+        "end": "2026-09-26T10:58:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Teleshop",
-        "start": "2026-09-26T00:10:00.000Z",
-        "end": "2026-09-26T04:00:00.000Z"
+        "title": "Teleshop 7: Telvero",
+        "start": "2026-09-26T04:00:00.000Z",
+        "end": "2026-09-26T07:32:00.000Z"
+      },
+      {
+        "title": "Vis tv",
+        "start": "2026-09-26T07:32:00.000Z",
+        "end": "2026-09-26T08:01:00.000Z"
+      },
+      {
+        "title": "De wereld van...",
+        "start": "2026-09-26T08:01:00.000Z",
+        "end": "2026-09-26T08:30:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-09-26T00:01:00.000Z",
-        "end": "2026-09-26T04:15:00.000Z"
+        "title": "Teleshop",
+        "start": "2026-09-26T04:15:00.000Z",
+        "end": "2026-09-26T11:00:00.000Z"
       }
     ],
     "SBS 6": [
       {
         "title": "Hart van Nederland",
-        "start": "2026-09-25T23:51:00.000Z",
-        "end": "2026-09-26T04:00:00.000Z"
+        "start": "2026-09-26T06:15:00.000Z",
+        "end": "2026-09-26T06:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-09-26T06:30:00.000Z",
+        "end": "2026-09-26T06:45:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-09-26T06:45:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T07:15:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-09-26T07:15:00.000Z",
+        "end": "2026-09-26T07:30:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-09-26T07:30:00.000Z",
+        "end": "2026-09-26T07:45:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-09-26T07:45:00.000Z",
+        "end": "2026-09-26T08:00:00.000Z"
+      },
+      {
+        "title": "De grote tuinverbouwing",
+        "start": "2026-09-26T08:00:00.000Z",
+        "end": "2026-09-26T08:30:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-09-25T23:48:00.000Z",
-        "end": "2026-09-26T03:54:00.000Z"
+        "title": "Say yes to the dress: Atlanta",
+        "start": "2026-09-26T06:07:00.000Z",
+        "end": "2026-09-26T06:35:00.000Z"
+      },
+      {
+        "title": "Lang leve de liefde XXL",
+        "start": "2026-09-26T06:35:00.000Z",
+        "end": "2026-09-26T07:03:00.000Z"
+      },
+      {
+        "title": "Lang leve de liefde XXL",
+        "start": "2026-09-26T07:03:00.000Z",
+        "end": "2026-09-26T07:28:00.000Z"
+      },
+      {
+        "title": "Flo",
+        "start": "2026-09-26T07:28:00.000Z",
+        "end": "2026-09-26T07:33:00.000Z"
+      },
+      {
+        "title": "Lang leve de liefde XXL",
+        "start": "2026-09-26T07:33:00.000Z",
+        "end": "2026-09-26T07:58:00.000Z"
+      },
+      {
+        "title": "Flo",
+        "start": "2026-09-26T07:58:00.000Z",
+        "end": "2026-09-26T08:02:00.000Z"
+      },
+      {
+        "title": "Lang leve de liefde XXL",
+        "start": "2026-09-26T08:02:00.000Z",
+        "end": "2026-09-26T08:30:00.000Z"
       }
     ],
     "Veronica": [
       {
         "title": "Pause",
         "start": "2026-09-26T00:46:00.000Z",
-        "end": "2026-09-26T01:16:00.000Z"
+        "end": "2026-09-26T16:00:00.000Z"
       }
     ],
     "BBC News": [
       {
-        "title": "Newsday",
-        "start": "2026-09-26T01:00:00.000Z",
-        "end": "2026-09-26T01:30:00.000Z"
+        "title": "BBC news",
+        "start": "2026-09-26T06:00:00.000Z",
+        "end": "2026-09-26T06:30:00.000Z"
       },
       {
-        "title": "Business Today",
-        "start": "2026-09-26T01:30:00.000Z",
-        "end": "2026-09-26T01:45:00.000Z"
-      },
-      {
-        "title": "BBC Sport",
-        "start": "2026-09-26T01:45:00.000Z",
-        "end": "2026-09-26T02:00:00.000Z"
-      },
-      {
-        "title": "Newsday",
-        "start": "2026-09-26T02:00:00.000Z",
-        "end": "2026-09-26T02:30:00.000Z"
-      },
-      {
-        "title": "Business Today",
-        "start": "2026-09-26T02:30:00.000Z",
-        "end": "2026-09-26T02:45:00.000Z"
-      },
-      {
-        "title": "BBC Sport",
-        "start": "2026-09-26T02:45:00.000Z",
-        "end": "2026-09-26T03:00:00.000Z"
+        "title": "The travel show",
+        "start": "2026-09-26T06:30:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-09-26T03:00:00.000Z",
-        "end": "2026-09-26T03:30:00.000Z"
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T07:30:00.000Z"
+      },
+      {
+        "title": "Talking Movies",
+        "start": "2026-09-26T07:30:00.000Z",
+        "end": "2026-09-26T08:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-09-26T08:00:00.000Z",
+        "end": "2026-09-26T09:00:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Fareed Zakaria GPS",
-        "start": "2026-09-26T01:00:00.000Z",
-        "end": "2026-09-26T01:30:00.000Z"
-      },
-      {
-        "title": "Seasons",
-        "start": "2026-09-26T01:30:00.000Z",
-        "end": "2026-09-26T02:00:00.000Z"
-      },
-      {
-        "title": "African Voices",
-        "start": "2026-09-26T02:00:00.000Z",
-        "end": "2026-09-26T02:30:00.000Z"
+        "title": "CNN Newsroom",
+        "start": "2026-09-26T06:00:00.000Z",
+        "end": "2026-09-26T06:30:00.000Z"
       },
       {
         "title": "Marketplace Africa",
-        "start": "2026-09-26T02:30:00.000Z",
-        "end": "2026-09-26T02:45:00.000Z"
+        "start": "2026-09-26T06:30:00.000Z",
+        "end": "2026-09-26T06:45:00.000Z"
       },
       {
         "title": "CNN Marketplace Europe",
-        "start": "2026-09-26T02:45:00.000Z",
-        "end": "2026-09-26T03:00:00.000Z"
+        "start": "2026-09-26T06:45:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
       },
       {
         "title": "CNN Newsroom",
-        "start": "2026-09-26T03:00:00.000Z",
-        "end": "2026-09-26T04:00:00.000Z"
+        "start": "2026-09-26T07:00:00.000Z",
+        "end": "2026-09-26T07:30:00.000Z"
+      },
+      {
+        "title": "Connecting Africa",
+        "start": "2026-09-26T07:30:00.000Z",
+        "end": "2026-09-26T08:00:00.000Z"
+      },
+      {
+        "title": "CNN Newsroom",
+        "start": "2026-09-26T08:00:00.000Z",
+        "end": "2026-09-26T08:30:00.000Z"
       }
     ]
   }
