@@ -1,444 +1,189 @@
 {
-  "generated": "2026-10-10T21:08:12.014Z",
+  "generated": "2026-10-11T00:19:35.469Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Studio sport voetbal",
-        "start": "2026-10-10T20:25:00.000Z",
-        "end": "2026-10-10T21:15:00.000Z"
+        "title": "WNL op zondag",
+        "start": "2026-10-10T23:40:00.000Z",
+        "end": "2026-10-11T00:36:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-10-10T21:15:00.000Z",
-        "end": "2026-10-10T21:25:00.000Z"
+        "start": "2026-10-11T00:36:00.000Z",
+        "end": "2026-10-11T00:45:00.000Z"
       },
       {
-        "title": "De boer, de broer, de zus en de ziekte",
-        "start": "2026-10-10T21:25:00.000Z",
-        "end": "2026-10-10T21:55:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-10T21:55:00.000Z",
-        "end": "2026-10-10T22:10:00.000Z"
-      },
-      {
-        "title": "Wolven",
-        "start": "2026-10-10T22:10:00.000Z",
-        "end": "2026-10-10T22:25:00.000Z"
+        "title": "Pauw & De Wit",
+        "start": "2026-10-11T00:45:00.000Z",
+        "end": "2026-10-11T00:57:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-10-10T22:25:00.000Z",
-        "end": "2026-10-10T22:45:00.000Z"
+        "start": "2026-10-11T00:57:00.000Z",
+        "end": "2026-10-11T01:50:00.000Z"
       },
       {
-        "title": "Ivo op zondag",
-        "start": "2026-10-10T22:45:00.000Z",
-        "end": "2026-10-10T23:05:00.000Z"
+        "title": "NOS Journaal",
+        "start": "2026-10-11T01:50:00.000Z",
+        "end": "2026-10-11T02:00:00.000Z"
       },
       {
-        "title": "Beste zangers",
-        "start": "2026-10-10T23:05:00.000Z",
-        "end": "2026-10-10T23:30:00.000Z"
+        "title": "NOS Journaal",
+        "start": "2026-10-11T02:00:00.000Z",
+        "end": "2026-10-11T02:25:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Grace",
-        "start": "2026-10-10T21:05:00.000Z",
-        "end": "2026-10-10T21:25:00.000Z"
-      },
-      {
-        "title": "Carmen curlers",
-        "start": "2026-10-10T21:25:00.000Z",
-        "end": "2026-10-10T21:55:00.000Z"
-      },
-      {
-        "title": "Podium klassiek",
-        "start": "2026-10-10T21:55:00.000Z",
-        "end": "2026-10-10T22:15:00.000Z"
-      },
-      {
-        "title": "Carmen curlers",
-        "start": "2026-10-10T22:15:00.000Z",
-        "end": "2026-10-10T22:35:00.000Z"
-      },
-      {
-        "title": "De nachtzoen",
-        "start": "2026-10-10T22:35:00.000Z",
-        "end": "2026-10-10T22:50:00.000Z"
+        "title": "Nieuwsuur",
+        "start": "2026-10-11T00:00:00.000Z",
+        "end": "2026-10-11T00:40:00.000Z"
       },
       {
         "title": "Nieuwsuur",
-        "start": "2026-10-10T22:50:00.000Z",
-        "end": "2026-10-10T23:05:00.000Z"
-      },
-      {
-        "title": "De nachtzoen",
-        "start": "2026-10-10T23:05:00.000Z",
-        "end": "2026-10-10T23:10:00.000Z"
+        "start": "2026-10-11T00:40:00.000Z",
+        "end": "2026-10-11T05:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Een huis vol",
-        "start": "2026-10-10T21:05:00.000Z",
-        "end": "2026-10-10T21:40:00.000Z"
-      },
-      {
-        "title": "Phoenix",
-        "start": "2026-10-10T21:40:00.000Z",
-        "end": "2026-10-10T22:00:00.000Z"
-      },
-      {
-        "title": "De slimste mens",
-        "start": "2026-10-10T22:00:00.000Z",
-        "end": "2026-10-10T22:05:00.000Z"
-      },
-      {
-        "title": "Een huis vol",
-        "start": "2026-10-10T22:05:00.000Z",
-        "end": "2026-10-10T22:25:00.000Z"
-      },
-      {
-        "title": "Phoenix",
-        "start": "2026-10-10T22:25:00.000Z",
-        "end": "2026-10-10T22:50:00.000Z"
-      },
-      {
-        "title": "Sluipschutters",
-        "start": "2026-10-10T22:50:00.000Z",
-        "end": "2026-10-10T23:00:00.000Z"
+        "title": "Studio sport",
+        "start": "2026-10-11T00:10:00.000Z",
+        "end": "2026-10-11T00:55:00.000Z"
       },
       {
         "title": "Vier handen op één buik",
-        "start": "2026-10-10T23:00:00.000Z",
-        "end": "2026-10-10T23:20:00.000Z"
+        "start": "2026-10-11T00:55:00.000Z",
+        "end": "2026-10-11T01:00:00.000Z"
+      },
+      {
+        "title": "Jelte's legacy",
+        "start": "2026-10-11T01:00:00.000Z",
+        "end": "2026-10-11T01:50:00.000Z"
+      },
+      {
+        "title": "Eva",
+        "start": "2026-10-11T01:50:00.000Z",
+        "end": "2026-10-11T02:05:00.000Z"
+      },
+      {
+        "title": "Studio sport",
+        "start": "2026-10-11T02:05:00.000Z",
+        "end": "2026-10-11T02:38:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "Taskmaster",
-        "start": "2026-10-10T20:48:00.000Z",
-        "end": "2026-10-10T21:25:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-10-10T21:25:00.000Z",
-        "end": "2026-10-10T21:28:00.000Z"
-      },
-      {
-        "title": "RTL Nieuws",
-        "start": "2026-10-10T21:28:00.000Z",
-        "end": "2026-10-10T21:36:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-10-10T21:36:00.000Z",
-        "end": "2026-10-10T21:38:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-10-10T21:38:00.000Z",
-        "end": "2026-10-10T21:40:00.000Z"
-      },
-      {
-        "title": "Taskmaster",
-        "start": "2026-10-10T21:40:00.000Z",
-        "end": "2026-10-10T21:42:00.000Z"
-      },
-      {
-        "title": "Casa di Beau",
-        "start": "2026-10-10T21:42:00.000Z",
-        "end": "2026-10-10T21:47:00.000Z"
-      },
-      {
-        "title": "Renze",
-        "start": "2026-10-10T21:47:00.000Z",
-        "end": "2026-10-10T22:09:00.000Z"
-      },
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-10-10T22:09:00.000Z",
-        "end": "2026-10-10T22:46:00.000Z"
-      },
-      {
-        "title": "Lubach: Dit was de week",
-        "start": "2026-10-10T22:46:00.000Z",
-        "end": "2026-10-10T23:01:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-10-10T23:01:00.000Z",
-        "end": "2026-10-10T23:18:00.000Z"
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-10-11T00:08:00.000Z",
+        "end": "2026-10-11T03:57:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "André Hazes: En nu ...",
-        "start": "2026-10-10T20:53:00.000Z",
-        "end": "2026-10-10T21:38:00.000Z"
-      },
-      {
-        "title": "112 vandaag",
-        "start": "2026-10-10T21:38:00.000Z",
-        "end": "2026-10-10T21:50:00.000Z"
-      },
-      {
-        "title": "Stop! Politie UK",
-        "start": "2026-10-10T21:50:00.000Z",
-        "end": "2026-10-10T22:01:00.000Z"
-      },
-      {
-        "title": "RTL Weer",
-        "start": "2026-10-10T22:01:00.000Z",
-        "end": "2026-10-10T22:07:00.000Z"
-      },
-      {
-        "title": "Stop! Politie UK",
-        "start": "2026-10-10T22:07:00.000Z",
-        "end": "2026-10-10T22:19:00.000Z"
-      },
-      {
-        "title": "Stop! Politie UK",
-        "start": "2026-10-10T22:19:00.000Z",
-        "end": "2026-10-10T22:56:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-10-10T22:56:00.000Z",
-        "end": "2026-10-10T23:13:00.000Z"
+        "start": "2026-10-11T00:10:00.000Z",
+        "end": "2026-10-11T03:40:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Sicario: Day of the Soldado\n                        Actie",
-        "start": "2026-10-10T20:57:00.000Z",
-        "end": "2026-10-10T22:28:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-10-10T22:28:00.000Z",
-        "end": "2026-10-10T22:46:00.000Z"
-      },
-      {
-        "title": "RTL Autowereld",
-        "start": "2026-10-10T22:46:00.000Z",
-        "end": "2026-10-10T23:19:00.000Z"
+        "title": "Teleshop",
+        "start": "2026-10-11T00:10:00.000Z",
+        "end": "2026-10-11T03:59:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-10-10T20:59:00.000Z",
-        "end": "2026-10-10T21:17:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-10-10T21:17:00.000Z",
-        "end": "2026-10-10T21:32:00.000Z"
-      },
-      {
-        "title": "Law & order: Special victims unit",
-        "start": "2026-10-10T21:32:00.000Z",
-        "end": "2026-10-10T21:53:00.000Z"
-      },
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-10-10T21:53:00.000Z",
-        "end": "2026-10-10T22:13:00.000Z"
-      },
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-10-10T22:13:00.000Z",
-        "end": "2026-10-10T22:28:00.000Z"
-      },
-      {
-        "title": "Crime scene investigation",
-        "start": "2026-10-10T22:28:00.000Z",
-        "end": "2026-10-10T22:55:00.000Z"
-      },
-      {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-10-10T22:55:00.000Z",
-        "end": "2026-10-10T23:07:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-10-10T23:07:00.000Z",
-        "end": "2026-10-10T23:21:00.000Z"
+        "start": "2026-10-11T00:01:00.000Z",
+        "end": "2026-10-11T04:15:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "Shownieuws",
-        "start": "2026-10-10T21:02:00.000Z",
-        "end": "2026-10-10T21:49:00.000Z"
-      },
-      {
-        "title": "Code van Coppens",
-        "start": "2026-10-10T21:49:00.000Z",
-        "end": "2026-10-10T21:56:00.000Z"
-      },
-      {
-        "title": "Dit weet jij niet?!",
-        "start": "2026-10-10T21:56:00.000Z",
-        "end": "2026-10-10T22:00:00.000Z"
-      },
-      {
-        "title": "De bondgenoten",
-        "start": "2026-10-10T22:00:00.000Z",
-        "end": "2026-10-10T22:38:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-10-10T22:38:00.000Z",
-        "end": "2026-10-10T22:53:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-10-10T22:53:00.000Z",
-        "end": "2026-10-10T22:56:00.000Z"
-      },
-      {
-        "title": "Shownieuws",
-        "start": "2026-10-10T22:56:00.000Z",
-        "end": "2026-10-10T23:24:00.000Z"
+        "title": "Hart van Nederland",
+        "start": "2026-10-10T23:39:00.000Z",
+        "end": "2026-10-11T04:00:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Soko Köln",
-        "start": "2026-10-10T20:56:00.000Z",
-        "end": "2026-10-10T21:53:00.000Z"
+        "title": "Royal flying doctor service",
+        "start": "2026-10-11T00:15:00.000Z",
+        "end": "2026-10-11T00:46:00.000Z"
       },
       {
-        "title": "Buzz",
-        "start": "2026-10-10T21:53:00.000Z",
-        "end": "2026-10-10T21:56:00.000Z"
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-10-11T00:46:00.000Z",
+        "end": "2026-10-11T01:00:00.000Z"
       },
       {
-        "title": "The resident",
-        "start": "2026-10-10T21:56:00.000Z",
-        "end": "2026-10-10T22:16:00.000Z"
-      },
-      {
-        "title": "House rules Australië",
-        "start": "2026-10-10T22:16:00.000Z",
-        "end": "2026-10-10T22:40:00.000Z"
-      },
-      {
-        "title": "All My Life\n                        Romantiek",
-        "start": "2026-10-10T22:40:00.000Z",
-        "end": "2026-10-10T22:53:00.000Z"
-      },
-      {
-        "title": "The resident",
-        "start": "2026-10-10T22:53:00.000Z",
-        "end": "2026-10-10T23:17:00.000Z"
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-10-11T01:00:00.000Z",
+        "end": "2026-10-11T04:00:00.000Z"
       }
     ],
     "Veronica": [
       {
-        "title": "FBI: Most wanted",
-        "start": "2026-10-10T20:55:00.000Z",
-        "end": "2026-10-10T21:19:00.000Z"
-      },
-      {
-        "title": "Overtreders USA",
-        "start": "2026-10-10T21:19:00.000Z",
-        "end": "2026-10-10T21:43:00.000Z"
-      },
-      {
-        "title": "Going Dutch",
-        "start": "2026-10-10T21:43:00.000Z",
-        "end": "2026-10-10T21:50:00.000Z"
-      },
-      {
-        "title": "FBI: Most wanted",
-        "start": "2026-10-10T21:50:00.000Z",
-        "end": "2026-10-10T22:06:00.000Z"
-      },
-      {
-        "title": "LA fire and rescue",
-        "start": "2026-10-10T22:06:00.000Z",
-        "end": "2026-10-10T22:13:00.000Z"
-      },
-      {
-        "title": "Going Dutch",
-        "start": "2026-10-10T22:13:00.000Z",
-        "end": "2026-10-10T22:43:00.000Z"
-      },
-      {
-        "title": "Frasier",
-        "start": "2026-10-10T22:43:00.000Z",
-        "end": "2026-10-10T22:50:00.000Z"
-      },
-      {
-        "title": "Chopper cops",
-        "start": "2026-10-10T22:50:00.000Z",
-        "end": "2026-10-10T23:02:00.000Z"
-      },
-      {
-        "title": "Extreme road ragers",
-        "start": "2026-10-10T23:02:00.000Z",
-        "end": "2026-10-10T23:15:00.000Z"
+        "title": "Pause",
+        "start": "2026-10-11T00:19:00.000Z",
+        "end": "2026-10-11T00:49:00.000Z"
       }
     ],
     "BBC News": [
       {
         "title": "BBC news",
-        "start": "2026-10-10T21:00:00.000Z",
-        "end": "2026-10-10T21:30:00.000Z"
+        "start": "2026-10-11T00:00:00.000Z",
+        "end": "2026-10-11T00:30:00.000Z"
       },
       {
-        "title": "Newsnight",
-        "start": "2026-10-10T21:30:00.000Z",
-        "end": "2026-10-10T22:00:00.000Z"
+        "title": "The Security Brief",
+        "start": "2026-10-11T00:30:00.000Z",
+        "end": "2026-10-11T01:00:00.000Z"
       },
       {
-        "title": "BBC news",
-        "start": "2026-10-10T22:00:00.000Z",
-        "end": "2026-10-10T22:30:00.000Z"
+        "title": "Newsday",
+        "start": "2026-10-11T01:00:00.000Z",
+        "end": "2026-10-11T01:30:00.000Z"
       },
       {
-        "title": "Clive Myrie's African adventure",
-        "start": "2026-10-10T22:30:00.000Z",
-        "end": "2026-10-10T22:45:00.000Z"
+        "title": "Business Today",
+        "start": "2026-10-11T01:30:00.000Z",
+        "end": "2026-10-11T01:45:00.000Z"
       },
       {
-        "title": "BBC news",
-        "start": "2026-10-10T22:45:00.000Z",
-        "end": "2026-10-10T23:00:00.000Z"
+        "title": "BBC Sport",
+        "start": "2026-10-11T01:45:00.000Z",
+        "end": "2026-10-11T02:00:00.000Z"
       },
       {
-        "title": "BBC news",
-        "start": "2026-10-10T23:00:00.000Z",
-        "end": "2026-10-10T23:30:00.000Z"
+        "title": "Newsday",
+        "start": "2026-10-11T02:00:00.000Z",
+        "end": "2026-10-11T02:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "World Sport",
-        "start": "2026-10-10T21:00:00.000Z",
-        "end": "2026-10-10T21:30:00.000Z"
+        "title": "Anderson Cooper 360",
+        "start": "2026-10-11T00:00:00.000Z",
+        "end": "2026-10-11T01:00:00.000Z"
       },
       {
-        "title": "Tech for Good",
-        "start": "2026-10-10T21:30:00.000Z",
-        "end": "2026-10-10T22:00:00.000Z"
+        "title": "The Source with Kaitlan Collins",
+        "start": "2026-10-11T01:00:00.000Z",
+        "end": "2026-10-11T01:30:00.000Z"
       },
       {
-        "title": "CNN Newsroom",
-        "start": "2026-10-10T22:00:00.000Z",
-        "end": "2026-10-10T23:00:00.000Z"
+        "title": "Connecting Africa",
+        "start": "2026-10-11T01:30:00.000Z",
+        "end": "2026-10-11T02:00:00.000Z"
       },
       {
-        "title": "CNN Newsroom",
-        "start": "2026-10-10T23:00:00.000Z",
-        "end": "2026-10-11T00:00:00.000Z"
+        "title": "CNN NewsNight",
+        "start": "2026-10-11T02:00:00.000Z",
+        "end": "2026-10-11T02:30:00.000Z"
       }
     ]
   }
