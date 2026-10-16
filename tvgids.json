@@ -1,63 +1,8 @@
 {
-  "generated": "2026-10-15T22:58:24.834Z",
+  "generated": "2026-10-16T01:05:58.193Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
-      {
-        "title": "Beste zangers",
-        "start": "2026-10-15T22:55:00.000Z",
-        "end": "2026-10-15T23:00:00.000Z"
-      },
-      {
-        "title": "Pauw & De Wit",
-        "start": "2026-10-15T23:00:00.000Z",
-        "end": "2026-10-15T23:35:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-15T23:35:00.000Z",
-        "end": "2026-10-15T23:50:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-15T23:50:00.000Z",
-        "end": "2026-10-15T23:55:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-10-15T23:55:00.000Z",
-        "end": "2026-10-16T00:00:00.000Z"
-      },
-      {
-        "title": "Gesprek minister-president met gebarentaal",
-        "start": "2026-10-16T00:00:00.000Z",
-        "end": "2026-10-16T00:10:00.000Z"
-      },
-      {
-        "title": "EenVandaag",
-        "start": "2026-10-16T00:10:00.000Z",
-        "end": "2026-10-16T00:15:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-16T00:15:00.000Z",
-        "end": "2026-10-16T00:25:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-16T00:25:00.000Z",
-        "end": "2026-10-16T00:30:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-16T00:30:00.000Z",
-        "end": "2026-10-16T00:35:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-16T00:35:00.000Z",
-        "end": "2026-10-16T00:45:00.000Z"
-      },
       {
         "title": "NOS Journaal",
         "start": "2026-10-16T00:45:00.000Z",
@@ -67,36 +12,6 @@
     "NPO 2": [
       {
         "title": "Nieuwsuur",
-        "start": "2026-10-15T22:50:00.000Z",
-        "end": "2026-10-15T23:00:00.000Z"
-      },
-      {
-        "title": "De nachtzoen",
-        "start": "2026-10-15T23:00:00.000Z",
-        "end": "2026-10-15T23:05:00.000Z"
-      },
-      {
-        "title": "Ongehoord nieuws",
-        "start": "2026-10-15T23:05:00.000Z",
-        "end": "2026-10-15T23:15:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-10-15T23:15:00.000Z",
-        "end": "2026-10-15T23:30:00.000Z"
-      },
-      {
-        "title": "Café Kockelmann",
-        "start": "2026-10-15T23:30:00.000Z",
-        "end": "2026-10-15T23:50:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
-        "start": "2026-10-15T23:50:00.000Z",
-        "end": "2026-10-16T00:20:00.000Z"
-      },
-      {
-        "title": "Nieuwsuur",
         "start": "2026-10-16T00:20:00.000Z",
         "end": "2026-10-16T05:00:00.000Z"
       }
@@ -104,81 +19,31 @@
     "NPO 3": [
       {
         "title": "Vier handen op één buik",
-        "start": "2026-10-15T22:55:00.000Z",
-        "end": "2026-10-15T23:20:00.000Z"
-      },
-      {
-        "title": "De spookvoetballer",
-        "start": "2026-10-15T23:20:00.000Z",
-        "end": "2026-10-15T23:35:00.000Z"
-      },
-      {
-        "title": "Reizen Waes",
-        "start": "2026-10-15T23:35:00.000Z",
-        "end": "2026-10-15T23:55:00.000Z"
-      },
-      {
-        "title": "Vier handen op één buik",
-        "start": "2026-10-15T23:55:00.000Z",
-        "end": "2026-10-16T00:05:00.000Z"
-      },
-      {
-        "title": "Eva",
-        "start": "2026-10-16T00:05:00.000Z",
-        "end": "2026-10-16T00:15:00.000Z"
-      },
-      {
-        "title": "Eva",
-        "start": "2026-10-16T00:15:00.000Z",
-        "end": "2026-10-16T00:30:00.000Z"
-      },
-      {
-        "title": "Reizen Waes",
-        "start": "2026-10-16T00:30:00.000Z",
-        "end": "2026-10-16T00:45:00.000Z"
-      },
-      {
-        "title": "Vier handen op één buik",
         "start": "2026-10-16T00:45:00.000Z",
         "end": "2026-10-16T01:10:00.000Z"
+      },
+      {
+        "title": "Eva",
+        "start": "2026-10-16T01:10:00.000Z",
+        "end": "2026-10-16T01:40:00.000Z"
+      },
+      {
+        "title": "Tekst-tv",
+        "start": "2026-10-16T01:40:00.000Z",
+        "end": "2026-10-16T02:00:00.000Z"
+      },
+      {
+        "title": "Eva",
+        "start": "2026-10-16T02:00:00.000Z",
+        "end": "2026-10-16T02:46:00.000Z"
+      },
+      {
+        "title": "Tekst-tv",
+        "start": "2026-10-16T02:46:00.000Z",
+        "end": "2026-10-16T03:11:00.000Z"
       }
     ],
     "RTL 4": [
-      {
-        "title": "RTL Boulevard",
-        "start": "2026-10-15T22:51:00.000Z",
-        "end": "2026-10-15T23:11:00.000Z"
-      },
-      {
-        "title": "EditieNL",
-        "start": "2026-10-15T23:11:00.000Z",
-        "end": "2026-10-15T23:23:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-10-15T23:23:00.000Z",
-        "end": "2026-10-15T23:34:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-10-15T23:34:00.000Z",
-        "end": "2026-10-15T23:41:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-10-15T23:41:00.000Z",
-        "end": "2026-10-16T00:03:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-10-16T00:03:00.000Z",
-        "end": "2026-10-16T00:08:00.000Z"
-      },
-      {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-10-16T00:08:00.000Z",
-        "end": "2026-10-16T00:09:00.000Z"
-      },
       {
         "title": "Teleshop 4: Tommy teleshopping",
         "start": "2026-10-16T00:09:00.000Z",
@@ -187,57 +52,12 @@
     ],
     "RTL 5": [
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-10-15T22:27:00.000Z",
-        "end": "2026-10-15T23:04:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-10-15T23:04:00.000Z",
-        "end": "2026-10-15T23:30:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-10-15T23:30:00.000Z",
-        "end": "2026-10-15T23:32:00.000Z"
-      },
-      {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-10-15T23:32:00.000Z",
-        "end": "2026-10-16T00:10:00.000Z"
-      },
-      {
         "title": "Teleshop 5: Tommy teleshopping",
         "start": "2026-10-16T00:10:00.000Z",
         "end": "2026-10-16T03:40:00.000Z"
       }
     ],
     "RTL 7": [
-      {
-        "title": "Pawn stars",
-        "start": "2026-10-15T22:47:00.000Z",
-        "end": "2026-10-15T23:06:00.000Z"
-      },
-      {
-        "title": "Pawn stars",
-        "start": "2026-10-15T23:06:00.000Z",
-        "end": "2026-10-15T23:22:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-10-15T23:22:00.000Z",
-        "end": "2026-10-15T23:31:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-10-15T23:31:00.000Z",
-        "end": "2026-10-15T23:42:00.000Z"
-      },
-      {
-        "title": "Teleshop",
-        "start": "2026-10-15T23:42:00.000Z",
-        "end": "2026-10-16T00:10:00.000Z"
-      },
       {
         "title": "Teleshop",
         "start": "2026-10-16T00:10:00.000Z",
@@ -247,51 +67,11 @@
     "RTL 8": [
       {
         "title": "Teleshop 8: Telvero",
-        "start": "2026-10-15T22:53:00.000Z",
-        "end": "2026-10-15T23:07:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-10-15T23:07:00.000Z",
-        "end": "2026-10-15T23:20:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-10-15T23:20:00.000Z",
-        "end": "2026-10-16T00:01:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-10-16T00:01:00.000Z",
-        "end": "2026-10-16T00:02:00.000Z"
-      },
-      {
-        "title": "Teleshop 8: Telvero",
         "start": "2026-10-16T00:02:00.000Z",
         "end": "2026-10-16T04:15:00.000Z"
       }
     ],
     "SBS 6": [
-      {
-        "title": "Shownieuws",
-        "start": "2026-10-15T22:54:00.000Z",
-        "end": "2026-10-15T23:21:00.000Z"
-      },
-      {
-        "title": "De bondgenoten",
-        "start": "2026-10-15T23:21:00.000Z",
-        "end": "2026-10-15T23:27:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-10-15T23:27:00.000Z",
-        "end": "2026-10-15T23:39:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-10-15T23:39:00.000Z",
-        "end": "2026-10-16T00:02:00.000Z"
-      },
       {
         "title": "Hart van Nederland",
         "start": "2026-10-16T00:02:00.000Z",
@@ -300,82 +80,12 @@
     ],
     "NET 5": [
       {
-        "title": "The resident",
-        "start": "2026-10-15T22:53:00.000Z",
-        "end": "2026-10-15T23:10:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-10-15T23:10:00.000Z",
-        "end": "2026-10-15T23:21:00.000Z"
-      },
-      {
-        "title": "Elsbeth",
-        "start": "2026-10-15T23:21:00.000Z",
-        "end": "2026-10-15T23:50:00.000Z"
-      },
-      {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-10-15T23:50:00.000Z",
-        "end": "2026-10-16T00:10:00.000Z"
-      },
-      {
-        "title": "Elsbeth",
-        "start": "2026-10-16T00:10:00.000Z",
-        "end": "2026-10-16T00:51:00.000Z"
-      },
-      {
         "title": "Loop: Hart van Nederland",
         "start": "2026-10-16T00:51:00.000Z",
         "end": "2026-10-16T03:51:00.000Z"
       }
     ],
     "Veronica": [
-      {
-        "title": "SEAL team",
-        "start": "2026-10-15T22:44:00.000Z",
-        "end": "2026-10-15T23:15:00.000Z"
-      },
-      {
-        "title": "Welcome to Wrexham",
-        "start": "2026-10-15T23:15:00.000Z",
-        "end": "2026-10-15T23:23:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-10-15T23:23:00.000Z",
-        "end": "2026-10-15T23:24:00.000Z"
-      },
-      {
-        "title": "Caught on camera",
-        "start": "2026-10-15T23:24:00.000Z",
-        "end": "2026-10-15T23:33:00.000Z"
-      },
-      {
-        "title": "Veronica film",
-        "start": "2026-10-15T23:33:00.000Z",
-        "end": "2026-10-15T23:42:00.000Z"
-      },
-      {
-        "title": "Pause",
-        "start": "2026-10-15T23:42:00.000Z",
-        "end": "2026-10-16T00:01:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-10-16T00:01:00.000Z",
-        "end": "2026-10-16T00:11:00.000Z"
-      },
-      {
-        "title": "911 crisis center",
-        "start": "2026-10-16T00:11:00.000Z",
-        "end": "2026-10-16T00:33:00.000Z"
-      },
-      {
-        "title": "Hart van Nederland",
-        "start": "2026-10-16T00:33:00.000Z",
-        "end": "2026-10-16T00:50:00.000Z"
-      },
       {
         "title": "Pause",
         "start": "2026-10-16T00:50:00.000Z",
@@ -385,45 +95,65 @@
     "BBC News": [
       {
         "title": "BBC news",
-        "start": "2026-10-15T22:45:00.000Z",
-        "end": "2026-10-15T23:00:00.000Z"
+        "start": "2026-10-16T01:00:00.000Z",
+        "end": "2026-10-16T01:30:00.000Z"
+      },
+      {
+        "title": "Unspun world with John Simpson",
+        "start": "2026-10-16T01:30:00.000Z",
+        "end": "2026-10-16T01:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-10-16T01:45:00.000Z",
+        "end": "2026-10-16T02:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-10-15T23:00:00.000Z",
-        "end": "2026-10-15T23:30:00.000Z"
+        "start": "2026-10-16T02:00:00.000Z",
+        "end": "2026-10-16T02:30:00.000Z"
       },
       {
-        "title": "The Media Show",
-        "start": "2026-10-15T23:30:00.000Z",
-        "end": "2026-10-16T00:00:00.000Z"
+        "title": "AI Decoded",
+        "start": "2026-10-16T02:30:00.000Z",
+        "end": "2026-10-16T02:45:00.000Z"
+      },
+      {
+        "title": "BBC Sport",
+        "start": "2026-10-16T02:45:00.000Z",
+        "end": "2026-10-16T03:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-10-16T00:00:00.000Z",
-        "end": "2026-10-16T00:30:00.000Z"
-      },
-      {
-        "title": "The Security Brief",
-        "start": "2026-10-16T00:30:00.000Z",
-        "end": "2026-10-16T01:00:00.000Z"
+        "start": "2026-10-16T03:00:00.000Z",
+        "end": "2026-10-16T03:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "CNN Newsroom",
-        "start": "2026-10-15T22:00:00.000Z",
-        "end": "2026-10-15T23:00:00.000Z"
+        "title": "World Sport",
+        "start": "2026-10-16T01:00:00.000Z",
+        "end": "2026-10-16T01:30:00.000Z"
       },
       {
-        "title": "CNN Newsroom",
-        "start": "2026-10-15T23:00:00.000Z",
-        "end": "2026-10-16T00:00:00.000Z"
+        "title": "Quest's World of Wonder",
+        "start": "2026-10-16T01:30:00.000Z",
+        "end": "2026-10-16T02:00:00.000Z"
       },
       {
-        "title": "The Whole Story with Anderson Cooper",
-        "start": "2026-10-16T00:00:00.000Z",
-        "end": "2026-10-16T01:00:00.000Z"
+        "title": "Inside Africa",
+        "start": "2026-10-16T02:00:00.000Z",
+        "end": "2026-10-16T02:30:00.000Z"
+      },
+      {
+        "title": "African Voices",
+        "start": "2026-10-16T02:30:00.000Z",
+        "end": "2026-10-16T03:00:00.000Z"
+      },
+      {
+        "title": "Laura Coates Live",
+        "start": "2026-10-16T03:00:00.000Z",
+        "end": "2026-10-16T04:00:00.000Z"
       }
     ]
   }
