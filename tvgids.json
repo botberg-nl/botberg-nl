@@ -1,394 +1,334 @@
 {
-  "generated": "2026-10-30T13:17:41.374Z",
+  "generated": "2026-10-30T18:42:40.626Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Schaatsen: Wereldbeker kwalificatietoernooi",
-        "start": "2026-10-30T13:00:00.000Z",
-        "end": "2026-10-30T13:20:00.000Z"
+        "title": "Meer dan verwacht",
+        "start": "2026-10-30T18:05:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
       },
       {
         "title": "NOS Journaal",
-        "start": "2026-10-30T13:20:00.000Z",
-        "end": "2026-10-30T13:30:00.000Z"
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:30:00.000Z"
       },
       {
-        "title": "NOS Journaal",
-        "start": "2026-10-30T13:30:00.000Z",
-        "end": "2026-10-30T13:40:00.000Z"
+        "title": "The connection",
+        "start": "2026-10-30T19:30:00.000Z",
+        "end": "2026-10-30T20:30:00.000Z"
       },
       {
-        "title": "NOS Journaal",
-        "start": "2026-10-30T13:40:00.000Z",
-        "end": "2026-10-30T14:00:00.000Z"
-      },
-      {
-        "title": "NOS Journaal",
-        "start": "2026-10-30T14:00:00.000Z",
-        "end": "2026-10-30T14:30:00.000Z"
-      },
-      {
-        "title": "Ivo op zondag",
-        "start": "2026-10-30T14:30:00.000Z",
-        "end": "2026-10-30T14:55:00.000Z"
-      },
-      {
-        "title": "Schaatsen: Wereldbeker kwalificatietoernooi",
-        "start": "2026-10-30T14:55:00.000Z",
-        "end": "2026-10-30T15:30:00.000Z"
+        "title": "Even tot hier",
+        "start": "2026-10-30T20:30:00.000Z",
+        "end": "2026-10-30T21:30:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Close up",
-        "start": "2026-10-30T13:05:00.000Z",
-        "end": "2026-10-30T13:20:00.000Z"
+        "title": "BinnensteBuiten",
+        "start": "2026-10-30T18:20:00.000Z",
+        "end": "2026-10-30T18:55:00.000Z"
       },
       {
-        "title": "MAX Maakt Mogelijk helpt",
-        "start": "2026-10-30T13:20:00.000Z",
-        "end": "2026-10-30T13:30:00.000Z"
+        "title": "Blauw bloed",
+        "start": "2026-10-30T18:55:00.000Z",
+        "end": "2026-10-30T19:25:00.000Z"
       },
       {
-        "title": "Dwars door de Pyreneeën",
-        "start": "2026-10-30T13:30:00.000Z",
-        "end": "2026-10-30T14:10:00.000Z"
+        "title": "2 voor 12",
+        "start": "2026-10-30T19:25:00.000Z",
+        "end": "2026-10-30T19:30:00.000Z"
       },
       {
-        "title": "Krabbé zoekt Matisse",
-        "start": "2026-10-30T14:10:00.000Z",
-        "end": "2026-10-30T14:25:00.000Z"
+        "title": "Een jaar in vogelvlucht",
+        "start": "2026-10-30T19:30:00.000Z",
+        "end": "2026-10-30T20:10:00.000Z"
       },
       {
-        "title": "Fryslân dok",
-        "start": "2026-10-30T14:25:00.000Z",
-        "end": "2026-10-30T14:41:00.000Z"
+        "title": "Café Kockelmann",
+        "start": "2026-10-30T20:10:00.000Z",
+        "end": "2026-10-30T20:20:00.000Z"
       },
       {
-        "title": "Art dept.",
-        "start": "2026-10-30T14:41:00.000Z",
-        "end": "2026-10-30T15:00:00.000Z"
-      },
-      {
-        "title": "Pauscast",
-        "start": "2026-10-30T15:00:00.000Z",
-        "end": "2026-10-30T15:10:00.000Z"
-      },
-      {
-        "title": "Bak mee met MAX",
-        "start": "2026-10-30T15:10:00.000Z",
-        "end": "2026-10-30T15:25:00.000Z"
+        "title": "De geknipte gast",
+        "start": "2026-10-30T20:20:00.000Z",
+        "end": "2026-10-30T21:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Interstellar Ella",
-        "start": "2026-10-30T13:10:00.000Z",
-        "end": "2026-10-30T13:20:00.000Z"
+        "title": "Welkom bij 75 jaar jeugd-tv",
+        "start": "2026-10-30T18:20:00.000Z",
+        "end": "2026-10-30T18:45:00.000Z"
       },
       {
-        "title": "Aap",
-        "start": "2026-10-30T13:20:00.000Z",
-        "end": "2026-10-30T13:30:00.000Z"
+        "title": "Klaas en de mysteries",
+        "start": "2026-10-30T18:45:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
       },
       {
-        "title": "Het betoverde dorp van Pinokkio",
-        "start": "2026-10-30T13:30:00.000Z",
-        "end": "2026-10-30T13:40:00.000Z"
+        "title": "Schaatsen: Wereldbeker kwalificatietoernooi",
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:05:00.000Z"
       },
       {
-        "title": "Crookhaven",
-        "start": "2026-10-30T13:40:00.000Z",
-        "end": "2026-10-30T13:45:00.000Z"
+        "title": "Vlogmania kort",
+        "start": "2026-10-30T19:05:00.000Z",
+        "end": "2026-10-30T19:15:00.000Z"
       },
       {
-        "title": "Masha en de beer",
-        "start": "2026-10-30T13:45:00.000Z",
-        "end": "2026-10-30T13:50:00.000Z"
+        "title": "Socutera",
+        "start": "2026-10-30T19:15:00.000Z",
+        "end": "2026-10-30T19:25:00.000Z"
       },
       {
-        "title": "SamSam",
-        "start": "2026-10-30T13:50:00.000Z",
-        "end": "2026-10-30T14:05:00.000Z"
+        "title": "Off the record",
+        "start": "2026-10-30T19:25:00.000Z",
+        "end": "2026-10-30T20:05:00.000Z"
       },
       {
-        "title": "Crookhaven",
-        "start": "2026-10-30T14:05:00.000Z",
-        "end": "2026-10-30T14:15:00.000Z"
+        "title": "Schaatsen: Wereldbeker kwalificatietoernooi",
+        "start": "2026-10-30T20:05:00.000Z",
+        "end": "2026-10-30T20:10:00.000Z"
       },
       {
-        "title": "De smurfen",
-        "start": "2026-10-30T14:15:00.000Z",
-        "end": "2026-10-30T14:25:00.000Z"
-      },
-      {
-        "title": "Zappbios: De griezelbus\n                        Jeugd",
-        "start": "2026-10-30T14:25:00.000Z",
-        "end": "2026-10-30T14:35:00.000Z"
-      },
-      {
-        "title": "Herrie op zolder",
-        "start": "2026-10-30T14:35:00.000Z",
-        "end": "2026-10-30T14:50:00.000Z"
-      },
-      {
-        "title": "Moomin vallei",
-        "start": "2026-10-30T14:50:00.000Z",
-        "end": "2026-10-30T15:10:00.000Z"
-      },
-      {
-        "title": "Lassie",
-        "start": "2026-10-30T15:10:00.000Z",
-        "end": "2026-10-30T15:30:00.000Z"
+        "title": "Off the record",
+        "start": "2026-10-30T20:10:00.000Z",
+        "end": "2026-10-30T21:00:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "Mooimakers",
-        "start": "2026-10-30T13:02:00.000Z",
-        "end": "2026-10-30T13:27:00.000Z"
+        "title": "RTL Nieuws",
+        "start": "2026-10-30T18:30:00.000Z",
+        "end": "2026-10-30T18:54:00.000Z"
       },
       {
-        "title": "Huis gezocht",
-        "start": "2026-10-30T13:27:00.000Z",
-        "end": "2026-10-30T13:30:00.000Z"
+        "title": "RTL Weer",
+        "start": "2026-10-30T18:54:00.000Z",
+        "end": "2026-10-30T18:55:00.000Z"
       },
       {
-        "title": "Renze",
-        "start": "2026-10-30T13:30:00.000Z",
-        "end": "2026-10-30T13:59:00.000Z"
+        "title": "RTL Weer",
+        "start": "2026-10-30T18:55:00.000Z",
+        "end": "2026-10-30T19:01:00.000Z"
       },
       {
-        "title": "De mooiste wegen",
-        "start": "2026-10-30T13:59:00.000Z",
-        "end": "2026-10-30T14:27:00.000Z"
+        "title": "Got talent",
+        "start": "2026-10-30T19:01:00.000Z",
+        "end": "2026-10-30T19:04:00.000Z"
       },
       {
-        "title": "Lubach",
-        "start": "2026-10-30T14:27:00.000Z",
-        "end": "2026-10-30T14:31:00.000Z"
-      },
-      {
-        "title": "Nederlandse makelaars in Dubai",
-        "start": "2026-10-30T14:31:00.000Z",
-        "end": "2026-10-30T14:57:00.000Z"
-      },
-      {
-        "title": "Theatertijd",
-        "start": "2026-10-30T14:57:00.000Z",
-        "end": "2026-10-30T15:12:00.000Z"
+        "title": "Hitster",
+        "start": "2026-10-30T19:04:00.000Z",
+        "end": "2026-10-30T19:57:00.000Z"
       },
       {
         "title": "Nederlands domste",
-        "start": "2026-10-30T15:12:00.000Z",
-        "end": "2026-10-30T15:29:00.000Z"
+        "start": "2026-10-30T19:57:00.000Z",
+        "end": "2026-10-30T20:59:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Teleshop 5: Telvero",
-        "start": "2026-10-30T12:00:00.000Z",
-        "end": "2026-10-30T13:30:00.000Z"
+        "title": "Schiphol Airport",
+        "start": "2026-10-30T18:04:00.000Z",
+        "end": "2026-10-30T18:53:00.000Z"
       },
       {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-10-30T13:30:00.000Z",
-        "end": "2026-10-30T13:45:00.000Z"
+        "title": "De Pfaff's",
+        "start": "2026-10-30T18:53:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
       },
       {
-        "title": "Teleshop 5: Telvero",
-        "start": "2026-10-30T13:45:00.000Z",
-        "end": "2026-10-30T16:20:00.000Z"
+        "title": "Helden van hier: De luchtpolitie",
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:30:00.000Z"
+      },
+      {
+        "title": "De douane in actie",
+        "start": "2026-10-30T19:30:00.000Z",
+        "end": "2026-10-30T19:59:00.000Z"
+      },
+      {
+        "title": "Helden van hier: De luchtpolitie",
+        "start": "2026-10-30T19:59:00.000Z",
+        "end": "2026-10-30T20:58:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "De sterkste man van Nederland",
-        "start": "2026-10-30T13:17:00.000Z",
-        "end": "2026-10-30T13:28:00.000Z"
+        "title": "Pawn stars",
+        "start": "2026-10-30T18:32:00.000Z",
+        "end": "2026-10-30T18:58:00.000Z"
       },
       {
-        "title": "De uitblinkers",
-        "start": "2026-10-30T13:28:00.000Z",
-        "end": "2026-10-30T13:51:00.000Z"
+        "title": "Border security Canada",
+        "start": "2026-10-30T18:58:00.000Z",
+        "end": "2026-10-30T19:27:00.000Z"
       },
       {
-        "title": "Idioten op de weg",
-        "start": "2026-10-30T13:51:00.000Z",
-        "end": "2026-10-30T14:16:00.000Z"
-      },
-      {
-        "title": "Flodder",
-        "start": "2026-10-30T14:16:00.000Z",
-        "end": "2026-10-30T14:18:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-30T14:18:00.000Z",
-        "end": "2026-10-30T14:40:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-30T14:40:00.000Z",
-        "end": "2026-10-30T14:46:00.000Z"
-      },
-      {
-        "title": "Flodder",
-        "start": "2026-10-30T14:46:00.000Z",
-        "end": "2026-10-30T15:05:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-30T15:05:00.000Z",
-        "end": "2026-10-30T15:12:00.000Z"
-      },
-      {
-        "title": "Flodder",
-        "start": "2026-10-30T15:12:00.000Z",
-        "end": "2026-10-30T15:30:00.000Z"
+        "title": "The Pope's Exorcist\n                        Horror",
+        "start": "2026-10-30T19:27:00.000Z",
+        "end": "2026-10-30T21:15:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-10-30T12:00:00.000Z",
-        "end": "2026-10-30T15:43:00.000Z"
+        "title": "Dokter Deen",
+        "start": "2026-10-30T18:26:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
+      },
+      {
+        "title": "Aspe",
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:26:00.000Z"
+      },
+      {
+        "title": "Poirot",
+        "start": "2026-10-30T19:26:00.000Z",
+        "end": "2026-10-30T20:01:00.000Z"
+      },
+      {
+        "title": "Aspe",
+        "start": "2026-10-30T20:01:00.000Z",
+        "end": "2026-10-30T20:29:00.000Z"
+      },
+      {
+        "title": "Poirot",
+        "start": "2026-10-30T20:29:00.000Z",
+        "end": "2026-10-30T21:02:00.000Z"
       }
     ],
     "SBS 6": [
       {
         "title": "De bondgenoten",
-        "start": "2026-10-30T12:49:00.000Z",
-        "end": "2026-10-30T13:29:00.000Z"
+        "start": "2026-10-30T18:30:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
       },
       {
-        "title": "Prijzenjacht",
-        "start": "2026-10-30T13:29:00.000Z",
-        "end": "2026-10-30T13:43:00.000Z"
+        "title": "Premiejagers",
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:28:00.000Z"
       },
       {
-        "title": "Droomhuis op het platteland",
-        "start": "2026-10-30T13:43:00.000Z",
-        "end": "2026-10-30T14:01:00.000Z"
+        "title": "Urk!",
+        "start": "2026-10-30T19:28:00.000Z",
+        "end": "2026-10-30T20:30:00.000Z"
       },
       {
-        "title": "Home of the year Scotland",
-        "start": "2026-10-30T14:01:00.000Z",
-        "end": "2026-10-30T14:31:00.000Z"
+        "title": "Oog om oog",
+        "start": "2026-10-30T20:30:00.000Z",
+        "end": "2026-10-30T20:37:00.000Z"
       },
       {
-        "title": "Bouwen aan de toekomst",
-        "start": "2026-10-30T14:31:00.000Z",
-        "end": "2026-10-30T14:40:00.000Z"
-      },
-      {
-        "title": "Huizen onder de hamer",
-        "start": "2026-10-30T14:40:00.000Z",
-        "end": "2026-10-30T15:32:00.000Z"
+        "title": "Vandaag inside",
+        "start": "2026-10-30T20:37:00.000Z",
+        "end": "2026-10-30T21:35:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Flo",
-        "start": "2026-10-30T12:50:00.000Z",
-        "end": "2026-10-30T13:21:00.000Z"
+        "title": "Lang leve de liefde XXL",
+        "start": "2026-10-30T18:30:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
       },
       {
-        "title": "My kitchen rules Australië",
-        "start": "2026-10-30T13:21:00.000Z",
-        "end": "2026-10-30T13:31:00.000Z"
+        "title": "NCIS: Sydney",
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:27:00.000Z"
       },
       {
-        "title": "Gilmore girls",
-        "start": "2026-10-30T13:31:00.000Z",
-        "end": "2026-10-30T14:22:00.000Z"
+        "title": "Fire country",
+        "start": "2026-10-30T19:27:00.000Z",
+        "end": "2026-10-30T19:56:00.000Z"
       },
       {
-        "title": "Neighbours",
-        "start": "2026-10-30T14:22:00.000Z",
-        "end": "2026-10-30T14:28:00.000Z"
+        "title": "NCIS: Origins",
+        "start": "2026-10-30T19:56:00.000Z",
+        "end": "2026-10-30T20:23:00.000Z"
       },
       {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-10-30T14:28:00.000Z",
-        "end": "2026-10-30T14:53:00.000Z"
-      },
-      {
-        "title": "Home and away",
-        "start": "2026-10-30T14:53:00.000Z",
-        "end": "2026-10-30T15:22:00.000Z"
+        "title": "Sheriff country",
+        "start": "2026-10-30T20:23:00.000Z",
+        "end": "2026-10-30T20:54:00.000Z"
       }
     ],
     "Veronica": [
       {
-        "title": "Hart van Nederland",
-        "start": "2026-10-30T01:44:00.000Z",
-        "end": "2026-10-30T17:00:00.000Z"
+        "title": "The big bang theory",
+        "start": "2026-10-30T18:34:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
+      },
+      {
+        "title": "The grand tour",
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:25:00.000Z"
+      },
+      {
+        "title": "Brandweer 010",
+        "start": "2026-10-30T19:25:00.000Z",
+        "end": "2026-10-30T20:06:00.000Z"
+      },
+      {
+        "title": "Top Gear",
+        "start": "2026-10-30T20:06:00.000Z",
+        "end": "2026-10-30T20:22:00.000Z"
+      },
+      {
+        "title": "Overtreders",
+        "start": "2026-10-30T20:22:00.000Z",
+        "end": "2026-10-30T21:22:00.000Z"
       }
     ],
     "BBC News": [
       {
+        "title": "Tech Now",
+        "start": "2026-10-30T18:30:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
+      },
+      {
         "title": "BBC news",
-        "start": "2026-10-30T13:00:00.000Z",
-        "end": "2026-10-30T13:30:00.000Z"
-      },
-      {
-        "title": "AI Decoded",
-        "start": "2026-10-30T13:30:00.000Z",
-        "end": "2026-10-30T13:45:00.000Z"
-      },
-      {
-        "title": "BBC News Now",
-        "start": "2026-10-30T13:45:00.000Z",
-        "end": "2026-10-30T13:55:00.000Z"
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T19:30:00.000Z"
       },
       {
         "title": "The travel show",
-        "start": "2026-10-30T13:55:00.000Z",
-        "end": "2026-10-30T14:00:00.000Z"
+        "start": "2026-10-30T19:30:00.000Z",
+        "end": "2026-10-30T19:55:00.000Z"
+      },
+      {
+        "title": "The travel show",
+        "start": "2026-10-30T19:55:00.000Z",
+        "end": "2026-10-30T20:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-10-30T14:00:00.000Z",
-        "end": "2026-10-30T14:30:00.000Z"
+        "start": "2026-10-30T20:00:00.000Z",
+        "end": "2026-10-30T20:30:00.000Z"
       },
       {
-        "title": "The Media Show",
-        "start": "2026-10-30T14:30:00.000Z",
-        "end": "2026-10-30T15:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-10-30T15:00:00.000Z",
-        "end": "2026-10-30T15:30:00.000Z"
+        "title": "AI Decoded",
+        "start": "2026-10-30T20:30:00.000Z",
+        "end": "2026-10-30T20:55:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Smerconish",
-        "start": "2026-10-30T13:00:00.000Z",
-        "end": "2026-10-30T13:45:00.000Z"
+        "title": "CNN Newsroom",
+        "start": "2026-10-30T18:00:00.000Z",
+        "end": "2026-10-30T19:00:00.000Z"
       },
       {
-        "title": "World Sport",
-        "start": "2026-10-30T13:45:00.000Z",
-        "end": "2026-10-30T14:00:00.000Z"
+        "title": "CNN Newsroom",
+        "start": "2026-10-30T19:00:00.000Z",
+        "end": "2026-10-30T20:00:00.000Z"
       },
       {
-        "title": "CNN Creators",
-        "start": "2026-10-30T14:00:00.000Z",
-        "end": "2026-10-30T14:30:00.000Z"
-      },
-      {
-        "title": "Inside Africa",
-        "start": "2026-10-30T14:30:00.000Z",
-        "end": "2026-10-30T15:00:00.000Z"
-      },
-      {
-        "title": "The Amanpour Hour",
-        "start": "2026-10-30T15:00:00.000Z",
-        "end": "2026-10-30T16:00:00.000Z"
+        "title": "CNN Newsroom",
+        "start": "2026-10-30T20:00:00.000Z",
+        "end": "2026-10-30T21:00:00.000Z"
       }
     ]
   }
