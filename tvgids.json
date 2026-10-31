@@ -1,343 +1,289 @@
 {
-  "generated": "2026-10-31T14:38:58.936Z",
+  "generated": "2026-10-31T19:04:39.674Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
-        "title": "Studio sport live",
-        "start": "2026-10-31T14:05:00.000Z",
-        "end": "2026-10-31T14:55:00.000Z"
+        "title": "NOS Journaal",
+        "start": "2026-10-31T19:00:00.000Z",
+        "end": "2026-10-31T19:25:00.000Z"
       },
       {
-        "title": "Studio sport live",
-        "start": "2026-10-31T14:55:00.000Z",
-        "end": "2026-10-31T15:55:00.000Z"
+        "title": "Nationale lichtjesavond",
+        "start": "2026-10-31T19:25:00.000Z",
+        "end": "2026-10-31T19:30:00.000Z"
       },
       {
-        "title": "Studio sport live",
-        "start": "2026-10-31T15:55:00.000Z",
-        "end": "2026-10-31T16:57:00.000Z"
+        "title": "The connection",
+        "start": "2026-10-31T19:30:00.000Z",
+        "end": "2026-10-31T20:30:00.000Z"
+      },
+      {
+        "title": "Tussen kunst en kitsch",
+        "start": "2026-10-31T20:30:00.000Z",
+        "end": "2026-10-31T21:20:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Fryslân dok",
-        "start": "2026-10-31T14:25:00.000Z",
-        "end": "2026-10-31T15:00:00.000Z"
+        "title": "Blauw bloed",
+        "start": "2026-10-31T18:55:00.000Z",
+        "end": "2026-10-31T19:15:00.000Z"
       },
       {
-        "title": "Pauscast",
-        "start": "2026-10-31T15:00:00.000Z",
-        "end": "2026-10-31T15:25:00.000Z"
+        "title": "Dwars door de Pyreneeën",
+        "start": "2026-10-31T19:15:00.000Z",
+        "end": "2026-10-31T19:30:00.000Z"
       },
       {
-        "title": "Iedereen verlicht",
-        "start": "2026-10-31T15:25:00.000Z",
-        "end": "2026-10-31T15:50:00.000Z"
+        "title": "Een jaar in vogelvlucht",
+        "start": "2026-10-31T19:30:00.000Z",
+        "end": "2026-10-31T20:00:00.000Z"
       },
       {
-        "title": "Socutera",
-        "start": "2026-10-31T15:50:00.000Z",
-        "end": "2026-10-31T16:00:00.000Z"
+        "title": "Metropolis",
+        "start": "2026-10-31T20:00:00.000Z",
+        "end": "2026-10-31T20:20:00.000Z"
       },
       {
-        "title": "NOS Journaal",
-        "start": "2026-10-31T16:00:00.000Z",
-        "end": "2026-10-31T16:10:00.000Z"
+        "title": "De geknipte gast",
+        "start": "2026-10-31T20:20:00.000Z",
+        "end": "2026-10-31T20:25:00.000Z"
       },
       {
-        "title": "Pauscast",
-        "start": "2026-10-31T16:10:00.000Z",
-        "end": "2026-10-31T16:35:00.000Z"
+        "title": "Bureau buitenland",
+        "start": "2026-10-31T20:25:00.000Z",
+        "end": "2026-10-31T21:00:00.000Z"
       },
       {
-        "title": "De verandering",
-        "start": "2026-10-31T16:35:00.000Z",
-        "end": "2026-10-31T16:40:00.000Z"
+        "title": "Nieuwsuur",
+        "start": "2026-10-31T21:00:00.000Z",
+        "end": "2026-10-31T21:40:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Zappbios: Gugu's wereld\n                        Drama",
-        "start": "2026-10-31T14:30:00.000Z",
-        "end": "2026-10-31T15:55:00.000Z"
+        "title": "3 op reis",
+        "start": "2026-10-31T18:45:00.000Z",
+        "end": "2026-10-31T19:05:00.000Z"
       },
       {
-        "title": "ZappDoc: Het ratje, de mens en de metro\n                        Korte film",
-        "start": "2026-10-31T15:55:00.000Z",
-        "end": "2026-10-31T16:10:00.000Z"
+        "title": "Vlogmania kort",
+        "start": "2026-10-31T19:05:00.000Z",
+        "end": "2026-10-31T19:15:00.000Z"
       },
       {
-        "title": "Vlogmania",
-        "start": "2026-10-31T16:10:00.000Z",
-        "end": "2026-10-31T16:20:00.000Z"
+        "title": "Socutera",
+        "start": "2026-10-31T19:15:00.000Z",
+        "end": "2026-10-31T19:25:00.000Z"
       },
       {
-        "title": "Escape from Albatros",
-        "start": "2026-10-31T16:20:00.000Z",
-        "end": "2026-10-31T16:35:00.000Z"
+        "title": "Draadstaal",
+        "start": "2026-10-31T19:25:00.000Z",
+        "end": "2026-10-31T19:55:00.000Z"
       },
       {
-        "title": "Ongezien",
-        "start": "2026-10-31T16:35:00.000Z",
-        "end": "2026-10-31T16:45:00.000Z"
+        "title": "Sluipschutters",
+        "start": "2026-10-31T19:55:00.000Z",
+        "end": "2026-10-31T20:10:00.000Z"
+      },
+      {
+        "title": "Off the record",
+        "start": "2026-10-31T20:10:00.000Z",
+        "end": "2026-10-31T20:30:00.000Z"
+      },
+      {
+        "title": "Promenade presenteert: Promemedia",
+        "start": "2026-10-31T20:30:00.000Z",
+        "end": "2026-10-31T21:00:00.000Z"
+      },
+      {
+        "title": "Boerderij Van Dorst",
+        "start": "2026-10-31T21:00:00.000Z",
+        "end": "2026-10-31T21:55:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "Nederlandse makelaars in Dubai",
-        "start": "2026-10-31T14:31:00.000Z",
-        "end": "2026-10-31T14:57:00.000Z"
+        "title": "Hitster",
+        "start": "2026-10-31T19:04:00.000Z",
+        "end": "2026-10-31T19:05:00.000Z"
       },
       {
-        "title": "Theatertijd",
-        "start": "2026-10-31T14:57:00.000Z",
-        "end": "2026-10-31T14:59:00.000Z"
+        "title": "Expeditie Robinson",
+        "start": "2026-10-31T19:05:00.000Z",
+        "end": "2026-10-31T19:57:00.000Z"
       },
       {
-        "title": "Nederland ontdekt",
-        "start": "2026-10-31T14:59:00.000Z",
-        "end": "2026-10-31T15:28:00.000Z"
+        "title": "Nederlands domste",
+        "start": "2026-10-31T19:57:00.000Z",
+        "end": "2026-10-31T20:38:00.000Z"
       },
       {
-        "title": "Mooimakers",
-        "start": "2026-10-31T15:28:00.000Z",
-        "end": "2026-10-31T15:29:00.000Z"
-      },
-      {
-        "title": "Het goede camperleven",
-        "start": "2026-10-31T15:29:00.000Z",
-        "end": "2026-10-31T15:57:00.000Z"
-      },
-      {
-        "title": "Nederlandse makelaars in Dubai",
-        "start": "2026-10-31T15:57:00.000Z",
-        "end": "2026-10-31T16:28:00.000Z"
-      },
-      {
-        "title": "Snowmagazine",
-        "start": "2026-10-31T16:28:00.000Z",
-        "end": "2026-10-31T16:29:00.000Z"
-      },
-      {
-        "title": "Snaakse streken",
-        "start": "2026-10-31T16:29:00.000Z",
-        "end": "2026-10-31T17:00:00.000Z"
+        "title": "Postcode Loterij Eén tegen 100",
+        "start": "2026-10-31T20:38:00.000Z",
+        "end": "2026-10-31T21:14:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-10-31T14:26:00.000Z",
-        "end": "2026-10-31T15:41:00.000Z"
+        "title": "Scam alert: Trap er niet in!",
+        "start": "2026-10-31T19:00:00.000Z",
+        "end": "2026-10-31T19:59:00.000Z"
       },
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-10-31T15:41:00.000Z",
-        "end": "2026-10-31T16:20:00.000Z"
+        "title": "Helden van hier: De luchtpolitie",
+        "start": "2026-10-31T19:59:00.000Z",
+        "end": "2026-10-31T20:23:00.000Z"
       },
       {
-        "title": "Stop! Politie UK",
-        "start": "2026-10-31T16:20:00.000Z",
-        "end": "2026-10-31T16:39:00.000Z"
+        "title": "Kees van der Spek ontmaskert",
+        "start": "2026-10-31T20:23:00.000Z",
+        "end": "2026-10-31T20:59:00.000Z"
+      },
+      {
+        "title": "Politie in actie UK",
+        "start": "2026-10-31T20:59:00.000Z",
+        "end": "2026-10-31T21:50:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Idioten op de weg",
-        "start": "2026-10-31T14:23:00.000Z",
-        "end": "2026-10-31T14:40:00.000Z"
+        "title": "Border security Canada",
+        "start": "2026-10-31T18:58:00.000Z",
+        "end": "2026-10-31T19:27:00.000Z"
       },
       {
-        "title": "Idioten op de weg",
-        "start": "2026-10-31T14:40:00.000Z",
-        "end": "2026-10-31T14:53:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-31T14:53:00.000Z",
-        "end": "2026-10-31T15:05:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-31T15:05:00.000Z",
-        "end": "2026-10-31T15:21:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-31T15:21:00.000Z",
-        "end": "2026-10-31T15:30:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-31T15:30:00.000Z",
-        "end": "2026-10-31T15:36:00.000Z"
-      },
-      {
-        "title": "Rally special",
-        "start": "2026-10-31T15:36:00.000Z",
-        "end": "2026-10-31T15:44:00.000Z"
-      },
-      {
-        "title": "Idioten op de weg",
-        "start": "2026-10-31T15:44:00.000Z",
-        "end": "2026-10-31T16:06:00.000Z"
-      },
-      {
-        "title": "RTL Transportwereld",
-        "start": "2026-10-31T16:06:00.000Z",
-        "end": "2026-10-31T16:10:00.000Z"
-      },
-      {
-        "title": "RTL Transportwereld",
-        "start": "2026-10-31T16:10:00.000Z",
-        "end": "2026-10-31T16:33:00.000Z"
-      },
-      {
-        "title": "RTL Autowereld",
-        "start": "2026-10-31T16:33:00.000Z",
-        "end": "2026-10-31T16:34:00.000Z"
-      },
-      {
-        "title": "RTL Autowereld",
-        "start": "2026-10-31T16:34:00.000Z",
-        "end": "2026-10-31T16:57:00.000Z"
+        "title": "Talk to Me\n                        Horror",
+        "start": "2026-10-31T19:27:00.000Z",
+        "end": "2026-10-31T21:15:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-10-31T12:00:00.000Z",
-        "end": "2026-10-31T16:10:00.000Z"
+        "title": "America's got talent",
+        "start": "2026-10-31T19:02:00.000Z",
+        "end": "2026-10-31T20:01:00.000Z"
       },
       {
-        "title": "Lego masters Australië",
-        "start": "2026-10-31T16:10:00.000Z",
-        "end": "2026-10-31T16:39:00.000Z"
+        "title": "Aspe",
+        "start": "2026-10-31T20:01:00.000Z",
+        "end": "2026-10-31T20:52:00.000Z"
+      },
+      {
+        "title": "America's got talent",
+        "start": "2026-10-31T20:52:00.000Z",
+        "end": "2026-10-31T21:02:00.000Z"
+      },
+      {
+        "title": "Law & order: Special victims unit",
+        "start": "2026-10-31T21:02:00.000Z",
+        "end": "2026-10-31T21:23:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "Bouwen aan de toekomst",
-        "start": "2026-10-31T14:31:00.000Z",
-        "end": "2026-10-31T15:00:00.000Z"
+        "title": "Premiejagers",
+        "start": "2026-10-31T19:00:00.000Z",
+        "end": "2026-10-31T19:25:00.000Z"
       },
       {
-        "title": "Techniek maakt toekomst",
-        "start": "2026-10-31T15:00:00.000Z",
-        "end": "2026-10-31T15:30:00.000Z"
+        "title": "Gooische vrouwen",
+        "start": "2026-10-31T19:25:00.000Z",
+        "end": "2026-10-31T20:30:00.000Z"
       },
       {
-        "title": "Nederland in beeld",
-        "start": "2026-10-31T15:30:00.000Z",
-        "end": "2026-10-31T15:32:00.000Z"
+        "title": "Oog om oog",
+        "start": "2026-10-31T20:30:00.000Z",
+        "end": "2026-10-31T20:40:00.000Z"
       },
       {
-        "title": "De nalatenschap",
-        "start": "2026-10-31T15:32:00.000Z",
-        "end": "2026-10-31T16:00:00.000Z"
-      },
-      {
-        "title": "Design secrets",
-        "start": "2026-10-31T16:00:00.000Z",
-        "end": "2026-10-31T16:02:00.000Z"
-      },
-      {
-        "title": "De grote tuinverbouwing",
-        "start": "2026-10-31T16:02:00.000Z",
-        "end": "2026-10-31T16:30:00.000Z"
-      },
-      {
-        "title": "De grote huisverbouwing",
-        "start": "2026-10-31T16:30:00.000Z",
-        "end": "2026-10-31T17:29:00.000Z"
+        "title": "De Oranjezondag",
+        "start": "2026-10-31T20:40:00.000Z",
+        "end": "2026-10-31T21:35:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-10-31T14:28:00.000Z",
-        "end": "2026-10-31T14:50:00.000Z"
+        "title": "The Huntsman: Winter's War\n                        Avontuur",
+        "start": "2026-10-31T19:00:00.000Z",
+        "end": "2026-10-31T19:56:00.000Z"
       },
       {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-10-31T14:50:00.000Z",
-        "end": "2026-10-31T15:25:00.000Z"
+        "title": "NCIS: Origins",
+        "start": "2026-10-31T19:56:00.000Z",
+        "end": "2026-10-31T20:54:00.000Z"
       },
       {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-10-31T15:25:00.000Z",
-        "end": "2026-10-31T15:29:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierenkliniek",
-        "start": "2026-10-31T15:29:00.000Z",
-        "end": "2026-10-31T15:55:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-10-31T15:55:00.000Z",
-        "end": "2026-10-31T16:25:00.000Z"
-      },
-      {
-        "title": "Een dag in de dierentuin",
-        "start": "2026-10-31T16:25:00.000Z",
-        "end": "2026-10-31T16:30:00.000Z"
-      },
-      {
-        "title": "Lang leve de liefde XXL",
-        "start": "2026-10-31T16:30:00.000Z",
-        "end": "2026-10-31T17:00:00.000Z"
+        "title": "Soko Köln",
+        "start": "2026-10-31T20:54:00.000Z",
+        "end": "2026-10-31T21:10:00.000Z"
       }
     ],
-    "Veronica": [],
+    "Veronica": [
+      {
+        "title": "The hunting party",
+        "start": "2026-10-31T19:00:00.000Z",
+        "end": "2026-10-31T19:55:00.000Z"
+      },
+      {
+        "title": "Criminal minds",
+        "start": "2026-10-31T19:55:00.000Z",
+        "end": "2026-10-31T20:06:00.000Z"
+      },
+      {
+        "title": "Top Gear",
+        "start": "2026-10-31T20:06:00.000Z",
+        "end": "2026-10-31T21:00:00.000Z"
+      },
+      {
+        "title": "FBI",
+        "start": "2026-10-31T21:00:00.000Z",
+        "end": "2026-10-31T21:48:00.000Z"
+      }
+    ],
     "BBC News": [
       {
+        "title": "BBC news",
+        "start": "2026-10-31T19:00:00.000Z",
+        "end": "2026-10-31T19:30:00.000Z"
+      },
+      {
+        "title": "Talking Movies",
+        "start": "2026-10-31T19:30:00.000Z",
+        "end": "2026-10-31T20:00:00.000Z"
+      },
+      {
+        "title": "BBC news",
+        "start": "2026-10-31T20:00:00.000Z",
+        "end": "2026-10-31T20:30:00.000Z"
+      },
+      {
         "title": "Clive Myrie's African adventure",
-        "start": "2026-10-31T14:30:00.000Z",
-        "end": "2026-10-31T15:00:00.000Z"
+        "start": "2026-10-31T20:30:00.000Z",
+        "end": "2026-10-31T21:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-10-31T15:00:00.000Z",
-        "end": "2026-10-31T15:30:00.000Z"
-      },
-      {
-        "title": "Global eye",
-        "start": "2026-10-31T15:30:00.000Z",
-        "end": "2026-10-31T16:00:00.000Z"
-      },
-      {
-        "title": "BBC news",
-        "start": "2026-10-31T16:00:00.000Z",
-        "end": "2026-10-31T16:30:00.000Z"
-      },
-      {
-        "title": "Talking Business",
-        "start": "2026-10-31T16:30:00.000Z",
-        "end": "2026-10-31T17:00:00.000Z"
+        "start": "2026-10-31T21:00:00.000Z",
+        "end": "2026-10-31T21:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Inside Africa",
-        "start": "2026-10-31T14:30:00.000Z",
-        "end": "2026-10-31T15:00:00.000Z"
+        "title": "CNN Newsroom",
+        "start": "2026-10-31T19:00:00.000Z",
+        "end": "2026-10-31T20:00:00.000Z"
       },
       {
-        "title": "Fareed Zakaria GPS",
-        "start": "2026-10-31T15:00:00.000Z",
-        "end": "2026-10-31T16:00:00.000Z"
+        "title": "CNN Newsroom",
+        "start": "2026-10-31T20:00:00.000Z",
+        "end": "2026-10-31T21:00:00.000Z"
       },
       {
-        "title": "Inside Politics",
-        "start": "2026-10-31T16:00:00.000Z",
-        "end": "2026-10-31T16:30:00.000Z"
-      },
-      {
-        "title": "Inside Africa",
-        "start": "2026-10-31T16:30:00.000Z",
-        "end": "2026-10-31T17:00:00.000Z"
+        "title": "CNN Newsroom",
+        "start": "2026-10-31T21:00:00.000Z",
+        "end": "2026-10-31T21:30:00.000Z"
       }
     ]
   }
