@@ -1,274 +1,349 @@
 {
-  "generated": "2026-11-03T19:00:27.839Z",
+  "generated": "2026-11-04T00:03:22.423Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
         "title": "NOS Journaal",
-        "start": "2026-11-03T19:00:00.000Z",
-        "end": "2026-11-03T19:27:00.000Z"
+        "start": "2026-11-03T23:50:00.000Z",
+        "end": "2026-11-04T00:05:00.000Z"
       },
       {
-        "title": "Weer",
-        "start": "2026-11-03T19:27:00.000Z",
-        "end": "2026-11-03T19:40:00.000Z"
+        "title": "Pauw & De Wit",
+        "start": "2026-11-04T00:05:00.000Z",
+        "end": "2026-11-04T00:10:00.000Z"
       },
       {
-        "title": "Pro Deo",
-        "start": "2026-11-03T19:40:00.000Z",
-        "end": "2026-11-03T20:35:00.000Z"
+        "title": "Pauw & De Wit",
+        "start": "2026-11-04T00:10:00.000Z",
+        "end": "2026-11-04T00:15:00.000Z"
       },
       {
-        "title": "De slimste mens",
-        "start": "2026-11-03T20:35:00.000Z",
-        "end": "2026-11-03T20:40:00.000Z"
+        "title": "Pauw & De Wit",
+        "start": "2026-11-04T00:15:00.000Z",
+        "end": "2026-11-04T00:55:00.000Z"
       },
       {
-        "title": "De slimste mens",
-        "start": "2026-11-03T20:40:00.000Z",
-        "end": "2026-11-03T21:25:00.000Z"
+        "title": "EenVandaag",
+        "start": "2026-11-04T00:55:00.000Z",
+        "end": "2026-11-04T01:05:00.000Z"
+      },
+      {
+        "title": "EenVandaag",
+        "start": "2026-11-04T01:05:00.000Z",
+        "end": "2026-11-04T01:20:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-11-04T01:20:00.000Z",
+        "end": "2026-11-04T01:25:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-11-04T01:25:00.000Z",
+        "end": "2026-11-04T01:30:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-11-04T01:30:00.000Z",
+        "end": "2026-11-04T01:40:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-11-04T01:40:00.000Z",
+        "end": "2026-11-04T01:45:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-11-04T01:45:00.000Z",
+        "end": "2026-11-04T02:00:00.000Z"
+      },
+      {
+        "title": "Amerika kiest",
+        "start": "2026-11-04T02:00:00.000Z",
+        "end": "2026-11-04T04:50:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Per seconde wijzer",
-        "start": "2026-11-03T18:55:00.000Z",
-        "end": "2026-11-03T19:25:00.000Z"
-      },
-      {
-        "title": "WHAM! 10 dagen in China",
-        "start": "2026-11-03T19:25:00.000Z",
-        "end": "2026-11-03T19:30:00.000Z"
-      },
-      {
-        "title": "Joods",
-        "start": "2026-11-03T19:30:00.000Z",
-        "end": "2026-11-03T20:15:00.000Z"
-      },
-      {
-        "title": "Nu te zien!",
-        "start": "2026-11-03T20:15:00.000Z",
-        "end": "2026-11-03T20:25:00.000Z"
-      },
-      {
-        "title": "Dit is de kwestie",
-        "start": "2026-11-03T20:25:00.000Z",
-        "end": "2026-11-03T21:00:00.000Z"
+        "title": "Ongehoord nieuws",
+        "start": "2026-11-03T23:45:00.000Z",
+        "end": "2026-11-04T00:05:00.000Z"
       },
       {
         "title": "Nieuwsuur",
-        "start": "2026-11-03T21:00:00.000Z",
-        "end": "2026-11-03T21:35:00.000Z"
+        "start": "2026-11-04T00:05:00.000Z",
+        "end": "2026-11-04T00:15:00.000Z"
+      },
+      {
+        "title": "Ongehoord nieuws",
+        "start": "2026-11-04T00:15:00.000Z",
+        "end": "2026-11-04T00:25:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-11-04T00:25:00.000Z",
+        "end": "2026-11-04T00:55:00.000Z"
+      },
+      {
+        "title": "Nieuwsuur",
+        "start": "2026-11-04T00:55:00.000Z",
+        "end": "2026-11-04T06:00:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "First dates",
-        "start": "2026-11-03T18:30:00.000Z",
-        "end": "2026-11-03T19:25:00.000Z"
-      },
-      {
-        "title": "Boerderij Van Dorst",
-        "start": "2026-11-03T19:25:00.000Z",
-        "end": "2026-11-03T19:30:00.000Z"
-      },
-      {
-        "title": "Dropout resort",
-        "start": "2026-11-03T19:30:00.000Z",
-        "end": "2026-11-03T20:20:00.000Z"
+        "title": "Bij ons op de Wallen",
+        "start": "2026-11-03T23:45:00.000Z",
+        "end": "2026-11-04T00:25:00.000Z"
       },
       {
         "title": "De Narsisters",
-        "start": "2026-11-03T20:20:00.000Z",
-        "end": "2026-11-03T20:25:00.000Z"
+        "start": "2026-11-04T00:25:00.000Z",
+        "end": "2026-11-04T00:35:00.000Z"
       },
       {
-        "title": "De uitsmijters",
-        "start": "2026-11-03T20:25:00.000Z",
-        "end": "2026-11-03T20:55:00.000Z"
+        "title": "Hard",
+        "start": "2026-11-04T00:35:00.000Z",
+        "end": "2026-11-04T01:00:00.000Z"
       },
       {
-        "title": "Dropout resort",
-        "start": "2026-11-03T20:55:00.000Z",
-        "end": "2026-11-03T21:00:00.000Z"
+        "title": "Eva",
+        "start": "2026-11-04T01:00:00.000Z",
+        "end": "2026-11-04T01:10:00.000Z"
       },
       {
         "title": "Who's that girl?",
-        "start": "2026-11-03T21:00:00.000Z",
-        "end": "2026-11-03T21:50:00.000Z"
+        "start": "2026-11-04T01:10:00.000Z",
+        "end": "2026-11-04T01:25:00.000Z"
+      },
+      {
+        "title": "Eva",
+        "start": "2026-11-04T01:25:00.000Z",
+        "end": "2026-11-04T01:55:00.000Z"
+      },
+      {
+        "title": "Eva",
+        "start": "2026-11-04T01:55:00.000Z",
+        "end": "2026-11-04T02:15:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "RTL Weer",
-        "start": "2026-11-03T18:57:00.000Z",
-        "end": "2026-11-03T19:01:00.000Z"
+        "title": "Lubach",
+        "start": "2026-11-03T23:52:00.000Z",
+        "end": "2026-11-04T00:20:00.000Z"
       },
       {
-        "title": "Goede tijden, slechte tijden",
-        "start": "2026-11-03T19:01:00.000Z",
-        "end": "2026-11-03T19:31:00.000Z"
+        "title": "RTL Boulevard",
+        "start": "2026-11-04T00:20:00.000Z",
+        "end": "2026-11-04T00:24:00.000Z"
       },
       {
-        "title": "Race across the world",
-        "start": "2026-11-03T19:31:00.000Z",
-        "end": "2026-11-03T21:03:00.000Z"
+        "title": "RTL Boulevard",
+        "start": "2026-11-04T00:24:00.000Z",
+        "end": "2026-11-04T01:09:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-11-04T01:09:00.000Z",
+        "end": "2026-11-04T01:11:00.000Z"
+      },
+      {
+        "title": "Teleshop 4: Tommy teleshopping",
+        "start": "2026-11-04T01:11:00.000Z",
+        "end": "2026-11-04T04:57:00.000Z"
       }
     ],
     "RTL 5": [
       {
-        "title": "De Pfaff's",
-        "start": "2026-11-03T18:46:00.000Z",
-        "end": "2026-11-03T19:27:00.000Z"
+        "title": "Stop! Politie UK",
+        "start": "2026-11-03T23:35:00.000Z",
+        "end": "2026-11-04T00:35:00.000Z"
       },
       {
-        "title": "Scheveningen: Dag & nacht",
-        "start": "2026-11-03T19:27:00.000Z",
-        "end": "2026-11-03T19:28:00.000Z"
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-11-04T00:35:00.000Z",
+        "end": "2026-11-04T00:38:00.000Z"
       },
       {
-        "title": "Scam alert: Trap er niet in!",
-        "start": "2026-11-03T19:28:00.000Z",
-        "end": "2026-11-03T21:00:00.000Z"
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-11-04T00:38:00.000Z",
+        "end": "2026-11-04T00:40:00.000Z"
       },
       {
-        "title": "112 vandaag",
-        "start": "2026-11-03T21:00:00.000Z",
-        "end": "2026-11-03T21:23:00.000Z"
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-11-04T00:40:00.000Z",
+        "end": "2026-11-04T01:10:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Tommy teleshopping",
+        "start": "2026-11-04T01:10:00.000Z",
+        "end": "2026-11-04T04:30:00.000Z"
       }
     ],
     "RTL 7": [
       {
         "title": "Pawn stars",
-        "start": "2026-11-03T18:32:00.000Z",
-        "end": "2026-11-03T19:27:00.000Z"
+        "start": "2026-11-03T23:55:00.000Z",
+        "end": "2026-11-04T00:19:00.000Z"
       },
       {
-        "title": "The Hitman's Bodyguard\n                        Actiekomedie",
-        "start": "2026-11-03T19:27:00.000Z",
-        "end": "2026-11-03T21:34:00.000Z"
+        "title": "Pawn stars",
+        "start": "2026-11-04T00:19:00.000Z",
+        "end": "2026-11-04T00:47:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-11-04T00:47:00.000Z",
+        "end": "2026-11-04T00:50:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-11-04T00:50:00.000Z",
+        "end": "2026-11-04T00:55:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-11-04T00:55:00.000Z",
+        "end": "2026-11-04T01:10:00.000Z"
+      },
+      {
+        "title": "Teleshop",
+        "start": "2026-11-04T01:10:00.000Z",
+        "end": "2026-11-04T04:59:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Picture A Perfect Christmas\n                        Romantiek",
-        "start": "2026-11-03T17:30:00.000Z",
-        "end": "2026-11-03T19:25:00.000Z"
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-11-04T00:00:00.000Z",
+        "end": "2026-11-04T01:01:00.000Z"
       },
       {
-        "title": "Christmas on Call\n                        Romantiek",
-        "start": "2026-11-03T19:25:00.000Z",
-        "end": "2026-11-03T21:10:00.000Z"
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-11-04T01:01:00.000Z",
+        "end": "2026-11-04T05:30:00.000Z"
       }
     ],
     "SBS 6": [
       {
         "title": "De bondgenoten",
-        "start": "2026-11-03T18:30:00.000Z",
-        "end": "2026-11-03T19:28:00.000Z"
+        "start": "2026-11-03T23:34:00.000Z",
+        "end": "2026-11-04T00:25:00.000Z"
       },
       {
-        "title": "Waar doen ze het van?",
-        "start": "2026-11-03T19:28:00.000Z",
-        "end": "2026-11-03T20:35:00.000Z"
+        "title": "Hart van Nederland",
+        "start": "2026-11-04T00:25:00.000Z",
+        "end": "2026-11-04T00:28:00.000Z"
       },
       {
-        "title": "Vandaag inside",
-        "start": "2026-11-03T20:35:00.000Z",
-        "end": "2026-11-03T20:37:00.000Z"
+        "title": "Hart van Nederland",
+        "start": "2026-11-04T00:28:00.000Z",
+        "end": "2026-11-04T00:29:00.000Z"
       },
       {
-        "title": "Vandaag inside",
-        "start": "2026-11-03T20:37:00.000Z",
-        "end": "2026-11-03T21:41:00.000Z"
+        "title": "Hart van Nederland",
+        "start": "2026-11-04T00:29:00.000Z",
+        "end": "2026-11-04T05:00:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "MasterChef Australië",
-        "start": "2026-11-03T18:26:00.000Z",
-        "end": "2026-11-03T19:27:00.000Z"
+        "title": "House rules Australië",
+        "start": "2026-11-03T23:55:00.000Z",
+        "end": "2026-11-04T00:25:00.000Z"
       },
       {
-        "title": "Love island vips",
-        "start": "2026-11-03T19:27:00.000Z",
-        "end": "2026-11-03T20:24:00.000Z"
+        "title": "Say yes to the dress: Atlanta",
+        "start": "2026-11-04T00:25:00.000Z",
+        "end": "2026-11-04T00:53:00.000Z"
       },
       {
-        "title": "Sullivan's Crossing",
-        "start": "2026-11-03T20:24:00.000Z",
-        "end": "2026-11-03T20:28:00.000Z"
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-11-04T00:53:00.000Z",
+        "end": "2026-11-04T00:55:00.000Z"
       },
       {
-        "title": "Best medicine",
-        "start": "2026-11-03T20:28:00.000Z",
-        "end": "2026-11-03T21:24:00.000Z"
+        "title": "Elsbeth",
+        "start": "2026-11-04T00:55:00.000Z",
+        "end": "2026-11-04T00:57:00.000Z"
+      },
+      {
+        "title": "Loop: Hart van Nederland",
+        "start": "2026-11-04T00:57:00.000Z",
+        "end": "2026-11-04T01:35:00.000Z"
+      },
+      {
+        "title": "Elsbeth",
+        "start": "2026-11-04T01:35:00.000Z",
+        "end": "2026-11-04T02:15:00.000Z"
       }
     ],
     "Veronica": [
       {
-        "title": "The big bang theory",
-        "start": "2026-11-03T19:00:00.000Z",
-        "end": "2026-11-03T19:25:00.000Z"
+        "title": "Constantine\n                        Thriller",
+        "start": "2026-11-03T22:13:00.000Z",
+        "end": "2026-11-04T00:26:00.000Z"
       },
       {
-        "title": "Angels & Demons\n                        Thriller",
-        "start": "2026-11-03T19:25:00.000Z",
-        "end": "2026-11-03T19:26:00.000Z"
+        "title": "Hart van Nederland",
+        "start": "2026-11-04T00:26:00.000Z",
+        "end": "2026-11-04T00:45:00.000Z"
       },
       {
-        "title": "Inferno\n                        Thriller",
-        "start": "2026-11-03T19:26:00.000Z",
-        "end": "2026-11-03T21:56:00.000Z"
+        "title": "Last Night in Soho\n                        Thriller",
+        "start": "2026-11-04T00:45:00.000Z",
+        "end": "2026-11-04T00:54:00.000Z"
+      },
+      {
+        "title": "Hart van Nederland",
+        "start": "2026-11-04T00:54:00.000Z",
+        "end": "2026-11-04T02:30:00.000Z"
       }
     ],
     "BBC News": [
       {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-11-03T19:00:00.000Z",
-        "end": "2026-11-03T19:30:00.000Z"
+        "title": "BBC news",
+        "start": "2026-11-04T00:00:00.000Z",
+        "end": "2026-11-04T00:30:00.000Z"
       },
       {
-        "title": "The World Today with Maryam Moshiri",
-        "start": "2026-11-03T19:30:00.000Z",
-        "end": "2026-11-03T19:55:00.000Z"
+        "title": "Newscast",
+        "start": "2026-11-04T00:30:00.000Z",
+        "end": "2026-11-04T01:00:00.000Z"
       },
       {
-        "title": "Tech Now",
-        "start": "2026-11-03T19:55:00.000Z",
-        "end": "2026-11-03T20:00:00.000Z"
+        "title": "BBC news",
+        "start": "2026-11-04T01:00:00.000Z",
+        "end": "2026-11-04T01:30:00.000Z"
       },
       {
-        "title": "The Context USA",
-        "start": "2026-11-03T20:00:00.000Z",
-        "end": "2026-11-03T20:30:00.000Z"
+        "title": "The Interface",
+        "start": "2026-11-04T01:30:00.000Z",
+        "end": "2026-11-04T02:00:00.000Z"
       },
       {
-        "title": "The Context USA",
-        "start": "2026-11-03T20:30:00.000Z",
-        "end": "2026-11-03T21:00:00.000Z"
-      },
-      {
-        "title": "The Context with Christian Fraser",
-        "start": "2026-11-03T21:00:00.000Z",
-        "end": "2026-11-03T21:30:00.000Z"
+        "title": "Newsday",
+        "start": "2026-11-04T02:00:00.000Z",
+        "end": "2026-11-04T02:30:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "Election Day in America",
-        "start": "2026-11-03T19:00:00.000Z",
-        "end": "2026-11-03T20:00:00.000Z"
+        "title": "Erin Burnett OutFront",
+        "start": "2026-11-04T00:00:00.000Z",
+        "end": "2026-11-04T01:00:00.000Z"
       },
       {
-        "title": "Election Day in America",
-        "start": "2026-11-03T20:00:00.000Z",
-        "end": "2026-11-03T21:00:00.000Z"
+        "title": "Anderson Cooper 360",
+        "start": "2026-11-04T01:00:00.000Z",
+        "end": "2026-11-04T02:00:00.000Z"
       },
       {
-        "title": "Election Day in America",
-        "start": "2026-11-03T21:00:00.000Z",
-        "end": "2026-11-03T22:00:00.000Z"
+        "title": "The Source with Kaitlan Collins",
+        "start": "2026-11-04T02:00:00.000Z",
+        "end": "2026-11-04T03:00:00.000Z"
       }
     ]
   }
