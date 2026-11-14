@@ -1,213 +1,379 @@
 {
-  "generated": "2026-11-14T03:28:08.503Z",
+  "generated": "2026-11-14T10:48:41.578Z",
   "windowHours": 2,
   "channels": {
     "NPO 1": [
       {
+        "title": "Schaatsen: Wereldbeker in Beijing",
+        "start": "2026-11-14T10:05:00.000Z",
+        "end": "2026-11-14T11:10:00.000Z"
+      },
+      {
+        "title": "Schaatsen: Wereldbeker in Beijing",
+        "start": "2026-11-14T11:10:00.000Z",
+        "end": "2026-11-14T11:35:00.000Z"
+      },
+      {
+        "title": "Kook mee met MAX",
+        "start": "2026-11-14T11:35:00.000Z",
+        "end": "2026-11-14T12:00:00.000Z"
+      },
+      {
         "title": "NOS Journaal",
-        "start": "2026-11-14T02:40:00.000Z",
-        "end": "2026-11-14T05:35:00.000Z"
+        "start": "2026-11-14T12:00:00.000Z",
+        "end": "2026-11-14T12:05:00.000Z"
+      },
+      {
+        "title": "Keuringsdienst van waarde",
+        "start": "2026-11-14T12:05:00.000Z",
+        "end": "2026-11-14T12:10:00.000Z"
+      },
+      {
+        "title": "Sterren NL top 25",
+        "start": "2026-11-14T12:10:00.000Z",
+        "end": "2026-11-14T12:40:00.000Z"
+      },
+      {
+        "title": "Kook mee met MAX",
+        "start": "2026-11-14T12:40:00.000Z",
+        "end": "2026-11-14T12:55:00.000Z"
       }
     ],
     "NPO 2": [
       {
-        "title": "Nieuwsuur",
-        "start": "2026-11-14T02:05:00.000Z",
-        "end": "2026-11-14T06:10:00.000Z"
+        "title": "Iedereen verlicht",
+        "start": "2026-11-14T10:45:00.000Z",
+        "end": "2026-11-14T10:51:00.000Z"
+      },
+      {
+        "title": "Wilde Ganzen",
+        "start": "2026-11-14T10:51:00.000Z",
+        "end": "2026-11-14T11:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-11-14T11:00:00.000Z",
+        "end": "2026-11-14T11:10:00.000Z"
+      },
+      {
+        "title": "Buitenhof",
+        "start": "2026-11-14T11:10:00.000Z",
+        "end": "2026-11-14T11:15:00.000Z"
+      },
+      {
+        "title": "Dit is de kwestie",
+        "start": "2026-11-14T11:15:00.000Z",
+        "end": "2026-11-14T11:40:00.000Z"
+      },
+      {
+        "title": "EO Metterdaad",
+        "start": "2026-11-14T11:40:00.000Z",
+        "end": "2026-11-14T12:00:00.000Z"
+      },
+      {
+        "title": "NOS Journaal",
+        "start": "2026-11-14T12:00:00.000Z",
+        "end": "2026-11-14T12:10:00.000Z"
+      },
+      {
+        "title": "Fryslân dok",
+        "start": "2026-11-14T12:10:00.000Z",
+        "end": "2026-11-14T12:40:00.000Z"
+      },
+      {
+        "title": "EO Metterdaad",
+        "start": "2026-11-14T12:40:00.000Z",
+        "end": "2026-11-14T12:55:00.000Z"
       }
     ],
     "NPO 3": [
       {
-        "title": "Reizen Waes",
-        "start": "2026-11-14T03:25:00.000Z",
-        "end": "2026-11-14T05:00:00.000Z"
+        "title": "Het sinterklaasjournaal",
+        "start": "2026-11-14T10:40:00.000Z",
+        "end": "2026-11-14T10:50:00.000Z"
       },
       {
-        "title": "Kiwi & Strit",
-        "start": "2026-11-14T05:00:00.000Z",
-        "end": "2026-11-14T05:01:00.000Z"
+        "title": "Het sinterklaasjournaal",
+        "start": "2026-11-14T10:50:00.000Z",
+        "end": "2026-11-14T10:55:00.000Z"
       },
       {
-        "title": "Kiwi & Strit",
-        "start": "2026-11-14T05:01:00.000Z",
-        "end": "2026-11-14T05:05:00.000Z"
+        "title": "Moomin vallei",
+        "start": "2026-11-14T10:55:00.000Z",
+        "end": "2026-11-14T11:00:00.000Z"
       },
       {
-        "title": "Lief monster",
-        "start": "2026-11-14T05:05:00.000Z",
-        "end": "2026-11-14T05:10:00.000Z"
+        "title": "Intocht Sinterklaas",
+        "start": "2026-11-14T11:00:00.000Z",
+        "end": "2026-11-14T11:15:00.000Z"
       },
       {
-        "title": "Ella, Oscar & Hoo",
-        "start": "2026-11-14T05:10:00.000Z",
-        "end": "2026-11-14T05:20:00.000Z"
+        "title": "Coop Troep",
+        "start": "2026-11-14T11:15:00.000Z",
+        "end": "2026-11-14T11:40:00.000Z"
       },
       {
-        "title": "Pip & Posy",
-        "start": "2026-11-14T05:20:00.000Z",
-        "end": "2026-11-14T05:30:00.000Z"
+        "title": "Machtige Mike",
+        "start": "2026-11-14T11:40:00.000Z",
+        "end": "2026-11-14T11:50:00.000Z"
+      },
+      {
+        "title": "Grizzy en de lemmingen",
+        "start": "2026-11-14T11:50:00.000Z",
+        "end": "2026-11-14T11:55:00.000Z"
+      },
+      {
+        "title": "Zappsport",
+        "start": "2026-11-14T11:55:00.000Z",
+        "end": "2026-11-14T12:15:00.000Z"
+      },
+      {
+        "title": "De achterblijvers",
+        "start": "2026-11-14T12:15:00.000Z",
+        "end": "2026-11-14T12:20:00.000Z"
+      },
+      {
+        "title": "Super surprise",
+        "start": "2026-11-14T12:20:00.000Z",
+        "end": "2026-11-14T12:35:00.000Z"
+      },
+      {
+        "title": "Ongezien",
+        "start": "2026-11-14T12:35:00.000Z",
+        "end": "2026-11-14T12:45:00.000Z"
+      },
+      {
+        "title": "Zappbios: Minoes\n                        Jeugd",
+        "start": "2026-11-14T12:45:00.000Z",
+        "end": "2026-11-14T12:55:00.000Z"
       }
     ],
     "RTL 4": [
       {
-        "title": "Teleshop 4: Tommy teleshopping",
-        "start": "2026-11-14T01:11:00.000Z",
-        "end": "2026-11-14T05:00:00.000Z"
+        "title": "Mooimakers",
+        "start": "2026-11-14T10:28:00.000Z",
+        "end": "2026-11-14T11:00:00.000Z"
       },
       {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-11-14T05:00:00.000Z",
-        "end": "2026-11-14T05:07:00.000Z"
+        "title": "Van woonvilla naar droomvilla",
+        "start": "2026-11-14T11:00:00.000Z",
+        "end": "2026-11-14T11:28:00.000Z"
       },
       {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-11-14T05:07:00.000Z",
-        "end": "2026-11-14T05:09:00.000Z"
+        "title": "Snowmagazine",
+        "start": "2026-11-14T11:28:00.000Z",
+        "end": "2026-11-14T11:29:00.000Z"
       },
       {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-11-14T05:09:00.000Z",
-        "end": "2026-11-14T05:19:00.000Z"
+        "title": "Cruise life",
+        "start": "2026-11-14T11:29:00.000Z",
+        "end": "2026-11-14T11:57:00.000Z"
       },
       {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-11-14T05:19:00.000Z",
-        "end": "2026-11-14T05:23:00.000Z"
+        "title": "Zondag op Vier",
+        "start": "2026-11-14T11:57:00.000Z",
+        "end": "2026-11-14T11:58:00.000Z"
       },
       {
-        "title": "Ernst, Bobbie en de rest",
-        "start": "2026-11-14T05:23:00.000Z",
-        "end": "2026-11-14T05:29:00.000Z"
+        "title": "Theatertijd",
+        "start": "2026-11-14T11:58:00.000Z",
+        "end": "2026-11-14T12:29:00.000Z"
+      },
+      {
+        "title": "Way of living",
+        "start": "2026-11-14T12:29:00.000Z",
+        "end": "2026-11-14T12:58:00.000Z"
       }
     ],
     "RTL 5": [
       {
         "title": "Teleshop 5: Tommy teleshopping",
-        "start": "2026-11-14T01:10:00.000Z",
-        "end": "2026-11-14T06:04:00.000Z"
+        "start": "2026-11-14T09:06:00.000Z",
+        "end": "2026-11-14T11:58:00.000Z"
+      },
+      {
+        "title": "Teleshop 5: Telvero",
+        "start": "2026-11-14T11:58:00.000Z",
+        "end": "2026-11-14T13:01:00.000Z"
       }
     ],
     "RTL 7": [
       {
-        "title": "Teleshop",
-        "start": "2026-11-14T01:10:00.000Z",
-        "end": "2026-11-14T05:00:00.000Z"
+        "title": "Business class",
+        "start": "2026-11-14T09:30:00.000Z",
+        "end": "2026-11-14T11:02:00.000Z"
       },
       {
-        "title": "Teleshop 7: Telvero",
-        "start": "2026-11-14T05:00:00.000Z",
-        "end": "2026-11-14T08:30:00.000Z"
+        "title": "Idioten op de weg",
+        "start": "2026-11-14T11:02:00.000Z",
+        "end": "2026-11-14T11:33:00.000Z"
+      },
+      {
+        "title": "Snaakse streken",
+        "start": "2026-11-14T11:33:00.000Z",
+        "end": "2026-11-14T12:00:00.000Z"
+      },
+      {
+        "title": "Innoverend Nederland",
+        "start": "2026-11-14T12:00:00.000Z",
+        "end": "2026-11-14T12:02:00.000Z"
+      },
+      {
+        "title": "RTL Transportwereld",
+        "start": "2026-11-14T12:02:00.000Z",
+        "end": "2026-11-14T12:30:00.000Z"
+      },
+      {
+        "title": "Idioten op de weg",
+        "start": "2026-11-14T12:30:00.000Z",
+        "end": "2026-11-14T12:31:00.000Z"
+      },
+      {
+        "title": "RTL Autowereld",
+        "start": "2026-11-14T12:31:00.000Z",
+        "end": "2026-11-14T13:00:00.000Z"
       }
     ],
     "RTL 8": [
       {
-        "title": "Teleshop 8: Telvero",
-        "start": "2026-11-14T01:01:00.000Z",
-        "end": "2026-11-14T05:15:00.000Z"
-      },
-      {
         "title": "Teleshop",
         "start": "2026-11-14T05:15:00.000Z",
         "end": "2026-11-14T12:00:00.000Z"
+      },
+      {
+        "title": "Teleshop 8: Telvero",
+        "start": "2026-11-14T12:00:00.000Z",
+        "end": "2026-11-14T16:05:00.000Z"
       }
     ],
     "SBS 6": [
       {
-        "title": "Hart van Nederland",
-        "start": "2026-11-14T01:03:00.000Z",
-        "end": "2026-11-14T05:00:00.000Z"
+        "title": "Secret life of the zoo",
+        "start": "2026-11-14T10:29:00.000Z",
+        "end": "2026-11-14T10:59:00.000Z"
       },
       {
-        "title": "Hart van Nederland",
-        "start": "2026-11-14T05:00:00.000Z",
-        "end": "2026-11-14T06:00:00.000Z"
+        "title": "Levende Steen ministries",
+        "start": "2026-11-14T10:59:00.000Z",
+        "end": "2026-11-14T11:04:00.000Z"
+      },
+      {
+        "title": "Wie woont het mooist Ierland",
+        "start": "2026-11-14T11:04:00.000Z",
+        "end": "2026-11-14T11:25:00.000Z"
+      },
+      {
+        "title": "Man bijt hond",
+        "start": "2026-11-14T11:25:00.000Z",
+        "end": "2026-11-14T11:35:00.000Z"
+      },
+      {
+        "title": "De nalatenschap",
+        "start": "2026-11-14T11:35:00.000Z",
+        "end": "2026-11-14T11:38:00.000Z"
+      },
+      {
+        "title": "Urk!",
+        "start": "2026-11-14T11:38:00.000Z",
+        "end": "2026-11-14T12:05:00.000Z"
+      },
+      {
+        "title": "Bouwen aan de toekomst",
+        "start": "2026-11-14T12:05:00.000Z",
+        "end": "2026-11-14T12:34:00.000Z"
+      },
+      {
+        "title": "Oog om oog",
+        "start": "2026-11-14T12:34:00.000Z",
+        "end": "2026-11-14T13:04:00.000Z"
       }
     ],
     "NET 5": [
       {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-11-14T00:46:00.000Z",
-        "end": "2026-11-14T04:54:00.000Z"
+        "title": "De toekomstbouwers",
+        "start": "2026-11-14T10:36:00.000Z",
+        "end": "2026-11-14T11:01:00.000Z"
       },
       {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-11-14T04:54:00.000Z",
-        "end": "2026-11-14T05:03:00.000Z"
+        "title": "De toekomstbouwers",
+        "start": "2026-11-14T11:01:00.000Z",
+        "end": "2026-11-14T11:35:00.000Z"
       },
       {
-        "title": "Loop: Hart van Nederland",
-        "start": "2026-11-14T05:03:00.000Z",
-        "end": "2026-11-14T05:42:00.000Z"
+        "title": "De toekomstbouwers",
+        "start": "2026-11-14T11:35:00.000Z",
+        "end": "2026-11-14T11:59:00.000Z"
+      },
+      {
+        "title": "vtwonen weer verliefd op je huis",
+        "start": "2026-11-14T11:59:00.000Z",
+        "end": "2026-11-14T12:32:00.000Z"
+      },
+      {
+        "title": "Gilmore girls",
+        "start": "2026-11-14T12:32:00.000Z",
+        "end": "2026-11-14T12:56:00.000Z"
       }
     ],
-    "Veronica": [],
+    "Veronica": [
+      {
+        "title": "Pause",
+        "start": "2026-11-14T01:21:00.000Z",
+        "end": "2026-11-14T17:00:00.000Z"
+      }
+    ],
     "BBC News": [
       {
-        "title": "Newsday",
-        "start": "2026-11-14T03:00:00.000Z",
-        "end": "2026-11-14T03:30:00.000Z"
-      },
-      {
-        "title": "Business Today",
-        "start": "2026-11-14T03:30:00.000Z",
-        "end": "2026-11-14T03:45:00.000Z"
-      },
-      {
-        "title": "BBC Sport",
-        "start": "2026-11-14T03:45:00.000Z",
-        "end": "2026-11-14T04:00:00.000Z"
+        "title": "Focus on Africa: The Conversation",
+        "start": "2026-11-14T10:30:00.000Z",
+        "end": "2026-11-14T11:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-11-14T04:00:00.000Z",
-        "end": "2026-11-14T04:30:00.000Z"
+        "start": "2026-11-14T11:00:00.000Z",
+        "end": "2026-11-14T11:30:00.000Z"
       },
       {
-        "title": "Clive Myrie's African adventure",
-        "start": "2026-11-14T04:30:00.000Z",
-        "end": "2026-11-14T05:00:00.000Z"
+        "title": "Path to the Presidency",
+        "start": "2026-11-14T11:30:00.000Z",
+        "end": "2026-11-14T12:00:00.000Z"
       },
       {
         "title": "BBC news",
-        "start": "2026-11-14T05:00:00.000Z",
-        "end": "2026-11-14T05:30:00.000Z"
+        "start": "2026-11-14T12:00:00.000Z",
+        "end": "2026-11-14T12:30:00.000Z"
+      },
+      {
+        "title": "The travel show",
+        "start": "2026-11-14T12:30:00.000Z",
+        "end": "2026-11-14T13:00:00.000Z"
       }
     ],
     "CNN": [
       {
-        "title": "African Voices Playmakers",
-        "start": "2026-11-14T03:00:00.000Z",
-        "end": "2026-11-14T03:30:00.000Z"
-      },
-      {
-        "title": "Marketplace Asia",
-        "start": "2026-11-14T03:30:00.000Z",
-        "end": "2026-11-14T03:45:00.000Z"
-      },
-      {
-        "title": "Marketplace Middle East",
-        "start": "2026-11-14T03:45:00.000Z",
-        "end": "2026-11-14T04:00:00.000Z"
-      },
-      {
-        "title": "Answering Tomorrow",
-        "start": "2026-11-14T04:00:00.000Z",
-        "end": "2026-11-14T04:30:00.000Z"
-      },
-      {
-        "title": "Marketplace Asia",
-        "start": "2026-11-14T04:30:00.000Z",
-        "end": "2026-11-14T04:45:00.000Z"
-      },
-      {
-        "title": "Marketplace Middle East",
-        "start": "2026-11-14T04:45:00.000Z",
-        "end": "2026-11-14T05:00:00.000Z"
-      },
-      {
         "title": "CNN Newsroom",
-        "start": "2026-11-14T05:00:00.000Z",
-        "end": "2026-11-14T05:30:00.000Z"
+        "start": "2026-11-14T10:00:00.000Z",
+        "end": "2026-11-14T11:00:00.000Z"
+      },
+      {
+        "title": "Marketplace Asia",
+        "start": "2026-11-14T11:00:00.000Z",
+        "end": "2026-11-14T11:15:00.000Z"
+      },
+      {
+        "title": "Marketplace Middle East",
+        "start": "2026-11-14T11:15:00.000Z",
+        "end": "2026-11-14T11:30:00.000Z"
+      },
+      {
+        "title": "Inside Africa",
+        "start": "2026-11-14T11:30:00.000Z",
+        "end": "2026-11-14T12:00:00.000Z"
+      },
+      {
+        "title": "CNN This Morning Weekend",
+        "start": "2026-11-14T12:00:00.000Z",
+        "end": "2026-11-14T13:00:00.000Z"
       }
     ]
   }
